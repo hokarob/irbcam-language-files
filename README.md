@@ -12,7 +12,7 @@ Thank you for your interest in helping us translate [IRBCAM](https://irbcam.com)
 1. Clone the repository from your GitHub account to your local machine. Replace `[your_username]` with your GitHub username.
 
    ```bash
-   git clone https://github.com/[your_username]/[repository_name].git
+   git clone https://github.com/[your_username]/irbcam-language-files.git
    ```
 
 2. Navigate to the project directory:
@@ -20,8 +20,23 @@ Thank you for your interest in helping us translate [IRBCAM](https://irbcam.com)
     cd [repository_name]
     ```
 
+### Prepare Your Tools
+Translations are stored in `irbcam_XX.ts` files, where **XX** corresponds to the [ISO 639-1 language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for a given language. The files are formatted as XML and the easiest way is to edit with the Qt Linguist application. You can either get Linguist by installing Qt developer tools, or by using a standalone installer.
+
+**Standalone Installers**
+
+- [Official Qt installer for Windows](https://download.qt.io/linguist_releases/)
+- [Third party Windows/MacOS installers](https://github.com/lelegard/qtlinguist-installers/releases)
+
+For linux users, most distros provide an installation. For Debian-based (i.e. Ubuntu) distros:
+```bash
+sudo apt update
+sudo apt install linguist-qt6
+```
+
+
 ### Translate
-Translations are stored in `irbcam_XX.ts` files, where **XX** corresponds to the [ISO 639-1 language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for a given language. The easiest way to edit the files is to use [Qt Linguist](https://doc.qt.io/qt-6/linguist-translators.html). 
+Add or modify translations to the file(s) you want to edit. You can look in the [user manual](https://doc.qt.io/qt-6/linguist-translators.html) for Qt Linguist for instructions on how to use it. When you are done, save the file.
 
 ### Submit Your Translation
 1. Commit your changes wit ha meaningful commit message:
@@ -34,6 +49,7 @@ Translations are stored in `irbcam_XX.ts` files, where **XX** corresponds to the
     ```bash
     git push
     ```
+
 ### Create a Pull Request
 1. Visit your GitHub repository and click on the "New Pull Request" button.
 2. Choose the original repository (the one you forked from) as the base repository and your fork as the head repository.
@@ -49,11 +65,3 @@ Translations are stored in `irbcam_XX.ts` files, where **XX** corresponds to the
 If you have any questions or ned assistance, please feel free to reach out to us on [our discussion forum](https://forum.hokarob.com).
 
 Thank you for helping us make IRBCAM accessible to a global audience!
-
-<!-- Language translations for the IRBCAM client
-
-Use linguist to edit the TS files
-
-On Linux ```sudo apt install qttools5-dev-tools```
-
-Standalone binaries of linguist for Windows and MAC: [https://github.com/lelegard/qtlinguist-installers/releases](https://github.com/lelegard/qtlinguist-installers/releases) -->
