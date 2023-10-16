@@ -25,9 +25,9 @@ Translations are stored in `irbcam_XX.ts` files, where **XX** corresponds to the
 
 **Standalone Installers**
 
-- [Official Qt installer for Windows](https://download.qt.io/linguist_releases/)
-- [Third party Windows/MacOS installers](https://github.com/lelegard/qtlinguist-installers/releases)
+- [Official Linguist installer for Windows](https://download.qt.io/linguist_releases/)
 - [Official Flatpak for Linux](https://flathub.org/apps/io.qt.Linguist)
+- [Third party Windows/MacOS installers](https://github.com/lelegard/qtlinguist-installers/releases)
 
 
 
@@ -35,7 +35,7 @@ Translations are stored in `irbcam_XX.ts` files, where **XX** corresponds to the
 Add or modify translations to the file(s) you want to edit. You can look in the [user manual](https://doc.qt.io/qt-6/linguist-translators.html) for Qt Linguist for instructions on how to use it. When you are done, save the file.
 
 ### Submit Your Translation
-1. Commit your changes wit ha meaningful commit message:
+1. Commit your changes with a meaningful commit message:
     ```bash
     git add
     git commit -m "Updated translation for [Language Name]"
