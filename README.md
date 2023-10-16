@@ -27,12 +27,8 @@ Translations are stored in `irbcam_XX.ts` files, where **XX** corresponds to the
 
 - [Official Qt installer for Windows](https://download.qt.io/linguist_releases/)
 - [Third party Windows/MacOS installers](https://github.com/lelegard/qtlinguist-installers/releases)
+- [Official Flatpak for Linux](https://flathub.org/apps/io.qt.Linguist)
 
-For linux users, most distros provide an installation. For Debian-based (i.e. Ubuntu) distros:
-```bash
-sudo apt update
-sudo apt install linguist-qt6
-```
 
 
 ### Translate
