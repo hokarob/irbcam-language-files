@@ -1,6 +1,7 @@
 # irbcam-client
 Language translations for the IRBCAM client
 
+
 Use linguist to edit the TS files
 
 On Linux ```sudo apt install qttools5-dev-tools```
