@@ -3565,7 +3565,7 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="316"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="431"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1004"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1006"/>
         <source>Station</source>
         <translation type="unfinished">Stotis</translation>
     </message>
@@ -3630,74 +3630,74 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="740"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="742"/>
         <source>Failed to get robot code from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="805"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="824"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="807"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="826"/>
         <source>Failed to recover saved station</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="846"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="848"/>
         <source>Missing robot info in station retrieved from server</source>
         <translation>Trūksta robotų informacijos stotyje, gautoje iš serverio</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="847"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="857"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="866"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="895"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="909"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="918"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="954"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="849"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="859"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="868"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="897"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="911"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="920"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="956"/>
         <source>This may be due to the save coming from an older version of IRBCAM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="856"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="858"/>
         <source>Missing tool info in station retrieved from server</source>
         <translation>Trūksta įrankių informacijos stotyje, gautoje iš serverio</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="865"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="867"/>
         <source>Station was loaded but tool data was corrupt or missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="894"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="896"/>
         <source>Station was loaded but generic tool data was missing or corrupt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="908"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="910"/>
         <source>Missing turntable info in station retrieved from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="917"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="919"/>
         <source>Station was loaded but turntable data was corrupt or missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="942"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="944"/>
         <source>Missing station info in station retrieved from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="953"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="955"/>
         <source>Station was loaded with missing info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="959"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="961"/>
         <source>Failed to load station data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1004"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1006"/>
         <source>loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3712,7 +3712,7 @@ This may be due to the save coming from an older version</source>
 Tai gali būti dėl to, kad išsaugota versija yra senesnė</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="995"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="997"/>
         <source>Path information missing from saved station</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3725,12 +3725,12 @@ Tai gali būti dėl to, kad išsaugota versija yra senesnė</translation>
         <translation type="vanished"> išsaugota</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1044"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1046"/>
         <source>Autosave</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1046"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1048"/>
         <source>unnamed</source>
         <translation type="unfinished"></translation>
     </message>
