@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://vg.no"><img alt="A good name" src="public/hu.html" /></a>
+</p>
+
 # Translations for IRBCAM Client
 Thank you for your interest in helping us translate [IRBCAM](https://irbcam.com). We appreciate your contributions in making IRBCAM more accessible to users around the world. This README provides information on how to get started with translating the user interface (UI) and submitting your translations as Pull Requests (PRs).
 
@@ -61,3 +65,4 @@ Add or modify translations to the file(s) you want to edit. You can look in the 
 If you have any questions or ned assistance, please feel free to reach out to us on [our discussion forum](https://forum.hokarob.com).
 
 Thank you for helping us make IRBCAM accessible to a global audience!
+
