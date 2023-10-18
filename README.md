@@ -1,5 +1,12 @@
 <p align="center">
-  <a href="https://vg.no"><img alt="A good name" src="https://raw.githubusercontent.com/hokarob/irbcam-language-files/badges/public/hu.html" /></a>
+  <a href="https://github.com/hokarob/irbcam-language-files/blob/main/irbcam_no.ts"><img alt="Norwegian" src="https://hokarob.github.io/irbcam-language-files/no.svg" /></a>
+  <a href="https://github.com/hokarob/irbcam-language-files/blob/main/irbcam_de.ts"><img alt="German" src="https://hokarob.github.io/irbcam-language-files/de.svg" /></a>
+  <a href="https://github.com/hokarob/irbcam-language-files/blob/main/irbcam_sv.ts"><img alt="Swedish" src="https://hokarob.github.io/irbcam-language-files/sv.svg" /></a>
+  <a href="https://github.com/hokarob/irbcam-language-files/blob/main/irbcam_fr.ts"><img alt="French" src="https://hokarob.github.io/irbcam-language-files/fr.svg" /></a>
+  <a href="https://github.com/hokarob/irbcam-language-files/blob/main/irbcam_hu.ts"><img alt="Hungarian" src="https://hokarob.github.io/irbcam-language-files/hu.svg" /></a>
+  <a href="https://github.com/hokarob/irbcam-language-files/blob/main/irbcam_lt.ts"><img alt="Lithuanian" src="https://hokarob.github.io/irbcam-language-files/lt.svg" /></a>
+  <a href="https://github.com/hokarob/irbcam-language-files/blob/main/irbcam_pt.ts"><img alt="Polish" src="https://hokarob.github.io/irbcam-language-files/pt.svg" /></a>
+  <a href="https://github.com/hokarob/irbcam-language-files/blob/main/irbcam_sl.ts"><img alt="Slovene" src="https://hokarob.github.io/irbcam-language-files/sl.svg" /></a>
 </p>
 
 # Translations for IRBCAM Client
