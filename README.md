@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://vg.no"><img alt="A good name" src="public/hu.html" /></a>
+  <a href="https://vg.no"><img alt="A good name" src="https://raw.githubusercontent.com/hokarob/irbcam-language-files/badges/public/hu.html" /></a>
 </p>
 
 # Translations for IRBCAM Client
