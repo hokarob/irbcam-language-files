@@ -96,7 +96,7 @@ def download_image(url: str, destination: Path):
 if __name__ == '__main__':
     ts_dir = current_dir.parent
     url_dict = process_files(ts_dir)
-    website_dir = current_dir.parent / 'public'
+    website_dir = current_dir.parent / 'docs'
 
     create_website_dir(website_dir)
 
