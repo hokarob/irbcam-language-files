@@ -1,7 +1,21 @@
+<p align="center">
+  <a href="https://github.com/hokarob/irbcam-language-files/blob/main/irbcam_no.ts"><img alt="Norwegian" src="https://hokarob.github.io/irbcam-language-files/no.svg?kill_cache=1" /></a>
+  <a href="https://github.com/hokarob/irbcam-language-files/blob/main/irbcam_de.ts"><img alt="German" src="https://hokarob.github.io/irbcam-language-files/de.svg?kill_cache=1" /></a>
+  <a href="https://github.com/hokarob/irbcam-language-files/blob/main/irbcam_sv.ts"><img alt="Swedish" src="https://hokarob.github.io/irbcam-language-files/sv.svg?kill_cache=1" /></a>
+  <a href="https://github.com/hokarob/irbcam-language-files/blob/main/irbcam_fr.ts"><img alt="French" src="https://hokarob.github.io/irbcam-language-files/fr.svg?kill_cache=1" /></a>
+  <a href="https://github.com/hokarob/irbcam-language-files/blob/main/irbcam_hu.ts"><img alt="Hungarian" src="https://hokarob.github.io/irbcam-language-files/hu.svg?kill_cache=1" /></a>
+  <a href="https://github.com/hokarob/irbcam-language-files/blob/main/irbcam_lt.ts"><img alt="Lithuanian" src="https://hokarob.github.io/irbcam-language-files/lt.svg?kill_cache=1" /></a>
+  <a href="https://github.com/hokarob/irbcam-language-files/blob/main/irbcam_pt.ts"><img alt="Polish" src="https://hokarob.github.io/irbcam-language-files/pt.svg?kill_cache=1" /></a>
+  <a href="https://github.com/hokarob/irbcam-language-files/blob/main/irbcam_sl.ts"><img alt="Slovene" src="https://hokarob.github.io/irbcam-language-files/sl.svg?kill_cache=1" /></a>
+</p>
+
 # Translations for IRBCAM Client
 Thank you for your interest in helping us translate [IRBCAM](https://irbcam.com). We appreciate your contributions in making IRBCAM more accessible to users around the world. This README provides information on how to get started with translating the user interface (UI) and submitting your translations as Pull Requests (PRs).
 
 ## Getting Started
+
+### Install Git
+Install git on your computer. Most Linux distros and MacOS already come with git installed. For Windows, you can find an installer [here](https://git-scm.com/download/win).
 
 ### Fork the Repository
 
@@ -61,3 +75,4 @@ Add or modify translations to the file(s) you want to edit. You can look in the 
 If you have any questions or ned assistance, please feel free to reach out to us on [our discussion forum](https://forum.hokarob.com).
 
 Thank you for helping us make IRBCAM accessible to a global audience!
+
