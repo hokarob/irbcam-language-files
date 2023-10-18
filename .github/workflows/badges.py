@@ -1,11 +1,18 @@
 from pathlib import Path 
 import xml.etree.ElementTree as ET
+from typing import Tuple
+
 import requests
 
 current_dir = Path(__file__).parent.resolve()
 
 
 def count_unfinished_strings(xml_file: Path) -> int:
+    """Count untranslated (unfinished) strings
+
+    :param xml_file: File in XML format
+    :return: Number of unfinished strings
+    """
     # Parse the XML file
     tree = ET.parse(xml_file)
     root = tree.getroot()
@@ -17,6 +24,11 @@ def count_unfinished_strings(xml_file: Path) -> int:
 
 
 def count_all_strings(xml_file: Path) -> int:
+    """Count all translation strings in a document. Exclude vanished and obsolete
+
+    :param xml_file: Fine in XML format
+    :return: Number of strings
+    """
     # Parse the XML file
     tree = ET.parse(xml_file)
     root = tree.getroot()
@@ -31,14 +43,21 @@ def count_all_strings(xml_file: Path) -> int:
         elif element.attrib["type"] == "unfinished":
             count += 1
         elif element.attrib["type"] == "vanished" or element.attrib["type"] == "obsolete":
-            print('Skippng vanished or obsolete string')
+            pass
         else:
             raise ValueError(element)
 
     return count
 
 
-def generate_badge(name: Path, numerator: int, denominator: int) -> str:
+def generate_badge(name: Path, numerator: int, denominator: int) -> Tuple[str, str]:
+    """Generate url to badge in SVG format
+
+    :param name: Path to .ts-file
+    :param numerator: Numerator in fraction
+    :param denominator: Denominator in fraction
+    :return: Country code and URL to shields.io
+    """
     # Extract the countrycode from the name
     filename = name.stem  # Get the filename without the extension
     parts = filename.split('_')
@@ -63,6 +82,11 @@ def generate_badge(name: Path, numerator: int, denominator: int) -> str:
 
 
 def process_files(directory: Path) -> dict:
+    """Process .ts (XML format) files.
+
+    :param directory: Directory with .ts files
+    :return: dictionary where each key is a country code, and it's respective value is URL to the badge
+    """
     # Use glob to find all XML files in the directory
     ts_files = list(directory.glob("*.ts"))
 
@@ -79,11 +103,20 @@ def process_files(directory: Path) -> dict:
 
 
 def create_website_dir(path: Path) -> None:
+    """Create a directory
+
+    :param path: Path to create a directory at
+    """
     directory = path
     directory.mkdir(parents=True, exist_ok=True)
 
 
 def download_image(url: str, destination: Path) -> None:
+    """Download SVG file
+
+    :param url: URL to download from
+    :param destination: Destination to store image at
+    """
     try:
         # Send a GET request to the URL
         response = requests.get(url, stream=True)
