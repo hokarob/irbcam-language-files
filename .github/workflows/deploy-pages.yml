@@ -20,10 +20,10 @@ jobs:
           python-version: 3.x  # Choose the version you need
 
       - name: Install dependencies
-        run: pip install -r doc/requirements.txt  # Create a requirements.txt file for your "requests" module
+        run: pip install -r .github/workflows/requirements.txt  # Create a requirements.txt file for your "requests" module
 
       - name: Generate website
-        run: python doc/badges.py  # Replace with the actual name of your Python script
+        run: python .github/workflows/badges.py  # Replace with the actual name of your Python script
 
       - name: Deploy to GitHub Pages
         run: |

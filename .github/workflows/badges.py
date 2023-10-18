@@ -1,12 +1,11 @@
 from pathlib import Path 
 import xml.etree.ElementTree as ET
-import json
 import requests
 
 current_dir = Path(__file__).parent.resolve()
 
 
-def count_unfinished_strings(xml_file: Path):
+def count_unfinished_strings(xml_file: Path) -> int:
     # Parse the XML file
     tree = ET.parse(xml_file)
     root = tree.getroot()
@@ -17,13 +16,24 @@ def count_unfinished_strings(xml_file: Path):
     return count
 
 
-def count_all_strings(xml_file: Path):
+def count_all_strings(xml_file: Path) -> int:
     # Parse the XML file
     tree = ET.parse(xml_file)
     root = tree.getroot()
 
+    count = 0
     # Count the instances of <translation> elements 
-    count = sum(1 for element in root.iter("translation"))
+    # count = sum(1 for element in root.iter("translation") if element.get("type") != "vanished")
+    for element in root.iter("translation"):
+        # Check if the "type" attribute exists and is not "vanished"
+        if "type" not in element.attrib:
+            count += 1
+        elif element.attrib["type"] == "unfinished":
+            count += 1
+        elif element.attrib["type"] == "vanished" or element.attrib["type"] == "obsolete":
+            print('Skippng vanished or obsolete string')
+        else:
+            raise ValueError(element)
 
     return count
 
@@ -37,13 +47,15 @@ def generate_badge(name: Path, numerator: int, denominator: int) -> str:
     else:
         raise ValueError("Invalid filename format")
     
-    translated = numerator/denominator
-    colour = 'red'
+    translated_ratio = numerator / denominator
     
-    if translated == 1.0:
+    # Set badge colour
+    if numerator == denominator:
         colour = 'green'
-    elif translated >= 0.80:
+    elif translated_ratio >= 0.80:
         colour = 'yellow'
+    else:
+        colour = 'red'
 
     # Construct the badge URL
     badge_url = f"https://img.shields.io/badge/{countrycode}-{numerator}/{denominator}-{colour}"
@@ -58,6 +70,7 @@ def process_files(directory: Path) -> dict:
 
     for file in ts_files:
         den = count_all_strings(file)
+        # num = count_unfinished_strings(file)
         num = den - count_unfinished_strings(file)
         country, url = generate_badge(file, num, den)
         urls[country] = url
@@ -65,19 +78,12 @@ def process_files(directory: Path) -> dict:
     return urls
 
 
-def write_to_json(path: Path, data: dict):
-
-    # Write file
-    with open(path, 'w') as file:
-        file.write(json.dumps(data))
-
-
-def create_website_dir(path: Path):
+def create_website_dir(path: Path) -> None:
     directory = path
     directory.mkdir(parents=True, exist_ok=True)
 
 
-def download_image(url: str, destination: Path):
+def download_image(url: str, destination: Path) -> None:
     try:
         # Send a GET request to the URL
         response = requests.get(url, stream=True)
@@ -88,20 +94,22 @@ def download_image(url: str, destination: Path):
             for chunk in response.iter_content(chunk_size=8192):
                 file.write(chunk)
 
-        print(f"Image downloaded and saved to {destination}")
+        print(f"Badge downloaded and saved to {destination}")
     except Exception as e:
         print(f"Error: {e}")
 
 
 if __name__ == '__main__':
-    ts_dir = current_dir.parent
-    url_dict = process_files(ts_dir)
-    website_dir = current_dir.parent / 'docs'
-
+    # Set directories
+    ts_dir = current_dir.parent.parent
+    website_dir = current_dir.parent.parent / 'docs'
+    
+    # Create directory for GitHub pages
     create_website_dir(website_dir)
+    
+    # Generate URL to badges
+    url_dict = process_files(ts_dir)
 
+    # Download badges
     for country, url in url_dict.items():
         download_image(url, website_dir / f'{country}.svg')
-
-    # write_to_json(website_dir / 'badges.json', url_list)
-
