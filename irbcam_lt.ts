@@ -72,39 +72,39 @@
 <context>
     <name>AdditionalObjectsModel</name>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="598"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="570"/>
         <source>Failed to confirm that</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="598"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="570"/>
         <source>was deleted from the server (the item may or may not have been deleted)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="628"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="600"/>
         <source>was deleted from the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="704"/>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="738"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="676"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="710"/>
         <source>Failed to download geometry from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="793"/>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="805"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="765"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="777"/>
         <source>Could not open folder: &apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="831"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="803"/>
         <source>Custom geometry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="831"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="803"/>
         <source>loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -132,13 +132,13 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="351"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="350"/>
         <source>loaded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="370"/>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="414"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="369"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="413"/>
         <source>Failed to download item from server</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1499,32 +1499,27 @@
         <translation>Nepavyko įkelti nustatymų </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1867"/>
-        <source>Failed to get plugin from server</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/networking.cpp" line="2250"/>
+        <location filename="../../../backend/src/networking.cpp" line="2239"/>
         <source>A new minor version of IRBCAM is available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2251"/>
+        <location filename="../../../backend/src/networking.cpp" line="2240"/>
         <source>Save your work and reload page to get the newest features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2256"/>
+        <location filename="../../../backend/src/networking.cpp" line="2245"/>
         <source>A new major version of IRBCAM is available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2257"/>
+        <location filename="../../../backend/src/networking.cpp" line="2246"/>
         <source>Some features may be unavailable until page is reloaded.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2258"/>
+        <location filename="../../../backend/src/networking.cpp" line="2247"/>
         <source>Please save your work and reload page as soon as possible</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1535,38 +1530,28 @@
         <translation>Nustatymai </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="586"/>
-        <source>Failed to load data</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/networking.cpp" line="625"/>
-        <source>Icon not found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../backend/src/networking.cpp" line="1826"/>
         <source> loaded</source>
         <translation> įkelta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2117"/>
-        <location filename="../../../backend/src/networking.cpp" line="2176"/>
+        <location filename="../../../backend/src/networking.cpp" line="2106"/>
+        <location filename="../../../backend/src/networking.cpp" line="2165"/>
         <source>A network error occurred</source>
         <translation type="unfinished">Įvyko tinklo klaida</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2204"/>
+        <location filename="../../../backend/src/networking.cpp" line="2193"/>
         <source>Remote error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2204"/>
+        <location filename="../../../backend/src/networking.cpp" line="2193"/>
         <source>code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2225"/>
+        <location filename="../../../backend/src/networking.cpp" line="2214"/>
         <source>Remote error
 </source>
         <translation>Nuotolinė klaida
@@ -2549,17 +2534,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="290"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="283"/>
         <source>User Manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="301"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="294"/>
         <source>EULA</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="311"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="304"/>
         <source>Feedback</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2602,12 +2587,11 @@
         <translation type="obsolete">Netinkamas papildinys</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="274"/>
         <source>This plugin is unavailable: </source>
-        <translation type="unfinished">Šis papildinys nepasiekiamas: </translation>
+        <translation type="obsolete">Šis papildinys nepasiekiamas: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="296"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="289"/>
         <source>Forum</source>
         <translation type="unfinished">Forumas</translation>
     </message>
@@ -2628,12 +2612,12 @@
         <translation type="obsolete">Kvaterniono keitiklis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="281"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="275"/>
         <source>Plugin Settings</source>
         <translation type="unfinished">Papildinio nustatymai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="288"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="281"/>
         <source>&amp;Help</source>
         <translation type="unfinished">&amp;Pagalba</translation>
     </message>
@@ -2655,7 +2639,7 @@
         <translation type="obsolete">Kalba / Vienetai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="306"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="299"/>
         <source>About IRBCAM</source>
         <translation type="unfinished">Apie IRBCAM</translation>
     </message>
@@ -2963,24 +2947,57 @@
     </message>
 </context>
 <context>
+    <name>PluginModel</name>
+    <message>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="81"/>
+        <source>Files not found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="87"/>
+        <source>Icon not found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="102"/>
+        <source>Failed to load</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="143"/>
+        <source>Expected a single image file but</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="143"/>
+        <source>image files were found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="198"/>
+        <source>Failed to get plugin from server</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>PluginSettings</name>
     <message>
         <source>OK</source>
         <translation type="obsolete">OK</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="88"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="135"/>
         <source>URL to plugin</source>
         <translation type="unfinished">URL į papildinį</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="139"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="186"/>
         <source>Cancel</source>
         <translation type="unfinished">Nutraukti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="145"/>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="234"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="192"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="274"/>
         <source>Add</source>
         <translation type="unfinished">Papildyti</translation>
     </message>
@@ -2990,12 +3007,12 @@
         <translation type="unfinished">Papildiniai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="25"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="27"/>
         <source>Open Qml or Zip file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="26"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="28"/>
         <source>Qml or Zip files</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3010,28 +3027,53 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="98"/>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="130"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="85"/>
+        <source>Uninitialized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="87"/>
+        <source>Idle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="89"/>
+        <source>Downloading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="91"/>
+        <source>Unpacking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="94"/>
+        <source>Unknown</source>
+        <translation type="unfinished">Nežinoma</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="145"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="177"/>
         <source>...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="109"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="156"/>
         <source>Name of the plugin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="120"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="167"/>
         <source>URL to plugin icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="209"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="246"/>
         <source>Delete</source>
         <translation type="unfinished">Pašalinti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="243"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="283"/>
         <source>Close</source>
         <translation type="unfinished">Uždaryti</translation>
     </message>
@@ -3403,24 +3445,14 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
 <context>
     <name>SettingsInterface</name>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="80"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="81"/>
         <source>Failed to translate language to</source>
         <translation type="unfinished">Nepavyko išversti kalbos į</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="88"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="89"/>
         <source>Language changed</source>
         <translation type="unfinished">Kalba pasikeitė</translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="186"/>
-        <source>Files not found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="192"/>
-        <source>Icon not found</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
