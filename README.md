@@ -14,6 +14,9 @@ Thank you for your interest in helping us translate [IRBCAM](https://irbcam.com)
 
 ## Getting Started
 
+### Install Git
+Install git on your computer. Most Linux distros and MacOS already come with git installed. For Windows, you can find an installer [here](https://git-scm.com/download/win).
+
 ### Fork the Repository
 
 1. Fork this repository to your own GitHub account by clicking the "Fork" button at the top of this page.
