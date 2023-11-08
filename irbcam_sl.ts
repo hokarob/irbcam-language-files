@@ -72,40 +72,58 @@
 <context>
     <name>AdditionalObjectsModel</name>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="570"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="533"/>
         <source>Failed to confirm that</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="570"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="533"/>
         <source>was deleted from the server (the item may or may not have been deleted)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="600"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="563"/>
         <source>was deleted from the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="676"/>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="710"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="639"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="673"/>
         <source>Failed to download geometry from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="765"/>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="777"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="728"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="740"/>
         <source>Could not open folder: &apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="803"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="766"/>
         <source>Custom geometry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="803"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="766"/>
         <source>loaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>AnimationBar</name>
+    <message>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="56"/>
+        <source>End of path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="57"/>
+        <source>Path must be configured before it can be animated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="58"/>
+        <source>Path must contain at least two points to animate</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -284,22 +302,22 @@
 <context>
     <name>ConfigurePathView</name>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="97"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="98"/>
         <source>Tool Roll Angle (deg)</source>
         <translation type="unfinished">Kot zvijanja orodja (stopinje)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="175"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="180"/>
         <source>Bending Backwards</source>
         <translation type="unfinished">Upogibanje nazaj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="185"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="190"/>
         <source>Elbow Down</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="195"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="200"/>
         <source>Wrist Down</source>
         <translation type="unfinished"></translation>
     </message>
@@ -308,58 +326,59 @@
         <translation type="obsolete">Dovoli veliko preusmeritev</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="56"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="57"/>
         <source>Tool Roll Mode</source>
         <translation type="unfinished">Način zvijanja orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="72"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="73"/>
         <source>No Change</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="73"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="132"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="74"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="133"/>
         <source>Fixed Angle</source>
         <translation type="unfinished">Fiksni kot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="74"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="75"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="134"/>
         <source>Dynamic Angle 1</source>
         <translation type="unfinished">Dinamični kot 1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="75"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="76"/>
         <source>Dynamic Angle 2</source>
         <translation type="unfinished">Dinamični kot 2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="80"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="81"/>
         <source>Overwrite path tool roll angle (RZ2) with the selected method</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="115"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="116"/>
         <source>Turntable Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="152"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="150"/>
         <source>Turntable Angle (deg)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="205"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="210"/>
         <source>Allow Large Reorient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="220"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="225"/>
         <source>Configure</source>
         <translation type="unfinished">Nastavi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="226"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="231"/>
         <source>Status: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -561,163 +580,163 @@
 <context>
     <name>CubeEditorDelegate</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="59"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="69"/>
         <source>Name</source>
         <translation type="unfinished">Ime</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="65"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="75"/>
         <source>Enter name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="94"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="104"/>
         <source>Source</source>
         <translation type="unfinished">Vir</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="94"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="134"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="104"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="144"/>
         <source>Color</source>
         <translation type="unfinished">Barva</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="103"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="113"/>
         <source>Custom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="104"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="114"/>
         <source>LightGray</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="105"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="115"/>
         <source>Red</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="106"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="116"/>
         <source>Green</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="107"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="117"/>
         <source>Blue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="135"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="146"/>
         <source>Any valid SVG color name (eg. &apos;blue&apos;) or hex rgb triplet (eg. &apos;#808080&apos;)</source>
         <translation type="unfinished">Katerokoli veljavno ime barve SVG (npr. &apos;modra&apos;) ali heksadecimalni rgb trojček (npr. &apos;#808080&apos;)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="159"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="171"/>
         <source>Select color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="180"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="192"/>
         <source>No source selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="185"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="197"/>
         <source>Parent frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="192"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="204"/>
         <source>Global</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="193"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="205"/>
         <source>Robot base</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="194"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="206"/>
         <source>User frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="195"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="207"/>
         <source>Object frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="196"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="208"/>
         <source>Tool frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="203"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="215"/>
         <source>Linear</source>
         <translation type="unfinished">Linearno</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="226"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="238"/>
         <source>Position</source>
         <translation type="unfinished">Položaj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="280"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="292"/>
         <source>Scale</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="280"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="292"/>
         <source>Size</source>
         <translation type="unfinished">Velikost</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="337"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="349"/>
         <source>Rotation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="343"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="355"/>
         <source>Yaw</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="349"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="361"/>
         <source>Pitch</source>
         <translation type="unfinished">Nagib</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="355"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="367"/>
         <source>Roll</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="438"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="450"/>
         <source>Normalize</source>
         <translation type="unfinished">Normaliziraj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="444"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="457"/>
         <source>Normalize quaternions</source>
         <translation type="unfinished">Normaliziraj kvaternione</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="550"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="564"/>
         <source>Quaternion scalar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="556"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="570"/>
         <source>Quaternion i</source>
         <translation type="unfinished">Kvaternion i</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="562"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="576"/>
         <source>Quaternion j</source>
         <translation type="unfinished">Kvaternion j</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="568"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="582"/>
         <source>Quaternion k</source>
         <translation type="unfinished">Kvaternion k</translation>
     </message>
@@ -730,7 +749,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="362"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="370"/>
         <source>Name</source>
         <translation type="unfinished">Ime</translation>
     </message>
@@ -784,46 +803,46 @@
         <translation type="unfinished">Neznano</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="328"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="329"/>
         <source>Select</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="342"/>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="406"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="352"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="414"/>
         <source>Upload</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="368"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="376"/>
         <source>Geometry name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="389"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="397"/>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="393"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="401"/>
         <source>No file selected</source>
         <translation type="unfinished">Nobena datoteka ni izbrana</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="428"/>
+        <source>3D Asset Files</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Overwrite</source>
         <translation type="obsolete">Prepisati</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="420"/>
-        <source>GLTF Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Warning!</source>
         <translation type="obsolete">Opozorilo!</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="430"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="438"/>
         <source>Are you sure you want to overwrite user geometry</source>
         <translation type="unfinished"></translation>
     </message>
@@ -843,27 +862,27 @@
         <translation type="obsolete">Uredi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="35"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="36"/>
         <source>Generic Tool</source>
         <translation type="unfinished">Generično orodje</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="57"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="50"/>
         <source>Diameter</source>
         <translation type="unfinished">Premer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="61"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="54"/>
         <source>Cone length</source>
         <translation type="unfinished">Dolžina stožca</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="65"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="58"/>
         <source>Color</source>
         <translation type="unfinished">Barva</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="110"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="103"/>
         <source>Select color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1647,19 +1666,24 @@
 <context>
     <name>JointViewer</name>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="33"/>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="133"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="38"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="141"/>
         <source>Joint </source>
         <translation type="unfinished">Sklep </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="124"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="130"/>
         <source>Robot Joints</source>
         <translation type="unfinished">Robotski sklepi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="153"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="157"/>
         <source>Joint 2-3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="174"/>
+        <source>Turntable axis </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1788,27 +1812,27 @@
         <translation type="unfinished">Neznano</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="135"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="136"/>
         <source>Are you sure you want to overwrite station</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="154"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="155"/>
         <source>Save name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="154"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="155"/>
         <source>Search</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="170"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="171"/>
         <source>Overwrite</source>
         <translation type="unfinished">Prepisati</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="170"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="171"/>
         <source>Save</source>
         <translation type="unfinished">Shrani</translation>
     </message>
@@ -1817,7 +1841,7 @@
         <translation type="vanished">Osveži</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="170"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="171"/>
         <source>Load</source>
         <translation>Naloži</translation>
     </message>
@@ -2665,7 +2689,7 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/NetworkItemEditor.qml" line="83"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/NetworkItemEditor.qml" line="84"/>
         <source>Edit</source>
         <translation type="unfinished">Uredi</translation>
     </message>
@@ -2721,52 +2745,52 @@
 <context>
     <name>NetworkObjectList</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="51"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="54"/>
         <source>Uninitialized</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="53"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="56"/>
         <source>Idle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="55"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="58"/>
         <source>Fetching list</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="58"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="61"/>
         <source>Unknown</source>
         <translation type="unfinished">Neznano</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="67"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="70"/>
         <source>Warning!</source>
         <translation type="unfinished">Opozorilo!</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="67"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="70"/>
         <source>This action will permanently delete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="68"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="71"/>
         <source>from the cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="82"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="85"/>
         <source>Name</source>
         <translation type="unfinished">Ime</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="88"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="91"/>
         <source>Created</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="94"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="97"/>
         <source>Modified</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2867,37 +2891,37 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="100"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="101"/>
         <source>Expand/collapse all targets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="110"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="112"/>
         <source>Index</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="155"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="157"/>
         <source>Go to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="162"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="164"/>
         <source>Sparse Changes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="163"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="165"/>
         <source>Indicates changes in velocity, tool and spindle speed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="387"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="378"/>
         <source>Add Targets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="420"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="405"/>
         <source>Configure Path</source>
         <translation type="unfinished">Konfigūruoti maršrutą</translation>
     </message>
@@ -2946,7 +2970,7 @@
         <translation type="vanished">Nastavi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="453"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="431"/>
         <source>Configure Max Distance</source>
         <translation>Nastavi največjo razdaljo</translation>
     </message>
@@ -3297,85 +3321,85 @@
         <translation type="obsolete">Konfiguracija poti ni uspela: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="70"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="79"/>
         <source>Failed to configure path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="76"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="85"/>
         <source>Path configured successfully in </source>
         <translation type="unfinished">Pot je bila uspešno konfigurirana v</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="130"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="139"/>
         <source>Start index must be smaller than end index</source>
         <translation type="unfinished">Začetni indeks mora biti manjši od končnega indeksa</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="136"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="145"/>
         <source>Allowed maximum distance must be greater than 0.001 mm</source>
         <translation type="unfinished">Največja dovoljena razdalja mora biti večja od 0.001 mm</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="142"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="151"/>
         <source>Path is empty</source>
         <translation type="unfinished">Pot je prazna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="149"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="158"/>
         <source>Invalid end index, end index must be smaller than the size of the path</source>
         <translation type="unfinished">Neveljaven končni indeks, končni indeks mora biti manjši od velikosti poti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="158"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="167"/>
         <source>Max distance configured successfully</source>
         <translation type="unfinished">Največja razdalja je uspešno konfigurirana</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="172"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="211"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="181"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="220"/>
         <source>File is empty</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="178"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="217"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="187"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="226"/>
         <source>File is not a valid UTF-8 file
 Only UTF-8 encoded files are supported</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="188"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="197"/>
         <source>Failed to import CSV file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="227"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="236"/>
         <source>Failed to import JSON file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="252"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="261"/>
         <source>Failed to load path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="289"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="298"/>
         <source>Failed to parse APT file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="194"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="203"/>
         <source>Path imported from CSV</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="233"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="242"/>
         <source>Path imported from JSON</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="258"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="267"/>
         <source>Path loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3644,7 +3668,7 @@ Za prepis znova kliknite</translation>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="316"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="431"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1006"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1012"/>
         <source>Station</source>
         <translation type="unfinished">Postaja</translation>
     </message>
@@ -3776,7 +3800,7 @@ Za prepis znova kliknite</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1006"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1012"/>
         <source>loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3792,7 +3816,7 @@ To je lahko posledica shranjevanja iz starejše različice
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="997"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1003"/>
         <source>Path information missing from saved station</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3805,12 +3829,12 @@ To je lahko posledica shranjevanja iz starejše različice
         <translation type="obsolete"> shranjeno</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1046"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1052"/>
         <source>Autosave</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1048"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1054"/>
         <source>unnamed</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3834,33 +3858,33 @@ To je lahko posledica shranjevanja iz starejše različice
 <context>
     <name>StationViewer</name>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="440"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="541"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="590"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="736"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="427"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="527"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="577"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="730"/>
         <source>Animation aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="440"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="541"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="590"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="427"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="527"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="577"/>
         <source>Target at index</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="542"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="528"/>
         <source>has zero velocity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="736"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="730"/>
         <source>Target is unreachable with the current configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="441"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="591"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="428"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="578"/>
         <source>is unreachable</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3911,27 +3935,27 @@ To je lahko posledica shranjevanja iz starejše različice
 <context>
     <name>TargetEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="153"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="154"/>
         <source>Changes in RZ2 will have no effect unless &apos;Toll Roll Mode&apos; in &apos;Configure Path&apos; is set to &apos;No Change&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="164"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="166"/>
         <source>Tool</source>
         <translation type="unfinished">Lega Orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="168"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="170"/>
         <source>Spindle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="231"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="233"/>
         <source>Motion Type</source>
         <translation type="unfinished">Vrsta gibanja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="160"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="162"/>
         <source>Velocity</source>
         <translation type="unfinished">Hitrost</translation>
     </message>
@@ -4035,7 +4059,7 @@ To je lahko posledica shranjevanja iz starejše različice
         <translation type="unfinished">Ime</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/UploadItem.qml" line="258"/>
+        <location filename="../../IrbcamQml/Controls/UploadItem.qml" line="129"/>
         <source>Are you sure you want to overwrite</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4051,22 +4075,22 @@ To je lahko posledica shranjevanja iz starejše različice
         <translation type="obsolete">Ime</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTool.qml" line="129"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTool.qml" line="37"/>
         <source>Edit</source>
         <translation type="unfinished">Uredi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTool.qml" line="148"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTool.qml" line="48"/>
         <source>Properties</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTool.qml" line="156"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTool.qml" line="56"/>
         <source>Weight [kg]</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTool.qml" line="252"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTool.qml" line="152"/>
         <source>Upload</source>
         <translation type="unfinished"></translation>
     </message>
