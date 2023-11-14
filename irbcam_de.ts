@@ -376,6 +376,7 @@
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="76"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="135"/>
         <source>Dynamic Angle 2</source>
         <translation>Dynamischer Winkel 2</translation>
     </message>
