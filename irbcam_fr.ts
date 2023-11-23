@@ -890,7 +890,7 @@
         <translation>Aucun fichier sélectionné</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="428"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="427"/>
         <source>3D Asset Files</source>
         <translation type="unfinished"></translation>
     </message>
@@ -915,7 +915,7 @@
         <translation type="vanished">depuis le cloud</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="438"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="437"/>
         <source>Are you sure you want to overwrite user geometry</source>
         <translation>Êtes vous sûrs de vouloir écraser la géométrie utiisateur</translation>
     </message>
@@ -983,7 +983,7 @@
 <context>
     <name>ExportRobotCode</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="652"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="661"/>
         <source>Tool Data</source>
         <translation>Données de l&apos;outil</translation>
     </message>
@@ -996,7 +996,7 @@
         <translation type="vanished">Poids (kg) : </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="715"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="725"/>
         <source>Tool Weight</source>
         <translation>Poids de l&apos;outil</translation>
     </message>
@@ -1009,7 +1009,7 @@
         <translation type="vanished">Centre de gravité de l&apos;outil Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="677"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="687"/>
         <source>No tool selected</source>
         <translation>Aucun outil sélectionné</translation>
     </message>
@@ -1024,12 +1024,12 @@
         <translation>Génération du code pour le robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="142"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="145"/>
         <source>General Options</source>
         <translation>Options générales</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="164"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="168"/>
         <source>Set Tool Number</source>
         <translation>Utiliser les numéros des outils</translation>
     </message>
@@ -1038,124 +1038,124 @@
         <translation type="vanished">Régler la vitesse de la broche</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="286"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="291"/>
         <source>Add Lift Points</source>
         <translation>Ajouter des points de levage</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="181"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="185"/>
         <source>Arc Welding</source>
         <translation>Soudage à l&apos;arc</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="209"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="214"/>
         <source>Cutting Speed (mm/s)</source>
         <translation>Vitesse de coupe (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="247"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="252"/>
         <source>Fast Speed (mm/s)</source>
         <translation>Vitesse rapide (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="328"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="334"/>
         <source>Number of Lines Per File</source>
         <translation>Nombre de lignes par fichier</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="303"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="309"/>
         <source>Lift Distance (mm)</source>
         <translation>Distance de levage (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="88"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="89"/>
         <source>Info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="105"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="107"/>
         <source>Robot</source>
         <translation type="unfinished">Robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="108"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="117"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="110"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="119"/>
         <source>None</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="113"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="115"/>
         <source>Tool</source>
         <translation type="unfinished">Outil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="121"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="123"/>
         <source>Number of targets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="128"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="130"/>
         <source>Configure status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="172"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="176"/>
         <source>Export Spindle Speeds</source>
         <translation>Exporter les vitesses de broche</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="189"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="193"/>
         <source>Override Speeds</source>
         <translation>Remplacer les vitesses</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="310"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="316"/>
         <source>Lift Distance</source>
         <translation>Distance de levage</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="373"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="380"/>
         <source>No robot selected</source>
         <translation>Aucun robot sélectionné</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="388"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="396"/>
         <source>File Type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="454"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="462"/>
         <source>Rotary table axis number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="478"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="486"/>
         <source>Linear track axis number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="617"/>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="625"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="633"/>
         <source>Pulses per 360 deg (or meter)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="670"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="680"/>
         <source>Tool Name</source>
         <translation>Nom de l&apos;outil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="684"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="694"/>
         <source>Export Name</source>
         <translation>Nom de l&apos;export</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="693"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="703"/>
         <source>Tool Export Name</source>
         <translation>Nom de l&apos;outil dans l&apos;export</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="706"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="716"/>
         <source>Weight (kg)</source>
         <translation>Poids (kg)</translation>
     </message>
@@ -1180,22 +1180,22 @@
         <translation type="vanished">Entrez des données valides dans tous les champs</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="839"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="849"/>
         <source>ABB Options</source>
         <translation>Options ABB</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="880"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="890"/>
         <source>KUKA Options</source>
         <translation>Options KUKA</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="896"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="906"/>
         <source>FANUC Options</source>
         <translation>Options FANUC</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="911"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="921"/>
         <source>MOTOMAN Options</source>
         <translation>Options MOTOMAN</translation>
     </message>
@@ -1208,8 +1208,8 @@
         <translation type="vanished">Nom du module : </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="410"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="419"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="418"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="427"/>
         <source>Module Name</source>
         <translation>Nom du module</translation>
     </message>
@@ -1218,8 +1218,8 @@
         <translation type="vanished">Nom de la procédure : </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="351"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="358"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="357"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="364"/>
         <source>Procedure Name</source>
         <translation>Nom de la procédure</translation>
     </message>
@@ -1228,8 +1228,8 @@
         <translation type="vanished">Nom de l&apos;objet de travail : </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="502"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="511"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="510"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="519"/>
         <source>Work Object Name</source>
         <translation>Nom de l&apos;objet de travail</translation>
     </message>
@@ -1238,8 +1238,8 @@
         <translation type="vanished">Nom de l&apos;axe externe : </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="432"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="441"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="440"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="449"/>
         <source>External Axis Name</source>
         <translation>Nom de l&apos;axe externe</translation>
     </message>
@@ -1260,64 +1260,64 @@
         <translation type="vanished">Vitesses à partir du fichier APT</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="156"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="160"/>
         <source>Gun On/Gun Off</source>
         <translation>Pistolet allumé / Pistolet éteint</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="524"/>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="532"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="540"/>
         <source>Number of Main Files</source>
         <translation>Nombre de fichiers principaux</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="549"/>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="557"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="565"/>
         <source>Tool Number</source>
         <translation>Numéro de l&apos;outil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="574"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="582"/>
         <source>User Frame Number</source>
         <translation>Numéro du référentiel de l&apos;utilisateur</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="599"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="607"/>
         <source>Dynamic Loading of JBI Files</source>
         <translation>Chargement dynamique des fichiers JBI</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="608"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="616"/>
         <source>XRC Controller</source>
         <translation>Contrôleur XRC</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="736"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="746"/>
         <source>Center of Gravity X (mm)</source>
         <translation>Centre de gravité X (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="743"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="753"/>
         <source>Center of Gravity X</source>
         <translation>Centre de gravité X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="768"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="778"/>
         <source>Center of Gravity Y (mm)</source>
         <translation>Centre de gravité Y (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="775"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="785"/>
         <source>Center of Gravity Y</source>
         <translation>Centre de gravité X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="800"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="810"/>
         <source>Center of Gravity Z (mm)</source>
         <translation>Centre de gravité Z (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="807"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="817"/>
         <source>Center of Gravity Z</source>
         <translation>Centre de gravité Z</translation>
     </message>
@@ -1326,22 +1326,22 @@
         <translation type="vanished">Options HOKAROB</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="975"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="985"/>
         <source>Path must be configured before it can be exported</source>
         <translation>Le chemin doit être configuré avant de pouvoir être exporté</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="981"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="991"/>
         <source>One or more options are not valid</source>
         <translation>Une ou plusieurs options ne sont pas valides</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="991"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1001"/>
         <source>Export</source>
         <translation>Exporter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="991"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1001"/>
         <source>Open Path Editor</source>
         <translation>Éditeur de chemin ouvert</translation>
     </message>
@@ -1625,7 +1625,7 @@
         <translation type="vanished">Des chemins plus grands peuvent être importés en découpant le fichier APT en plusieurs petits fichiers, puis en utilisant l&apos;option &apos;Ajouter&apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1173"/>
+        <location filename="../../../backend/src/networking.cpp" line="122"/>
         <source>Goodbye </source>
         <translation>Au revoir </translation>
     </message>
@@ -1686,7 +1686,7 @@
         <translation type="vanished">Impossible de confirmer si la géométrie a été supprimée sur le serveur (la géométrie peut ou non avoir été supprimée)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1728"/>
+        <location filename="../../../backend/src/networking.cpp" line="337"/>
         <source>Failed to get version info</source>
         <translation>Impossible d&apos;obtenir les informations sur la version</translation>
     </message>
@@ -1695,170 +1695,174 @@
         <translation type="vanished">Erreur: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1778"/>
+        <location filename="../../../backend/src/networking.cpp" line="724"/>
         <source>unknown user</source>
         <translation>utilisateur inconnu</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1786"/>
+        <location filename="../../../backend/src/networking.cpp" line="732"/>
         <source>unknown username</source>
         <translation>nom d&apos;utilisateur inconnu</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1790"/>
+        <location filename="../../../backend/src/networking.cpp" line="736"/>
         <source>Welcome </source>
         <translation>Bienvenue </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1808"/>
+        <location filename="../../../backend/src/networking.cpp" line="754"/>
         <source> loaded
 </source>
         <translation> chargé
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1809"/>
+        <location filename="../../../backend/src/networking.cpp" line="755"/>
         <source>Some settings were not available on the server. This is likely due to new settings being introduced in IRBCAM
 </source>
         <translation>Certains paramètres n&apos;étaient pas disponibles sur le serveur. Cela est probablement dû à l&apos;introduction de nouveaux paramètres dans IRBCAM
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1810"/>
+        <location filename="../../../backend/src/networking.cpp" line="756"/>
         <source>The affected settings have been set to their default values</source>
         <translation>Les paramètres concernés ont été définis sur leurs valeurs par défaut</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1819"/>
+        <location filename="../../../backend/src/networking.cpp" line="765"/>
         <source>Failed to load settings for </source>
         <translation>Échec du chargement des paramètres pour </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2106"/>
-        <location filename="../../../backend/src/networking.cpp" line="2165"/>
+        <location filename="../../../backend/src/networking.cpp" line="891"/>
         <source>A network error occurred</source>
         <translation>Une erreur de réseau est survenue</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2239"/>
+        <location filename="../../../backend/src/networking.cpp" line="971"/>
         <source>A new minor version of IRBCAM is available.</source>
         <translation>Une nouvelle version mineure d&apos;IRBCAM est disponible.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2240"/>
+        <location filename="../../../backend/src/networking.cpp" line="972"/>
         <source>Save your work and reload page to get the newest features</source>
         <translation>Enregistrez votre travail et rechargez la page pour obtenir les dernières fonctionnalités</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2245"/>
+        <location filename="../../../backend/src/networking.cpp" line="977"/>
         <source>A new major version of IRBCAM is available.</source>
         <translation>Une nouvelle version majeure d&apos;IRBCAM est disponible.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2246"/>
+        <location filename="../../../backend/src/networking.cpp" line="978"/>
         <source>Some features may be unavailable until page is reloaded.</source>
         <translation>Certaines fonctionnalités peuvent être indisponibles jusqu&apos;à ce que la page soit rechargée.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2247"/>
+        <location filename="../../../backend/src/networking.cpp" line="979"/>
         <source>Please save your work and reload page as soon as possible</source>
         <translation>Veuillez enregistrer votre travail et recharger la page dès que possible</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1808"/>
-        <location filename="../../../backend/src/networking.cpp" line="1826"/>
+        <location filename="../../../backend/src/networking.cpp" line="754"/>
+        <location filename="../../../backend/src/networking.cpp" line="772"/>
         <source>Settings for </source>
         <translation>Paramètres pour </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1826"/>
+        <location filename="../../../backend/src/networking.cpp" line="82"/>
+        <source>Failed to sign in user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/networking.cpp" line="772"/>
         <source> loaded</source>
         <translation> chargé</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2193"/>
+        <location filename="../../../backend/src/networking.cpp" line="919"/>
         <source>Remote error</source>
         <translation>Erreur distante</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2193"/>
+        <location filename="../../../backend/src/networking.cpp" line="919"/>
         <source>code</source>
         <translation>code</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="2214"/>
         <source>Remote error
 </source>
-        <translation>Erreur distante
+        <translation type="vanished">Erreur distante
 </translation>
     </message>
 </context>
 <context>
     <name>IrbcamSettings</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="13"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="18"/>
         <source>Settings</source>
         <translation>Options</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="20"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="49"/>
         <source>User Interface</source>
         <translation>Interface utilisateur</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="32"/>
         <source>Language</source>
-        <translation>Langue</translation>
+        <translation type="vanished">Langue</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="166"/>
         <source>Theme</source>
-        <translation>Thème</translation>
+        <translation type="vanished">Thème</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="173"/>
         <source>Dark</source>
-        <translation>Sombre</translation>
+        <translation type="vanished">Sombre</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="174"/>
         <source>Light</source>
-        <translation>Lumière</translation>
+        <translation type="vanished">Lumière</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="184"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="69"/>
         <source>Auto Save</source>
         <translation>Sauvegarde automatique</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="196"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="85"/>
         <source>Enable auto save station</source>
         <translation>Activer la sauvegarde automatique de la station</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="209"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="98"/>
         <source>Auto save interval</source>
         <translation>Intervalle de sauvegarde automatique</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="225"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="114"/>
         <source>5 min</source>
         <translation>5 min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="229"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="118"/>
         <source>10 min</source>
         <translation>10 min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="233"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="122"/>
         <source>15 min</source>
         <translation>15 min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="237"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="126"/>
         <source>30 min</source>
         <translation>30 min</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="148"/>
+        <source>Plugins</source>
+        <translation type="unfinished">Plugins</translation>
     </message>
     <message>
         <source>Metric</source>
@@ -1899,6 +1903,29 @@
         <location filename="../../IrbcamQml/Views/JointViewer.qml" line="174"/>
         <source>Turntable axis </source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>LanguageSettings</name>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/LanguageSettings.qml" line="16"/>
+        <source>Language</source>
+        <translation type="unfinished">Langue</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/LanguageSettings.qml" line="150"/>
+        <source>Theme</source>
+        <translation type="unfinished">Thème</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/LanguageSettings.qml" line="157"/>
+        <source>Dark</source>
+        <translation type="unfinished">Sombre</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/LanguageSettings.qml" line="158"/>
+        <source>Light</source>
+        <translation type="unfinished">Lumière</translation>
     </message>
 </context>
 <context>
@@ -2821,17 +2848,27 @@
         <translation>Cible</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="283"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="261"/>
+        <source>No plugins are enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="286"/>
+        <source>This plugin does not have valid source content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="309"/>
         <source>User Manual</source>
         <translation>Manuel utilisateur</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="294"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="320"/>
         <source>EULA</source>
         <translation>EULA</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="304"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="330"/>
         <source>Feedback</source>
         <translation>Retour d&apos;expérience</translation>
     </message>
@@ -2865,7 +2902,7 @@
         <translation type="vanished">Animer en arrière</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="260"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="267"/>
         <source>&amp;Plugins</source>
         <translation>&amp;Plugins</translation>
     </message>
@@ -2878,7 +2915,7 @@
         <translation type="vanished">Ce plugin n&apos;est pas disponible : </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="289"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="315"/>
         <source>Forum</source>
         <translation>Forum</translation>
     </message>
@@ -2911,12 +2948,11 @@
         <translation type="vanished">Plugin 4</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="275"/>
         <source>Plugin Settings</source>
-        <translation>Paramètres des plugins</translation>
+        <translation type="vanished">Paramètres des plugins</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="281"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="307"/>
         <source>&amp;Help</source>
         <translation>&amp;Aide</translation>
     </message>
@@ -2938,7 +2974,7 @@
         <translation type="vanished">Langue / Unités</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="299"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="325"/>
         <source>About IRBCAM</source>
         <translation>À propos d&apos;IRBCAM</translation>
     </message>
@@ -3060,7 +3096,7 @@
 <context>
     <name>NetworkObjectListModel</name>
     <message>
-        <location filename="../../../backend/src/networkobjectlistmodel.cpp" line="90"/>
+        <location filename="../../../backend/src/networkobjectlistmodel.cpp" line="82"/>
         <source>Failed to fetch list from server</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3272,33 +3308,38 @@
         <translation type="vanished">Échec de l&apos;ajout du plugin. Erreur réseau : </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="81"/>
-        <source>Files not found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="87"/>
-        <source>Icon not found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="102"/>
-        <source>Failed to load</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="143"/>
-        <source>Expected a single image file but</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="143"/>
-        <source>image files were found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="198"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="681"/>
         <source>Failed to get plugin from server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="867"/>
+        <source>Failed to extract archive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="907"/>
+        <source>Unsupported file extension</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="916"/>
+        <source>Failed to load files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="941"/>
+        <source>Expected a single QML file in the root directory, but found </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="956"/>
+        <source>Expected a single image file in the root directory, but found </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="1049"/>
+        <source>Failed to rename plugin</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3313,102 +3354,201 @@
         <translation type="vanished">OK</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="135"/>
         <source>URL to plugin</source>
-        <translation>URL du plugin</translation>
+        <translation type="vanished">URL du plugin</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="186"/>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation type="vanished">Annuler</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="192"/>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="274"/>
         <source>Add</source>
-        <translation>Ajouter</translation>
+        <translation type="vanished">Ajouter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="16"/>
         <source>Plugins</source>
-        <translation>Plugins</translation>
+        <translation type="vanished">Plugins</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="27"/>
+        <source>Unknown</source>
+        <translation type="obsolete">Inconnu</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="vanished">Supprimer</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="vanished">Fermer</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="47"/>
+        <source>Internal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="47"/>
+        <source>Custom</source>
+        <translation type="unfinished">Personnalisé</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="70"/>
+        <source>This plugin will not be saved when the application is closed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="122"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="128"/>
+        <source>Name</source>
+        <translation type="unfinished">Nom</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="145"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="175"/>
+        <source>Url</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="151"/>
+        <source>QML file or ZIP archive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="211"/>
+        <source>Open local qml file or archive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="211"/>
+        <source>Note: local plugins are not saved between sessions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="219"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="244"/>
+        <source>Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="227"/>
+        <source>Icon files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="268"/>
+        <source>Open local icon file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="279"/>
+        <source>Ok</source>
+        <translation type="unfinished">Ok</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="333"/>
+        <source>Add plugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PluginSettings_old</name>
+    <message>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="16"/>
+        <source>Plugins</source>
+        <translation type="unfinished">Plugins</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="35"/>
         <source>Open Qml or Zip file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="28"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="36"/>
         <source>Qml or Zip files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="63"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="71"/>
         <source>Image file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="64"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="72"/>
         <source>Image files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="85"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="93"/>
         <source>Uninitialized</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="87"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="95"/>
         <source>Idle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="89"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="97"/>
         <source>Downloading</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="91"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="99"/>
         <source>Unpacking</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="94"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="102"/>
         <source>Unknown</source>
         <translation type="unfinished">Inconnu</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="145"/>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="177"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="143"/>
+        <source>URL to plugin</source>
+        <translation type="unfinished">URL du plugin</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="153"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="185"/>
         <source>...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="156"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="164"/>
         <source>Name of the plugin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="167"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="175"/>
         <source>URL to plugin icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="246"/>
-        <source>Delete</source>
-        <translation>Supprimer</translation>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="194"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings.qml" line="283"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="200"/>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="290"/>
+        <source>Add</source>
+        <translation type="unfinished">Ajouter</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="254"/>
+        <source>Delete</source>
+        <translation type="unfinished">Supprimer</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="299"/>
         <source>Close</source>
-        <translation>Fermer</translation>
+        <translation type="unfinished">Fermer</translation>
     </message>
 </context>
 <context>
     <name>PopupLoader</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="137"/>
+        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="164"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
@@ -3418,32 +3558,32 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="142"/>
+        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="169"/>
         <source>Back</source>
         <translation>Retour</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="143"/>
+        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="170"/>
         <source>back</source>
         <translation>retour</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="148"/>
+        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="175"/>
         <source>Finish</source>
         <translation>Terminer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="153"/>
+        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="180"/>
         <source>Next</source>
         <translation>Suivant</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="154"/>
+        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="181"/>
         <source>forward</source>
         <translation>avancer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="159"/>
+        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="186"/>
         <source>Ok</source>
         <translation>Ok</translation>
     </message>
@@ -3805,14 +3945,29 @@ Cliquez à nouveau pour écraser</translation>
 <context>
     <name>SettingsInterface</name>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="81"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="110"/>
         <source>Failed to translate language to</source>
         <translation>Échec de la traduction en</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="89"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="118"/>
         <source>Language changed</source>
         <translation>Langue modifiée</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="224"/>
+        <source>Failed to save settings for</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="229"/>
+        <source>Settings for</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="229"/>
+        <source>saved</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
