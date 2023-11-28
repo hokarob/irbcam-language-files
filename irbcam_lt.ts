@@ -2581,22 +2581,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="286"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="287"/>
         <source>This plugin does not have valid source content</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="309"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="317"/>
         <source>User Manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="320"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="328"/>
         <source>EULA</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="330"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="338"/>
         <source>Feedback</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2643,7 +2643,7 @@
         <translation type="obsolete">Šis papildinys nepasiekiamas: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="315"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="323"/>
         <source>Forum</source>
         <translation type="unfinished">Forumas</translation>
     </message>
@@ -2668,7 +2668,7 @@
         <translation type="obsolete">Papildinio nustatymai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="307"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="315"/>
         <source>&amp;Help</source>
         <translation type="unfinished">&amp;Pagalba</translation>
     </message>
@@ -2690,7 +2690,7 @@
         <translation type="obsolete">Kalba / Vienetai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="325"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="333"/>
         <source>About IRBCAM</source>
         <translation type="unfinished">Apie IRBCAM</translation>
     </message>
@@ -3000,37 +3000,37 @@
 <context>
     <name>PluginModel</name>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="681"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="401"/>
         <source>Failed to get plugin from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="867"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="574"/>
         <source>Failed to extract archive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="907"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="616"/>
         <source>Unsupported file extension</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="916"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="625"/>
         <source>Failed to load files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="941"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="655"/>
         <source>Expected a single QML file in the root directory, but found </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="956"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="670"/>
         <source>Expected a single image file in the root directory, but found </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="1049"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="763"/>
         <source>Failed to rename plugin</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3070,70 +3070,70 @@
         <translation type="obsolete">Uždaryti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="47"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="48"/>
         <source>Internal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="47"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="48"/>
         <source>Custom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="70"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="71"/>
         <source>This plugin will not be saved when the application is closed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="122"/>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="128"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="125"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="131"/>
         <source>Name</source>
         <translation type="unfinished">Vardas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="145"/>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="175"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="148"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="179"/>
         <source>Url</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="151"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="154"/>
         <source>QML file or ZIP archive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="211"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="215"/>
         <source>Open local qml file or archive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="211"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="215"/>
         <source>Note: local plugins are not saved between sessions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="219"/>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="244"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="223"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="249"/>
         <source>Icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="227"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="231"/>
         <source>Icon files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="268"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="273"/>
         <source>Open local icon file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="279"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="284"/>
         <source>Ok</source>
         <translation type="unfinished">Ok</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="333"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="338"/>
         <source>Add plugin</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3141,102 +3141,38 @@
 <context>
     <name>PluginSettings_old</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="16"/>
         <source>Plugins</source>
-        <translation type="unfinished">Papildiniai</translation>
+        <translation type="obsolete">Papildiniai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="35"/>
-        <source>Open Qml or Zip file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="36"/>
-        <source>Qml or Zip files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="71"/>
-        <source>Image file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="72"/>
-        <source>Image files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="93"/>
-        <source>Uninitialized</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="95"/>
-        <source>Idle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="97"/>
-        <source>Downloading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="99"/>
-        <source>Unpacking</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="102"/>
         <source>Unknown</source>
-        <translation type="unfinished">Nežinoma</translation>
+        <translation type="obsolete">Nežinoma</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="143"/>
         <source>URL to plugin</source>
-        <translation type="unfinished">URL į papildinį</translation>
+        <translation type="obsolete">URL į papildinį</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="153"/>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="185"/>
-        <source>...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="164"/>
-        <source>Name of the plugin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="175"/>
-        <source>URL to plugin icon</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="194"/>
         <source>Cancel</source>
-        <translation type="unfinished">Nutraukti</translation>
+        <translation type="obsolete">Nutraukti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="200"/>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="290"/>
         <source>Add</source>
-        <translation type="unfinished">Papildyti</translation>
+        <translation type="obsolete">Papildyti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="254"/>
         <source>Delete</source>
-        <translation type="unfinished">Pašalinti</translation>
+        <translation type="obsolete">Pašalinti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PluginSettings_old.qml" line="299"/>
         <source>Close</source>
-        <translation type="unfinished">Uždaryti</translation>
+        <translation type="obsolete">Uždaryti</translation>
     </message>
 </context>
 <context>
     <name>PopupLoader</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="164"/>
+        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="106"/>
         <source>Cancel</source>
         <translation type="unfinished">Nutraukti</translation>
     </message>
@@ -3246,32 +3182,32 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="169"/>
+        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="111"/>
         <source>Back</source>
         <translation>Atgal</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="170"/>
+        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="112"/>
         <source>back</source>
         <translation>atgal</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="175"/>
+        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="117"/>
         <source>Finish</source>
         <translation>Užbaigti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="180"/>
+        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="122"/>
         <source>Next</source>
         <translation>Toliau</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="181"/>
+        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="123"/>
         <source>forward</source>
         <translation>pirmyn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="186"/>
+        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="128"/>
         <source>Ok</source>
         <translation type="unfinished">Ok</translation>
     </message>
@@ -3549,36 +3485,30 @@ Only UTF-8 encoded files are supported</source>
 <context>
     <name>SaveStation</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/SaveStation.qml" line="46"/>
         <source>Station </source>
-        <translation type="unfinished">Stotis </translation>
+        <translation type="obsolete">Stotis </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/SaveStation.qml" line="46"/>
         <source> already exists
 Click again to overwrite</source>
-        <translation> jau egzistuoja
+        <translation type="vanished"> jau egzistuoja
 Spustelėkite dar kartą, kad perrašytumėte</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/SaveStation.qml" line="58"/>
         <source>Station Name:</source>
-        <translation>Stoties pavadinimas:</translation>
+        <translation type="vanished">Stoties pavadinimas:</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/SaveStation.qml" line="65"/>
         <source>Enter your station name</source>
-        <translation>Įveskite savo stoties pavadinimą</translation>
+        <translation type="vanished">Įveskite savo stoties pavadinimą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/SaveStation.qml" line="78"/>
         <source>Overwrite</source>
-        <translation>Perrašyti</translation>
+        <translation type="vanished">Perrašyti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/SaveStation.qml" line="78"/>
         <source>Save</source>
-        <translation>Išsaugoti</translation>
+        <translation type="vanished">Išsaugoti</translation>
     </message>
 </context>
 <context>
@@ -3600,27 +3530,27 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
 <context>
     <name>SettingsInterface</name>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="110"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="109"/>
         <source>Failed to translate language to</source>
         <translation type="unfinished">Nepavyko išversti kalbos į</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="118"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="117"/>
         <source>Language changed</source>
         <translation type="unfinished">Kalba pasikeitė</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="224"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="223"/>
         <source>Failed to save settings for</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="229"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="228"/>
         <source>Settings for</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="229"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="228"/>
         <source>saved</source>
         <translation type="unfinished"></translation>
     </message>
