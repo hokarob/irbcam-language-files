@@ -3193,12 +3193,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="378"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="379"/>
         <source>Add Targets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="405"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="406"/>
         <source>Configure Path</source>
         <translation>Konfigūruoti Maršrutą</translation>
     </message>
@@ -3247,7 +3247,7 @@
         <translation type="obsolete">Konfigūruoti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="431"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="432"/>
         <source>Configure Max Distance</source>
         <translation type="unfinished">Konfigūruokite maksimalų atstumą</translation>
     </message>

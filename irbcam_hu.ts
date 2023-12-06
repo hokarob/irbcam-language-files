@@ -3248,12 +3248,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="378"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="379"/>
         <source>Add Targets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="405"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="406"/>
         <source>Configure Path</source>
         <translation>Útvonal beállítás</translation>
     </message>
@@ -3302,7 +3302,7 @@
         <translation type="vanished">Beállítás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="431"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="432"/>
         <source>Configure Max Distance</source>
         <translation>Max távolság beállítása</translation>
     </message>

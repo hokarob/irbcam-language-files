@@ -3493,12 +3493,12 @@
         <translation>Zeigt Änderungen in Geschwindigkeit, Werkzeug und Spindeldrehzahl an</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="378"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="379"/>
         <source>Add Targets</source>
         <translation>Ziele hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="405"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="406"/>
         <source>Configure Path</source>
         <translation>Pfad konfigurieren</translation>
     </message>
@@ -3547,7 +3547,7 @@
         <translation type="vanished">Konfigurieren</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="431"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="432"/>
         <source>Configure Max Distance</source>
         <translation>Maximale Entfernung konfigurieren</translation>
     </message>

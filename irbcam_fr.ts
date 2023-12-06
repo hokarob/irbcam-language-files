@@ -3497,12 +3497,12 @@
         <translation>Indique les changements de vitesse, d&apos;outils, et de vitesse de la broche</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="378"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="379"/>
         <source>Add Targets</source>
         <translation>Ajouter des cibles</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="405"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="406"/>
         <source>Configure Path</source>
         <translation>Configurer le chemin</translation>
     </message>
@@ -3551,7 +3551,7 @@
         <translation type="vanished">Configurer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="431"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="432"/>
         <source>Configure Max Distance</source>
         <translation>Configurer la distance maximale</translation>
     </message>
