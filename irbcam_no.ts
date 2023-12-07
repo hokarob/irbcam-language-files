@@ -4548,7 +4548,7 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
         <location filename="../../../backend/src/stationviewer.cpp" line="432"/>
         <location filename="../../../backend/src/stationviewer.cpp" line="532"/>
         <location filename="../../../backend/src/stationviewer.cpp" line="582"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="735"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="743"/>
         <source>Animation aborted</source>
         <translation>Animasjonen ble avbrutt</translation>
     </message>
@@ -4565,7 +4565,7 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
         <translation>har null hastighet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="735"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="743"/>
         <source>Target is unreachable with the current configuration</source>
         <translation>Målet er ikke tilgjengelig med gjeldende konfigurasjon</translation>
     </message>

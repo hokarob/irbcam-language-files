@@ -4623,7 +4623,7 @@ Dies könnte auf eine Speicherung aus einer älteren Version zurückzuführen se
         <location filename="../../../backend/src/stationviewer.cpp" line="432"/>
         <location filename="../../../backend/src/stationviewer.cpp" line="532"/>
         <location filename="../../../backend/src/stationviewer.cpp" line="582"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="735"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="743"/>
         <source>Animation aborted</source>
         <translation>Animation abgebrochen</translation>
     </message>
@@ -4640,7 +4640,7 @@ Dies könnte auf eine Speicherung aus einer älteren Version zurückzuführen se
         <translation>hat die Geschwindigkeit Null</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="735"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="743"/>
         <source>Target is unreachable with the current configuration</source>
         <translation>Das Ziel ist mit der aktuellen Konfiguration nicht erreichbar</translation>
     </message>

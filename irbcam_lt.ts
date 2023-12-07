@@ -4218,7 +4218,7 @@ Tai gali būti dėl to, kad išsaugota versija yra senesnė</translation>
         <location filename="../../../backend/src/stationviewer.cpp" line="432"/>
         <location filename="../../../backend/src/stationviewer.cpp" line="532"/>
         <location filename="../../../backend/src/stationviewer.cpp" line="582"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="735"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="743"/>
         <source>Animation aborted</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4235,7 +4235,7 @@ Tai gali būti dėl to, kad išsaugota versija yra senesnė</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="735"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="743"/>
         <source>Target is unreachable with the current configuration</source>
         <translation type="unfinished"></translation>
     </message>

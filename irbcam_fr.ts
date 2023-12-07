@@ -4611,7 +4611,7 @@ Cela peut être dû à une sauvegarde provenant d&apos;une version antérieure</
         <location filename="../../../backend/src/stationviewer.cpp" line="432"/>
         <location filename="../../../backend/src/stationviewer.cpp" line="532"/>
         <location filename="../../../backend/src/stationviewer.cpp" line="582"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="735"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="743"/>
         <source>Animation aborted</source>
         <translation>Animation interrompue</translation>
     </message>
@@ -4634,7 +4634,7 @@ Cela peut être dû à une sauvegarde provenant d&apos;une version antérieure</
         <translation>a une vitesse nulle</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="735"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="743"/>
         <source>Target is unreachable with the current configuration</source>
         <translation>La cible est inaccessible avec la configuration actuelle</translation>
     </message>

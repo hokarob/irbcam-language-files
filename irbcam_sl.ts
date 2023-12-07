@@ -4206,7 +4206,7 @@ To je lahko posledica shranjevanja iz starejše različice
         <location filename="../../../backend/src/stationviewer.cpp" line="432"/>
         <location filename="../../../backend/src/stationviewer.cpp" line="532"/>
         <location filename="../../../backend/src/stationviewer.cpp" line="582"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="735"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="743"/>
         <source>Animation aborted</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4223,7 +4223,7 @@ To je lahko posledica shranjevanja iz starejše različice
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="735"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="743"/>
         <source>Target is unreachable with the current configuration</source>
         <translation type="unfinished"></translation>
     </message>
