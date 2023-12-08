@@ -189,69 +189,131 @@
     </message>
 </context>
 <context>
+    <name>BugReportData</name>
+    <message>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1069"/>
+        <source>Failed to send report</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BugReporting</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="18"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="21"/>
         <source>Feedback</source>
         <translation>Rückmeldung</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="48"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="43"/>
+        <source>Uninitialized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="45"/>
+        <source>Idle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="47"/>
+        <source>Uploading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="49"/>
+        <source>Downloading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="51"/>
+        <source>Unpacking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="54"/>
+        <source>Unknown</source>
+        <translation type="unfinished">Unbekannt</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="87"/>
         <source>Type</source>
         <translation>Typ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="53"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="92"/>
         <source>Bug Report</source>
         <translation>Fehlerbericht</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="53"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="92"/>
         <source>Feature Request</source>
         <translation>Featureanfrage</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="62"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="104"/>
         <source>Please provide a detailed description of the bug you would like to report. This may include information such as:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="63"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="105"/>
         <source>What were you doing when the bug occurred</source>
         <translation>Was haben Sie getan, als der Fehler auftrat?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="64"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="106"/>
         <source>What was the expected vs actual behavior</source>
         <translation>Was war das erwartete und tatsächliche Verhalten?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="65"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="107"/>
         <source>A step-by-step instruction of how to reproduce the issue</source>
         <translation>Eine Schritt-für-Schritt-Anleitung zur Reproduktion des Problems</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="67"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="109"/>
         <source>Please provide a detailed description of the feature you would like to see in IRBCAM in the future.</source>
         <translation>Bitte geben Sie eine detaillierte Beschreibung der Funktion an, die Sie in Zukunft in IRBCAM sehen möchten.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="68"/>
-        <source>Clicking the &apos;Send&apos; button will open a prefilled email template. Feel free to modify the body of this template and add attachments such as images.</source>
-        <translation>Durch Klicken auf die Schaltfläche &apos;Senden&apos; wird eine vorab ausgefüllte E-Mail-Vorlage geöffnet. Sie können den Hauptteil dieser Vorlage jederzeit ändern und Anhänge wie Bilder hinzufügen.</translation>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="110"/>
+        <source>You can add 1 attachement (upto 25MB). Clicking the &apos;Send&apos; button will send the report.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="83"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="174"/>
+        <source>Open file</source>
+        <translation type="unfinished">Datei öffnen</translation>
+    </message>
+    <message>
+        <source>Clicking the &apos;Send&apos; button will open a prefilled email template. Feel free to modify the body of this template and add attachments such as images.</source>
+        <translation type="vanished">Durch Klicken auf die Schaltfläche &apos;Senden&apos; wird eine vorab ausgefüllte E-Mail-Vorlage geöffnet. Sie können den Hauptteil dieser Vorlage jederzeit ändern und Anhänge wie Bilder hinzufügen.</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="125"/>
         <source>Describe the issue</source>
         <translation>Beschreibe das Problem</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="83"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="125"/>
         <source>Describe the desired feature</source>
         <translation>Beschreiben Sie die gewünschte Funktion</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="93"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="137"/>
+        <source>Attachment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="146"/>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="151"/>
+        <source>...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="163"/>
         <source>Send</source>
         <translation>Schicken</translation>
     </message>
@@ -4411,147 +4473,147 @@ Es werden nur UTF-8-codierte Dateien unterstützt</translation>
         <translation type="vanished">Pfad aus JSON importiert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="304"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="305"/>
         <source>Failed to confirm that the station was saved to the server (the station may or may not have been saved)</source>
         <translation type="unfinished">Konnte nicht bestätigen, dass die Station auf dem Server gespeichert wurde (die Station wurde möglicherweise nicht gespeichert)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="329"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="444"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1088"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="330"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="445"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1089"/>
         <source>Station</source>
         <translation type="unfinished">Roboterstation</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="329"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="330"/>
         <source>saved</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="364"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="365"/>
         <source>Failed to download station from server</source>
         <translation type="unfinished">Fehler beim Herunterladen der Station vom Server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="419"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="420"/>
         <source>Failed to confirm that the station was deleted from the server (the station may or may not have been deleted)</source>
         <translation type="unfinished">Konnte nicht bestätigen, dass die Station vom Server gelöscht wurde (die Station wurde möglicherweise nicht gelöscht)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="444"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="445"/>
         <source>was deleted from the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="583"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="584"/>
         <source>File</source>
         <translation type="unfinished">Datei</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="606"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="607"/>
         <source>Maximum APT file size</source>
         <translation type="unfinished">Maximale APT-Dateigröße</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="606"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="607"/>
         <source>exceeded. Current file size (after compression): </source>
         <translation type="unfinished">überschritten. Aktuelle Dateigröße (nach Komprimierung): </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="607"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="608"/>
         <source>Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <translation type="unfinished">Größere Pfade können importiert werden, indem die APT-Datei in kleinere Dateien aufgeteilt und die Option &apos;anhängen&apos; verwendet wird</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="622"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="623"/>
         <source>Failed to get parsed apt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="622"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="623"/>
         <source>from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="667"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="668"/>
         <source>Failed to import APT file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="754"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="755"/>
         <source>Failed to get robot code from server</source>
         <translation type="unfinished">Fehler beim Abrufen des Roboter-Codes vom Server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="840"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="859"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="841"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="860"/>
         <source>Failed to recover saved station</source>
         <translation>Der gespeicherte Station konnte nicht wiederhergestellt werden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="881"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="882"/>
         <source>Missing robot info in station retrieved from server</source>
         <translation>Fehlende Roboter-Informationen in der vom Server abgerufenen Station</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="882"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="891"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="917"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="926"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="955"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="969"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="978"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1015"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="883"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="892"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="918"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="927"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="956"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="970"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="979"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1016"/>
         <source>This may be due to the save coming from an older version of IRBCAM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="890"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="891"/>
         <source>Station was loaded but robot data was corrupt or missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="916"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="917"/>
         <source>Missing tool info in station retrieved from server</source>
         <translation>Fehlende Werkzeug-Informationen in der vom Server abgerufenen Station</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="925"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="926"/>
         <source>Station was loaded but tool data was corrupt or missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="954"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="955"/>
         <source>Station was loaded but generic tool data was missing or corrupt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="968"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="969"/>
         <source>Missing turntable info in station retrieved from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="977"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="978"/>
         <source>Station was loaded but turntable data was corrupt or missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1003"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1004"/>
         <source>Missing station info in station retrieved from server</source>
         <translation>Fehlende Stationsinfo in der vom Server abgerufenen Station</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1014"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1015"/>
         <source>Station was loaded with missing info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1020"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1021"/>
         <source>Failed to load station data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1088"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1089"/>
         <source>loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4560,7 +4622,7 @@ Es werden nur UTF-8-codierte Dateien unterstützt</translation>
         <translation type="vanished">Fehler beim Importieren der APT-Datei: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="672"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="673"/>
         <source>Path imported from APT</source>
         <translation>Pfad aus APT importiert</translation>
     </message>
@@ -4593,7 +4655,7 @@ This may be due to the save coming from an older version</source>
 Dies könnte auf eine Speicherung aus einer älteren Version zurückzuführen sein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1079"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1080"/>
         <source>Path information missing from saved station</source>
         <translation>Pfadinformationen fehlen in der gespeicherten Station</translation>
     </message>
@@ -4606,12 +4668,12 @@ Dies könnte auf eine Speicherung aus einer älteren Version zurückzuführen se
         <translation type="vanished"> gespeichert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1128"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1129"/>
         <source>Autosave</source>
         <translation>Automatisch speichern</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1130"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1131"/>
         <source>unnamed</source>
         <translation>unbenannt</translation>
     </message>
