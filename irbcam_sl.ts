@@ -168,6 +168,16 @@
         <source>Failed to send report</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1079"/>
+        <source>Attachment should be less than</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1106"/>
+        <source>Report sent</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>BugReporting</name>
@@ -4073,152 +4083,152 @@ Za prepis znova kliknite</translation>
         <translation type="obsolete">Največja razdalja je uspešno konfigurirana</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="305"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="269"/>
         <source>Failed to confirm that the station was saved to the server (the station may or may not have been saved)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="330"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="445"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1089"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="294"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="459"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1103"/>
         <source>Station</source>
         <translation type="unfinished">Postaja</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="330"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="294"/>
         <source>saved</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="365"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="379"/>
         <source>Failed to download station from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="420"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="434"/>
         <source>Failed to confirm that the station was deleted from the server (the station may or may not have been deleted)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="445"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="459"/>
         <source>was deleted from the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="584"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="598"/>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="607"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="621"/>
         <source>Maximum APT file size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="607"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="621"/>
         <source>exceeded. Current file size (after compression): </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="608"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="622"/>
         <source>Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="623"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="637"/>
         <source>Failed to get parsed apt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="623"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="637"/>
         <source>from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="668"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="682"/>
         <source>Failed to import APT file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="673"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="687"/>
         <source>Path imported from APT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="755"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="769"/>
         <source>Failed to get robot code from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="841"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="860"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="855"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="874"/>
         <source>Failed to recover saved station</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="882"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="896"/>
         <source>Missing robot info in station retrieved from server</source>
         <translation type="unfinished">Manjkajoče informacije o robotu v postaji, pridobljene s strežnika</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="883"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="892"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="918"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="927"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="956"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="897"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="906"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="932"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="941"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="970"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="979"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1016"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="984"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="993"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1030"/>
         <source>This may be due to the save coming from an older version of IRBCAM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="891"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="905"/>
         <source>Station was loaded but robot data was corrupt or missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="917"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="931"/>
         <source>Missing tool info in station retrieved from server</source>
         <translation type="unfinished">Manjkajoče informacije o orodju v postaji, pridobljeni s strežnika</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="926"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="940"/>
         <source>Station was loaded but tool data was corrupt or missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="955"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="969"/>
         <source>Station was loaded but generic tool data was missing or corrupt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="969"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="983"/>
         <source>Missing turntable info in station retrieved from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="978"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="992"/>
         <source>Station was loaded but turntable data was corrupt or missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1004"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1018"/>
         <source>Missing station info in station retrieved from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1015"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1029"/>
         <source>Station was loaded with missing info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1021"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1035"/>
         <source>Failed to load station data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1089"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1103"/>
         <source>loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4234,7 +4244,7 @@ To je lahko posledica shranjevanja iz starejše različice
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1080"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1094"/>
         <source>Path information missing from saved station</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4247,12 +4257,12 @@ To je lahko posledica shranjevanja iz starejše različice
         <translation type="obsolete"> shranjeno</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1129"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1143"/>
         <source>Autosave</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1131"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1145"/>
         <source>unnamed</source>
         <translation type="unfinished"></translation>
     </message>
