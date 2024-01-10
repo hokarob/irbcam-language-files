@@ -74,23 +74,23 @@
     <message>
         <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="533"/>
         <source>Failed to confirm that</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke bekrefte at</translation>
     </message>
     <message>
         <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="533"/>
         <source>was deleted from the server (the item may or may not have been deleted)</source>
-        <translation type="unfinished"></translation>
+        <translation>ble slettet fra serveren (objektet kan ha blitt slettet)</translation>
     </message>
     <message>
         <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="563"/>
         <source>was deleted from the server</source>
-        <translation type="unfinished"></translation>
+        <translation>ble slettet fra serveren</translation>
     </message>
     <message>
         <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="639"/>
         <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="673"/>
         <source>Failed to download geometry from server</source>
-        <translation type="unfinished">Kunne ikke laste ned geometri fra server</translation>
+        <translation>Kunne ikke laste ned geometri fra server</translation>
     </message>
     <message>
         <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="728"/>
@@ -101,12 +101,12 @@
     <message>
         <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="766"/>
         <source>Custom geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Egendefinert geometri</translation>
     </message>
     <message>
         <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="766"/>
         <source>loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>lastet</translation>
     </message>
     <message>
         <source>Custom geometry &apos;</source>
@@ -140,33 +140,33 @@
     <message>
         <location filename="../../../backend/src/basedatainterface.cpp" line="172"/>
         <source>Failed to confirm that</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke bekrefte at</translation>
     </message>
     <message>
         <location filename="../../../backend/src/basedatainterface.cpp" line="172"/>
         <source>was deleted from the server (the item may or may not have been deleted)</source>
-        <translation type="unfinished"></translation>
+        <translation>ble slettet fra serveren (objektet kan ha blitt slettet)</translation>
     </message>
     <message>
         <location filename="../../../backend/src/basedatainterface.cpp" line="202"/>
         <source>was deleted from the server</source>
-        <translation type="unfinished"></translation>
+        <translation>ble slettet fra serveren</translation>
     </message>
     <message>
         <location filename="../../../backend/src/basedatainterface.cpp" line="265"/>
         <source>Failed to load</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke laste</translation>
     </message>
     <message>
         <location filename="../../../backend/src/basedatainterface.cpp" line="352"/>
         <source>loaded</source>
-        <translation type="unfinished"></translation>
+        <translation>lastet</translation>
     </message>
     <message>
         <location filename="../../../backend/src/basedatainterface.cpp" line="371"/>
         <location filename="../../../backend/src/basedatainterface.cpp" line="423"/>
         <source>Failed to download item from server</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke laste ned objekt fra serveren</translation>
     </message>
 </context>
 <context>
@@ -242,7 +242,7 @@
     <message>
         <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="104"/>
         <source>Please provide a detailed description of the bug you would like to report. This may include information such as:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv en detaljert beskrivelse av feilen du vil rapportere. Dette kan inkludere informasjon som:</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="105"/>
@@ -521,12 +521,12 @@
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="116"/>
         <source>Turntable Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Rotasjonsbordmodus</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="150"/>
         <source>Turntable Angle (deg)</source>
-        <translation type="unfinished"></translation>
+        <translation>Vinkel rotasjonsbord (grader)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="210"/>
@@ -800,12 +800,12 @@
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="197"/>
         <source>Parent frame</source>
-        <translation type="unfinished"></translation>
+        <translation>Overordnet koodrinatsystem</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="204"/>
         <source>Global</source>
-        <translation type="unfinished">Global</translation>
+        <translation>Global</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="205"/>
