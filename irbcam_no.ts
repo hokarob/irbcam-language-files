@@ -164,7 +164,7 @@
     </message>
     <message>
         <location filename="../../../backend/src/basedatainterface.cpp" line="371"/>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="415"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="423"/>
         <source>Failed to download item from server</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2001,72 +2001,72 @@
         <translation type="vanished">Feil: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="724"/>
+        <location filename="../../../backend/src/networking.cpp" line="731"/>
         <source>unknown user</source>
         <translation>Ukjent bruker</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="732"/>
+        <location filename="../../../backend/src/networking.cpp" line="739"/>
         <source>unknown username</source>
         <translation>Ukjent brukernavn</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="736"/>
+        <location filename="../../../backend/src/networking.cpp" line="743"/>
         <source>Welcome </source>
         <translation>Velkommen </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="754"/>
+        <location filename="../../../backend/src/networking.cpp" line="761"/>
         <source> loaded
 </source>
         <translation> lastet
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="755"/>
+        <location filename="../../../backend/src/networking.cpp" line="762"/>
         <source>Some settings were not available on the server. This is likely due to new settings being introduced in IRBCAM
 </source>
         <translation>Noen innstillinger var ikke tilgjengelige på serveren. Dette er sannsynligvis på grunn av nye innstillinger introdusert i IRBCAM
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="756"/>
+        <location filename="../../../backend/src/networking.cpp" line="763"/>
         <source>The affected settings have been set to their default values</source>
         <translation>De berørte innstillingene er satt til standardverdiene</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="765"/>
+        <location filename="../../../backend/src/networking.cpp" line="772"/>
         <source>Failed to load settings for </source>
         <translation>Kunne ikke laste inn innstillinger for </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="973"/>
+        <location filename="../../../backend/src/networking.cpp" line="998"/>
         <source>A new minor version of IRBCAM is available.</source>
         <translation>En ny mindre versjon av IRBCAM er tilgjengelig.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="974"/>
+        <location filename="../../../backend/src/networking.cpp" line="999"/>
         <source>Save your work and reload page to get the newest features</source>
         <translation>Lagre arbeidet ditt og last inn siden på nytt for å få de nyeste funksjonene</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="979"/>
+        <location filename="../../../backend/src/networking.cpp" line="1004"/>
         <source>A new major version of IRBCAM is available.</source>
         <translation>En ny hovedversjon av IRBCAM er tilgjengelig.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="980"/>
+        <location filename="../../../backend/src/networking.cpp" line="1005"/>
         <source>Some features may be unavailable until page is reloaded.</source>
         <translation>Noen funksjoner kan være utilgjengelige før siden er lastet inn på nytt.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="981"/>
+        <location filename="../../../backend/src/networking.cpp" line="1006"/>
         <source>Please save your work and reload page as soon as possible</source>
         <translation>Lagre arbeidet ditt og last inn siden på nytt så snart som mulig</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="754"/>
-        <location filename="../../../backend/src/networking.cpp" line="772"/>
+        <location filename="../../../backend/src/networking.cpp" line="761"/>
+        <location filename="../../../backend/src/networking.cpp" line="779"/>
         <source>Settings for </source>
         <translation>Innstillinger for </translation>
     </message>
@@ -2076,22 +2076,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="772"/>
+        <location filename="../../../backend/src/networking.cpp" line="779"/>
         <source> loaded</source>
         <translation> lastet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="891"/>
+        <location filename="../../../backend/src/networking.cpp" line="916"/>
         <source>A network error occurred</source>
         <translation>Det oppstod en nettverksfeil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="921"/>
+        <location filename="../../../backend/src/networking.cpp" line="946"/>
         <source>Remote error</source>
         <translation>Fjernfeil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="921"/>
+        <location filename="../../../backend/src/networking.cpp" line="946"/>
         <source>code</source>
         <translation>Kode</translation>
     </message>
