@@ -164,7 +164,7 @@
     </message>
     <message>
         <location filename="../../../backend/src/basedatainterface.cpp" line="408"/>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="457"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="479"/>
         <source>Failed to download item from server</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2090,27 +2090,27 @@
         <translation>Kunne ikke laste inn innstillinger for </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1002"/>
+        <location filename="../../../backend/src/networking.cpp" line="999"/>
         <source>A new minor version of IRBCAM is available.</source>
         <translation>En ny mindre versjon av IRBCAM er tilgjengelig.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1003"/>
+        <location filename="../../../backend/src/networking.cpp" line="1000"/>
         <source>Save your work and reload page to get the newest features</source>
         <translation>Lagre arbeidet ditt og last inn siden på nytt for å få de nyeste funksjonene</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1008"/>
+        <location filename="../../../backend/src/networking.cpp" line="1005"/>
         <source>A new major version of IRBCAM is available.</source>
         <translation>En ny hovedversjon av IRBCAM er tilgjengelig.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1009"/>
+        <location filename="../../../backend/src/networking.cpp" line="1006"/>
         <source>Some features may be unavailable until page is reloaded.</source>
         <translation>Noen funksjoner kan være utilgjengelige før siden er lastet inn på nytt.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1010"/>
+        <location filename="../../../backend/src/networking.cpp" line="1007"/>
         <source>Please save your work and reload page as soon as possible</source>
         <translation>Lagre arbeidet ditt og last inn siden på nytt så snart som mulig</translation>
     </message>
@@ -2131,17 +2131,17 @@
         <translation> lastet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="920"/>
+        <location filename="../../../backend/src/networking.cpp" line="917"/>
         <source>A network error occurred</source>
         <translation>Det oppstod en nettverksfeil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="950"/>
+        <location filename="../../../backend/src/networking.cpp" line="947"/>
         <source>Remote error</source>
         <translation>Fjernfeil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="950"/>
+        <location filename="../../../backend/src/networking.cpp" line="947"/>
         <source>code</source>
         <translation>Kode</translation>
     </message>
@@ -4528,7 +4528,7 @@ Bare UTF-8-kodede filer støttes</translation>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="300"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="453"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1075"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1068"/>
         <source>Station</source>
         <translation type="unfinished">Stasjon</translation>
     </message>
@@ -4593,78 +4593,68 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="unfinished">Kunne ikke hente robotkode fra serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="736"/>
-        <source>Failed to confirm that the robot was added to the user (the robot-user relation may or may not have been saved)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="781"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="837"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="778"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="832"/>
         <source>Robot</source>
         <translation type="unfinished">Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="781"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="778"/>
         <source>added to user</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="812"/>
-        <source>Failed to confirm that the user-robot relation was deleted from the server (the user-robot relation may or may not have been deleted)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="837"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="832"/>
         <source>was removed from user-robot relation in the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="874"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="893"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="869"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="888"/>
         <source>Failed to recover saved station</source>
         <translation>Kunne ikke gjenopprette lagret stasjon</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="914"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="909"/>
         <source>Missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="914"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="909"/>
         <source>info in station retrieved from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="920"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="915"/>
         <source>Station was loaded but</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="920"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="915"/>
         <source>data was corrupt or missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="934"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="940"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="929"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="935"/>
         <source>robot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="948"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="954"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="943"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="949"/>
         <source>tool</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="962"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="968"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="957"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="963"/>
         <source>turntable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="978"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="984"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="973"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="979"/>
         <source>linear track</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4673,9 +4663,9 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Mangler robot info i stasjon hentet fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="915"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="921"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1008"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="910"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="916"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1003"/>
         <source>This may be due to the save coming from an older version of IRBCAM</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4684,22 +4674,22 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Mangler verktøy info i stasjon hentet fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="996"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="991"/>
         <source>Missing station info in station retrieved from server</source>
         <translation>Manglende stasjonsinformasjon i stasjonen hentet fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1007"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1002"/>
         <source>Station was loaded with missing info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1013"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1008"/>
         <source>Failed to load station data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1075"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1068"/>
         <source>loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4741,7 +4731,7 @@ This may be due to the save coming from an older version</source>
 Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1029"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1024"/>
         <source>Path information missing from saved station</source>
         <translation>Baneinformasjon mangler fra lagret stasjon</translation>
     </message>
@@ -4754,12 +4744,12 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
         <translation type="vanished"> lagret</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1108"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1101"/>
         <source>Autosave</source>
         <translation>Autolagring</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1110"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1103"/>
         <source>unnamed</source>
         <translation>ikke navngitt</translation>
     </message>
