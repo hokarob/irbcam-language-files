@@ -285,7 +285,7 @@
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="110"/>
-        <source>You can add 1 attachement (upto 25MB). Clicking the &apos;Send&apos; button will send the report.</source>
+        <source>You can add 1 attachment (up to 25MB). Clicking the &apos;Send&apos; button will send the report.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
