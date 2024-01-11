@@ -3599,7 +3599,7 @@
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="49"/>
         <source>Path Editor</source>
-        <translation>Redigere bane </translation>
+        <translation>Redigere bane</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="101"/>
@@ -4611,7 +4611,7 @@ Bare UTF-8-kodede filer støttes</translation>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="812"/>
         <source>Failed to confirm that the user-robot relation was deleted from the server (the user-robot relation may or may not have been deleted)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke bekrefte at bruker-robot-relasjonen ble slettet fra serveren (relasjonen kan ha blitt slettet)</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="837"/>
