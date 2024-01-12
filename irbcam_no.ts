@@ -4609,12 +4609,11 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation>lagt til bruker</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="812"/>
         <source>Failed to confirm that the user-robot relation was deleted from the server (the user-robot relation may or may not have been deleted)</source>
-        <translation>Kunne ikke bekrefte at bruker-robot-relasjonen ble slettet fra serveren (relasjonen kan ha blitt slettet)</translation>
+        <translation type="vanished">Kunne ikke bekrefte at bruker-robot-relasjonen ble slettet fra serveren (relasjonen kan ha blitt slettet)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="837"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="832"/>
         <source>was removed from user-robot relation in the server</source>
         <translation>ble fjernet fra bruker-robot-relasjonen i serveren</translation>
     </message>
