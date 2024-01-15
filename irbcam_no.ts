@@ -1285,19 +1285,6 @@
     </message>
 </context>
 <context>
-    <name>DeveloperMenu</name>
-    <message>
-        <location filename="../../IrbcamQml/Developer/DeveloperMenu.qml" line="51"/>
-        <source>LoadUserRobotRelation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Developer/DeveloperMenu.qml" line="56"/>
-        <source>Build Custom3d Model</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>EditTool</name>
     <message>
         <source>Warning!</source>
