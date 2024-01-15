@@ -70,41 +70,243 @@
     </message>
 </context>
 <context>
+    <name>AdditionalObjectEditor</name>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/AdditionalObjectEditor.qml" line="27"/>
+        <source>Additional Objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/AdditionalObjectEditor.qml" line="34"/>
+        <source>Add</source>
+        <translation type="unfinished">Legg til</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/AdditionalObjectEditor.qml" line="50"/>
+        <source>User-defined</source>
+        <translation type="unfinished">Brukerdefinert</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/AdditionalObjectEditor.qml" line="51"/>
+        <source>Cuboid</source>
+        <translation type="unfinished">Kuboide</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/AdditionalObjectEditor.qml" line="52"/>
+        <source>Spheroid</source>
+        <translation type="unfinished">Kule</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/AdditionalObjectEditor.qml" line="53"/>
+        <source>Cylinder</source>
+        <translation type="unfinished">Sylinder</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/AdditionalObjectEditor.qml" line="54"/>
+        <source>Cone</source>
+        <translation type="unfinished">Kjegle</translation>
+    </message>
+</context>
+<context>
+    <name>AdditionalObjectEditorDelegate</name>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="70"/>
+        <source>Name</source>
+        <translation type="unfinished">Navn</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="76"/>
+        <source>Enter name</source>
+        <translation type="unfinished">Skriv inn navn</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="105"/>
+        <source>Source</source>
+        <translation type="unfinished">Kilde</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="105"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="145"/>
+        <source>Color</source>
+        <translation type="unfinished">Farge</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="114"/>
+        <source>Custom</source>
+        <translation type="unfinished">Tilpasset</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="115"/>
+        <source>LightGray</source>
+        <translation type="unfinished">Lysegrå</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="116"/>
+        <source>Red</source>
+        <translation type="unfinished">Rød</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="117"/>
+        <source>Green</source>
+        <translation type="unfinished">Grønn</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="118"/>
+        <source>Blue</source>
+        <translation type="unfinished">Blå</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="147"/>
+        <source>Any valid SVG color name (eg. &apos;blue&apos;) or hex rgb triplet (eg. &apos;#808080&apos;)</source>
+        <translation type="unfinished">Ethvert gyldig SVG-fargenavn (f.eks. &apos;blå&apos;) eller hex rgb-triplett (f.eks. &apos;#808080&apos;)</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="172"/>
+        <source>Select color</source>
+        <translation type="unfinished">Velg farge</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="193"/>
+        <source>No source selected</source>
+        <translation type="unfinished">Ingen kilde er valgt</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="198"/>
+        <source>Parent frame</source>
+        <translation type="unfinished">Overordnet koodrinatsystem</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="205"/>
+        <source>Global</source>
+        <translation type="unfinished">Global</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="206"/>
+        <source>Robot base</source>
+        <translation type="unfinished">Robotbase</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="207"/>
+        <source>User frame</source>
+        <translation type="unfinished">Brukerkoordinat</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="208"/>
+        <source>Object frame</source>
+        <translation type="unfinished">Objektkoordinat</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="209"/>
+        <source>Tool frame</source>
+        <translation type="unfinished">Verktøykoordinat</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="216"/>
+        <source>Linear</source>
+        <translation type="unfinished">Lineær</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="239"/>
+        <source>Position</source>
+        <translation type="unfinished">Posisjon</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="293"/>
+        <source>Scale</source>
+        <translation type="unfinished">Skala</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="293"/>
+        <source>Size</source>
+        <translation type="unfinished">Størrelse</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="350"/>
+        <source>Rotation</source>
+        <translation type="unfinished">Rotasjon</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="356"/>
+        <source>Yaw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="362"/>
+        <source>Pitch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="368"/>
+        <source>Roll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="452"/>
+        <source>Normalize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="459"/>
+        <source>Normalize quaternions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="566"/>
+        <source>Quaternion scalar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="572"/>
+        <source>Quaternion i</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="578"/>
+        <source>Quaternion j</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="584"/>
+        <source>Quaternion k</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AdditionalObjectsModel</name>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="533"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="544"/>
         <source>Failed to confirm that</source>
         <translation>Kunne ikke bekrefte at</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="533"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="544"/>
         <source>was deleted from the server (the item may or may not have been deleted)</source>
         <translation>ble slettet fra serveren (objektet kan ha blitt slettet)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="563"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="574"/>
         <source>was deleted from the server</source>
         <translation>ble slettet fra serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="639"/>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="673"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="650"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="684"/>
         <source>Failed to download geometry from server</source>
         <translation>Kunne ikke laste ned geometri fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="728"/>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="740"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="739"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="751"/>
         <source>Could not open folder: &apos;</source>
         <translation>Kunne ikke åpne mappen: &apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="766"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="777"/>
         <source>Custom geometry</source>
         <translation>Egendefinert geometri</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="766"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="777"/>
         <source>loaded</source>
         <translation>lastet</translation>
     </message>
@@ -625,43 +827,36 @@
         <translation type="vanished">Ytterligere-Former</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/CubeEditor.qml" line="34"/>
         <source>Add</source>
-        <translation>Legg til</translation>
+        <translation type="vanished">Legg til</translation>
     </message>
     <message>
         <source>Basic</source>
         <translation type="vanished">Grunnleggende</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/CubeEditor.qml" line="27"/>
         <source>Additional Objects</source>
-        <translation>Flere objekter</translation>
+        <translation type="vanished">Flere objekter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/CubeEditor.qml" line="50"/>
         <source>User-defined</source>
-        <translation>Brukerdefinert</translation>
+        <translation type="vanished">Brukerdefinert</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/CubeEditor.qml" line="51"/>
         <source>Cuboid</source>
-        <translation>Kuboide</translation>
+        <translation type="vanished">Kuboide</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/CubeEditor.qml" line="52"/>
         <source>Spheroid</source>
-        <translation>Kule</translation>
+        <translation type="vanished">Kule</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/CubeEditor.qml" line="53"/>
         <source>Cylinder</source>
-        <translation>Sylinder</translation>
+        <translation type="vanished">Sylinder</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/CubeEditor.qml" line="54"/>
         <source>Cone</source>
-        <translation>Kjegle</translation>
+        <translation type="vanished">Kjegle</translation>
     </message>
     <message>
         <source>Name</source>
@@ -787,165 +982,132 @@
 <context>
     <name>CubeEditorDelegate</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="69"/>
         <source>Name</source>
-        <translation>Navn</translation>
+        <translation type="vanished">Navn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="75"/>
         <source>Enter name</source>
-        <translation>Skriv inn navn</translation>
+        <translation type="vanished">Skriv inn navn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="104"/>
         <source>Source</source>
-        <translation>Kilde</translation>
+        <translation type="vanished">Kilde</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="104"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="144"/>
         <source>Color</source>
-        <translation>Farge</translation>
+        <translation type="vanished">Farge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="113"/>
         <source>Custom</source>
-        <translation>Tilpasset</translation>
+        <translation type="vanished">Tilpasset</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="114"/>
         <source>LightGray</source>
-        <translation>Lysegrå</translation>
+        <translation type="vanished">Lysegrå</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="115"/>
         <source>Red</source>
-        <translation>Rød</translation>
+        <translation type="vanished">Rød</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="116"/>
         <source>Green</source>
-        <translation>Grønn</translation>
+        <translation type="vanished">Grønn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="117"/>
         <source>Blue</source>
-        <translation>Blå</translation>
+        <translation type="vanished">Blå</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="146"/>
         <source>Any valid SVG color name (eg. &apos;blue&apos;) or hex rgb triplet (eg. &apos;#808080&apos;)</source>
-        <translation>Ethvert gyldig SVG-fargenavn (f.eks. &apos;blå&apos;) eller hex rgb-triplett (f.eks. &apos;#808080&apos;)</translation>
+        <translation type="vanished">Ethvert gyldig SVG-fargenavn (f.eks. &apos;blå&apos;) eller hex rgb-triplett (f.eks. &apos;#808080&apos;)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="171"/>
         <source>Select color</source>
-        <translation>Velg farge</translation>
+        <translation type="vanished">Velg farge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="192"/>
         <source>No source selected</source>
-        <translation>Ingen kilde er valgt</translation>
+        <translation type="vanished">Ingen kilde er valgt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="197"/>
         <source>Parent frame</source>
-        <translation>Overordnet koodrinatsystem</translation>
+        <translation type="vanished">Overordnet koodrinatsystem</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="204"/>
         <source>Global</source>
-        <translation>Global</translation>
+        <translation type="vanished">Global</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="205"/>
         <source>Robot base</source>
-        <translation>Robotbase</translation>
+        <translation type="vanished">Robotbase</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="206"/>
         <source>User frame</source>
-        <translation>Brukerkoordinat</translation>
+        <translation type="vanished">Brukerkoordinat</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="207"/>
         <source>Object frame</source>
-        <translation>Objektkoordinat</translation>
+        <translation type="vanished">Objektkoordinat</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="208"/>
         <source>Tool frame</source>
-        <translation>Verktøykoordinat</translation>
+        <translation type="vanished">Verktøykoordinat</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="215"/>
         <source>Linear</source>
-        <translation>Lineær</translation>
+        <translation type="vanished">Lineær</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="238"/>
         <source>Position</source>
-        <translation>Posisjon</translation>
+        <translation type="vanished">Posisjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="292"/>
         <source>Scale</source>
-        <translation>Skala</translation>
+        <translation type="vanished">Skala</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="292"/>
         <source>Size</source>
-        <translation>Størrelse</translation>
+        <translation type="vanished">Størrelse</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="349"/>
         <source>Rotation</source>
-        <translation>Rotasjon</translation>
+        <translation type="vanished">Rotasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="355"/>
         <source>Yaw</source>
-        <translation>Dreining</translation>
+        <translation type="vanished">Dreining</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="361"/>
         <source>Pitch</source>
-        <translation>Stamping</translation>
+        <translation type="vanished">Stamping</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="367"/>
         <source>Roll</source>
-        <translation>Rulling</translation>
+        <translation type="vanished">Rulling</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="451"/>
         <source>Normalize</source>
-        <translation>Normalisere</translation>
+        <translation type="vanished">Normalisere</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="458"/>
         <source>Normalize quaternions</source>
-        <translation>Normaliser kvaternioner</translation>
+        <translation type="vanished">Normaliser kvaternioner</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="565"/>
         <source>Quaternion scalar</source>
-        <translation>Kvaternionskalar</translation>
+        <translation type="vanished">Kvaternionskalar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="571"/>
         <source>Quaternion i</source>
-        <translation>Kvaternion-i</translation>
+        <translation type="vanished">Kvaternion-i</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="577"/>
         <source>Quaternion j</source>
-        <translation>Kvaternion-j</translation>
+        <translation type="vanished">Kvaternion-j</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/CubeEditorDelegate.qml" line="583"/>
         <source>Quaternion k</source>
-        <translation>Kvaternion-k</translation>
+        <translation type="vanished">Kvaternion-k</translation>
     </message>
 </context>
 <context>
