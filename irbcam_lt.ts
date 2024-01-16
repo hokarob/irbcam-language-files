@@ -4509,32 +4509,32 @@ Tai gali būti dėl to, kad išsaugota versija yra senesnė</translation>
     <name>StationViewer</name>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="476"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="576"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="626"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="789"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="577"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="630"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="818"/>
         <source>Animation aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="476"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="576"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="626"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="577"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="630"/>
         <source>Target at index</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="577"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="578"/>
         <source>has zero velocity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="789"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="818"/>
         <source>Target is unreachable with the current configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="477"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="627"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="631"/>
         <source>is unreachable</source>
         <translation type="unfinished"></translation>
     </message>

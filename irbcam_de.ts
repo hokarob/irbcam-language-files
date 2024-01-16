@@ -4978,32 +4978,32 @@ Dies könnte auf eine Speicherung aus einer älteren Version zurückzuführen se
     <name>StationViewer</name>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="476"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="576"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="626"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="789"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="577"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="630"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="818"/>
         <source>Animation aborted</source>
         <translation>Animation abgebrochen</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="476"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="576"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="626"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="577"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="630"/>
         <source>Target at index</source>
         <translation>Ziel am Index</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="577"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="578"/>
         <source>has zero velocity</source>
         <translation>hat die Geschwindigkeit Null</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="789"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="818"/>
         <source>Target is unreachable with the current configuration</source>
         <translation>Das Ziel ist mit der aktuellen Konfiguration nicht erreichbar</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="477"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="627"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="631"/>
         <source>is unreachable</source>
         <translation>ist unerreichbar</translation>
     </message>

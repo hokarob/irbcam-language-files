@@ -4931,32 +4931,32 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
     <name>StationViewer</name>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="476"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="576"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="626"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="789"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="577"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="630"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="818"/>
         <source>Animation aborted</source>
         <translation>Animasjonen ble avbrutt</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="476"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="576"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="626"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="577"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="630"/>
         <source>Target at index</source>
         <translation>Mål på indeks</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="577"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="578"/>
         <source>has zero velocity</source>
         <translation>har null hastighet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="789"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="818"/>
         <source>Target is unreachable with the current configuration</source>
         <translation>Punktet er ikke tilgjengelig med gjeldende konfigurasjon</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="477"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="627"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="631"/>
         <source>is unreachable</source>
         <translation>er utenfor rekkevidde</translation>
     </message>
