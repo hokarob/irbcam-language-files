@@ -1953,14 +1953,12 @@
 <context>
     <name>Irbcam</name>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="325"/>
         <source>Error code: </source>
-        <translation type="unfinished">Klaidos kodas: </translation>
+        <translation type="obsolete">Klaidos kodas: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="333"/>
         <source>Ok</source>
-        <translation type="unfinished">Ok</translation>
+        <translation type="obsolete">Ok</translation>
     </message>
 </context>
 <context>
@@ -3224,6 +3222,14 @@
     </message>
 </context>
 <context>
+    <name>MessageCentre</name>
+    <message>
+        <location filename="../../IrbcamQml/Views/MessageCentre.qml" line="161"/>
+        <source>Ok</source>
+        <translation type="unfinished">Ok</translation>
+    </message>
+</context>
+<context>
     <name>NetworkItemEditor</name>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/NetworkItemEditor.qml" line="21"/>
@@ -3921,6 +3927,21 @@
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="83"/>
         <source>Failed to configure path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="83"/>
+        <source>Configured </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="83"/>
+        <source> of </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="83"/>
+        <source> targets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
