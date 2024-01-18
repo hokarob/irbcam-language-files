@@ -3181,7 +3181,7 @@
 <context>
     <name>MessageCentre</name>
     <message>
-        <location filename="../../IrbcamQml/Views/MessageCentre.qml" line="161"/>
+        <location filename="../../IrbcamQml/Views/MessageCentre.qml" line="166"/>
         <source>Ok</source>
         <translation type="unfinished"></translation>
     </message>
