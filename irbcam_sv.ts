@@ -274,39 +274,39 @@
 <context>
     <name>AdditionalObjectsModel</name>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="544"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="560"/>
         <source>Failed to confirm that</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="544"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="560"/>
         <source>was deleted from the server (the item may or may not have been deleted)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="574"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="590"/>
         <source>was deleted from the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="650"/>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="684"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="673"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="707"/>
         <source>Failed to download geometry from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="739"/>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="751"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="762"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="774"/>
         <source>Could not open folder: &apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="777"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="800"/>
         <source>Custom geometry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="777"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="800"/>
         <source>loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -332,33 +332,33 @@
 <context>
     <name>BaseNetworkDataInterface</name>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="198"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="206"/>
         <source>Failed to confirm that</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="198"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="206"/>
         <source>was deleted from the server (the item may or may not have been deleted)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="228"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="236"/>
         <source>was deleted from the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="288"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="304"/>
         <source>Failed to load</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="375"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="391"/>
         <source>loaded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="408"/>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="479"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="424"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="495"/>
         <source>Failed to download item from server</source>
         <translation type="unfinished"></translation>
     </message>
@@ -376,7 +376,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1186"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1193"/>
         <source>Report sent</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1042,7 +1042,7 @@
     </message>
     <message>
         <location filename="../../../backend/src/custom3dmodel.cpp" line="175"/>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="415"/>
+        <location filename="../../../backend/src/custom3dmodel.cpp" line="422"/>
         <source>Failed to build</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1052,12 +1052,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="702"/>
+        <location filename="../../../backend/src/custom3dmodel.cpp" line="709"/>
         <source>Failed to upload robot to server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="791"/>
+        <location filename="../../../backend/src/custom3dmodel.cpp" line="812"/>
         <source>Failed to get custom3d from server</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1309,7 +1309,7 @@
         <translation type="unfinished">Exportera robotkod</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1329"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1330"/>
         <source>Generating robot code</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1465,37 +1465,32 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1288"/>
-        <source>Load User-Robot Relation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1288"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1289"/>
         <source>Add Robot to User</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1316"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1317"/>
         <source>Are you sure you want to add robot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1318"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1319"/>
         <source>to user relation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1329"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1330"/>
         <source>Robot code received. Save to file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1337"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1338"/>
         <source>Cancel</source>
         <translation type="unfinished">Avbryt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1341"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1342"/>
         <source>Save</source>
         <translation type="unfinished">Spara</translation>
     </message>
@@ -1673,12 +1668,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1288"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1289"/>
         <source>Export</source>
         <translation>Exportera</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1288"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1289"/>
         <source>Open Path Editor</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2019,27 +2014,27 @@
         <translation>Misslyckades med att läsa in inställningar för </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="999"/>
+        <location filename="../../../backend/src/networking.cpp" line="1020"/>
         <source>A new minor version of IRBCAM is available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1000"/>
+        <location filename="../../../backend/src/networking.cpp" line="1021"/>
         <source>Save your work and reload page to get the newest features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1005"/>
+        <location filename="../../../backend/src/networking.cpp" line="1026"/>
         <source>A new major version of IRBCAM is available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1006"/>
+        <location filename="../../../backend/src/networking.cpp" line="1027"/>
         <source>Some features may be unavailable until page is reloaded.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1007"/>
+        <location filename="../../../backend/src/networking.cpp" line="1028"/>
         <source>Please save your work and reload page as soon as possible</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2065,12 +2060,12 @@
         <translation type="unfinished">Ett nätverksfel inträffade</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="947"/>
+        <location filename="../../../backend/src/networking.cpp" line="957"/>
         <source>Remote error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="947"/>
+        <location filename="../../../backend/src/networking.cpp" line="957"/>
         <source>code</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3337,7 +3332,7 @@
 <context>
     <name>NetworkObjectListModel</name>
     <message>
-        <location filename="../../../backend/src/networkobjectlistmodel.cpp" line="82"/>
+        <location filename="../../../backend/src/networkobjectlistmodel.cpp" line="96"/>
         <source>Failed to fetch list from server</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3525,37 +3520,37 @@
 <context>
     <name>PluginModel</name>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="401"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="408"/>
         <source>Failed to get plugin from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="574"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="581"/>
         <source>Failed to extract archive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="616"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="623"/>
         <source>Unsupported file extension</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="625"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="632"/>
         <source>Failed to load files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="655"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="662"/>
         <source>Expected a single QML file in the root directory, but found </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="670"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="677"/>
         <source>Expected a single image file in the root directory, but found </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="763"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="770"/>
         <source>Failed to rename plugin</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4090,17 +4085,17 @@ Klicka igen för att skriva över</translation>
         <translation>Språket har ändrats</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="223"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="232"/>
         <source>Failed to save settings for</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="228"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="237"/>
         <source>Settings for</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="228"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="237"/>
         <source>saved</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4290,145 +4285,145 @@ Klicka igen för att skriva över</translation>
         <translation type="vanished">Maximalt avstånd konfigurerat framgångsrikt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="275"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="282"/>
         <source>Failed to confirm that the station was saved to the server (the station may or may not have been saved)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="300"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="453"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1068"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="307"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="474"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1105"/>
         <source>Station</source>
         <translation type="unfinished">Station</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="300"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="307"/>
         <source>saved</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="373"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="387"/>
         <source>Failed to download station from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="428"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="449"/>
         <source>Failed to confirm that the station was deleted from the server (the station may or may not have been deleted)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="453"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="474"/>
         <source>was deleted from the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="473"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="494"/>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="496"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="524"/>
         <source>Maximum APT file size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="496"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="524"/>
         <source>exceeded. Current file size (after compression): </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="497"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="525"/>
         <source>Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="512"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="540"/>
         <source>Failed to get parsed apt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="512"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="540"/>
         <source>from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="553"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="581"/>
         <source>Failed to import APT file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="558"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="586"/>
         <source>Path imported from APT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="592"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="628"/>
         <source>Failed to get robot code from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="778"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="832"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="808"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="869"/>
         <source>Robot</source>
         <translation type="unfinished">Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="778"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="808"/>
         <source>added to user</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="832"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="869"/>
         <source>was removed from user-robot relation in the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="869"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="888"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="906"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="925"/>
         <source>Failed to recover saved station</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="909"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="946"/>
         <source>Missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="909"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="946"/>
         <source>info in station retrieved from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="915"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="952"/>
         <source>Station was loaded but</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="915"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="952"/>
         <source>data was corrupt or missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="929"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="935"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="966"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="972"/>
         <source>robot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="943"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="949"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="980"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="986"/>
         <source>tool</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="957"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="963"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="994"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1000"/>
         <source>turntable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="973"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="979"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1010"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1016"/>
         <source>linear track</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4437,9 +4432,9 @@ Klicka igen för att skriva över</translation>
         <translation type="vanished">Saknad robotinformation i station hämtad från server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="910"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="916"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1003"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="947"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="953"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1040"/>
         <source>This may be due to the save coming from an older version of IRBCAM</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4448,22 +4443,22 @@ Klicka igen för att skriva över</translation>
         <translation type="vanished">Saknad verktygsinformation i station hämtad från server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="991"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1028"/>
         <source>Missing station info in station retrieved from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1002"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1039"/>
         <source>Station was loaded with missing info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1008"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1045"/>
         <source>Failed to load station data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1068"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1105"/>
         <source>loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4478,7 +4473,7 @@ This may be due to the save coming from an older version</source>
 Detta kan bero på att sparfilen kommer från en äldre version</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1024"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1061"/>
         <source>Path information missing from saved station</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4491,12 +4486,12 @@ Detta kan bero på att sparfilen kommer från en äldre version</translation>
         <translation type="vanished"> sparad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1101"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1138"/>
         <source>Autosave</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1103"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1140"/>
         <source>unnamed</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4523,7 +4518,7 @@ Detta kan bero på att sparfilen kommer från en äldre version</translation>
         <location filename="../../../backend/src/stationviewer.cpp" line="476"/>
         <location filename="../../../backend/src/stationviewer.cpp" line="577"/>
         <location filename="../../../backend/src/stationviewer.cpp" line="630"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="818"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="819"/>
         <source>Animation aborted</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4540,7 +4535,7 @@ Detta kan bero på att sparfilen kommer från en äldre version</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="818"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="819"/>
         <source>Target is unreachable with the current configuration</source>
         <translation type="unfinished"></translation>
     </message>
