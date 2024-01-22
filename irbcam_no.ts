@@ -1437,7 +1437,12 @@
         <translation>Eksportér robotkode</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1330"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1287"/>
+        <source>Update User-Robot Relation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1312"/>
         <source>Generating robot code</source>
         <translation>Genererer robotkode</translation>
     </message>
@@ -1606,32 +1611,29 @@
         <translation type="vanished">Last bruker-robot-relasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1289"/>
         <source>Add Robot to User</source>
-        <translation>Legg robot til bruker</translation>
+        <translation type="vanished">Legg robot til bruker</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1317"/>
         <source>Are you sure you want to add robot</source>
-        <translation>Er du sikker på at du vil legge til robot</translation>
+        <translation type="vanished">Er du sikker på at du vil legge til robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1319"/>
         <source>to user relation</source>
-        <translation>til brukerrelasjon</translation>
+        <translation type="vanished">til brukerrelasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1330"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1312"/>
         <source>Robot code received. Save to file?</source>
         <translation>Robotkode mottatt. Lagre til fil?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1338"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1320"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1342"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1324"/>
         <source>Save</source>
         <translation>Lagre</translation>
     </message>
@@ -1808,12 +1810,12 @@
         <translation>Ett eller flere alternativer er ugyldig</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1289"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1287"/>
         <source>Export</source>
         <translation>Eksport</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1289"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1287"/>
         <source>Open Path Editor</source>
         <translation>Åpne baneeditor</translation>
     </message>
@@ -2644,9 +2646,54 @@
 <context>
     <name>LoadUserRobotRelation</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="22"/>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="32"/>
         <source>User-Robot Relation</source>
         <translation>Bruker-robot-relasjon</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="69"/>
+        <source>Robot</source>
+        <translation type="unfinished">Robot</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="69"/>
+        <source>is in relation with the user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="77"/>
+        <source>User have already added max number of robots in user-robot relation. Please remove any robot from the relation so that you can add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="77"/>
+        <source>robot</source>
+        <translation type="unfinished">robot</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="85"/>
+        <source>User need to wait until</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="86"/>
+        <source>to update the user-robot relation. But you can continue generating robot code for the robots that are already in relation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="126"/>
+        <source>Are you sure you want to add robot</source>
+        <translation type="unfinished">Er du sikker på at du vil legge til robot</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="128"/>
+        <source>to user relation</source>
+        <translation type="unfinished">til brukerrelasjon</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="150"/>
+        <source>Add</source>
+        <translation type="unfinished">Legg til</translation>
     </message>
 </context>
 <context>
@@ -3589,52 +3636,52 @@
 <context>
     <name>NetworkObjectList</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="55"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="56"/>
         <source>Uninitialized</source>
         <translation>Uinitialisert</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="57"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="58"/>
         <source>Idle</source>
         <translation>Inaktiv</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="59"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="60"/>
         <source>Fetching list</source>
         <translation>Henter liste</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="62"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="63"/>
         <source>Unknown</source>
         <translation>Ukjent</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="71"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="72"/>
         <source>Warning!</source>
         <translation>Advarsel!</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="71"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="72"/>
         <source>This action will permanently delete</source>
         <translation>Denne handlingen vil permanent slette</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="72"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="73"/>
         <source>from the cloud</source>
         <translation>fra skyen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="86"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="87"/>
         <source>Name</source>
         <translation>Navn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="92"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="93"/>
         <source>Created</source>
         <translation>Opprettet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="98"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="99"/>
         <source>Modified</source>
         <translation>Modifisert</translation>
     </message>
@@ -4701,7 +4748,7 @@ Bare UTF-8-kodede filer støttes</translation>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="307"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="474"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1105"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1135"/>
         <source>Station</source>
         <translation>Stasjon</translation>
     </message>
@@ -4766,13 +4813,13 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation>Kunne ikke hente robotkode fra serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="808"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="869"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="838"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="899"/>
         <source>Robot</source>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="808"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="838"/>
         <source>added to user</source>
         <translation>lagt til bruker</translation>
     </message>
@@ -4781,57 +4828,57 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Kunne ikke bekrefte at bruker-robot-relasjonen ble slettet fra serveren (relasjonen kan ha blitt slettet)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="869"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="899"/>
         <source>was removed from user-robot relation in the server</source>
         <translation>ble fjernet fra bruker-robot-relasjonen i serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="906"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="925"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="936"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="955"/>
         <source>Failed to recover saved station</source>
         <translation>Kunne ikke gjenopprette lagret stasjon</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="946"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="976"/>
         <source>Missing</source>
         <translation>Mangler</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="946"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="976"/>
         <source>info in station retrieved from server</source>
         <translation>Info i stasjonen hentet fra serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="952"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="982"/>
         <source>Station was loaded but</source>
         <translation>Stasjonen ble lastet, men</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="952"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="982"/>
         <source>data was corrupt or missing</source>
         <translation>data var korrupt eller manglet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="966"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="972"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="996"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1002"/>
         <source>robot</source>
         <translation>robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="980"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="986"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1010"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1016"/>
         <source>tool</source>
         <translation>verktøy</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="994"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1000"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1024"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1030"/>
         <source>turntable</source>
         <translation>rotasjonsbord</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1010"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1016"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1040"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1046"/>
         <source>linear track</source>
         <translation>lineærbane</translation>
     </message>
@@ -4840,9 +4887,9 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Mangler robot info i stasjon hentet fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="947"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="953"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1040"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="977"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="983"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1070"/>
         <source>This may be due to the save coming from an older version of IRBCAM</source>
         <translation>Dette kan være fordi den ble lagret med en eldre versjon av IRBCAM</translation>
     </message>
@@ -4851,22 +4898,22 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Mangler verktøy info i stasjon hentet fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1028"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1058"/>
         <source>Missing station info in station retrieved from server</source>
         <translation>Manglende stasjonsinformasjon i stasjonen hentet fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1039"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1069"/>
         <source>Station was loaded with missing info</source>
         <translation>Stasjonen ble lastet med manglende info</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1045"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1075"/>
         <source>Failed to load station data</source>
         <translation>Kunne ikke laste stasjonsdata</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1105"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1135"/>
         <source>loaded</source>
         <translation>lastet</translation>
     </message>
@@ -4908,7 +4955,7 @@ This may be due to the save coming from an older version</source>
 Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1061"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1091"/>
         <source>Path information missing from saved station</source>
         <translation>Baneinformasjon mangler fra lagret stasjon</translation>
     </message>
@@ -4921,12 +4968,12 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
         <translation type="vanished"> lagret</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1138"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1168"/>
         <source>Autosave</source>
         <translation>Autolagring</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1140"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1170"/>
         <source>unnamed</source>
         <translation>ikke navngitt</translation>
     </message>

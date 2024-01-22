@@ -1293,7 +1293,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1330"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1287"/>
+        <source>Update User-Robot Relation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1312"/>
         <source>Generating robot code</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1449,32 +1454,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1289"/>
-        <source>Add Robot to User</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1317"/>
-        <source>Are you sure you want to add robot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1319"/>
-        <source>to user relation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1330"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1312"/>
         <source>Robot code received. Save to file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1338"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1320"/>
         <source>Cancel</source>
         <translation type="unfinished">Prekliči</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1342"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1324"/>
         <source>Save</source>
         <translation type="unfinished">Shrani</translation>
     </message>
@@ -1652,12 +1642,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1289"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1287"/>
         <source>Export</source>
         <translation>Izvozi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1289"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1287"/>
         <source>Open Path Editor</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2350,9 +2340,54 @@
 <context>
     <name>LoadUserRobotRelation</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="22"/>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="32"/>
         <source>User-Robot Relation</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="69"/>
+        <source>Robot</source>
+        <translation type="unfinished">Robot</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="69"/>
+        <source>is in relation with the user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="77"/>
+        <source>User have already added max number of robots in user-robot relation. Please remove any robot from the relation so that you can add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="77"/>
+        <source>robot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="85"/>
+        <source>User need to wait until</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="86"/>
+        <source>to update the user-robot relation. But you can continue generating robot code for the robots that are already in relation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="126"/>
+        <source>Are you sure you want to add robot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="128"/>
+        <source>to user relation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="150"/>
+        <source>Add</source>
+        <translation type="unfinished">Dodaj</translation>
     </message>
 </context>
 <context>
@@ -3271,52 +3306,52 @@
 <context>
     <name>NetworkObjectList</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="55"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="56"/>
         <source>Uninitialized</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="57"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="58"/>
         <source>Idle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="59"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="60"/>
         <source>Fetching list</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="62"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="63"/>
         <source>Unknown</source>
         <translation type="unfinished">Neznano</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="71"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="72"/>
         <source>Warning!</source>
         <translation type="unfinished">Opozorilo!</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="71"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="72"/>
         <source>This action will permanently delete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="72"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="73"/>
         <source>from the cloud</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="86"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="87"/>
         <source>Name</source>
         <translation type="unfinished">Ime</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="92"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="93"/>
         <source>Created</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="98"/>
+        <location filename="../../IrbcamQml/Controls/NetworkObjectList.qml" line="99"/>
         <source>Modified</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4264,7 +4299,7 @@ Za prepis znova kliknite</translation>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="307"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="474"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1105"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1135"/>
         <source>Station</source>
         <translation type="unfinished">Postaja</translation>
     </message>
@@ -4334,68 +4369,68 @@ Za prepis znova kliknite</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="808"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="869"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="838"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="899"/>
         <source>Robot</source>
         <translation type="unfinished">Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="808"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="838"/>
         <source>added to user</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="869"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="899"/>
         <source>was removed from user-robot relation in the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="906"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="925"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="936"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="955"/>
         <source>Failed to recover saved station</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="946"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="976"/>
         <source>Missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="946"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="976"/>
         <source>info in station retrieved from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="952"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="982"/>
         <source>Station was loaded but</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="952"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="982"/>
         <source>data was corrupt or missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="966"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="972"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="996"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1002"/>
         <source>robot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="980"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="986"/>
-        <source>tool</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="994"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1000"/>
-        <source>turntable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1010"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="1016"/>
+        <source>tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1024"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1030"/>
+        <source>turntable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1040"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1046"/>
         <source>linear track</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4404,9 +4439,9 @@ Za prepis znova kliknite</translation>
         <translation type="obsolete">Manjkajoče informacije o robotu v postaji, pridobljene s strežnika</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="947"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="953"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1040"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="977"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="983"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1070"/>
         <source>This may be due to the save coming from an older version of IRBCAM</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4415,22 +4450,22 @@ Za prepis znova kliknite</translation>
         <translation type="obsolete">Manjkajoče informacije o orodju v postaji, pridobljeni s strežnika</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1028"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1058"/>
         <source>Missing station info in station retrieved from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1039"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1069"/>
         <source>Station was loaded with missing info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1045"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1075"/>
         <source>Failed to load station data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1105"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1135"/>
         <source>loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4446,7 +4481,7 @@ To je lahko posledica shranjevanja iz starejše različice
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1061"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1091"/>
         <source>Path information missing from saved station</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4459,12 +4494,12 @@ To je lahko posledica shranjevanja iz starejše različice
         <translation type="obsolete"> shranjeno</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1138"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1168"/>
         <source>Autosave</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1140"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1170"/>
         <source>unnamed</source>
         <translation type="unfinished"></translation>
     </message>
