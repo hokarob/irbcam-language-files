@@ -44,27 +44,27 @@
 <context>
     <name>AddTargets</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="54"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="65"/>
         <source>Position</source>
         <translation type="unfinished">Položaj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="58"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="69"/>
         <source>Count</source>
         <translation type="unfinished">Število</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="104"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="133"/>
         <source>Insert</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="104"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="133"/>
         <source>Insert Before</source>
         <translation type="unfinished">Vstavi pred</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="128"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="163"/>
         <source>Insert After</source>
         <translation type="unfinished">Vstavi za</translation>
     </message>
@@ -366,17 +366,17 @@
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1150"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1154"/>
         <source>Failed to send report</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1160"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1164"/>
         <source>Attachment should be less than</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1193"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1197"/>
         <source>Report sent</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2049,54 +2049,125 @@
 <context>
     <name>IrbcamSettings</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="18"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="23"/>
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="49"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="69"/>
         <source>User Interface</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="69"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="75"/>
         <source>Auto Save</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="85"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="81"/>
         <source>Enable auto save station</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="98"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="94"/>
         <source>Auto save interval</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="114"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="110"/>
         <source>5 min</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="118"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="114"/>
         <source>10 min</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="122"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="118"/>
         <source>15 min</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="126"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="122"/>
         <source>30 min</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="148"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="141"/>
         <source>Plugins</source>
         <translation type="unfinished">Vtičniki</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="151"/>
+        <source>Station</source>
+        <translation type="unfinished">Postaja</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="158"/>
+        <source>Changes to station settings are not saved automatically. They are saved in the station and therefore saved and loaded with the station</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="163"/>
+        <source>Simulation speeds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="169"/>
+        <source>Rapid speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="191"/>
+        <source>Cutting speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="215"/>
+        <source>Distance to Joint Limits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="268"/>
+        <source>Set all revolute joints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="275"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="343"/>
+        <source>deg</source>
+        <extracomment>degrees</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="280"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="308"/>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="288"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="316"/>
+        <source>Set</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="296"/>
+        <source>Set all linear joints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="303"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="341"/>
+        <source>mm</source>
+        <extracomment>millimeters</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="331"/>
+        <source>Joint</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Metric</source>
@@ -3482,7 +3553,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="406"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="410"/>
         <source>Configure Path</source>
         <translation type="unfinished">Konfigūruoti maršrutą</translation>
     </message>
@@ -3531,7 +3602,7 @@
         <translation type="vanished">Nastavi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="433"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="437"/>
         <source>Configure Max Distance</source>
         <translation>Nastavi največjo razdaljo</translation>
     </message>
@@ -3617,70 +3688,70 @@
         <translation type="vanished">Zapri</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="48"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="50"/>
         <source>Internal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="48"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="50"/>
         <source>Custom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="71"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="75"/>
         <source>This plugin will not be saved when the application is closed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="125"/>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="131"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="129"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="135"/>
         <source>Name</source>
         <translation type="unfinished">Ime</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="148"/>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="179"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="152"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="183"/>
         <source>Url</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="154"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="158"/>
         <source>QML file or ZIP archive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="215"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="219"/>
         <source>Open local qml file or archive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="215"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="219"/>
         <source>Note: local plugins are not saved between sessions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="223"/>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="249"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="227"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="253"/>
         <source>Icon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="231"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="235"/>
         <source>Icon files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="273"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="277"/>
         <source>Open local icon file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="284"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="288"/>
         <source>Ok</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="338"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="342"/>
         <source>Add plugin</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4524,32 +4595,32 @@ To je lahko posledica shranjevanja iz starejše različice
     <name>StationViewer</name>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="476"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="577"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="630"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="819"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="593"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="646"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="835"/>
         <source>Animation aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="476"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="577"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="630"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="593"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="646"/>
         <source>Target at index</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="578"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="594"/>
         <source>has zero velocity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="819"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="835"/>
         <source>Target is unreachable with the current configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="477"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="631"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="647"/>
         <source>is unreachable</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4582,17 +4653,17 @@ To je lahko posledica shranjevanja iz starejše različice
 <context>
     <name>TargetDelegate</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="188"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="192"/>
         <source>Velocity change</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="206"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="210"/>
         <source>Tool change</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="224"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="228"/>
         <source>Spindle speed change</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4600,29 +4671,63 @@ To je lahko posledica shranjevanja iz starejše različice
 <context>
     <name>TargetEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="154"/>
-        <source>Changes in RZ2 will have no effect unless &apos;Toll Roll Mode&apos; in &apos;Configure Path&apos; is set to &apos;No Change&apos;</source>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="150"/>
+        <source>Changes in RZ2 will have no effect unless &apos;Tool Roll Mode&apos; in &apos;Configure Path&apos; is set to &apos;No Change&apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="166"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="163"/>
+        <source>Speed Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="177"/>
+        <source>Input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="178"/>
+        <source>Rapid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="179"/>
+        <source>Cutting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="190"/>
+        <source>Linear</source>
+        <translation type="unfinished">Linearno</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="191"/>
+        <source>Arc Midpoint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="199"/>
+        <source>Speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="203"/>
         <source>Tool</source>
         <translation type="unfinished">Lega Orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="170"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="207"/>
         <source>Spindle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="233"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="167"/>
         <source>Motion Type</source>
         <translation type="unfinished">Vrsta gibanja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="162"/>
         <source>Velocity</source>
-        <translation type="unfinished">Hitrost</translation>
+        <translation type="obsolete">Hitrost</translation>
     </message>
 </context>
 <context>
