@@ -4436,16 +4436,21 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="170"/>
-        <source>Linear Track Mode: </source>
+        <source>Rotatry Table Angle: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="179"/>
+        <source>Linear Track Mode: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="188"/>
         <source>Linear Track Offset: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="190"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="199"/>
         <source>mm</source>
         <extracomment>mm - millimeters</extracomment>
         <translation type="unfinished"></translation>
