@@ -120,153 +120,153 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="105"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="100"/>
         <source>Source</source>
         <translation type="unfinished">Forrás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="105"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="145"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="100"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="140"/>
         <source>Color</source>
         <translation type="unfinished">Szín</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="114"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="109"/>
         <source>Custom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="115"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="110"/>
         <source>LightGray</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="116"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="111"/>
         <source>Red</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="117"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="112"/>
         <source>Green</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="118"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="113"/>
         <source>Blue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="147"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="142"/>
         <source>Any valid SVG color name (eg. &apos;blue&apos;) or hex rgb triplet (eg. &apos;#808080&apos;)</source>
         <translation type="unfinished">Bármilyen érvényes SVG szín név (pl. &apos;kék&apos;) vagy hex rgb hármas (pl. &apos;#808080&apos;)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="172"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="165"/>
         <source>Select color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="193"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="186"/>
         <source>No source selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="198"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="191"/>
         <source>Parent frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="205"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="198"/>
         <source>Global</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="206"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="199"/>
         <source>Robot base</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="207"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="200"/>
         <source>User frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="208"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="201"/>
         <source>Object frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="209"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="202"/>
         <source>Tool frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="216"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="209"/>
         <source>Linear</source>
         <translation type="unfinished">Lineáris</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="239"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="232"/>
         <source>Position</source>
         <translation type="unfinished">Pozíció</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="293"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="283"/>
         <source>Scale</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="293"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="283"/>
         <source>Size</source>
         <translation type="unfinished">Méret</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="350"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="337"/>
         <source>Rotation</source>
         <translation type="unfinished">Forgatás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="356"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="343"/>
         <source>Yaw</source>
         <translation type="unfinished">Yáv</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="362"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="349"/>
         <source>Pitch</source>
         <translation type="unfinished">Dőlés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="368"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="355"/>
         <source>Roll</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="452"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="430"/>
         <source>Normalize</source>
         <translation type="unfinished">Normalizálás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="459"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="437"/>
         <source>Normalize quaternions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="566"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="532"/>
         <source>Quaternion scalar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="572"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="538"/>
         <source>Quaternion i</source>
         <translation type="unfinished">Kvaternió i</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="578"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="544"/>
         <source>Quaternion j</source>
         <translation type="unfinished">Kvaternió j</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="584"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="550"/>
         <source>Quaternion k</source>
         <translation type="unfinished">Kvaternió k</translation>
     </message>
@@ -1187,7 +1187,7 @@
         <translation type="unfinished">Szín</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="102"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="100"/>
         <source>Select color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1730,12 +1730,12 @@
 <context>
     <name>ImportApt</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="110"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="106"/>
         <source>Scaling X</source>
         <translation>X méretezése</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="140"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="131"/>
         <source>Scaling Y</source>
         <translation>Y méretezése</translation>
     </message>
@@ -1765,57 +1765,57 @@
         <translation>Minimális távolság</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="102"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="98"/>
         <source>Scaling X (0.001 - 10)</source>
         <translation>X méretezése (0,001 - 10)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="132"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="123"/>
         <source>Scaling Y (0.001 - 10)</source>
         <translation>Y méretezése (0,001 - 10)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="162"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="148"/>
         <source>Scaling Z (0.001 - 10)</source>
         <translation>Z méretezése (0,001 - 10)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="170"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="156"/>
         <source>Scaling Z</source>
         <translation>Z méretezése</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="196"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="177"/>
         <source>Append</source>
         <translation>Hozzáadás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="201"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="182"/>
         <source>Reverse INDIRV</source>
         <translation>INDIRV megfordítása</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="206"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="187"/>
         <source>No Arcs</source>
         <translation>Nincsenek ívek</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="211"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="192"/>
         <source>Gun On/Off</source>
         <translation>Pisztoly be/ki</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="224"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="205"/>
         <source>File: </source>
         <translation>Fájl: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="230"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="211"/>
         <source>No file selected</source>
         <translation>Nincs fájl kiválasztva</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="247"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="228"/>
         <source>Import</source>
         <translation>Importálás</translation>
     </message>
@@ -2135,37 +2135,37 @@
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="275"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="343"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="345"/>
         <source>deg</source>
         <extracomment>degrees</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="280"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="308"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="309"/>
         <source>Value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="288"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="316"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="289"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="318"/>
         <source>Set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="296"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="297"/>
         <source>Set all linear joints</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="303"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="341"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="304"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="343"/>
         <source>mm</source>
         <extracomment>millimeters</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="331"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="333"/>
         <source>Joint</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2808,22 +2808,22 @@
 <context>
     <name>MaxDistance</name>
     <message>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="20"/>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="21"/>
         <source>From</source>
         <translation type="unfinished">Tól</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="24"/>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="25"/>
         <source>To</source>
         <translation type="unfinished">Ig</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="28"/>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="29"/>
         <source>Max Distance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="112"/>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="106"/>
         <source>Configure</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3923,107 +3923,107 @@
 <context>
     <name>PoseEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="63"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="61"/>
         <source>Position</source>
         <translation>Pozíció</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="73"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="69"/>
         <source>X</source>
         <translation type="unfinished">X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="77"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="73"/>
         <source>Y</source>
         <translation type="unfinished">Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="81"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="77"/>
         <source>Z</source>
         <translation type="unfinished">Z</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="146"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="139"/>
         <source>Rotation</source>
         <translation>Forgatás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="156"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="148"/>
         <source>Rx</source>
         <translation type="unfinished">Rx</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="157"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="149"/>
         <source>Yaw</source>
         <translation>Yáv</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="162"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="154"/>
         <source>Ry</source>
         <translation type="unfinished">Ry</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="163"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="155"/>
         <source>Pitch</source>
         <translation>Dőlés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="168"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="160"/>
         <source>Rz</source>
         <translation type="unfinished">Rz</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="169"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="161"/>
         <source>Roll</source>
         <translation>Billenés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="237"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="226"/>
         <source>Normalize</source>
         <translation>Normalizálás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="241"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="230"/>
         <source>Normalize quaternions</source>
         <translation>Normáldúsítás a kvaternióknak</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="323"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="308"/>
         <source>Q1</source>
         <translation type="unfinished">Q1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="324"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="309"/>
         <source>Quaternion scalar</source>
         <translation>Kvaternió skálár</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="329"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="314"/>
         <source>Q2</source>
         <translation type="unfinished">Q2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="330"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="315"/>
         <source>Quaternion i</source>
         <translation>Kvaternió i</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="335"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="320"/>
         <source>Q3</source>
         <translation type="unfinished">Q3</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="336"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="321"/>
         <source>Quaternion j</source>
         <translation>Kvaternió j</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="341"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="326"/>
         <source>Q4</source>
         <translation type="unfinished">Q4</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="342"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="327"/>
         <source>Quaternion k</source>
         <translation>Kvaternió k</translation>
     </message>
@@ -5019,12 +5019,12 @@ Ez azért lehet, mert a mentés egy régebbi verzióból származik</translation
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/UploadItem.qml" line="80"/>
-        <location filename="../../IrbcamQml/Controls/UploadItem.qml" line="89"/>
+        <location filename="../../IrbcamQml/Controls/UploadItem.qml" line="88"/>
         <source>Name</source>
         <translation type="unfinished">Név</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/UploadItem.qml" line="128"/>
+        <location filename="../../IrbcamQml/Controls/UploadItem.qml" line="124"/>
         <source>Are you sure you want to overwrite</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5055,7 +5055,7 @@ Ez azért lehet, mert a mentés egy régebbi verzióból származik</translation
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTool.qml" line="152"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTool.qml" line="150"/>
         <source>Upload</source>
         <translation type="unfinished"></translation>
     </message>
