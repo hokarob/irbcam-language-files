@@ -1480,12 +1480,12 @@
         <translation>Robotercode exportieren</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1395"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1396"/>
         <source>Update User-Robot Relation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1420"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1421"/>
         <source>Generating robot code</source>
         <translation>Generieren von Robotercode</translation>
     </message>
@@ -1640,57 +1640,57 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1069"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1070"/>
         <source>Header</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1085"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1086"/>
         <source>Custom Header</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1101"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1102"/>
         <source>Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1117"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1118"/>
         <source>Custom Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1133"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1134"/>
         <source>Move</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1149"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1150"/>
         <source>Custom Move</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1310"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1311"/>
         <source>Generic Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1382"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1383"/>
         <source>Robot must be in relation with the user before generating robot code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1420"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1421"/>
         <source>Robot code received. Save to file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1428"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1429"/>
         <source>Cancel</source>
         <translation type="unfinished">Abbrechen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1432"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1433"/>
         <source>Save</source>
         <translation type="unfinished">Speichern</translation>
     </message>
@@ -1715,22 +1715,22 @@
         <translation type="vanished">Geben Sie in allen Feldern gültige Daten ein</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1171"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1172"/>
         <source>ABB Options</source>
         <translation>ABB Optionen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1216"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1217"/>
         <source>KUKA Options</source>
         <translation>KUKA Optionen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1232"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1233"/>
         <source>FANUC Options</source>
         <translation>FANUC Optionen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1247"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1248"/>
         <source>MOTOMAN Options</source>
         <translation>MOTOMAN Optionen</translation>
     </message>
@@ -1861,22 +1861,22 @@
         <translation type="vanished">HOKAROB Optionen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1366"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1367"/>
         <source>Path must be configured before it can be exported</source>
         <translation>Der Pfad muss konfiguriert werden, bevor er exportiert werden kann</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1374"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1375"/>
         <source>One or more options are not valid</source>
         <translation>Eine oder mehrere Optionen sind ungültig</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1395"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1396"/>
         <source>Export</source>
         <translation>Exportieren</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1395"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1396"/>
         <source>Open Path Editor</source>
         <translation>Öffnen Sie den Pfadeditor</translation>
     </message>
