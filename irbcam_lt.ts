@@ -502,85 +502,20 @@
 <context>
     <name>BuildCustom3dModel</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="17"/>
-        <source>Custom3d Model Builder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="30"/>
-        <source>Open file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="31"/>
-        <source>Asset files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="45"/>
-        <source>Uninitialized</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="47"/>
-        <source>Idle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="49"/>
-        <source>Downloading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="51"/>
-        <source>Unpacking</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="54"/>
         <source>Unknown</source>
-        <translation type="unfinished">Nežinoma</translation>
+        <translation type="obsolete">Nežinoma</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="91"/>
-        <source>URL to local asset file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="100"/>
-        <source>...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="110"/>
-        <source>Name of the custom3d</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="118"/>
         <source>Cancel</source>
-        <translation type="unfinished">Nutraukti</translation>
+        <translation type="obsolete">Nutraukti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="124"/>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="198"/>
         <source>Add</source>
-        <translation type="unfinished">Papildyti</translation>
+        <translation type="obsolete">Papildyti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="174"/>
         <source>Delete</source>
-        <translation type="unfinished">Pašalinti</translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="206"/>
-        <source>Export Rotary Table</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="213"/>
-        <source>Export Robot</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Pašalinti</translation>
     </message>
 </context>
 <context>
@@ -1023,46 +958,6 @@
     </message>
 </context>
 <context>
-    <name>Custom3dModel</name>
-    <message>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="35"/>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="59"/>
-        <source>Failed to upload</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="120"/>
-        <source>Files not found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="137"/>
-        <source>Failed to load</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="177"/>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="424"/>
-        <source>Failed to build</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="357"/>
-        <source>Failed to upload turntable to server</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="712"/>
-        <source>Failed to upload robot to server</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="815"/>
-        <source>Failed to get custom3d from server</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>CustomGeometry</name>
     <message>
         <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="25"/>
@@ -1219,55 +1114,12 @@
 <context>
     <name>ExportRobot</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="17"/>
-        <source>Robot exporter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="35"/>
-        <source>Uninitialized</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="37"/>
-        <source>Idle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="39"/>
-        <source>Downloading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="41"/>
-        <source>Unpacking</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="44"/>
         <source>Unknown</source>
-        <translation type="unfinished">Nežinoma</translation>
+        <translation type="obsolete">Nežinoma</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="51"/>
-        <source>Robot Model</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="65"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="71"/>
-        <source>Robot Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="87"/>
         <source>Back</source>
-        <translation type="unfinished">Atgal</translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="99"/>
-        <source>Build</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Atgal</translation>
     </message>
 </context>
 <context>
@@ -1709,60 +1561,12 @@
 <context>
     <name>ExportTurntable</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="17"/>
-        <source>Rotary Table Exporter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="35"/>
-        <source>Uninitialized</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="37"/>
-        <source>Idle</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="39"/>
-        <source>Downloading</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="41"/>
-        <source>Unpacking</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="44"/>
         <source>Unknown</source>
-        <translation type="unfinished">Nežinoma</translation>
+        <translation type="obsolete">Nežinoma</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="51"/>
-        <source>Fixed Link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="63"/>
-        <source>Rotating Link</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="78"/>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="84"/>
-        <source>Rotary Table Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="100"/>
         <source>Back</source>
-        <translation type="unfinished">Atgal</translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="112"/>
-        <source>Build</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Atgal</translation>
     </message>
 </context>
 <context>
@@ -1962,6 +1766,79 @@
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="22"/>
         <source>Import Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ImportUrdf</name>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="32"/>
+        <source>Uninitialized</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="34"/>
+        <source>Idle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="36"/>
+        <source>Uploading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="38"/>
+        <source>Downloading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="40"/>
+        <source>Unpacking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="43"/>
+        <source>Unknown</source>
+        <translation type="unfinished">Nežinoma</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="80"/>
+        <source>Open file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="81"/>
+        <source>Asset files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="86"/>
+        <source>File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="92"/>
+        <source>No file selected</source>
+        <translation type="unfinished">Failas nepasirinktas</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="110"/>
+        <source>Name</source>
+        <translation type="unfinished">Vardas</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="119"/>
+        <source>Name of the Custom 3D model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="133"/>
+        <source>Import</source>
+        <translation type="unfinished">Importuoti</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="169"/>
+        <source>Are you sure you want to overwrite</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2327,8 +2204,18 @@
 <context>
     <name>LinearTrackEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="17"/>
+        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="18"/>
         <source>Linear Track Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="39"/>
+        <source>Select Linear Track</source>
+        <translation type="unfinished">Pasirinkite tiesinę vėžę</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="42"/>
+        <source>Import Urdf</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4054,8 +3941,18 @@
         <translation type="vanished">Turite būti prisijungęs, kad galėtumėte naudoti šią funkciją</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="17"/>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="18"/>
         <source>Robot Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="37"/>
+        <source>Select Robot</source>
+        <translation type="unfinished">Pasirinkte robotą</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="40"/>
+        <source>Import Urdf</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4187,18 +4084,18 @@ Only UTF-8 encoded files are supported</source>
 <context>
     <name>RotaryTableEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="17"/>
+        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="18"/>
         <source>Rotary Table Editor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="35"/>
+        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="36"/>
         <source>Select Rotary Table</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="38"/>
-        <source>Upload Rotary Table</source>
+        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="39"/>
+        <source>Import Urdf</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4513,150 +4410,150 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
         <translation type="obsolete">Maksimalus atstumas sėkmingai sukonfigūruotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="284"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="285"/>
         <source>Failed to confirm that the station was saved to the server (the station may or may not have been saved)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="309"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="492"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1167"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="310"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="493"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1172"/>
         <source>Station</source>
         <translation type="unfinished">Stotis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="309"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="310"/>
         <source>saved</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="390"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="391"/>
         <source>Failed to download station from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="436"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="437"/>
         <source>Station cleared</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="467"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="468"/>
         <source>Failed to confirm that the station was deleted from the server (the station may or may not have been deleted)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="492"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="493"/>
         <source>was deleted from the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="512"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="513"/>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="542"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="543"/>
         <source>Maximum APT file size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="542"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="543"/>
         <source>exceeded. Current file size (after compression): </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="543"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="544"/>
         <source>Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="558"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="559"/>
         <source>Failed to get parsed apt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="558"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="559"/>
         <source>from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="599"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="600"/>
         <source>Failed to import APT file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="604"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="605"/>
         <source>Path imported from APT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="647"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="648"/>
         <source>Failed to get robot code from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="857"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="918"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="858"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="919"/>
         <source>Robot</source>
         <translation type="unfinished">Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="857"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="858"/>
         <source>added to user</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="918"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="919"/>
         <source>was removed from user-robot relation in the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="955"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="974"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="956"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="975"/>
         <source>Failed to recover saved station</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="994"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="995"/>
         <source>Missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="994"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="995"/>
         <source>info in station retrieved from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1000"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1001"/>
         <source>Station was loaded but</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1000"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1001"/>
         <source>data was corrupt or missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1013"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1019"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1014"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1020"/>
         <source>robot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1027"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1033"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1028"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1034"/>
         <source>tool</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1041"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1047"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1042"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1048"/>
         <source>turntable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1057"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1063"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1058"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1064"/>
         <source>linear track</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4665,9 +4562,9 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
         <translation type="vanished">Trūksta robotų informacijos stotyje, gautoje iš serverio</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="995"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1001"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1087"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="996"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1002"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1088"/>
         <source>This may be due to the save coming from an older version of IRBCAM</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4676,22 +4573,22 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
         <translation type="vanished">Trūksta įrankių informacijos stotyje, gautoje iš serverio</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1075"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1076"/>
         <source>Missing station info in station retrieved from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1086"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1087"/>
         <source>Station was loaded with missing info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1092"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1093"/>
         <source>Failed to load station data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1167"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1172"/>
         <source>loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4706,8 +4603,8 @@ This may be due to the save coming from an older version</source>
 Tai gali būti dėl to, kad išsaugota versija yra senesnė</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1108"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1122"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1109"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1123"/>
         <source>Path information missing from saved station</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4720,12 +4617,12 @@ Tai gali būti dėl to, kad išsaugota versija yra senesnė</translation>
         <translation type="vanished"> išsaugota</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1200"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1205"/>
         <source>Autosave</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1202"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1207"/>
         <source>unnamed</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5081,18 +4978,44 @@ Tai gali būti dėl to, kad išsaugota versija yra senesnė</translation>
 <context>
     <name>UploadTurntable</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTurntable.qml" line="38"/>
         <source>Edit</source>
-        <translation type="unfinished">Redaguoti</translation>
+        <translation type="obsolete">Redaguoti</translation>
     </message>
+</context>
+<context>
+    <name>UrdfImporter</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTurntable.qml" line="57"/>
-        <source>Properties</source>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="56"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="90"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="124"/>
+        <source>Failed to upload</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTurntable.qml" line="77"/>
-        <source>Upload</source>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="163"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="487"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="828"/>
+        <source>Failed to build</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="420"/>
+        <source>Failed to upload turntable to server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="761"/>
+        <source>Failed to upload robot to server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="1124"/>
+        <source>Failed to upload linear track to server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="1223"/>
+        <source>Failed to get custom3d from server</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

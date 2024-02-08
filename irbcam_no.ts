@@ -514,89 +514,68 @@
 <context>
     <name>BuildCustom3dModel</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="17"/>
         <source>Custom3d Model Builder</source>
-        <translation>Egendefinert 3D-modellbygger</translation>
+        <translation type="vanished">Egendefinert 3D-modellbygger</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="30"/>
         <source>Open file</source>
-        <translation>Åpne fil</translation>
+        <translation type="vanished">Åpne fil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="31"/>
         <source>Asset files</source>
-        <translation>Ressursfiler</translation>
+        <translation type="vanished">Ressursfiler</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="45"/>
         <source>Uninitialized</source>
-        <translation>Uinitialisert</translation>
+        <translation type="vanished">Uinitialisert</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="47"/>
         <source>Idle</source>
-        <translation>Inaktiv</translation>
+        <translation type="vanished">Inaktiv</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="49"/>
         <source>Downloading</source>
-        <translation>Laster ned</translation>
+        <translation type="vanished">Laster ned</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="51"/>
         <source>Unpacking</source>
-        <translation>Pakker ut</translation>
+        <translation type="vanished">Pakker ut</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="54"/>
         <source>Unknown</source>
-        <translation>Ukjent</translation>
+        <translation type="vanished">Ukjent</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="91"/>
         <source>URL to local asset file</source>
-        <translation>URL til lokal ressursfil</translation>
+        <translation type="vanished">URL til lokal ressursfil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="100"/>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="vanished">...</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="110"/>
         <source>Name of the custom3d</source>
-        <translation>3D-objektets navn</translation>
+        <translation type="vanished">3D-objektets navn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="118"/>
         <source>Cancel</source>
-        <translation>Avbryt</translation>
+        <translation type="vanished">Avbryt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="124"/>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="198"/>
         <source>Add</source>
-        <translation>Legg til</translation>
+        <translation type="vanished">Legg til</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="174"/>
         <source>Delete</source>
-        <translation>Slett</translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="206"/>
-        <source>Export Rotary Table</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Slett</translation>
     </message>
     <message>
         <source>Export Turntable</source>
         <translation type="vanished">Eksporter Rotasjonsbord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BuildCustom3dModel.qml" line="213"/>
         <source>Export Robot</source>
-        <translation>Eksporter Robot</translation>
+        <translation type="vanished">Eksporter Robot</translation>
     </message>
 </context>
 <context>
@@ -1125,41 +1104,32 @@
 <context>
     <name>Custom3dModel</name>
     <message>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="35"/>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="59"/>
         <source>Failed to upload</source>
-        <translation>Kunne ikke laste opp</translation>
+        <translation type="vanished">Kunne ikke laste opp</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="120"/>
         <source>Files not found</source>
-        <translation>Finner ikke filer</translation>
+        <translation type="vanished">Finner ikke filer</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="137"/>
         <source>Failed to load</source>
-        <translation>Kunne ikke laste</translation>
+        <translation type="vanished">Kunne ikke laste</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="177"/>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="424"/>
         <source>Failed to build</source>
-        <translation>Kunne ikke bygge</translation>
+        <translation type="vanished">Kunne ikke bygge</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="357"/>
         <source>Failed to upload turntable to server</source>
-        <translation>Kunne ikke laste opp rotasjonsbord til server</translation>
+        <translation type="vanished">Kunne ikke laste opp rotasjonsbord til server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="712"/>
         <source>Failed to upload robot to server</source>
-        <translation>Kunne ikke laste opp robot til server</translation>
+        <translation type="vanished">Kunne ikke laste opp robot til server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/custom3dmodel.cpp" line="815"/>
         <source>Failed to get custom3d from server</source>
-        <translation>Kunne ikke hente egendefinert 3D-objekt fra server</translation>
+        <translation type="vanished">Kunne ikke hente egendefinert 3D-objekt fra server</translation>
     </message>
 </context>
 <context>
@@ -1359,55 +1329,44 @@
 <context>
     <name>ExportRobot</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="17"/>
         <source>Robot exporter</source>
-        <translation>Roboteksport</translation>
+        <translation type="vanished">Roboteksport</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="35"/>
         <source>Uninitialized</source>
-        <translation>Uinitialisert</translation>
+        <translation type="vanished">Uinitialisert</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="37"/>
         <source>Idle</source>
-        <translation>Inaktiv</translation>
+        <translation type="vanished">Inaktiv</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="39"/>
         <source>Downloading</source>
-        <translation>Laster ned</translation>
+        <translation type="vanished">Laster ned</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="41"/>
         <source>Unpacking</source>
-        <translation>Pakker ut</translation>
+        <translation type="vanished">Pakker ut</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="44"/>
         <source>Unknown</source>
-        <translation>Ukjent</translation>
+        <translation type="vanished">Ukjent</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="51"/>
         <source>Robot Model</source>
-        <translation>Robotmodell</translation>
+        <translation type="vanished">Robotmodell</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="65"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="71"/>
         <source>Robot Name</source>
-        <translation>Robotnavn</translation>
+        <translation type="vanished">Robotnavn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="87"/>
         <source>Back</source>
-        <translation>Tilbake</translation>
+        <translation type="vanished">Tilbake</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobot.qml" line="99"/>
         <source>Build</source>
-        <translation>Bygg</translation>
+        <translation type="vanished">Bygg</translation>
     </message>
 </context>
 <context>
@@ -1881,64 +1840,44 @@
         <translation type="vanished">Rotasjonsbordeksport</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="17"/>
-        <source>Rotary Table Exporter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="35"/>
         <source>Uninitialized</source>
-        <translation>Uinitialisert</translation>
+        <translation type="vanished">Uinitialisert</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="37"/>
         <source>Idle</source>
-        <translation>Inaktiv</translation>
+        <translation type="vanished">Inaktiv</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="39"/>
         <source>Downloading</source>
-        <translation>Laster ned</translation>
+        <translation type="vanished">Laster ned</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="41"/>
         <source>Unpacking</source>
-        <translation>Pakker ut</translation>
+        <translation type="vanished">Pakker ut</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="44"/>
         <source>Unknown</source>
-        <translation>Ukjent</translation>
+        <translation type="vanished">Ukjent</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="51"/>
         <source>Fixed Link</source>
-        <translation>Statisk lenke</translation>
+        <translation type="vanished">Statisk lenke</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="63"/>
         <source>Rotating Link</source>
-        <translation>Roterende lenke</translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="78"/>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="84"/>
-        <source>Rotary Table Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Roterende lenke</translation>
     </message>
     <message>
         <source>Turntable Name</source>
         <translation type="vanished">Rotasjonsbordnavn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="100"/>
         <source>Back</source>
-        <translation>Tilbake</translation>
+        <translation type="vanished">Tilbake</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportTurntable.qml" line="112"/>
         <source>Build</source>
-        <translation>Bygg</translation>
+        <translation type="vanished">Bygg</translation>
     </message>
 </context>
 <context>
@@ -2139,6 +2078,79 @@
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="22"/>
         <source>Import Path</source>
         <translation>Importér bane</translation>
+    </message>
+</context>
+<context>
+    <name>ImportUrdf</name>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="32"/>
+        <source>Uninitialized</source>
+        <translation type="unfinished">Uinitialisert</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="34"/>
+        <source>Idle</source>
+        <translation type="unfinished">Inaktiv</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="36"/>
+        <source>Uploading</source>
+        <translation type="unfinished">Laster opp</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="38"/>
+        <source>Downloading</source>
+        <translation type="unfinished">Laster ned</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="40"/>
+        <source>Unpacking</source>
+        <translation type="unfinished">Pakker ut</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="43"/>
+        <source>Unknown</source>
+        <translation type="unfinished">Ukjent</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="80"/>
+        <source>Open file</source>
+        <translation type="unfinished">Åpne fil</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="81"/>
+        <source>Asset files</source>
+        <translation type="unfinished">Ressursfiler</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="86"/>
+        <source>File</source>
+        <translation type="unfinished">Fil</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="92"/>
+        <source>No file selected</source>
+        <translation type="unfinished">Ingen fil valgt</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="110"/>
+        <source>Name</source>
+        <translation type="unfinished">Navn</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="119"/>
+        <source>Name of the Custom 3D model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="133"/>
+        <source>Import</source>
+        <translation type="unfinished">Import</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="169"/>
+        <source>Are you sure you want to overwrite</source>
+        <translation type="unfinished">Er du sikker på at du vil overskrive</translation>
     </message>
 </context>
 <context>
@@ -2633,9 +2645,19 @@
 <context>
     <name>LinearTrackEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="17"/>
+        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="18"/>
         <source>Linear Track Editor</source>
         <translation>Lineærbane-editor</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="39"/>
+        <source>Select Linear Track</source>
+        <translation type="unfinished">Velg Lineær Bane</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="42"/>
+        <source>Import Urdf</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4439,9 +4461,19 @@
         <translation type="vanished">Du må være logget inn for å bruke denne funksjonen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="17"/>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="18"/>
         <source>Robot Editor</source>
         <translation>Robot-editor</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="37"/>
+        <source>Select Robot</source>
+        <translation type="unfinished">Velg Robot</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="40"/>
+        <source>Import Urdf</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fetching robot list</source>
@@ -4609,18 +4641,18 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Last opp rotasjonsbord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="17"/>
+        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="18"/>
         <source>Rotary Table Editor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="35"/>
+        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="36"/>
         <source>Select Rotary Table</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="38"/>
-        <source>Upload Rotary Table</source>
+        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="39"/>
+        <source>Import Urdf</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4973,90 +5005,90 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Bane importert fra JSON</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="284"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="285"/>
         <source>Failed to confirm that the station was saved to the server (the station may or may not have been saved)</source>
         <translation>Kunne ikke bekrefte at stasjonen ble lagret på serveren (stasjonen kan ha blitt lagret eller ikke)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="309"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="492"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1167"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="310"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="493"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1172"/>
         <source>Station</source>
         <translation>Stasjon</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="309"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="310"/>
         <source>saved</source>
         <translation>lagret</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="390"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="391"/>
         <source>Failed to download station from server</source>
         <translation>Kunne ikke laste ned stasjonen fra serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="436"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="437"/>
         <source>Station cleared</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="467"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="468"/>
         <source>Failed to confirm that the station was deleted from the server (the station may or may not have been deleted)</source>
         <translation>Kunne ikke bekrefte at stasjonen ble slettet fra serveren (stasjonen kan ha blitt slettet)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="492"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="493"/>
         <source>was deleted from the server</source>
         <translation>ble slettet fra serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="512"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="513"/>
         <source>File</source>
         <translation>Fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="542"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="543"/>
         <source>Maximum APT file size</source>
         <translation>Maksimal APT-filstørrelse</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="542"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="543"/>
         <source>exceeded. Current file size (after compression): </source>
         <translation>overskredet. Gjeldende filstørrelse (etter komprimering): </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="543"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="544"/>
         <source>Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <translation>Større baner kan importeres ved å dele APT-filen i mindre filer og bruke alternativet &quot;legg til&quot;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="558"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="559"/>
         <source>Failed to get parsed apt</source>
         <translation>Kunne ikke hente analysert APT</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="558"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="559"/>
         <source>from server</source>
         <translation>fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="599"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="600"/>
         <source>Failed to import APT file</source>
         <translation>Kunne ikke importere APT-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="647"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="648"/>
         <source>Failed to get robot code from server</source>
         <translation>Kunne ikke hente robotkode fra serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="857"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="918"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="858"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="919"/>
         <source>Robot</source>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="857"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="858"/>
         <source>added to user</source>
         <translation>lagt til bruker</translation>
     </message>
@@ -5065,57 +5097,57 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Kunne ikke bekrefte at bruker-robot-relasjonen ble slettet fra serveren (relasjonen kan ha blitt slettet)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="918"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="919"/>
         <source>was removed from user-robot relation in the server</source>
         <translation>ble fjernet fra bruker-robot-relasjonen i serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="955"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="974"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="956"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="975"/>
         <source>Failed to recover saved station</source>
         <translation>Kunne ikke gjenopprette lagret stasjon</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="994"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="995"/>
         <source>Missing</source>
         <translation>Mangler</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="994"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="995"/>
         <source>info in station retrieved from server</source>
         <translation>Info i stasjonen hentet fra serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1000"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1001"/>
         <source>Station was loaded but</source>
         <translation>Stasjonen ble lastet, men</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1000"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1001"/>
         <source>data was corrupt or missing</source>
         <translation>data var korrupt eller manglet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1013"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1019"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1014"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1020"/>
         <source>robot</source>
         <translation>robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1027"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1033"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1028"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1034"/>
         <source>tool</source>
         <translation>verktøy</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1041"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1047"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1042"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1048"/>
         <source>turntable</source>
         <translation>rotasjonsbord</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1057"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1063"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1058"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1064"/>
         <source>linear track</source>
         <translation>lineærbane</translation>
     </message>
@@ -5124,9 +5156,9 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Mangler robot info i stasjon hentet fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="995"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1001"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1087"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="996"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1002"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1088"/>
         <source>This may be due to the save coming from an older version of IRBCAM</source>
         <translation>Dette kan være fordi den ble lagret med en eldre versjon av IRBCAM</translation>
     </message>
@@ -5135,22 +5167,22 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Mangler verktøy info i stasjon hentet fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1075"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1076"/>
         <source>Missing station info in station retrieved from server</source>
         <translation>Manglende stasjonsinformasjon i stasjonen hentet fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1086"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1087"/>
         <source>Station was loaded with missing info</source>
         <translation>Stasjonen ble lastet med manglende info</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1092"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1093"/>
         <source>Failed to load station data</source>
         <translation>Kunne ikke laste stasjonsdata</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1167"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1172"/>
         <source>loaded</source>
         <translation>lastet</translation>
     </message>
@@ -5159,7 +5191,7 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Kunne ikke importere APT-fil: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="604"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="605"/>
         <source>Path imported from APT</source>
         <translation>Bane importert fra APT</translation>
     </message>
@@ -5192,8 +5224,8 @@ This may be due to the save coming from an older version</source>
 Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1108"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1122"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1109"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1123"/>
         <source>Path information missing from saved station</source>
         <translation>Baneinformasjon mangler fra lagret stasjon</translation>
     </message>
@@ -5206,12 +5238,12 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
         <translation type="vanished"> lagret</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1200"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1205"/>
         <source>Autosave</source>
         <translation>Autolagring</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1202"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1207"/>
         <source>unnamed</source>
         <translation>ikke navngitt</translation>
     </message>
@@ -5623,19 +5655,53 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
 <context>
     <name>UploadTurntable</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTurntable.qml" line="38"/>
         <source>Edit</source>
-        <translation>Rediger</translation>
+        <translation type="vanished">Rediger</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTurntable.qml" line="57"/>
         <source>Properties</source>
-        <translation>Egenskaper</translation>
+        <translation type="vanished">Egenskaper</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTurntable.qml" line="77"/>
         <source>Upload</source>
-        <translation>Laste opp</translation>
+        <translation type="vanished">Laste opp</translation>
+    </message>
+</context>
+<context>
+    <name>UrdfImporter</name>
+    <message>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="56"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="90"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="124"/>
+        <source>Failed to upload</source>
+        <translation type="unfinished">Kunne ikke laste opp</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="163"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="487"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="828"/>
+        <source>Failed to build</source>
+        <translation type="unfinished">Kunne ikke bygge</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="420"/>
+        <source>Failed to upload turntable to server</source>
+        <translation type="unfinished">Kunne ikke laste opp rotasjonsbord til server</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="761"/>
+        <source>Failed to upload robot to server</source>
+        <translation type="unfinished">Kunne ikke laste opp robot til server</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="1124"/>
+        <source>Failed to upload linear track to server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="1223"/>
+        <source>Failed to get custom3d from server</source>
+        <translation type="unfinished">Kunne ikke hente egendefinert 3D-objekt fra server</translation>
     </message>
 </context>
 <context>
