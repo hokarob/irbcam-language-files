@@ -1257,7 +1257,7 @@
 <context>
     <name>ExportRobotCode</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="691"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="697"/>
         <source>Tool Data</source>
         <translation type="unfinished">Podatki Orodja</translation>
     </message>
@@ -1270,7 +1270,7 @@
         <translation type="vanished">Teža (kg): </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="756"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="762"/>
         <source>Tool Weight</source>
         <translation>Teža orodja</translation>
     </message>
@@ -1283,139 +1283,139 @@
         <translation type="vanished">Težišče orodja Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="718"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="724"/>
         <source>No tool selected</source>
         <translation>Nobeno orodje ni izbrano</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="50"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="56"/>
         <source>Export Robot Code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1396"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1425"/>
         <source>Update User-Robot Relation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1421"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1450"/>
         <source>Generating robot code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="139"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="145"/>
         <source>General Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="162"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="168"/>
         <source>Set Tool Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="285"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="291"/>
         <source>Add Lift Points</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="179"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="185"/>
         <source>Arc Welding</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="208"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="214"/>
         <source>Cutting Speed (mm/s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="246"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="252"/>
         <source>Fast Speed (mm/s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="329"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="335"/>
         <source>Number of Lines Per File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="303"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="309"/>
         <source>Lift Distance (mm)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="83"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="89"/>
         <source>Info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="101"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="107"/>
         <source>Robot</source>
         <translation type="unfinished">Robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="104"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="113"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="110"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="119"/>
         <source>None</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="109"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="115"/>
         <source>Tool</source>
         <translation type="unfinished">Lega Orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="117"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="123"/>
         <source>Number of targets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="124"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="130"/>
         <source>Configure status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="170"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="176"/>
         <source>Export Spindle Speeds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="187"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="193"/>
         <source>Override Speeds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="310"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="316"/>
         <source>Lift Distance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="385"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="391"/>
         <source>No robot selected</source>
         <translation type="unfinished">Izbran ni noben robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="401"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="407"/>
         <source>File Type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="467"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="473"/>
         <source>Rotary table axis number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="491"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="497"/>
         <source>Linear track axis number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="630"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="638"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="636"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="644"/>
         <source>Pulses per 360 deg (or meter)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="665"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="671"/>
         <source>Generic Export Options in JSON format: eg.
 {
  &quot;procedureName&quot;: &quot;main&quot;,
@@ -1424,42 +1424,42 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="711"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="717"/>
         <source>Tool Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="725"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="731"/>
         <source>Export Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="734"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="740"/>
         <source>Tool Export Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="747"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="753"/>
         <source>Weight (kg)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1383"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1412"/>
         <source>Robot must be in relation with the user before generating robot code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1421"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1450"/>
         <source>Robot code received. Save to file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1429"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1458"/>
         <source>Cancel</source>
         <translation type="unfinished">Prekliči</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1433"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1462"/>
         <source>Save</source>
         <translation type="unfinished">Shrani</translation>
     </message>
@@ -1480,22 +1480,22 @@
         <translation type="vanished">Težišče orodja Z</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1172"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1178"/>
         <source>ABB Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1217"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1236"/>
         <source>KUKA Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1233"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1252"/>
         <source>FANUC Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1248"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1272"/>
         <source>MOTOMAN Options</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1508,8 +1508,8 @@
         <translation type="vanished">Ime modula: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="423"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="432"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="429"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="438"/>
         <source>Module Name</source>
         <translation>Ime modula</translation>
     </message>
@@ -1518,8 +1518,8 @@
         <translation type="vanished">Ime postopka: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="353"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="360"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="359"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="366"/>
         <source>Procedure Name</source>
         <translation>Ime postopka</translation>
     </message>
@@ -1528,8 +1528,8 @@
         <translation type="vanished">Ime delovnega objekta: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="515"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="524"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="521"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="530"/>
         <source>Work Object Name</source>
         <translation>Ime delovnega objekta</translation>
     </message>
@@ -1538,8 +1538,8 @@
         <translation type="vanished">Ime zunanje osi: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="445"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="454"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="451"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="460"/>
         <source>External Axis Name</source>
         <translation>Ime zunanje osi</translation>
     </message>
@@ -1560,124 +1560,124 @@
         <translation type="vanished">Hitrosti iz APT datoteke</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="154"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="160"/>
         <source>Gun On/Gun Off</source>
         <translation>Strelivo vklopljeno/izklopljeno</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="537"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="545"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="543"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="551"/>
         <source>Number of Main Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="562"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="570"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="568"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="576"/>
         <source>Tool Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="587"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="593"/>
         <source>User Frame Number</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="612"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="618"/>
         <source>Dynamic Loading of JBI Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="621"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="627"/>
         <source>XRC Controller</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="777"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="783"/>
         <source>Center of Gravity X (mm)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="784"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="790"/>
         <source>Center of Gravity X</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="809"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="815"/>
         <source>Center of Gravity Y (mm)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="816"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="822"/>
         <source>Center of Gravity Y</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="841"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="847"/>
         <source>Center of Gravity Z (mm)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="848"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="854"/>
         <source>Center of Gravity Z</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1047"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1053"/>
         <source>Enable Custom Templates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1070"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1076"/>
         <source>Header</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1086"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1092"/>
         <source>Custom Header</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1102"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1108"/>
         <source>Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1118"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1124"/>
         <source>Custom Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1134"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1140"/>
         <source>Move</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1150"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1156"/>
         <source>Custom Move</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1311"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1340"/>
         <source>Generic Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1367"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1396"/>
         <source>Path must be configured before it can be exported</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1375"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1404"/>
         <source>One or more options are not valid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1396"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1425"/>
         <source>Export</source>
         <translation>Izvozi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1396"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1425"/>
         <source>Open Path Editor</source>
         <translation type="unfinished"></translation>
     </message>
