@@ -366,17 +366,17 @@
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1136"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="818"/>
         <source>Failed to send report</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1146"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="828"/>
         <source>Attachment should be less than</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1179"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="861"/>
         <source>Report sent</source>
         <translation type="unfinished"></translation>
     </message>
@@ -539,7 +539,7 @@
 <context>
     <name>ConfigurePath</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ConfigurePath.qml" line="15"/>
+        <location filename="../../IrbcamQml/Sidebar/ConfigurePath.qml" line="16"/>
         <source>Configure Path</source>
         <translation type="unfinished">Útvonal beállítás</translation>
     </message>
@@ -606,17 +606,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="261"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="270"/>
         <source>Bending Backwards</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="271"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="280"/>
         <source>Elbow Down</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="281"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="290"/>
         <source>Wrist Down</source>
         <translation type="unfinished"></translation>
     </message>
@@ -704,17 +704,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="291"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="300"/>
         <source>Allow Large Reorient</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="306"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="315"/>
         <source>Configure</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="312"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="321"/>
         <source>Status: </source>
         <translation type="unfinished">Állapot: </translation>
     </message>
@@ -1058,31 +1058,65 @@
         <translation type="obsolete"> a felhőből</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="59"/>
         <source>Edit</source>
-        <translation type="obsolete">Szerkesztés</translation>
+        <translation type="unfinished">Szerkesztés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="34"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="74"/>
+        <source>Stationary Tool is incompatible with</source>
+        <extracomment>Stationary tool is incompatible with &lt;Rotary Table&gt;&lt;/&gt;&lt;Linear Track&gt;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="76"/>
+        <source>Rotary Table</source>
+        <extracomment>Stationary tool is incompatible with &lt;Rotary Table&gt;&lt;/&gt;&lt;Linear Track&gt;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="79"/>
+        <source>Linear Track</source>
+        <extracomment>Stationary tool is incompatible with &lt;Rotary Table&gt;&lt;/&gt;&lt;Linear Track&gt;</extracomment>
+        <translation type="unfinished">Lineáris egység</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="85"/>
+        <source>Stationary Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="105"/>
+        <source>Tooltip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="108"/>
+        <source>Base</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="136"/>
         <source>Generic Tool</source>
         <translation type="unfinished">Általános eszköz</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="49"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="151"/>
         <source>Diameter</source>
         <translation type="unfinished">Átmérő</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="53"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="155"/>
         <source>Cone length</source>
         <translation type="unfinished">Kúp hossza</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="57"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="159"/>
         <source>Color</source>
         <translation type="unfinished">Szín</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="100"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="202"/>
         <source>Select color</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2196,18 +2230,24 @@
 <context>
     <name>LinearTrackEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="18"/>
+        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="19"/>
         <source>Linear Track Editor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="39"/>
+        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="23"/>
+        <source>Linear Track is incompatible with Stationary Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="36"/>
         <source>Select Linear Track</source>
         <translation type="unfinished">Lineáris egység kiválasztás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="42"/>
-        <source>Import Urdf</source>
+        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="40"/>
+        <source>Import URDF</source>
+        <extracomment>URDF: Unified Robot Description Format (https://en.wikipedia.org/wiki/URDF)</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3300,7 +3340,7 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/NetworkItemEditor.qml" line="72"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/NetworkItemEditor.qml" line="60"/>
         <source>Edit</source>
         <translation type="unfinished">Szerkesztés</translation>
     </message>
@@ -3840,107 +3880,107 @@
 <context>
     <name>PoseEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="61"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="81"/>
         <source>Position</source>
         <translation>Pozíció</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="69"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="89"/>
         <source>X</source>
         <translation type="unfinished">X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="73"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="93"/>
         <source>Y</source>
         <translation type="unfinished">Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="77"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="97"/>
         <source>Z</source>
         <translation type="unfinished">Z</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="139"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="159"/>
         <source>Rotation</source>
         <translation>Forgatás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="148"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="168"/>
         <source>Rx</source>
         <translation type="unfinished">Rx</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="149"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="169"/>
         <source>Yaw</source>
         <translation>Yáv</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="154"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="174"/>
         <source>Ry</source>
         <translation type="unfinished">Ry</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="155"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="175"/>
         <source>Pitch</source>
         <translation>Dőlés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="160"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="180"/>
         <source>Rz</source>
         <translation type="unfinished">Rz</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="161"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="181"/>
         <source>Roll</source>
         <translation>Billenés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="226"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="246"/>
         <source>Normalize</source>
         <translation>Normalizálás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="230"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="250"/>
         <source>Normalize quaternions</source>
         <translation>Normáldúsítás a kvaternióknak</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="308"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="328"/>
         <source>Q1</source>
         <translation type="unfinished">Q1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="309"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="329"/>
         <source>Quaternion scalar</source>
         <translation>Kvaternió skálár</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="314"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="334"/>
         <source>Q2</source>
         <translation type="unfinished">Q2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="315"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="335"/>
         <source>Quaternion i</source>
         <translation>Kvaternió i</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="320"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="340"/>
         <source>Q3</source>
         <translation type="unfinished">Q3</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="321"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="341"/>
         <source>Quaternion j</source>
         <translation>Kvaternió j</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="326"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="346"/>
         <source>Q4</source>
         <translation type="unfinished">Q4</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="327"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="347"/>
         <source>Quaternion k</source>
         <translation>Kvaternió k</translation>
     </message>
@@ -3993,13 +4033,14 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="37"/>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="28"/>
         <source>Select Robot</source>
         <translation type="unfinished">Robot kiválasztás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="40"/>
-        <source>Import Urdf</source>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="32"/>
+        <source>Import URDF</source>
+        <extracomment>URDF: Unified Robot Description Format (https://en.wikipedia.org/wiki/URDF)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4030,100 +4071,100 @@
         <translation type="vanished">Útvonal konfigurálása sikertelen: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="83"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="84"/>
         <source>Failed to configure path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="83"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="84"/>
         <source>Configured </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="83"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="84"/>
         <source> of </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="83"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="84"/>
         <source> targets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="89"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="90"/>
         <source>Path configured successfully in </source>
         <translation>Útvonal sikeresen konfigurálva itt: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="156"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="157"/>
         <source>Start index must be smaller than end index</source>
         <translation type="unfinished">A kezdőindexnek kisebbnek kell lennie, mint a végső indexnek</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="162"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="163"/>
         <source>Allowed maximum distance must be greater than 0.001 mm</source>
         <translation type="unfinished">A megengedett maximális távolságnak nagyobbnak kell lennie, mint 0.001 mm</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="168"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="169"/>
         <source>Path is empty</source>
         <translation type="unfinished">Az útvonal üres</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="175"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="176"/>
         <source>Invalid end index, end index must be smaller than the size of the path</source>
         <translation type="unfinished">Érvénytelen végindex, a végindexnek kisebbnek kell lennie, mint az útvonal mérete</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="184"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="185"/>
         <source>Max distance configured successfully</source>
         <translation type="unfinished">A maximális távolság sikeresen beállítva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="198"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="237"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="199"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="238"/>
         <source>File is empty</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="204"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="243"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="205"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="244"/>
         <source>File is not a valid UTF-8 file
 Only UTF-8 encoded files are supported</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="214"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="215"/>
         <source>Failed to import CSV file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="253"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="254"/>
         <source>Failed to import JSON file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="278"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="279"/>
         <source>Failed to load path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="315"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="316"/>
         <source>Failed to parse APT file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="220"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="221"/>
         <source>Path imported from CSV</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="259"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="260"/>
         <source>Path imported from JSON</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="284"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="285"/>
         <source>Path loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4131,18 +4172,24 @@ Only UTF-8 encoded files are supported</source>
 <context>
     <name>RotaryTableEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="18"/>
+        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="19"/>
         <source>Rotary Table Editor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="36"/>
+        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="23"/>
+        <source>Rotary Table is incompatible with Stationary Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="37"/>
         <source>Select Rotary Table</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="39"/>
+        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="41"/>
         <source>Import Urdf</source>
+        <extracomment>URDF: Unified Robot Description Format (https://en.wikipedia.org/wiki/URDF)</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4475,8 +4522,8 @@ Kattintson újra a felülíráshoz</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="310"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="493"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1172"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="495"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1174"/>
         <source>Station</source>
         <translation type="unfinished">Állomás</translation>
     </message>
@@ -4491,128 +4538,128 @@ Kattintson újra a felülíráshoz</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="437"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="439"/>
         <source>Station cleared</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="468"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="470"/>
         <source>Failed to confirm that the station was deleted from the server (the station may or may not have been deleted)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="493"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="495"/>
         <source>was deleted from the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="513"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="515"/>
         <source>File</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="543"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="545"/>
         <source>Maximum APT file size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="543"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="545"/>
         <source>exceeded. Current file size (after compression): </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="544"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="546"/>
         <source>Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="559"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="561"/>
         <source>Failed to get parsed apt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="559"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="561"/>
         <source>from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="600"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="602"/>
         <source>Failed to import APT file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="605"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="607"/>
         <source>Path imported from APT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="648"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="650"/>
         <source>Failed to get robot code from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="858"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="919"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="860"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="921"/>
         <source>Robot</source>
         <translation type="unfinished">Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="858"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="860"/>
         <source>added to user</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="919"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="921"/>
         <source>was removed from user-robot relation in the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="956"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="975"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="958"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="977"/>
         <source>Failed to recover saved station</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="995"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="997"/>
         <source>Missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="995"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="997"/>
         <source>info in station retrieved from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1001"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1003"/>
         <source>Station was loaded but</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1001"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1003"/>
         <source>data was corrupt or missing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1014"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1020"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1016"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1022"/>
         <source>robot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1028"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1034"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1030"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1036"/>
         <source>tool</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1042"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1048"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1044"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1050"/>
         <source>turntable</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1058"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1064"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1060"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1066"/>
         <source>linear track</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4621,9 +4668,9 @@ Kattintson újra a felülíráshoz</translation>
         <translation type="vanished">Hiányzik a robot információ a szerverről lekérdezett állomáson</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="996"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1002"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1088"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="998"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1004"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1090"/>
         <source>This may be due to the save coming from an older version of IRBCAM</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4632,22 +4679,22 @@ Kattintson újra a felülíráshoz</translation>
         <translation type="vanished">Hiányzik az eszköz információ a szerverről lekérdezett állomáson</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1076"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1078"/>
         <source>Missing station info in station retrieved from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1087"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1089"/>
         <source>Station was loaded with missing info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1093"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1095"/>
         <source>Failed to load station data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1172"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1174"/>
         <source>loaded</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4662,8 +4709,8 @@ This may be due to the save coming from an older version</source>
 Ez azért lehet, mert a mentés egy régebbi verzióból származik</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1109"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1123"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1111"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1125"/>
         <source>Path information missing from saved station</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4676,12 +4723,12 @@ Ez azért lehet, mert a mentés egy régebbi verzióból származik</translation
         <translation type="vanished"> mentve</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1205"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1207"/>
         <source>Autosave</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1207"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1209"/>
         <source>unnamed</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5100,53 +5147,53 @@ Ez azért lehet, mert a mentés egy régebbi verzióból származik</translation
 <context>
     <name>UtilitiesInterface</name>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="243"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="249"/>
         <source>Fixed Angle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="245"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="251"/>
         <source>Dynamic Angle 1</source>
         <translation type="unfinished">Dinamikus szög 1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="247"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="253"/>
         <source>Dynamic Angle 2</source>
         <translation type="unfinished">Dinamikus szög 2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="249"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="255"/>
         <source>No Change</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="253"/>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="273"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="259"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="279"/>
         <source>Unknown</source>
         <translation type="unfinished">Ismeretlen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="261"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="267"/>
         <source>Fixed Position</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="263"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="269"/>
         <source>Dynamic Position</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="265"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="271"/>
         <source>Positive Only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="267"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="273"/>
         <source>Negative Only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="269"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="275"/>
         <source>Batch Mode</source>
         <translation type="unfinished"></translation>
     </message>
