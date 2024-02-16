@@ -332,17 +332,17 @@
 <context>
     <name>AnimationBar</name>
     <message>
-        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="56"/>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="87"/>
         <source>End of path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="57"/>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="88"/>
         <source>Path must be configured before it can be animated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="58"/>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="89"/>
         <source>Path must contain at least two points to animate</source>
         <translation type="unfinished"></translation>
     </message>
@@ -384,17 +384,17 @@
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="818"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="814"/>
         <source>Failed to send report</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="828"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="824"/>
         <source>Attachment should be less than</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="861"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="857"/>
         <source>Report sent</source>
         <translation type="unfinished"></translation>
     </message>
@@ -617,32 +617,32 @@
 <context>
     <name>ConfigurePathView</name>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="83"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="211"/>
         <source>Tool Roll Angle (deg)</source>
         <translation>Angle de roulis de l&apos;outil (degrés)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="101"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="236"/>
         <source>Rotary Table Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="135"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="271"/>
         <source>Rotary Table Angle (deg)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="270"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="409"/>
         <source>Bending Backwards</source>
         <translation>Se plier vers l&apos;arrière</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="280"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="419"/>
         <source>Elbow Down</source>
         <translation>Coude vers le bas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="290"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="429"/>
         <source>Wrist Down</source>
         <translation>Poignet vers le bas</translation>
     </message>
@@ -651,100 +651,109 @@
         <translation type="vanished">Autoriser une grande réorientation</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="42"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="100"/>
+        <source>Export Robot Code</source>
+        <translation type="unfinished">Exporter le code pour le robot</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="100"/>
+        <source>Solve Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="167"/>
         <source>Tool Roll Mode</source>
         <translation>Mode de roulis de l&apos;outil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="58"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="185"/>
         <source>No Change</source>
         <translation>Pas de changement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="59"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="118"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="186"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="254"/>
         <source>Fixed Angle</source>
         <translation>Angle fixe</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="60"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="119"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="187"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="255"/>
         <source>Dynamic Angle 1</source>
         <translation>Angle dynamique 1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="61"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="120"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="188"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="256"/>
         <source>Dynamic Angle 2</source>
         <translation>Angle dynamique 2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="66"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="193"/>
         <source>Overwrite path tool roll angle (RZ2) with the selected method</source>
         <translation>Remplacer l&apos;angle de roulis de l&apos;outil de trajectoire (RZ2) avec la méthode sélectionnée</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="160"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="300"/>
         <source>Linear Track Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="176"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="317"/>
         <source>Fixed Position</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="177"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="318"/>
         <source>Dynamic Position</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="178"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="319"/>
         <source>Positive Only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="179"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="320"/>
         <source>Negative Only</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="180"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="321"/>
         <source>Batch Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="192"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="334"/>
         <source>Batch Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="233"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="376"/>
         <source>Linear Track</source>
         <translation type="unfinished">Rail linéaire</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="235"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="378"/>
         <source>Axis</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="237"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="380"/>
         <source> (mm)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="300"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="439"/>
         <source>Allow Large Reorient</source>
         <translation>Autoriser une grande réorientation</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="315"/>
         <source>Configure</source>
-        <translation>Configurer</translation>
+        <translation type="vanished">Configurer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="321"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="121"/>
         <source>Status: </source>
         <translation>Statut : </translation>
     </message>
@@ -1356,17 +1365,17 @@
         <translation>Aucun outil sélectionné</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="56"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="54"/>
         <source>Export Robot Code</source>
         <translation>Exporter le code pour le robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1425"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1429"/>
         <source>Update User-Robot Relation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1450"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1452"/>
         <source>Generating robot code</source>
         <translation>Génération du code pour le robot</translation>
     </message>
@@ -1556,22 +1565,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1412"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1414"/>
         <source>Robot must be in relation with the user before generating robot code</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1450"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1452"/>
         <source>Robot code received. Save to file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1458"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1460"/>
         <source>Cancel</source>
         <translation type="unfinished">Annuler</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1462"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1464"/>
         <source>Save</source>
         <translation type="unfinished">Enregistrer</translation>
     </message>
@@ -1747,19 +1756,18 @@
         <translation>Le chemin doit être configuré avant de pouvoir être exporté</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1404"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1405"/>
         <source>One or more options are not valid</source>
         <translation>Une ou plusieurs options ne sont pas valides</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1425"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1429"/>
         <source>Export</source>
         <translation>Exporter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1425"/>
         <source>Open Path Editor</source>
-        <translation>Éditeur de chemin ouvert</translation>
+        <translation type="vanished">Éditeur de chemin ouvert</translation>
     </message>
     <message>
         <source>Export robot code to a file</source>
@@ -3200,47 +3208,47 @@
         <translation type="vanished">Quitter (CTRL+Q)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="128"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="126"/>
         <source>&amp;Edit</source>
         <translation>&amp;Éditer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="130"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="128"/>
         <source>&amp;User Frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="135"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="133"/>
         <source>&amp;Object Frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="140"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="138"/>
         <source>&amp;Robot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="150"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="148"/>
         <source>&amp;Linear Track</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="160"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="158"/>
         <source>&amp;Additional Objects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="166"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="164"/>
         <source>Tar&amp;gets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="241"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="239"/>
         <source>User Frame</source>
         <translation>Référentiel de l&apos;utilisateur</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="249"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="247"/>
         <source>Object Frame</source>
         <translation>Référentiel de l&apos;objet</translation>
     </message>
@@ -3253,7 +3261,7 @@
         <translation type="vanished">Mécanisme</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="257"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="255"/>
         <source>Robot</source>
         <translation>Robot</translation>
     </message>
@@ -3306,7 +3314,7 @@
         <translation type="vanished">Sélectionner la table actionnée</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="265"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="263"/>
         <source>Tool</source>
         <translation>Outil</translation>
     </message>
@@ -3335,7 +3343,7 @@
         <translation type="vanished">Supprimer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="111"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="110"/>
         <source>Export Robot Code</source>
         <translation>Exporter le code pour le robot</translation>
     </message>
@@ -3399,7 +3407,7 @@
         <translation type="vanished">&amp;Importer Apt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="122"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="120"/>
         <source>Station &amp;Info</source>
         <translation>Station &amp;Info</translation>
     </message>
@@ -3408,12 +3416,12 @@
         <translation type="vanished">R&amp;obot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="145"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="143"/>
         <source>&amp;Tool</source>
         <translation>O&amp;util</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="174"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="172"/>
         <source>&amp;Tools</source>
         <translation>O&amp;utils</translation>
     </message>
@@ -3431,17 +3439,16 @@
         <translation type="vanished">Objets supplémentaires</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="176"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="174"/>
         <source>Optimiser</source>
         <translation>Optimiseur</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="180"/>
         <source>Configure Path</source>
-        <translation>Configurer le chemin</translation>
+        <translation type="vanished">Configurer le chemin</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="185"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="183"/>
         <source>Statistics</source>
         <translation>Statistiques</translation>
     </message>
@@ -3480,87 +3487,87 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="155"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="153"/>
         <source>Rotar&amp;y Table</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="189"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="187"/>
         <source>Collision Detection</source>
         <translation>Détection de collision</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="193"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="191"/>
         <source>Orientation</source>
         <translation>Orientation</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="197"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="195"/>
         <source>Settings</source>
         <translation>Options</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="203"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="201"/>
         <source>&amp;View</source>
         <translation>&amp;Vue</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="205"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="203"/>
         <source>Station</source>
         <translation>Station</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="215"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="213"/>
         <source>2D Plot</source>
         <translation>Graphe 2D</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="220"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="218"/>
         <source>3D Plot</source>
         <translation>Graphe 3D</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="225"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="223"/>
         <source>Time Plot</source>
         <translation>Graphe temporel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="233"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="231"/>
         <source>Global</source>
         <translation>Globaux</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="273"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="271"/>
         <source>Rotary Table</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="281"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="279"/>
         <source>Target</source>
         <translation>Cible</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="292"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="290"/>
         <source>No plugins are enabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="318"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="316"/>
         <source>This plugin does not have valid source content</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="348"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="346"/>
         <source>User Manual</source>
         <translation>Manuel utilisateur</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="359"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="357"/>
         <source>EULA</source>
         <translation>EULA</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="369"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="367"/>
         <source>Feedback</source>
         <translation>Retour d&apos;expérience</translation>
     </message>
@@ -3573,7 +3580,7 @@
         <translation type="vanished">Vues orthogonales</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="210"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="208"/>
         <source>Combination View</source>
         <translation>Vue combinée</translation>
     </message>
@@ -3594,7 +3601,7 @@
         <translation type="vanished">Animer en arrière</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="298"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="296"/>
         <source>&amp;Plugins</source>
         <translation>&amp;Plugins</translation>
     </message>
@@ -3607,7 +3614,7 @@
         <translation type="vanished">Ce plugin n&apos;est pas disponible : </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="354"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="352"/>
         <source>Forum</source>
         <translation>Forum</translation>
     </message>
@@ -3644,7 +3651,7 @@
         <translation type="vanished">Paramètres des plugins</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="346"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="344"/>
         <source>&amp;Help</source>
         <translation>&amp;Aide</translation>
     </message>
@@ -3653,7 +3660,7 @@
         <translation type="vanished">Navigation 3D</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="229"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="227"/>
         <source>Coordinate Systems</source>
         <translation>Systèmes de coordonnées</translation>
     </message>
@@ -3666,7 +3673,7 @@
         <translation type="vanished">Langue / Unités</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="364"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="362"/>
         <source>About IRBCAM</source>
         <translation>À propos d&apos;IRBCAM</translation>
     </message>
@@ -3674,7 +3681,7 @@
 <context>
     <name>MessageCentre</name>
     <message>
-        <location filename="../../IrbcamQml/Views/MessageCentre.qml" line="166"/>
+        <location filename="../../IrbcamQml/Views/MessageCentre.qml" line="105"/>
         <source>Ok</source>
         <translation type="unfinished">Ok</translation>
     </message>
@@ -3939,9 +3946,8 @@
         <translation>Ajouter des cibles</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="410"/>
         <source>Configure Path</source>
-        <translation>Configurer le chemin</translation>
+        <translation type="vanished">Configurer le chemin</translation>
     </message>
     <message>
         <source>Tool Roll Angle (deg)</source>
@@ -4411,16 +4417,6 @@
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="84"/>
-        <source>Failed to configure path</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="84"/>
-        <source>Configured </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="84"/>
         <source> of </source>
         <translation type="unfinished"></translation>
     </message>
@@ -4430,9 +4426,23 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="90"/>
         <source>Path configured successfully in </source>
-        <translation>Chemin configuré avec succès en </translation>
+        <translation type="vanished">Chemin configuré avec succès en </translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="84"/>
+        <source>Failed to solve path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="84"/>
+        <source>Solved </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="90"/>
+        <source>Path solved successfully in </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="157"/>
@@ -4491,6 +4501,121 @@ Seuls les fichiers UTF-8 sont supportés</translation>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="316"/>
         <source>Failed to parse APT file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="339"/>
+        <source>No error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="341"/>
+        <source>Path not solved</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="343"/>
+        <source>Path solved successfully</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="345"/>
+        <source>No solution</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="347"/>
+        <source>Axis limit violation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="349"/>
+        <source>Solution is outside of workspace limits</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="351"/>
+        <source>This robot cannot bend backwards</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="353"/>
+        <source>Invalid kinematic parameters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="355"/>
+        <source>Undefined kinematic type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="357"/>
+        <source>Invalid kinematic type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="359"/>
+        <source>Invalid joint setpoint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="361"/>
+        <source>Invalid number of degrees of freedom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="363"/>
+        <source>Division by zero</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="365"/>
+        <source>Input is null pointer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="367"/>
+        <source>Robot not loaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="369"/>
+        <source>Invalid path size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="371"/>
+        <source>Discontinuous step</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="373"/>
+        <source>No targets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="375"/>
+        <source>Dynamic angle out of range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="377"/>
+        <source>Index out of range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="379"/>
+        <source>One or more targets have invalid speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="381"/>
+        <source>Distance from the center of turntable to the point is too small</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="383"/>
+        <source>Angular constraint on turntable is too shallow</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
