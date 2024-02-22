@@ -4486,6 +4486,16 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
         <translation type="unfinished">Lenkimas atgal:</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="56"/>
+        <source>Stationary tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="56"/>
+        <source>Robot holds the tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="83"/>
         <source>No linear track selected</source>
         <translation type="unfinished"></translation>

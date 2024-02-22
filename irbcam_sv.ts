@@ -4398,6 +4398,16 @@ Klicka igen för att skriva över</translation>
         <translation>Inget verktyg valt</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="56"/>
+        <source>Stationary tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="56"/>
+        <source>Robot holds the tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="60"/>
         <source>Geometry: </source>
         <translation>Geometri: </translation>

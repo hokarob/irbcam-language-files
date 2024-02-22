@@ -4466,6 +4466,16 @@ Kattintson újra a felülíráshoz</translation>
         <translation>Nincs szerszám kiválasztva</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="56"/>
+        <source>Stationary tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="56"/>
+        <source>Robot holds the tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="60"/>
         <source>Geometry: </source>
         <translation>Geometria: </translation>
