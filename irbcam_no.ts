@@ -661,32 +661,32 @@
 <context>
     <name>ConfigurePathView</name>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="211"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="212"/>
         <source>Tool Roll Angle (deg)</source>
         <translation>Verktøyrullvinkel (grader)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="236"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="237"/>
         <source>Rotary Table Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="271"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="272"/>
         <source>Rotary Table Angle (deg)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="409"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="410"/>
         <source>Bending Backwards</source>
         <translation>Bøye bakover</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="419"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="420"/>
         <source>Elbow Down</source>
         <translation>Albue ned</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="429"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="430"/>
         <source>Wrist Down</source>
         <translation>Håndledd ned</translation>
     </message>
@@ -712,24 +712,29 @@
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="186"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="254"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="255"/>
         <source>Fixed Angle</source>
         <translation>Fast vinkel</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="187"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="255"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="256"/>
         <source>Dynamic Angle 1</source>
         <translation>Dynamisk vinkel 1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="188"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="256"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="257"/>
         <source>Dynamic Angle 2</source>
         <translation>Dynamisk vinkel 2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="193"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="189"/>
+        <source>Roller Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="194"/>
         <source>Overwrite path tool roll angle (RZ2) with the selected method</source>
         <translation>Overskriv baneverktøyets rullevinkel (RZ2) med den valgte metoden</translation>
     </message>
@@ -742,57 +747,57 @@
         <translation type="vanished">Vinkel rotasjonsbord (grader)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="300"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="301"/>
         <source>Linear Track Mode</source>
         <translation>Lineærbanemodus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="317"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="318"/>
         <source>Fixed Position</source>
         <translation>Stasjonær posisjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="318"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="319"/>
         <source>Dynamic Position</source>
         <translation>Dynamisk posisjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="319"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="320"/>
         <source>Positive Only</source>
         <translation>Kun positiv</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="320"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="321"/>
         <source>Negative Only</source>
         <translation>Kun negativ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="321"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="322"/>
         <source>Batch Mode</source>
         <translation>Batchmodus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="334"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="335"/>
         <source>Batch Size</source>
         <translation>Batchstørrelse</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="376"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="377"/>
         <source>Linear Track</source>
         <translation>Lineærbane</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="378"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="379"/>
         <source>Axis</source>
         <translation>Akse</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="380"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="381"/>
         <source> (mm)</source>
         <translation> (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="439"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="440"/>
         <source>Allow Large Reorient</source>
         <translation>Tillat stor omorientering</translation>
     </message>
@@ -5453,33 +5458,33 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
 <context>
     <name>StationViewer</name>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="476"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="593"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="646"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="835"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="491"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="608"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="674"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="863"/>
         <source>Animation aborted</source>
         <translation>Animasjonen ble avbrutt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="476"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="593"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="646"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="491"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="608"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="674"/>
         <source>Target at index</source>
         <translation>Mål på indeks</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="594"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="609"/>
         <source>has zero velocity</source>
         <translation>har null hastighet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="835"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="863"/>
         <source>Target is unreachable with the current configuration</source>
         <translation>Punktet er ikke tilgjengelig med gjeldende konfigurasjon</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="477"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="647"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="492"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="675"/>
         <source>is unreachable</source>
         <translation>er utenfor rekkevidde</translation>
     </message>
