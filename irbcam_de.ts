@@ -2137,7 +2137,7 @@
         <translation type="vanished">Größere Pfade können importiert werden, indem die APT-Datei in kleinere Dateien aufgeteilt und die Option &apos;anhängen&apos; verwendet wird</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="121"/>
+        <location filename="../../../backend/src/networking.cpp" line="126"/>
         <source>Goodbye </source>
         <translation>Auf Wiedersehen </translation>
     </message>
@@ -2198,7 +2198,7 @@
         <translation type="vanished">Konnte nicht bestätigen, dass die Geometrie vom Server gelöscht wurde (die Geometrie wurde möglicherweise nicht gelöscht)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="336"/>
+        <location filename="../../../backend/src/networking.cpp" line="341"/>
         <source>Failed to get version info</source>
         <translation>Versionsinformationen konnten nicht abgerufen werden</translation>
     </message>
@@ -2207,97 +2207,97 @@
         <translation type="vanished">Fehler: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="734"/>
+        <location filename="../../../backend/src/networking.cpp" line="739"/>
         <source>unknown user</source>
         <translation>unbekannter Benutzer</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="742"/>
+        <location filename="../../../backend/src/networking.cpp" line="747"/>
         <source>unknown username</source>
         <translation>unbekannter Benutzername</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="746"/>
+        <location filename="../../../backend/src/networking.cpp" line="751"/>
         <source>Welcome </source>
         <translation>Willkommen </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="764"/>
+        <location filename="../../../backend/src/networking.cpp" line="769"/>
         <source> loaded
 </source>
         <translation> geladen
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="765"/>
+        <location filename="../../../backend/src/networking.cpp" line="770"/>
         <source>Some settings were not available on the server. This is likely due to new settings being introduced in IRBCAM
 </source>
         <translation>Einige Einstellungen waren auf dem Server nicht verfügbar. Dies ist wahrscheinlich auf die Einführung neuer Einstellungen in IRBCAM zurückzuführen
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="766"/>
+        <location filename="../../../backend/src/networking.cpp" line="771"/>
         <source>The affected settings have been set to their default values</source>
         <translation>Die betroffenen Einstellungen wurden auf ihre Standardwerte zurückgesetzt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="775"/>
+        <location filename="../../../backend/src/networking.cpp" line="780"/>
         <source>Failed to load settings for </source>
         <translation>Fehler beim Laden der Einstellungen für </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1006"/>
+        <location filename="../../../backend/src/networking.cpp" line="1011"/>
         <source>A new minor version of IRBCAM is available.</source>
         <translation>Eine neue Nebenversion von IRBCAM ist verfügbar.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1007"/>
+        <location filename="../../../backend/src/networking.cpp" line="1012"/>
         <source>Save your work and reload page to get the newest features</source>
         <translation>Speichern Sie Ihre Arbeit und laden Sie die Seite neu, um die neuesten Funktionen zu erhalten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1012"/>
+        <location filename="../../../backend/src/networking.cpp" line="1017"/>
         <source>A new major version of IRBCAM is available.</source>
         <translation>Eine neue Hauptversion von IRBCAM ist verfügbar.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1013"/>
+        <location filename="../../../backend/src/networking.cpp" line="1018"/>
         <source>Some features may be unavailable until page is reloaded.</source>
         <translation>Einige Funktionen sind möglicherweise erst verfügbar, wenn die Seite neu geladen wird.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1014"/>
+        <location filename="../../../backend/src/networking.cpp" line="1019"/>
         <source>Please save your work and reload page as soon as possible</source>
         <translation>Bitte speichern Sie Ihre Arbeit und laden Sie die Seite so schnell wie möglich neu</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="764"/>
-        <location filename="../../../backend/src/networking.cpp" line="782"/>
+        <location filename="../../../backend/src/networking.cpp" line="769"/>
+        <location filename="../../../backend/src/networking.cpp" line="787"/>
         <source>Settings for </source>
         <translation>Einstellungen für </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="81"/>
+        <location filename="../../../backend/src/networking.cpp" line="86"/>
         <source>Failed to sign in user</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="782"/>
+        <location filename="../../../backend/src/networking.cpp" line="787"/>
         <source> loaded</source>
         <translation> geladen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="903"/>
+        <location filename="../../../backend/src/networking.cpp" line="908"/>
         <source>A network error occurred</source>
         <translation>Ein Netzwerkfehler ist aufgetreten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="943"/>
+        <location filename="../../../backend/src/networking.cpp" line="948"/>
         <source>Remote error</source>
         <translation>Remote-Fehler</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="943"/>
+        <location filename="../../../backend/src/networking.cpp" line="948"/>
         <source>code</source>
         <translation>Code</translation>
     </message>

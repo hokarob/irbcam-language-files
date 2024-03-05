@@ -1922,105 +1922,105 @@
 <context>
     <name>IrbcamNetwork</name>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="121"/>
+        <location filename="../../../backend/src/networking.cpp" line="126"/>
         <source>Goodbye </source>
         <translation>Adjö </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="336"/>
+        <location filename="../../../backend/src/networking.cpp" line="341"/>
         <source>Failed to get version info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="734"/>
+        <location filename="../../../backend/src/networking.cpp" line="739"/>
         <source>unknown user</source>
         <translation>okänd användare</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="742"/>
+        <location filename="../../../backend/src/networking.cpp" line="747"/>
         <source>unknown username</source>
         <translation>okänt användarnamn</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="746"/>
+        <location filename="../../../backend/src/networking.cpp" line="751"/>
         <source>Welcome </source>
         <translation>Välkommen </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="764"/>
+        <location filename="../../../backend/src/networking.cpp" line="769"/>
         <source> loaded
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="765"/>
+        <location filename="../../../backend/src/networking.cpp" line="770"/>
         <source>Some settings were not available on the server. This is likely due to new settings being introduced in IRBCAM
 </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="766"/>
+        <location filename="../../../backend/src/networking.cpp" line="771"/>
         <source>The affected settings have been set to their default values</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="775"/>
+        <location filename="../../../backend/src/networking.cpp" line="780"/>
         <source>Failed to load settings for </source>
         <translation>Misslyckades med att läsa in inställningar för </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1006"/>
+        <location filename="../../../backend/src/networking.cpp" line="1011"/>
         <source>A new minor version of IRBCAM is available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1007"/>
+        <location filename="../../../backend/src/networking.cpp" line="1012"/>
         <source>Save your work and reload page to get the newest features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1012"/>
+        <location filename="../../../backend/src/networking.cpp" line="1017"/>
         <source>A new major version of IRBCAM is available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1013"/>
+        <location filename="../../../backend/src/networking.cpp" line="1018"/>
         <source>Some features may be unavailable until page is reloaded.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1014"/>
+        <location filename="../../../backend/src/networking.cpp" line="1019"/>
         <source>Please save your work and reload page as soon as possible</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="764"/>
-        <location filename="../../../backend/src/networking.cpp" line="782"/>
+        <location filename="../../../backend/src/networking.cpp" line="769"/>
+        <location filename="../../../backend/src/networking.cpp" line="787"/>
         <source>Settings for </source>
         <translation>Inställningar för </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="81"/>
+        <location filename="../../../backend/src/networking.cpp" line="86"/>
         <source>Failed to sign in user</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="782"/>
+        <location filename="../../../backend/src/networking.cpp" line="787"/>
         <source> loaded</source>
         <translation> inläst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="903"/>
+        <location filename="../../../backend/src/networking.cpp" line="908"/>
         <source>A network error occurred</source>
         <translation type="unfinished">Ett nätverksfel inträffade</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="943"/>
+        <location filename="../../../backend/src/networking.cpp" line="948"/>
         <source>Remote error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="943"/>
+        <location filename="../../../backend/src/networking.cpp" line="948"/>
         <source>code</source>
         <translation type="unfinished"></translation>
     </message>
