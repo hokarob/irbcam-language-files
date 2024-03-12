@@ -1994,7 +1994,7 @@
 <context>
     <name>ImportPath</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="22"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="24"/>
         <source>Import Path</source>
         <translation>Importer un chemin</translation>
     </message>
@@ -4780,22 +4780,22 @@ Cliquez à nouveau pour écraser</translation>
 <context>
     <name>Sidebar</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="110"/>
+        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="111"/>
         <source>Back</source>
         <translation>Retour</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="110"/>
+        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="111"/>
         <source>Close</source>
         <translation>Fermer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="167"/>
+        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="168"/>
         <source>Finish</source>
         <translation>Terminer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="172"/>
+        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="173"/>
         <source>Next</source>
         <translation>Suivant</translation>
     </message>
@@ -5309,33 +5309,33 @@ Cela peut être dû à une sauvegarde provenant d&apos;une version antérieure</
 <context>
     <name>StationViewer</name>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="519"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="636"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="702"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="891"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="533"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="650"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="716"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="905"/>
         <source>Animation aborted</source>
         <translation>Animation interrompue</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="519"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="636"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="702"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="533"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="650"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="716"/>
         <source>Target at index</source>
         <translation>Cible à l&apos;index</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="520"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="703"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="534"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="717"/>
         <source>is unreachable</source>
         <translation>est inaccessible</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="637"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="651"/>
         <source>has zero velocity</source>
         <translation>a une vitesse nulle</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="891"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="905"/>
         <source>Target is unreachable with the current configuration</source>
         <translation>La cible est inaccessible avec la configuration actuelle</translation>
     </message>
@@ -5564,64 +5564,84 @@ Cela peut être dû à une sauvegarde provenant d&apos;une version antérieure</
 <context>
     <name>ToolTraceSettings</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="29"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="33"/>
         <source>Tool Trace Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="38"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="42"/>
         <source>Trace Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="46"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="50"/>
         <source>Custom</source>
         <translation type="unfinished">Personnalisé</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="47"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="51"/>
         <source>LightGray</source>
         <translation type="unfinished">Gris clair</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="48"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="52"/>
         <source>Red</source>
         <translation type="unfinished">Rouge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="49"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="53"/>
         <source>Green</source>
         <translation type="unfinished">Vert</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="50"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="54"/>
         <source>Blue</source>
         <translation type="unfinished">Bleu</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="77"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="81"/>
         <source>Color</source>
         <translation type="unfinished">Couleur</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="79"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="83"/>
         <source>Any valid SVG color name (eg. &apos;blue&apos;) or hex rgb triplet (eg. &apos;#808080&apos;)</source>
         <translation type="unfinished">Tout nom de couleur SVG valide (par exemple &apos;red&apos;) ou triplet hex rgb (par exemple &apos;#808080&apos;)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="102"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="106"/>
         <source>Select color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="135"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="121"/>
+        <source>Trace Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="141"/>
         <source>Trace Length</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="154"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="160"/>
         <source>Enable Tool Trace</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="167"/>
+        <source>Show Targets</source>
+        <translation type="unfinished">Afficher les cibles</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="181"/>
+        <source>Target Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="201"/>
+        <source>Targets</source>
+        <translation type="unfinished">Cibles</translation>
     </message>
 </context>
 <context>

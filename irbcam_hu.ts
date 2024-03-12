@@ -1802,7 +1802,7 @@
 <context>
     <name>ImportPath</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="22"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="24"/>
         <source>Import Path</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4418,22 +4418,22 @@ Kattintson újra a felülíráshoz</translation>
 <context>
     <name>Sidebar</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="110"/>
+        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="111"/>
         <source>Back</source>
         <translation>Vissza</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="110"/>
+        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="111"/>
         <source>Close</source>
         <translation>Bezár</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="167"/>
+        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="168"/>
         <source>Finish</source>
         <translation>Befejez</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="172"/>
+        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="173"/>
         <source>Next</source>
         <translation>Következő</translation>
     </message>
@@ -4899,33 +4899,33 @@ Ez azért lehet, mert a mentés egy régebbi verzióból származik</translation
 <context>
     <name>StationViewer</name>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="519"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="636"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="702"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="891"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="533"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="650"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="716"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="905"/>
         <source>Animation aborted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="519"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="636"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="702"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="533"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="650"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="716"/>
         <source>Target at index</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="637"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="651"/>
         <source>has zero velocity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="891"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="905"/>
         <source>Target is unreachable with the current configuration</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="520"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="703"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="534"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="717"/>
         <source>is unreachable</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5118,63 +5118,83 @@ Ez azért lehet, mert a mentés egy régebbi verzióból származik</translation
 <context>
     <name>ToolTraceSettings</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="29"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="33"/>
         <source>Tool Trace Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="38"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="42"/>
         <source>Trace Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="46"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="50"/>
         <source>Custom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="47"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="51"/>
         <source>LightGray</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="48"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="52"/>
         <source>Red</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="49"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="53"/>
         <source>Green</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="50"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="54"/>
         <source>Blue</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="77"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="81"/>
         <source>Color</source>
         <translation type="unfinished">Szín</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="79"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="83"/>
         <source>Any valid SVG color name (eg. &apos;blue&apos;) or hex rgb triplet (eg. &apos;#808080&apos;)</source>
         <translation type="unfinished">Bármilyen érvényes SVG szín név (pl. &apos;kék&apos;) vagy hex rgb hármas (pl. &apos;#808080&apos;)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="102"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="106"/>
         <source>Select color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="135"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="121"/>
+        <source>Trace Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="141"/>
         <source>Trace Length</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="154"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="160"/>
         <source>Enable Tool Trace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="167"/>
+        <source>Show Targets</source>
+        <translation type="unfinished">Koordináták megjelenítése</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="181"/>
+        <source>Target Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="201"/>
+        <source>Targets</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
