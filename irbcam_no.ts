@@ -3342,27 +3342,27 @@
         <translation type="vanished">Avslutt (CTRL+Q)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="126"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="122"/>
         <source>&amp;Edit</source>
         <translation>&amp;Rediger</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="128"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="124"/>
         <source>&amp;User Frame</source>
         <translation>Br&amp;ukerkoordinat</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="133"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="129"/>
         <source>&amp;Object Frame</source>
         <translation>&amp;Objektkoordinat</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="138"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="134"/>
         <source>&amp;Robot</source>
         <translation>&amp;Robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="148"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="144"/>
         <source>&amp;Linear Track</source>
         <translation>&amp;Lineærbane</translation>
     </message>
@@ -3371,22 +3371,22 @@
         <translation type="vanished">Rotasjo&amp;nsbord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="158"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="154"/>
         <source>&amp;Additional Objects</source>
         <translation>Egendefinerte objekter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="164"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="160"/>
         <source>Tar&amp;gets</source>
         <translation>Punkter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="239"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="232"/>
         <source>User Frame</source>
         <translation>Brukerkoordinater</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="247"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="240"/>
         <source>Object Frame</source>
         <translation>Objektkoordinater</translation>
     </message>
@@ -3399,7 +3399,7 @@
         <translation type="vanished">Mekanisme</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="255"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="248"/>
         <source>Robot</source>
         <translation>Robot</translation>
     </message>
@@ -3452,7 +3452,7 @@
         <translation type="vanished">Velg Bord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="263"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="256"/>
         <source>Tool</source>
         <translation>Verktøy</translation>
     </message>
@@ -3481,9 +3481,8 @@
         <translation type="vanished">Slett</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="110"/>
         <source>Export Robot Code</source>
-        <translation>Eksportér robotkode</translation>
+        <translation type="vanished">Eksportér robotkode</translation>
     </message>
     <message>
         <source>Additional Shapes</source>
@@ -3545,7 +3544,7 @@
         <translation type="vanished">&amp;Importer Apt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="120"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="116"/>
         <source>Station &amp;Info</source>
         <translation>Stasjons&amp;info</translation>
     </message>
@@ -3554,14 +3553,13 @@
         <translation type="vanished">R&amp;obot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="143"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="139"/>
         <source>&amp;Tool</source>
         <translation>Verk&amp;tøy</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="172"/>
         <source>&amp;Tools</source>
-        <translation>Verk&amp;tøy</translation>
+        <translation type="vanished">Verk&amp;tøy</translation>
     </message>
     <message>
         <source>Optimizer</source>
@@ -3577,18 +3575,16 @@
         <translation type="vanished">Flere Objekter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="174"/>
         <source>Optimiser</source>
-        <translation>Optimalisering</translation>
+        <translation type="vanished">Optimalisering</translation>
     </message>
     <message>
         <source>Configure Path</source>
         <translation type="vanished">Konfigurer bane</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="183"/>
         <source>Statistics</source>
-        <translation>Statistikk</translation>
+        <translation type="vanished">Statistikk</translation>
     </message>
     <message>
         <source>Maximum Distance</source>
@@ -3625,62 +3621,59 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="153"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="149"/>
         <source>Rotar&amp;y Table</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="187"/>
         <source>Collision Detection</source>
-        <translation>Kollisjonsdeteksjon</translation>
+        <translation type="vanished">Kollisjonsdeteksjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="191"/>
         <source>Orientation</source>
-        <translation>Orientering</translation>
+        <translation type="vanished">Orientering</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="195"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="110"/>
         <source>Settings</source>
         <translation>Innstillinger</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="201"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="193"/>
         <source>&amp;View</source>
         <translation>&amp;Vis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="203"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="195"/>
         <source>Station</source>
         <translation>Stasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="213"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="205"/>
         <source>2D Plot</source>
         <translation>2D-plott</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="218"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="210"/>
         <source>3D Plot</source>
         <translation>3D-plott</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="223"/>
         <source>Time Plot</source>
-        <translation>Tidsplott</translation>
+        <translation type="vanished">Tidsplott</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="227"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="220"/>
         <source>Coordinate Systems</source>
         <translation>Koordinatsystemer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="231"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="224"/>
         <source>Global</source>
         <translation>Global</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="271"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="264"/>
         <source>Rotary Table</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3689,32 +3682,32 @@
         <translation type="vanished">Rotasjonsbord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="279"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="272"/>
         <source>Target</source>
         <translation>Punkter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="290"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="283"/>
         <source>No plugins are enabled</source>
         <translation>Ingen programtillegg er aktivert</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="316"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="309"/>
         <source>This plugin does not have valid source content</source>
         <translation>Dette programtillegget har ikke gyldig kildekode</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="346"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="339"/>
         <source>User Manual</source>
         <translation>Brukermanual</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="357"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="350"/>
         <source>EULA</source>
         <translation>Sluttbrukeravtale</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="367"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="360"/>
         <source>Feedback</source>
         <translation>Tilbakemelding</translation>
     </message>
@@ -3727,7 +3720,7 @@
         <translation type="vanished">Ortogonale Visninger</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="208"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="200"/>
         <source>Combination View</source>
         <translation>Kombinasjonsvisning</translation>
     </message>
@@ -3748,7 +3741,7 @@
         <translation type="vanished">Animer Bakover</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="296"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="289"/>
         <source>&amp;Plugins</source>
         <translation>&amp;Programtillegg</translation>
     </message>
@@ -3761,7 +3754,7 @@
         <translation type="vanished">Denne plugin er ikke tilgjengelig: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="352"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="345"/>
         <source>Forum</source>
         <translation>Forum</translation>
     </message>
@@ -3798,7 +3791,7 @@
         <translation type="vanished">Innstillinger for Programtillegg</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="344"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="337"/>
         <source>&amp;Help</source>
         <translation>&amp;Hjelp</translation>
     </message>
@@ -3815,7 +3808,7 @@
         <translation type="vanished">Språk / Enheter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="362"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="355"/>
         <source>About IRBCAM</source>
         <translation>Om IRBCAM</translation>
     </message>

@@ -2882,47 +2882,47 @@
         <translation type="obsolete">Užbaigti (CTRL+Q)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="126"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="122"/>
         <source>&amp;Edit</source>
         <translation type="unfinished">&amp;Redaguoti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="128"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="124"/>
         <source>&amp;User Frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="133"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="129"/>
         <source>&amp;Object Frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="138"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="134"/>
         <source>&amp;Robot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="148"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="144"/>
         <source>&amp;Linear Track</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="158"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="154"/>
         <source>&amp;Additional Objects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="164"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="160"/>
         <source>Tar&amp;gets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="239"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="232"/>
         <source>User Frame</source>
         <translation type="unfinished">Naudotojo koordinačių sistema</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="247"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="240"/>
         <source>Object Frame</source>
         <translation type="unfinished">Objekto koordinačių sistema</translation>
     </message>
@@ -2935,7 +2935,7 @@
         <translation type="obsolete">Mechanizmas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="255"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="248"/>
         <source>Robot</source>
         <translation type="unfinished">Robot</translation>
     </message>
@@ -2988,7 +2988,7 @@
         <translation type="obsolete">Pasirinkite pavara varomą stalą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="263"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="256"/>
         <source>Tool</source>
         <translation type="unfinished">Įrankis</translation>
     </message>
@@ -3017,9 +3017,8 @@
         <translation type="obsolete">Pašalinti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="110"/>
         <source>Export Robot Code</source>
-        <translation type="unfinished">Eksportuokite roboto kodą</translation>
+        <translation type="obsolete">Eksportuokite roboto kodą</translation>
     </message>
     <message>
         <source>Additional Shapes</source>
@@ -3077,7 +3076,7 @@
         <translation type="vanished">&amp;Importuoti Apt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="120"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="116"/>
         <source>Station &amp;Info</source>
         <translation>Stoties &amp;Informacija</translation>
     </message>
@@ -3086,14 +3085,13 @@
         <translation type="vanished">R&amp;obotas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="143"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="139"/>
         <source>&amp;Tool</source>
         <translation>&amp;Įrankis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="172"/>
         <source>&amp;Tools</source>
-        <translation type="unfinished">&amp;Įrankiai</translation>
+        <translation type="obsolete">&amp;Įrankiai</translation>
     </message>
     <message>
         <source>Optimizer</source>
@@ -3105,18 +3103,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="174"/>
-        <source>Optimiser</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configure Path</source>
         <translation type="obsolete">Konfigūruoti maršrutą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="183"/>
         <source>Statistics</source>
-        <translation type="unfinished">Statistiniai duomenys</translation>
+        <translation type="obsolete">Statistiniai duomenys</translation>
     </message>
     <message>
         <source>Maximum Distance</source>
@@ -3153,87 +3145,80 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="153"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="149"/>
         <source>Rotar&amp;y Table</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="187"/>
         <source>Collision Detection</source>
-        <translation type="unfinished">Susikirtimų Identifikavimas</translation>
+        <translation type="obsolete">Susikirtimų Identifikavimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="191"/>
         <source>Orientation</source>
-        <translation type="unfinished">Orientacija</translation>
+        <translation type="obsolete">Orientacija</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="195"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="110"/>
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="201"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="193"/>
         <source>&amp;View</source>
         <translation type="unfinished">&amp;Vaizdas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="203"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="195"/>
         <source>Station</source>
         <translation type="unfinished">Stotis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="213"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="205"/>
         <source>2D Plot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="218"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="210"/>
         <source>3D Plot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="223"/>
-        <source>Time Plot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="231"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="224"/>
         <source>Global</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="271"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="264"/>
         <source>Rotary Table</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="279"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="272"/>
         <source>Target</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="290"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="283"/>
         <source>No plugins are enabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="316"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="309"/>
         <source>This plugin does not have valid source content</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="346"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="339"/>
         <source>User Manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="357"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="350"/>
         <source>EULA</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="367"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="360"/>
         <source>Feedback</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3246,7 +3231,7 @@
         <translation type="obsolete">Statmenos peržiūros</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="208"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="200"/>
         <source>Combination View</source>
         <translation type="unfinished">Kombinuotas vaizdas</translation>
     </message>
@@ -3267,7 +3252,7 @@
         <translation type="obsolete">Animuoti atgal</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="296"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="289"/>
         <source>&amp;Plugins</source>
         <translation type="unfinished">&amp;Papildiniai</translation>
     </message>
@@ -3280,7 +3265,7 @@
         <translation type="obsolete">Šis papildinys nepasiekiamas: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="352"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="345"/>
         <source>Forum</source>
         <translation type="unfinished">Forumas</translation>
     </message>
@@ -3305,7 +3290,7 @@
         <translation type="obsolete">Papildinio nustatymai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="344"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="337"/>
         <source>&amp;Help</source>
         <translation type="unfinished">&amp;Pagalba</translation>
     </message>
@@ -3314,7 +3299,7 @@
         <translation type="obsolete">Erdvinis naršymas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="227"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="220"/>
         <source>Coordinate Systems</source>
         <translation type="unfinished">Koordinačių sistemos</translation>
     </message>
@@ -3327,7 +3312,7 @@
         <translation type="obsolete">Kalba / Vienetai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="362"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="355"/>
         <source>About IRBCAM</source>
         <translation type="unfinished">Apie IRBCAM</translation>
     </message>

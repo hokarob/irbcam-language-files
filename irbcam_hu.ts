@@ -2877,47 +2877,47 @@
         <translation type="obsolete">Kilépés (CTRL+Q)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="126"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="122"/>
         <source>&amp;Edit</source>
         <translation type="unfinished">&amp;Szerkesztés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="128"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="124"/>
         <source>&amp;User Frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="133"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="129"/>
         <source>&amp;Object Frame</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="138"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="134"/>
         <source>&amp;Robot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="148"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="144"/>
         <source>&amp;Linear Track</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="158"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="154"/>
         <source>&amp;Additional Objects</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="164"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="160"/>
         <source>Tar&amp;gets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="239"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="232"/>
         <source>User Frame</source>
         <translation type="unfinished">Felhasználói rendszer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="247"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="240"/>
         <source>Object Frame</source>
         <translation type="unfinished">Munkadarab rendszer</translation>
     </message>
@@ -2930,7 +2930,7 @@
         <translation type="obsolete">Mechanizmus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="255"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="248"/>
         <source>Robot</source>
         <translation type="unfinished">Robot</translation>
     </message>
@@ -2983,7 +2983,7 @@
         <translation type="obsolete">Válassza lineáris asztal</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="263"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="256"/>
         <source>Tool</source>
         <translation type="unfinished">Kiválasztás</translation>
     </message>
@@ -3012,9 +3012,8 @@
         <translation type="obsolete">Törlés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="110"/>
         <source>Export Robot Code</source>
-        <translation>Robotkód exportálása</translation>
+        <translation type="vanished">Robotkód exportálása</translation>
     </message>
     <message>
         <source>Additional Shapes</source>
@@ -3076,7 +3075,7 @@
         <translation type="vanished">&amp;APT importálása</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="120"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="116"/>
         <source>Station &amp;Info</source>
         <translation>Állomás &amp;információ</translation>
     </message>
@@ -3085,14 +3084,13 @@
         <translation type="vanished">R&amp;obot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="143"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="139"/>
         <source>&amp;Tool</source>
         <translation>&amp;Eszköz</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="172"/>
         <source>&amp;Tools</source>
-        <translation type="unfinished">&amp;Szerszámok</translation>
+        <translation type="obsolete">&amp;Szerszámok</translation>
     </message>
     <message>
         <source>Optimizer</source>
@@ -3104,18 +3102,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="174"/>
-        <source>Optimiser</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Configure Path</source>
         <translation type="obsolete">Útvonal beállítás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="183"/>
         <source>Statistics</source>
-        <translation type="unfinished">Statisztikák</translation>
+        <translation type="obsolete">Statisztikák</translation>
     </message>
     <message>
         <source>Maximum Distance</source>
@@ -3152,87 +3144,80 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="153"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="149"/>
         <source>Rotar&amp;y Table</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="187"/>
         <source>Collision Detection</source>
-        <translation type="unfinished">Ütkzöés Érzékelo</translation>
+        <translation type="obsolete">Ütkzöés Érzékelo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="191"/>
         <source>Orientation</source>
-        <translation type="unfinished">Tájolás</translation>
+        <translation type="obsolete">Tájolás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="195"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="110"/>
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="201"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="193"/>
         <source>&amp;View</source>
         <translation type="unfinished">&amp;Nézet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="203"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="195"/>
         <source>Station</source>
         <translation type="unfinished">Állomás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="213"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="205"/>
         <source>2D Plot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="218"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="210"/>
         <source>3D Plot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="223"/>
-        <source>Time Plot</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="231"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="224"/>
         <source>Global</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="271"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="264"/>
         <source>Rotary Table</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="279"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="272"/>
         <source>Target</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="290"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="283"/>
         <source>No plugins are enabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="316"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="309"/>
         <source>This plugin does not have valid source content</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="346"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="339"/>
         <source>User Manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="357"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="350"/>
         <source>EULA</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="367"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="360"/>
         <source>Feedback</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3245,7 +3230,7 @@
         <translation type="obsolete">Ortogonális Megtekintés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="208"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="200"/>
         <source>Combination View</source>
         <translation type="unfinished">Többszörös nézet</translation>
     </message>
@@ -3266,7 +3251,7 @@
         <translation type="obsolete">Lejátszás hátra</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="296"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="289"/>
         <source>&amp;Plugins</source>
         <translation type="unfinished">&amp;Beépülő modulok</translation>
     </message>
@@ -3279,7 +3264,7 @@
         <translation type="vanished">Ez a bővítmény nem érhető el: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="352"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="345"/>
         <source>Forum</source>
         <translation>Fórum</translation>
     </message>
@@ -3316,7 +3301,7 @@
         <translation type="vanished">Bővítmény beállítások</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="344"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="337"/>
         <source>&amp;Help</source>
         <translation type="unfinished">&amp;Segítség</translation>
     </message>
@@ -3325,7 +3310,7 @@
         <translation type="obsolete">3D mozgatás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="227"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="220"/>
         <source>Coordinate Systems</source>
         <translation type="unfinished">Koordináta rendszerek</translation>
     </message>
@@ -3338,7 +3323,7 @@
         <translation type="obsolete">Nyelv / Egységek</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="362"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="355"/>
         <source>About IRBCAM</source>
         <translation type="unfinished">Az IRBCAM-ról</translation>
     </message>
