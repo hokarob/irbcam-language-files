@@ -284,40 +284,50 @@
 <context>
     <name>AdditionalObjectsModel</name>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="566"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="539"/>
+        <source>Failed get objectId for cloud job</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="598"/>
         <source>Failed to confirm that</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="566"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="598"/>
         <source>was deleted from the server (the item may or may not have been deleted)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="596"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="628"/>
         <source>was deleted from the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="679"/>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="713"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="711"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="744"/>
         <source>Failed to download geometry from server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="768"/>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="780"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="798"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="810"/>
         <source>Could not open folder: &apos;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="806"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="836"/>
         <source>Custom geometry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="806"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="836"/>
         <source>loaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="850"/>
+        <source>Failed to get cloud job status</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
