@@ -399,17 +399,17 @@
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="814"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="828"/>
         <source>Failed to send report</source>
         <translation>Kunne ikke sende rapport</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="824"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="838"/>
         <source>Attachment should be less than</source>
         <translation>Vedlegg må være mindre enn</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="857"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="871"/>
         <source>Report sent</source>
         <translation>Rapport sendt</translation>
     </message>
@@ -2536,48 +2536,58 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="220"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="218"/>
+        <source>Reorientation speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="218"/>
+        <source>deg/s</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="242"/>
         <source>Distance to Joint Limits</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="273"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="295"/>
         <source>Set all revolute joints</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="280"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="350"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="302"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="372"/>
         <source>deg</source>
         <extracomment>degrees</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="285"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="314"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="307"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="336"/>
         <source>Value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="294"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="323"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="316"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="345"/>
         <source>Set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="302"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="324"/>
         <source>Set all linear joints</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="309"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="348"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="331"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="370"/>
         <source>mm</source>
         <extracomment>millimeters</extracomment>
         <translation type="unfinished">mm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="338"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="360"/>
         <source>Joint</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3260,22 +3270,27 @@
 <context>
     <name>MaxDistance</name>
     <message>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="21"/>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="22"/>
         <source>From</source>
         <translation>Fra</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="25"/>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="26"/>
         <source>To</source>
         <translation>Til</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="29"/>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="30"/>
         <source>Max Distance</source>
         <translation>Maks avstand</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="106"/>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="35"/>
+        <source>Max Reorientation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="140"/>
         <source>Configure</source>
         <translation>Konfigurer</translation>
     </message>
@@ -4577,12 +4592,12 @@
         <translation type="vanished">Kunne ikke konfigurere bane</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="84"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="91"/>
         <source> of </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="84"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="91"/>
         <source> targets</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4591,191 +4606,196 @@
         <translation type="vanished">Konfigurering av banen var vellykket på </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="84"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="91"/>
         <source>Failed to solve path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="84"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="91"/>
         <source>Solved </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="90"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="97"/>
         <source>Path solved successfully in </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="157"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="169"/>
         <source>Start index must be smaller than end index</source>
         <translation>Startindeks må være mindre enn sluttindeks</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="163"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="175"/>
         <source>Allowed maximum distance must be greater than 0.001 mm</source>
         <translation>Tillatt maksimumsdistanse må være større enn 0.001 mm</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="169"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="181"/>
+        <source>Allowed maximum orientation change must be greater than 1.0 degree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="187"/>
         <source>Path is empty</source>
         <translation>Banen er tom</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="176"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="194"/>
         <source>Invalid end index, end index must be smaller than the size of the path</source>
         <translation>Ugyldig sluttindeks. Sluttindeks må være mindre enn lengden på banen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="185"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="203"/>
         <source>Max distance configured successfully</source>
         <translation>Maksimumsavstand ble konfigurert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="199"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="238"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="217"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="256"/>
         <source>File is empty</source>
         <translation>Filen er tom</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="205"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="244"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="223"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="262"/>
         <source>File is not a valid UTF-8 file
 Only UTF-8 encoded files are supported</source>
         <translation>Filen er ikke en gyldig UTF-8-fil
 Bare UTF-8-kodede filer støttes</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="215"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="233"/>
         <source>Failed to import CSV file</source>
         <translation>Kunne ikke importere CSV-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="254"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="272"/>
         <source>Failed to import JSON file</source>
         <translation>Kunne ikke importere JSON-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="279"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="297"/>
         <source>Failed to load path</source>
         <translation>Kunne ikke laste bane</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="316"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="334"/>
         <source>Failed to parse APT file</source>
         <translation>Kunne ikke analysere APT-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="339"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="357"/>
         <source>No error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="341"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="359"/>
         <source>Path not solved</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="343"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="361"/>
         <source>Path solved successfully</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="345"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="363"/>
         <source>No solution</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="347"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="365"/>
         <source>Axis limit violation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="349"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="367"/>
         <source>Solution is outside of workspace limits</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="351"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="369"/>
         <source>This robot cannot bend backwards</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="353"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="371"/>
         <source>Invalid kinematic parameters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="355"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="373"/>
         <source>Undefined kinematic type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="357"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="375"/>
         <source>Invalid kinematic type</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="359"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="377"/>
         <source>Invalid joint setpoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="361"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="379"/>
         <source>Invalid number of degrees of freedom</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="363"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="381"/>
         <source>Division by zero</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="365"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="383"/>
         <source>Input is null pointer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="367"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="385"/>
         <source>Robot not loaded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="369"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="387"/>
         <source>Invalid path size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="371"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="389"/>
         <source>Discontinuous step</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="373"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="391"/>
         <source>No targets</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="375"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="393"/>
         <source>Dynamic angle out of range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="377"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="395"/>
         <source>Index out of range</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="379"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="397"/>
         <source>One or more targets have invalid speed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="381"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="399"/>
         <source>Distance from the center of turntable to the point is too small</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="383"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="401"/>
         <source>Angular constraint on turntable is too shallow</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4784,7 +4804,7 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Kunne ikke importere CSV fil: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="221"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="239"/>
         <source>Path imported from CSV</source>
         <translation>Bane importert fra CSV</translation>
     </message>
@@ -4793,7 +4813,7 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Kunne ikke importere JSON-fil: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="260"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="278"/>
         <source>Path imported from JSON</source>
         <translation>Bane importert fra JSON</translation>
     </message>
@@ -4802,7 +4822,7 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Kunne ikke laste inn banen: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="285"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="303"/>
         <source>Path loaded</source>
         <translation>Bane lastet</translation>
     </message>
@@ -5476,33 +5496,33 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
 <context>
     <name>StationViewer</name>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="533"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="650"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="716"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="905"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="534"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="651"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="726"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="915"/>
         <source>Animation aborted</source>
         <translation>Animasjonen ble avbrutt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="533"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="650"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="716"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="534"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="651"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="726"/>
         <source>Target at index</source>
         <translation>Mål på indeks</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="651"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="652"/>
         <source>has zero velocity</source>
         <translation>har null hastighet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="905"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="915"/>
         <source>Target is unreachable with the current configuration</source>
         <translation>Punktet er ikke tilgjengelig med gjeldende konfigurasjon</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="534"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="717"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="535"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="727"/>
         <source>is unreachable</source>
         <translation>er utenfor rekkevidde</translation>
     </message>
