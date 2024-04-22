@@ -1919,11 +1919,26 @@
     </message>
     <message>
         <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="157"/>
-        <source>Tool Frame updated from the Public API</source>
+        <source>Tooltip Frame updated from the Public API</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="162"/>
+        <source>Stationary Tool Base Frame updated from the Public API</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="172"/>
+        <source>Rotary Table Base Frame updated from the Public API</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="177"/>
+        <source>Linear Track Base Frame updated from the Public API</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="167"/>
         <source>Robot Base Frame updated from the Public API</source>
         <translation type="unfinished"></translation>
     </message>
