@@ -1906,6 +1906,29 @@
     </message>
 </context>
 <context>
+    <name>IrbcamInterfacePublic</name>
+    <message>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="147"/>
+        <source>User Frame updated from the Public API</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="152"/>
+        <source>Object Frame updated from the Public API</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="157"/>
+        <source>Tool Frame updated from the Public API</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="162"/>
+        <source>Robot Base Frame updated from the Public API</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>IrbcamNetwork</name>
     <message>
         <location filename="../../../backend/src/networking.cpp" line="126"/>
