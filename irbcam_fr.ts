@@ -404,7 +404,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="871"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="873"/>
         <source>Report sent</source>
         <translation type="unfinished"></translation>
     </message>
@@ -488,11 +488,11 @@
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="110"/>
-        <source>You can add 1 attachment (up to 25MB). Clicking the &apos;Send&apos; button will send the report.</source>
+        <source>You can add 1 attachment (up to 10MB). Clicking the &apos;Send&apos; button will send the report.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="174"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="189"/>
         <source>Open file</source>
         <translation type="unfinished">Ouvrir le fichier</translation>
     </message>
@@ -526,7 +526,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="163"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="166"/>
+        <source>Include station and system information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="177"/>
         <source>Send</source>
         <translation>Envoyer</translation>
     </message>
