@@ -1998,32 +1998,32 @@
         <translation>Nem sikerült betölteni a beállításokat a(z) </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1011"/>
+        <location filename="../../../backend/src/networking.cpp" line="1016"/>
         <source>A new minor version of IRBCAM is available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1012"/>
+        <location filename="../../../backend/src/networking.cpp" line="1017"/>
         <source>Save your work and reload page to get the newest features</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1017"/>
+        <location filename="../../../backend/src/networking.cpp" line="1022"/>
         <source>A new major version of IRBCAM is available.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1018"/>
+        <location filename="../../../backend/src/networking.cpp" line="1023"/>
         <source>Some features may be unavailable until page is reloaded.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1019"/>
+        <location filename="../../../backend/src/networking.cpp" line="1024"/>
         <source>Please save your work and reload page as soon as possible</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1034"/>
+        <location filename="../../../backend/src/networking.cpp" line="1039"/>
         <source>Failed to get cloud job status</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2044,17 +2044,17 @@
         <translation> betöltve</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="908"/>
+        <location filename="../../../backend/src/networking.cpp" line="913"/>
         <source>A network error occurred</source>
         <translation type="unfinished">Hálózati hiba történt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="948"/>
+        <location filename="../../../backend/src/networking.cpp" line="953"/>
         <source>Remote error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="948"/>
+        <location filename="../../../backend/src/networking.cpp" line="953"/>
         <source>code</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2267,6 +2267,11 @@
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/LanguageSettings.qml" line="158"/>
         <source>Light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/LanguageSettings.qml" line="165"/>
+        <source>Show Welcome Messsage</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4453,27 +4458,27 @@ Kattintson újra a felülíráshoz</translation>
 <context>
     <name>SettingsInterface</name>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="109"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="115"/>
         <source>Failed to translate language to</source>
         <translation>Nyelv lefordítása sikertelen erre</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="117"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="123"/>
         <source>Language changed</source>
         <translation>Nyelv megváltoztatva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="232"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="251"/>
         <source>Failed to save settings for</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="237"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="256"/>
         <source>Settings for</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="237"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="256"/>
         <source>saved</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5517,6 +5522,50 @@ Ez azért lehet, mert a mentés egy régebbi verzióból származik</translation
     <message>
         <source>Joint </source>
         <translation type="obsolete">Közös </translation>
+    </message>
+</context>
+<context>
+    <name>Welcome</name>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="13"/>
+        <source>Welcome to IRBCAM Beta</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="30"/>
+        <source>
+
+Thank you for joining our journey as we shape the future of IRBCAM! Feel free to look around and test the different features and plugins. We want to test the application thoroughly.
+&lt;br&gt;&lt;br&gt;
+
+&lt;strong&gt;Report Bugs and Request Features:&lt;/strong&gt;&lt;br&gt;
+Found something quirky? Have a brilliant idea for a feature? Let us know! Submit feedback in &lt;strong&gt;Help &gt; Feedback.&lt;/strong&gt; Your input drives our development.
+&lt;br&gt;&lt;br&gt;
+
+&lt;strong&gt;Work in Progress:&lt;/strong&gt;&lt;br&gt;
+Keep in mind, IRBCAM is still under construction. You might find glitches in unexpected places, but with your help, we will iron them out.
+Take special care when exporting robot code. We do our best to simulate the behaviour of the different robots, but errors might tag along. Double-check before deploying to your robot.
+&lt;br&gt;&lt;br&gt;
+
+&lt;strong&gt;Stay in the Loop:&lt;/strong&gt;&lt;br&gt;
+IRBCAM Beta is updated weekly with bugfixes, performance optimisations and new features. Join us in &lt;a href=&quot;https://forum.hokarob.com&quot;&gt;our forum&lt;/a&gt; to see the release notes and to stay in touch.
+&lt;br&gt;&lt;br&gt;
+
+&lt;strong&gt;Ready to Dive In?&lt;/strong&gt;&lt;br&gt;
+
+</source>
+        <extracomment>This text is formatted based on HTML. Make sure that everything in the &lt;angle brackets&gt; stays the same when translating.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="56"/>
+        <source>Close</source>
+        <translation type="unfinished">Bezár</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="65"/>
+        <source>Don&apos;t show again</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
