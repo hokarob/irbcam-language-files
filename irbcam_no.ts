@@ -496,7 +496,7 @@
         <translation type="vanished">Du kan legge til et vedlegg (opptil 25MB). Klikk &apos;Send&apos;-knappen for å sende rapporten.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="189"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="190"/>
         <source>Open file</source>
         <translation>Åpne fil</translation>
     </message>
@@ -505,37 +505,37 @@
         <translation type="vanished">Ved å klikke på &apos;Send&apos;-knappen åpnes en forhåndsutfylt e-postmal. Du kan gjerne endre teksten til denne malen og legge til vedlegg som bilder.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="125"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="126"/>
         <source>Describe the issue</source>
         <translation>Beskriv problemet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="125"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="126"/>
         <source>Describe the desired feature</source>
         <translation>Beskriv ønsket funksjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="137"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="138"/>
         <source>Attachment</source>
         <translation>Vedlegg</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="146"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="147"/>
         <source>None</source>
         <translation>Ingen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="151"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="152"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="166"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="167"/>
         <source>Include station and system information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="177"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="178"/>
         <source>Send</source>
         <translation>Send</translation>
     </message>
