@@ -12,29 +12,33 @@
         <translation type="vanished">IRBCAM-versjon: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/About.qml" line="58"/>
+        <location filename="../../IrbcamQml/Popups/About.qml" line="56"/>
         <source>Version: </source>
         <translation>Versjon: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/About.qml" line="64"/>
+        <location filename="../../IrbcamQml/Popups/About.qml" line="62"/>
         <source>Build date: </source>
         <translation>Byggedato: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/About.qml" line="65"/>
+        <location filename="../../IrbcamQml/Popups/About.qml" line="63"/>
         <source>IRBCAM is provided AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRANTY OF DESIGN, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.</source>
         <translation>IRBCAM leveres SOM DEN ER, INGEN GARANTI AV NOEN SLAG, INKLUDERT GARANTI FOR DESIGN, SALGBARHET OG EGNETHET FOR ET BESTEMT FORMÅL.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/About.qml" line="66"/>
+        <location filename="../../IrbcamQml/Popups/About.qml" line="64"/>
         <source>US Trademark 85796241</source>
         <translation>Varemerke i USA 85796241</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/About.qml" line="67"/>
+        <location filename="../../IrbcamQml/Popups/About.qml" line="65"/>
+        <source>Copyright © 2024 - Hokarob AS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Copyright © 2023 - Hokarob AS</source>
-        <translation>Opphavsrettt © 2023 - Hokarob  AS</translation>
+        <translation type="vanished">Opphavsrettt © 2023 - Hokarob  AS</translation>
     </message>
     <message>
         <source>OK</source>
@@ -44,27 +48,27 @@
 <context>
     <name>AddTargets</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="65"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="83"/>
         <source>Position</source>
         <translation>Posisjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="69"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="87"/>
         <source>Count</source>
         <translation>Antall</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="133"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="151"/>
         <source>Insert</source>
         <translation>Sett inn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="133"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="151"/>
         <source>Insert Before</source>
         <translation>Legg til før</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="163"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="181"/>
         <source>Insert After</source>
         <translation>Legg til etter</translation>
     </message>
@@ -72,7 +76,7 @@
 <context>
     <name>AdditionalObjectEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/AdditionalObjectEditor.qml" line="27"/>
+        <location filename="../../IrbcamQml/Sidebar/AdditionalObjectEditor.qml" line="25"/>
         <source>Additional Objects</source>
         <translation type="unfinished"></translation>
     </message>
@@ -110,173 +114,173 @@
 <context>
     <name>AdditionalObjectEditorDelegate</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="71"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="82"/>
         <source>Name</source>
         <translation type="unfinished">Navn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="77"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="88"/>
         <source>Enter name</source>
         <translation type="unfinished">Skriv inn navn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="101"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="112"/>
         <source>Source</source>
         <translation type="unfinished">Kilde</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="101"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="141"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="112"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="152"/>
         <source>Color</source>
         <translation type="unfinished">Farge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="110"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="121"/>
         <source>Custom</source>
         <translation type="unfinished">Tilpasset</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="111"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="122"/>
         <source>LightGray</source>
         <translation type="unfinished">Lysegrå</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="112"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="123"/>
         <source>Red</source>
         <translation type="unfinished">Rød</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="113"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="124"/>
         <source>Green</source>
         <translation type="unfinished">Grønn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="114"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="125"/>
         <source>Blue</source>
         <translation type="unfinished">Blå</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="143"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="154"/>
         <source>Any valid SVG color name (eg. &apos;blue&apos;) or hex rgb triplet (eg. &apos;#808080&apos;)</source>
         <translation type="unfinished">Ethvert gyldig SVG-fargenavn (f.eks. &apos;blå&apos;) eller hex rgb-triplett (f.eks. &apos;#808080&apos;)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="166"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="177"/>
         <source>Select color</source>
         <translation type="unfinished">Velg farge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="187"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="195"/>
         <source>No source selected</source>
         <translation type="unfinished">Ingen kilde er valgt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="192"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="200"/>
         <source>Parent frame</source>
         <translation type="unfinished">Overordnet koodrinatsystem</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="199"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="207"/>
         <source>Global</source>
         <translation type="unfinished">Global</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="200"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="208"/>
         <source>Robot base</source>
         <translation type="unfinished">Robotbase</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="201"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="209"/>
         <source>User frame</source>
         <translation type="unfinished">Brukerkoordinat</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="202"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="210"/>
         <source>Object frame</source>
         <translation type="unfinished">Objektkoordinat</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="203"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="211"/>
         <source>Tool frame</source>
         <translation type="unfinished">Verktøykoordinat</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="210"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="221"/>
         <source>Linear</source>
         <translation type="unfinished">Lineær</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="233"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="249"/>
         <source>Position</source>
         <translation type="unfinished">Posisjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="284"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="300"/>
         <source>Scale</source>
         <translation type="unfinished">Skala</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="284"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="300"/>
         <source>Size</source>
         <translation type="unfinished">Størrelse</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="338"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="358"/>
         <source>Rotation</source>
         <translation type="unfinished">Rotasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="344"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="371"/>
         <source>Yaw</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="350"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="377"/>
         <source>Pitch</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="356"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="383"/>
         <source>Roll</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="431"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="458"/>
         <source>Normalize</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="438"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="465"/>
         <source>Normalize quaternions</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="533"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="561"/>
         <source>Quaternion scalar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="539"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="567"/>
         <source>Quaternion i</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="545"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="573"/>
         <source>Quaternion j</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="551"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="579"/>
         <source>Quaternion k</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="563"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="591"/>
         <source>The geometry</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="564"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="592"/>
         <source>looks too large. You may want to scale it down. If the model is using millimeters, you can scale down by 0.001. Do you want to scale down by 0.001?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -284,44 +288,44 @@
 <context>
     <name>AdditionalObjectsModel</name>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="541"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="543"/>
         <source>Failed get objectId for cloud job</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="607"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="616"/>
         <source>Failed to confirm that</source>
         <translation>Kunne ikke bekrefte at</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="607"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="616"/>
         <source>was deleted from the server (the item may or may not have been deleted)</source>
         <translation>ble slettet fra serveren (objektet kan ha blitt slettet)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="637"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="646"/>
         <source>was deleted from the server</source>
         <translation>ble slettet fra serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="720"/>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="753"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="739"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="772"/>
         <source>Failed to download geometry from server</source>
         <translation>Kunne ikke laste ned geometri fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="807"/>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="819"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="826"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="838"/>
         <source>Could not open folder: &apos;</source>
         <translation>Kunne ikke åpne mappen: &apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="845"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="864"/>
         <source>Custom geometry</source>
         <translation>Egendefinert geometri</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="845"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="864"/>
         <source>loaded</source>
         <translation>lastet</translation>
     </message>
@@ -358,37 +362,143 @@
     </message>
 </context>
 <context>
+    <name>AssetItemTreeView</name>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetItemTreeView.qml" line="110"/>
+        <source>Delete</source>
+        <translation type="unfinished">Slett</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetItemTreeView.qml" line="111"/>
+        <source>This action will permanently delete</source>
+        <translation type="unfinished">Denne handlingen vil permanent slette</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetItemTreeView.qml" line="112"/>
+        <source>from the cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetItemTreeView.qml" line="163"/>
+        <source>Edit</source>
+        <translation type="unfinished">Rediger</translation>
+    </message>
+</context>
+<context>
+    <name>AssetTreeView</name>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="57"/>
+        <source>Uninitialized</source>
+        <translation type="unfinished">Uinitialisert</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="59"/>
+        <source>Idle</source>
+        <translation type="unfinished">Inaktiv</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="61"/>
+        <source>Fetching description</source>
+        <translation type="unfinished">Henter beskrivelse</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="63"/>
+        <source>Downloading</source>
+        <translation type="unfinished">Laster ned</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="65"/>
+        <source>Unpacking</source>
+        <translation type="unfinished">Pakker ut</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="67"/>
+        <source>Loading</source>
+        <translation type="unfinished">Laster</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="69"/>
+        <source>Deleting</source>
+        <translation type="unfinished">Sletter</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="71"/>
+        <source>Uploading</source>
+        <translation type="unfinished">Laster opp</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="73"/>
+        <source>Fetching list</source>
+        <translation type="unfinished">Henter liste</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="75"/>
+        <source>Decoding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="77"/>
+        <source>Verifying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="79"/>
+        <source>Loading assets</source>
+        <translation type="unfinished">Laster ressurser</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="81"/>
+        <source>Processing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="86"/>
+        <source>Unknown</source>
+        <translation type="unfinished">Ukjent</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="246"/>
+        <source>No items in list</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BaseNetworkDataInterface</name>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="206"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="232"/>
         <source>Failed to confirm that</source>
         <translation>Kunne ikke bekrefte at</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="206"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="232"/>
         <source>was deleted from the server (the item may or may not have been deleted)</source>
         <translation>ble slettet fra serveren (objektet kan ha blitt slettet)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="236"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="262"/>
         <source>was deleted from the server</source>
         <translation>ble slettet fra serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="304"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="352"/>
         <source>Failed to load</source>
         <translation>Kunne ikke laste</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="391"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="444"/>
         <source>loaded</source>
         <translation>lastet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="424"/>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="493"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="581"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="665"/>
         <source>Failed to download item from server</source>
         <translation>Kunne ikke laste ned objekt fra serveren</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="693"/>
+        <source>Failed to unpack item</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -404,7 +514,7 @@
         <translation>Vedlegg må være mindre enn</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="873"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="874"/>
         <source>Report sent</source>
         <translation>Rapport sendt</translation>
     </message>
@@ -447,47 +557,47 @@
         <translation>Ukjent</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="87"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="92"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="92"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="97"/>
         <source>Bug Report</source>
         <translation>Feilrapport</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="92"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="97"/>
         <source>Feature Request</source>
         <translation>Funksjonsforespørsel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="104"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="109"/>
         <source>Please provide a detailed description of the bug you would like to report. This may include information such as:</source>
         <translation>Skriv en detaljert beskrivelse av feilen du vil rapportere. Dette kan inkludere informasjon som:</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="105"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="110"/>
         <source>What were you doing when the bug occurred</source>
         <translation>Hva gjorde du da feilen oppsto</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="106"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="111"/>
         <source>What was the expected vs actual behavior</source>
         <translation>Hva var forventet kontra faktisk oppførsel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="107"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="112"/>
         <source>A step-by-step instruction of how to reproduce the issue</source>
         <translation>En trinnvis instruksjon om hvordan du gjenskaper problemet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="109"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="114"/>
         <source>Please provide a detailed description of the feature you would like to see in IRBCAM in the future.</source>
         <translation>Vennligst oppgi en detaljert beskrivelse av funksjonen du ønsker å se i IRBCAM i fremtiden.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="110"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="115"/>
         <source>You can add 1 attachment (up to 10MB). Clicking the &apos;Send&apos; button will send the report.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -496,7 +606,7 @@
         <translation type="vanished">Du kan legge til et vedlegg (opptil 25MB). Klikk &apos;Send&apos;-knappen for å sende rapporten.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="190"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="65"/>
         <source>Open file</source>
         <translation>Åpne fil</translation>
     </message>
@@ -505,37 +615,37 @@
         <translation type="vanished">Ved å klikke på &apos;Send&apos;-knappen åpnes en forhåndsutfylt e-postmal. Du kan gjerne endre teksten til denne malen og legge til vedlegg som bilder.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="126"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="131"/>
         <source>Describe the issue</source>
         <translation>Beskriv problemet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="126"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="131"/>
         <source>Describe the desired feature</source>
         <translation>Beskriv ønsket funksjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="138"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="143"/>
         <source>Attachment</source>
         <translation>Vedlegg</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="147"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="152"/>
         <source>None</source>
         <translation>Ingen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="152"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="157"/>
         <source>...</source>
         <translation>...</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="167"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="172"/>
         <source>Include station and system information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="178"/>
+        <location filename="../../IrbcamQml/Popups/BugReporting.qml" line="183"/>
         <source>Send</source>
         <translation>Send</translation>
     </message>
@@ -610,17 +720,17 @@
 <context>
     <name>CloudMenu</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="9"/>
+        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="13"/>
         <source>Log in</source>
         <translation>Logg inn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="31"/>
+        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="35"/>
         <source>Account Settings</source>
         <translation>Kontoinnstillinger</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="36"/>
+        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="40"/>
         <source>Log out</source>
         <translation>Logg ut</translation>
     </message>
@@ -628,9 +738,8 @@
 <context>
     <name>ConfigurePath</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ConfigurePath.qml" line="16"/>
         <source>Configure Path</source>
-        <translation>Konfigurer Bane</translation>
+        <translation type="vanished">Konfigurer Bane</translation>
     </message>
     <message>
         <source>Tool Roll Angle (deg)</source>
@@ -680,80 +789,80 @@
 <context>
     <name>ConfigurePathView</name>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="212"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="217"/>
         <source>Tool Roll Angle (deg)</source>
         <translation>Verktøyrullvinkel (grader)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="237"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="243"/>
         <source>Rotary Table Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="272"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="278"/>
         <source>Rotary Table Angle (deg)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="410"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="418"/>
         <source>Bending Backwards</source>
         <translation>Bøye bakover</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="420"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="428"/>
         <source>Elbow Down</source>
         <translation>Albue ned</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="430"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="438"/>
         <source>Wrist Down</source>
         <translation>Håndledd ned</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="167"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="172"/>
         <source>Tool Roll Mode</source>
         <translation>Verktøyrull-modus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="100"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="102"/>
         <source>Export Robot Code</source>
         <translation type="unfinished">Eksportér robotkode</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="100"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="102"/>
         <source>Solve Path</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="185"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="190"/>
         <source>No Change</source>
         <translation>Ingen endring</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="186"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="255"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="191"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="261"/>
         <source>Fixed Angle</source>
         <translation>Fast vinkel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="187"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="256"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="192"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="262"/>
         <source>Dynamic Angle 1</source>
         <translation>Dynamisk vinkel 1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="188"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="257"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="193"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="263"/>
         <source>Dynamic Angle 2</source>
         <translation>Dynamisk vinkel 2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="189"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="194"/>
         <source>Roller Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="194"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="199"/>
         <source>Overwrite path tool roll angle (RZ2) with the selected method</source>
         <translation>Overskriv baneverktøyets rullevinkel (RZ2) med den valgte metoden</translation>
     </message>
@@ -766,57 +875,57 @@
         <translation type="vanished">Vinkel rotasjonsbord (grader)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="301"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="308"/>
         <source>Linear Track Mode</source>
         <translation>Lineærbanemodus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="318"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="325"/>
         <source>Fixed Position</source>
         <translation>Stasjonær posisjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="319"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="326"/>
         <source>Dynamic Position</source>
         <translation>Dynamisk posisjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="320"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="327"/>
         <source>Positive Only</source>
         <translation>Kun positiv</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="321"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="328"/>
         <source>Negative Only</source>
         <translation>Kun negativ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="322"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="329"/>
         <source>Batch Mode</source>
         <translation>Batchmodus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="335"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="342"/>
         <source>Batch Size</source>
         <translation>Batchstørrelse</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="377"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="384"/>
         <source>Linear Track</source>
         <translation>Lineærbane</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="379"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="386"/>
         <source>Axis</source>
         <translation>Akse</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="381"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="388"/>
         <source> (mm)</source>
         <translation> (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="440"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="448"/>
         <source>Allow Large Reorient</source>
         <translation>Tillat stor omorientering</translation>
     </message>
@@ -825,7 +934,7 @@
         <translation type="vanished">Konfigurer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="121"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="125"/>
         <source>Status: </source>
         <translation>Status: </translation>
     </message>
@@ -833,12 +942,12 @@
 <context>
     <name>ConfirmDialog</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ConfirmDialog.qml" line="69"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ConfirmDialog.qml" line="92"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ConfirmDialog.qml" line="78"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ConfirmDialog.qml" line="101"/>
         <source>Confirm</source>
         <translation>Bekreft</translation>
     </message>
@@ -1178,7 +1287,7 @@
 <context>
     <name>CustomGeometry</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="25"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="20"/>
         <source>User Geometries</source>
         <translation>Brukergeometrier</translation>
     </message>
@@ -1199,7 +1308,7 @@
         <translation type="vanished">Sletter geometri</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="373"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="121"/>
         <source>Name</source>
         <translation>Navn</translation>
     </message>
@@ -1208,89 +1317,92 @@
         <translation type="vanished">Sist oppdatert</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="55"/>
         <source>Uninitialized</source>
-        <translation>Uinitialisert</translation>
+        <translation type="vanished">Uinitialisert</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="57"/>
         <source>Idle</source>
-        <translation>Inaktiv</translation>
+        <translation type="vanished">Inaktiv</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="59"/>
         <source>Fetching description</source>
-        <translation>Henter beskrivelse</translation>
+        <translation type="vanished">Henter beskrivelse</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="61"/>
         <source>Downloading</source>
-        <translation>Laster ned</translation>
+        <translation type="vanished">Laster ned</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="63"/>
         <source>Unpacking</source>
-        <translation>Pakker ut</translation>
+        <translation type="vanished">Pakker ut</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="65"/>
         <source>Loading</source>
-        <translation>Laster</translation>
+        <translation type="vanished">Laster</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="67"/>
         <source>Deleting</source>
-        <translation>Sletter</translation>
+        <translation type="vanished">Sletter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="69"/>
         <source>Uploading</source>
-        <translation>Laster opp</translation>
+        <translation type="vanished">Laster opp</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="71"/>
-        <source>Processing</source>
+        <source>Unknown</source>
+        <translation type="vanished">Ukjent</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="58"/>
+        <source>Geometries</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="74"/>
-        <source>Unknown</source>
-        <translation>Ukjent</translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="332"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="92"/>
         <source>Select</source>
         <translation>Valg</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="355"/>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="417"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="102"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="172"/>
         <source>Upload</source>
         <translation>Laste opp</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="379"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="127"/>
         <source>Geometry name</source>
         <translation>Geometri navn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="400"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="155"/>
         <source>File</source>
         <translation>Fil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="404"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="159"/>
         <source>No file selected</source>
         <translation>Ingen fil valgt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="430"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="184"/>
         <source>Asset files</source>
         <translation>Ressursfiler</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="215"/>
+        <source>Delete</source>
+        <translation type="unfinished">Slett</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="217"/>
+        <source>Are you sure you want to delete user geometry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="172"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="191"/>
         <source>Overwrite</source>
-        <translation type="vanished">Skrive over</translation>
+        <translation>Skrive over</translation>
     </message>
     <message>
         <source>GLTF Files</source>
@@ -1309,7 +1421,7 @@
         <translation type="vanished">Fra skyen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="440"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="193"/>
         <source>Are you sure you want to overwrite user geometry</source>
         <translation>Er du sikker på at du vil overskrive brukergeometri</translation>
     </message>
@@ -1337,67 +1449,28 @@
         <translation type="vanished">Laster ned verktøy</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="59"/>
         <source>Edit</source>
-        <translation>Rediger</translation>
+        <translation type="vanished">Rediger</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="74"/>
-        <source>Stationary Tool is incompatible with</source>
-        <extracomment>Stationary tool is incompatible with &lt;Rotary Table&gt;&lt;/&gt;&lt;Linear Track&gt;</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="76"/>
-        <source>Rotary Table</source>
-        <extracomment>Stationary tool is incompatible with &lt;Rotary Table&gt;&lt;/&gt;&lt;Linear Track&gt;</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="79"/>
-        <source>Linear Track</source>
-        <extracomment>Stationary tool is incompatible with &lt;Rotary Table&gt;&lt;/&gt;&lt;Linear Track&gt;</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="85"/>
-        <source>Stationary Tool</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="105"/>
-        <source>Tooltip</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="108"/>
-        <source>Base</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="136"/>
         <source>Generic Tool</source>
-        <translation>Generisk verktøy</translation>
+        <translation type="vanished">Generisk verktøy</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="151"/>
         <source>Diameter</source>
-        <translation>Diameter</translation>
+        <translation type="vanished">Diameter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="155"/>
         <source>Cone length</source>
-        <translation>Kjeglelengde</translation>
+        <translation type="vanished">Kjeglelengde</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="159"/>
         <source>Color</source>
-        <translation>Farge</translation>
+        <translation type="vanished">Farge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/EditTool.qml" line="202"/>
         <source>Select color</source>
-        <translation>Velg farge</translation>
+        <translation type="vanished">Velg farge</translation>
     </message>
 </context>
 <context>
@@ -1454,7 +1527,7 @@
 <context>
     <name>ExportRobotCode</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="697"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="708"/>
         <source>Tool Data</source>
         <translation>Verktøydata</translation>
     </message>
@@ -1467,7 +1540,7 @@
         <translation type="vanished">Vekt (kg): </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="762"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="774"/>
         <source>Tool Weight</source>
         <translation>Verktøyvekt</translation>
     </message>
@@ -1480,139 +1553,134 @@
         <translation type="vanished">Verktøy Tyngdepunkt Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="724"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="736"/>
         <source>No tool selected</source>
         <translation>Ingen verktøy valgt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="54"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="57"/>
         <source>Export Robot Code</source>
         <translation>Eksportér robotkode</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1429"/>
-        <source>Update User-Robot Relation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1452"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1464"/>
         <source>Generating robot code</source>
         <translation>Genererer robotkode</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="145"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="154"/>
         <source>General Options</source>
         <translation>Generelle alternativer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="168"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="178"/>
         <source>Set Tool Number</source>
         <translation>Angi verktøynummer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="291"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="301"/>
         <source>Add Lift Points</source>
         <translation>Legg til løftepunkt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="185"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="195"/>
         <source>Arc Welding</source>
         <translation>Buesveising</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="214"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="224"/>
         <source>Cutting Speed (mm/s)</source>
         <translation>Kuttehastighet (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="252"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="262"/>
         <source>Fast Speed (mm/s)</source>
         <translation>Rask hastighet (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="335"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="345"/>
         <source>Number of Lines Per File</source>
         <translation>Antall linjer per fil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="309"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="319"/>
         <source>Lift Distance (mm)</source>
         <translation>Løfteavstand (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="89"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="97"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="107"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="116"/>
         <source>Robot</source>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="110"/>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="119"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="128"/>
         <source>None</source>
         <translation>Ingen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="115"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="124"/>
         <source>Tool</source>
         <translation>Verktøy</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="123"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="132"/>
         <source>Number of targets</source>
         <translation>Antall punkter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="130"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="139"/>
         <source>Configure status</source>
         <translation>Konfigurasjonsstatus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="176"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="186"/>
         <source>Export Spindle Speeds</source>
         <translation>Eksporter spindelhastigheter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="193"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="203"/>
         <source>Override Speeds</source>
         <translation>Overstyr hastigheter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="316"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="326"/>
         <source>Lift Distance</source>
         <translation>Løfteavstand</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="391"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="401"/>
         <source>No robot selected</source>
         <translation>Ingen robot valgt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="407"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="418"/>
         <source>File Type</source>
         <translation>Filtype</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="473"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="484"/>
         <source>Rotary table axis number</source>
         <translation>Aksenummer rotasjonsbord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="497"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="508"/>
         <source>Linear track axis number</source>
         <translation>Aksenummer lineærbane</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="636"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="644"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="647"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="655"/>
         <source>Pulses per 360 deg (or meter)</source>
         <translation>Pulser per 360 grader (eller meter)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="671"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="682"/>
         <source>Generic Export Options in JSON format: eg.
 {
  &quot;procedureName&quot;: &quot;main&quot;,
@@ -1625,73 +1693,77 @@
 }</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1441"/>
+        <source>Open robot list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Validate Options</source>
         <translation type="vanished">Valideringsvalg</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="717"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="729"/>
         <source>Tool Name</source>
         <translation>Verktøynavn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="731"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="743"/>
         <source>Export Name</source>
         <translation>Eksporter navn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="740"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="752"/>
         <source>Tool Export Name</source>
         <translation>Navn på verktøyeksport</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="753"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="765"/>
         <source>Weight (kg)</source>
         <translation>Vekt (kg)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1053"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1065"/>
         <source>Enable Custom Templates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1076"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1088"/>
         <source>Header</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1092"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1104"/>
         <source>Custom Header</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1108"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1120"/>
         <source>Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1124"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1136"/>
         <source>Custom Footer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1140"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1152"/>
         <source>Move</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1156"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1168"/>
         <source>Custom Move</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1340"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1352"/>
         <source>Generic Options</source>
         <translation>Generiske valg</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1414"/>
         <source>Robot must be in relation with the user before generating robot code</source>
-        <translation>Robot må være relatert til brukeren før robotkode kan genereres</translation>
+        <translation type="vanished">Robot må være relatert til brukeren før robotkode kan genereres</translation>
     </message>
     <message>
         <source>Load User-Robot Relation</source>
@@ -1710,17 +1782,17 @@
         <translation type="vanished">til brukerrelasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1452"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1464"/>
         <source>Robot code received. Save to file?</source>
         <translation>Robotkode mottatt. Lagre til fil?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1460"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1472"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1464"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1476"/>
         <source>Save</source>
         <translation>Lagre</translation>
     </message>
@@ -1741,22 +1813,22 @@
         <translation type="vanished">Tyngdepunkt Z</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1178"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1190"/>
         <source>ABB Options</source>
         <translation>ABB-alternativer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1236"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1248"/>
         <source>KUKA Options</source>
         <translation>KUKA-alternativer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1252"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1264"/>
         <source>FANUC Options</source>
         <translation>FANUC-alternativer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1272"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1284"/>
         <source>MOTOMAN Options</source>
         <translation>MOTOMAN-alternativer</translation>
     </message>
@@ -1769,8 +1841,8 @@
         <translation type="vanished">Modulnavn: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="429"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="438"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="440"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="449"/>
         <source>Module Name</source>
         <translation>Modulnavn</translation>
     </message>
@@ -1779,8 +1851,8 @@
         <translation type="vanished">Prosedyrenavn: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="359"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="366"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="369"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="376"/>
         <source>Procedure Name</source>
         <translation>Prosedyrenavn</translation>
     </message>
@@ -1789,8 +1861,8 @@
         <translation type="vanished">Arbeidsobjekt Navn: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="521"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="530"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="532"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="541"/>
         <source>Work Object Name</source>
         <translation>Arbeidsobjektnavn</translation>
     </message>
@@ -1799,8 +1871,8 @@
         <translation type="vanished">Ekstern Akse Navn: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="451"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="460"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="462"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="471"/>
         <source>External Axis Name</source>
         <translation>Navn ekstern akse</translation>
     </message>
@@ -1821,64 +1893,64 @@
         <translation type="vanished">Hastigheter fra APT fil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="160"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="170"/>
         <source>Gun On/Gun Off</source>
         <translation>Pistol på/av</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="543"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="551"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="554"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="562"/>
         <source>Number of Main Files</source>
         <translation>Antall hovedfiler</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="568"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="576"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="579"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="587"/>
         <source>Tool Number</source>
         <translation>Verktøynummer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="593"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="604"/>
         <source>User Frame Number</source>
         <translation>Brukerkoordinatnummer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="618"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="629"/>
         <source>Dynamic Loading of JBI Files</source>
         <translation>Dynamisk lasting av JBI-filer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="627"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="638"/>
         <source>XRC Controller</source>
         <translation>XRC-kontroller</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="783"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="795"/>
         <source>Center of Gravity X (mm)</source>
         <translation>Tyngdepunkt X (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="790"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="802"/>
         <source>Center of Gravity X</source>
         <translation>Tyngdepunkt X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="815"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="827"/>
         <source>Center of Gravity Y (mm)</source>
         <translation>Tyngdepunkt Y (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="822"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="834"/>
         <source>Center of Gravity Y</source>
         <translation>Tyngdepunkt Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="847"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="859"/>
         <source>Center of Gravity Z (mm)</source>
         <translation>Tyngdepunkt Z (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="854"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="866"/>
         <source>Center of Gravity Z</source>
         <translation>Tyngdepunkt Z</translation>
     </message>
@@ -1887,17 +1959,22 @@
         <translation type="vanished">HOKAROB Opsjoner</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1396"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1408"/>
         <source>Path must be configured before it can be exported</source>
         <translation>Banen må konfigureres før den kan eksporteres</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1405"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1417"/>
         <source>One or more options are not valid</source>
         <translation>Ett eller flere alternativer er ugyldig</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1429"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1426"/>
+        <source>Robot must be activated before generating robot code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1441"/>
         <source>Export</source>
         <translation>Eksport</translation>
     </message>
@@ -2156,7 +2233,7 @@
 <context>
     <name>ImportPath</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="24"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="22"/>
         <source>Import Path</source>
         <translation>Importér bane</translation>
     </message>
@@ -2164,73 +2241,74 @@
 <context>
     <name>ImportUrdf</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="32"/>
         <source>Uninitialized</source>
-        <translation type="unfinished">Uinitialisert</translation>
+        <translation type="obsolete">Uinitialisert</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="34"/>
         <source>Idle</source>
-        <translation type="unfinished">Inaktiv</translation>
+        <translation type="obsolete">Inaktiv</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="36"/>
         <source>Uploading</source>
-        <translation type="unfinished">Laster opp</translation>
+        <translation type="obsolete">Laster opp</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="38"/>
         <source>Downloading</source>
-        <translation type="unfinished">Laster ned</translation>
+        <translation type="obsolete">Laster ned</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="40"/>
         <source>Unpacking</source>
-        <translation type="unfinished">Pakker ut</translation>
+        <translation type="obsolete">Pakker ut</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="43"/>
         <source>Unknown</source>
-        <translation type="unfinished">Ukjent</translation>
+        <translation type="obsolete">Ukjent</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="80"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="53"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="134"/>
+        <source>Overwrite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="69"/>
         <source>Open file</source>
         <translation type="unfinished">Åpne fil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="81"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="70"/>
         <source>Asset files</source>
         <translation type="unfinished">Ressursfiler</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="86"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="79"/>
         <source>File</source>
         <translation type="unfinished">Fil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="92"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="85"/>
         <source>No file selected</source>
         <translation type="unfinished">Ingen fil valgt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="110"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="102"/>
         <source>Name</source>
         <translation type="unfinished">Navn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="119"/>
-        <source>Name of the Custom 3D model</source>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="115"/>
+        <source>Name of the custom 3D model</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="133"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="134"/>
         <source>Import</source>
         <translation type="unfinished">Import</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="169"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ImportUrdf.qml" line="55"/>
         <source>Are you sure you want to overwrite</source>
+        <extracomment>Are you sure you want to overwrite &lt;item name&gt;</extracomment>
         <translation type="unfinished">Er du sikker på at du vil overskrive</translation>
     </message>
 </context>
@@ -2318,7 +2396,7 @@
         <translation type="vanished">Større baner kan importeres ved å dele APT-filen i mindre filer og bruke alternativet &quot;legg til&quot;.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="126"/>
+        <location filename="../../../backend/src/networking.cpp" line="128"/>
         <source>Goodbye </source>
         <translation>Farvel </translation>
     </message>
@@ -2379,7 +2457,7 @@
         <translation type="vanished">Kunne ikke bekrefte at geometrien ble slettet fra serveren (geometrien kan ha blitt slettet eller ikke)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="341"/>
+        <location filename="../../../backend/src/networking.cpp" line="355"/>
         <source>Failed to get version info</source>
         <translation>Fant ikke versjonsinfo</translation>
     </message>
@@ -2388,77 +2466,77 @@
         <translation type="vanished">Feil: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="739"/>
+        <location filename="../../../backend/src/networking.cpp" line="763"/>
         <source>unknown user</source>
         <translation>Ukjent bruker</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="747"/>
+        <location filename="../../../backend/src/networking.cpp" line="771"/>
         <source>unknown username</source>
         <translation>Ukjent brukernavn</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="751"/>
+        <location filename="../../../backend/src/networking.cpp" line="775"/>
         <source>Welcome </source>
         <translation>Velkommen </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="769"/>
+        <location filename="../../../backend/src/networking.cpp" line="793"/>
         <source> loaded
 </source>
         <translation> lastet
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="770"/>
+        <location filename="../../../backend/src/networking.cpp" line="794"/>
         <source>Some settings were not available on the server. This is likely due to new settings being introduced in IRBCAM
 </source>
         <translation>Noen innstillinger var ikke tilgjengelige på serveren. Dette er sannsynligvis på grunn av nye innstillinger introdusert i IRBCAM
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="771"/>
+        <location filename="../../../backend/src/networking.cpp" line="795"/>
         <source>The affected settings have been set to their default values</source>
         <translation>De aktuelle innstillingene er satt til standardverdier</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="780"/>
+        <location filename="../../../backend/src/networking.cpp" line="804"/>
         <source>Failed to load settings for </source>
         <translation>Kunne ikke laste inn innstillinger for </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1016"/>
+        <location filename="../../../backend/src/networking.cpp" line="1102"/>
         <source>A new minor version of IRBCAM is available.</source>
         <translation>En ny versjon av IRBCAM er tilgjengelig.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1017"/>
+        <location filename="../../../backend/src/networking.cpp" line="1103"/>
         <source>Save your work and reload page to get the newest features</source>
         <translation>Lagre arbeidet ditt og last inn siden på nytt for å få de nyeste funksjonene</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1022"/>
+        <location filename="../../../backend/src/networking.cpp" line="1108"/>
         <source>A new major version of IRBCAM is available.</source>
         <translation>En ny hovedversjon av IRBCAM er tilgjengelig.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1023"/>
+        <location filename="../../../backend/src/networking.cpp" line="1109"/>
         <source>Some features may be unavailable until page is reloaded.</source>
         <translation>Noen funksjoner kan være utilgjengelige før siden er lastet inn på nytt.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1024"/>
+        <location filename="../../../backend/src/networking.cpp" line="1110"/>
         <source>Please save your work and reload page as soon as possible</source>
         <translation>Lagre arbeidet ditt og last inn siden på nytt så snart som mulig</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1039"/>
+        <location filename="../../../backend/src/networking.cpp" line="1130"/>
         <source>Failed to get cloud job status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="769"/>
-        <location filename="../../../backend/src/networking.cpp" line="787"/>
+        <location filename="../../../backend/src/networking.cpp" line="793"/>
+        <location filename="../../../backend/src/networking.cpp" line="811"/>
         <source>Settings for </source>
         <translation>Innstillinger for </translation>
     </message>
@@ -2468,22 +2546,22 @@
         <translation>Kunne ikke logge inn</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="787"/>
+        <location filename="../../../backend/src/networking.cpp" line="811"/>
         <source> loaded</source>
         <translation> lastet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="913"/>
+        <location filename="../../../backend/src/networking.cpp" line="999"/>
         <source>A network error occurred</source>
         <translation>En nettverksfeil har oppstått</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="953"/>
+        <location filename="../../../backend/src/networking.cpp" line="1039"/>
         <source>Remote error</source>
         <translation>Ekstern feil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="953"/>
+        <location filename="../../../backend/src/networking.cpp" line="1039"/>
         <source>code</source>
         <translation>kode</translation>
     </message>
@@ -2502,7 +2580,7 @@
         <translation>Innstillinger</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="74"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="81"/>
         <source>User Interface</source>
         <translation>Brukergrensesnitt</translation>
     </message>
@@ -2523,123 +2601,123 @@
         <translation type="vanished">Lys</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="80"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="87"/>
         <source>Auto Save</source>
         <translation>Autolagring</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="86"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="93"/>
         <source>Enable auto save station</source>
         <translation>Aktiver autolagring av stasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="99"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="106"/>
         <source>Auto save interval</source>
         <translation>Autolagringsintervall</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="115"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="122"/>
         <source>5 min</source>
         <translation>5 min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="119"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="126"/>
         <source>10 min</source>
         <translation>10 min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="123"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="130"/>
         <source>15 min</source>
         <translation>15 min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="127"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="134"/>
         <source>30 min</source>
         <translation>30 min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="146"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="153"/>
         <source>Plugins</source>
         <translation>Programtillegg</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="156"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="165"/>
         <source>Station</source>
         <translation type="unfinished">Stasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="163"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="174"/>
         <source>Changes to station settings are not saved automatically. They are saved in the station and therefore saved and loaded with the station</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="168"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="180"/>
         <source>Simulation speeds</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="174"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="186"/>
         <source>Rapid speed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="196"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="208"/>
         <source>Cutting speed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="218"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="230"/>
         <source>Reorientation speed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="218"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="230"/>
         <source>deg/s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="242"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="255"/>
         <source>Distance to Joint Limits</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="295"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="308"/>
         <source>Set all revolute joints</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="302"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="372"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="315"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="385"/>
         <source>deg</source>
         <extracomment>degrees</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="307"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="336"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="320"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="349"/>
         <source>Value</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="316"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="345"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="329"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="358"/>
         <source>Set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="324"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="337"/>
         <source>Set all linear joints</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="331"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="370"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="344"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="383"/>
         <source>mm</source>
         <extracomment>millimeters</extracomment>
         <translation type="unfinished">mm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="360"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="373"/>
         <source>Joint</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2661,30 +2739,43 @@
     </message>
 </context>
 <context>
+    <name>ItemListModel</name>
+    <message>
+        <location filename="../../../backend/src/itemlistmodel.cpp" line="6"/>
+        <source>User Created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/itemlistmodel.cpp" line="128"/>
+        <source>An error occurred when fetching list</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>JointViewer</name>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="144"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="146"/>
         <source>Joint </source>
         <translation>Ledd </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="129"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="131"/>
         <source>Robot Joints</source>
         <translation>Robotledd</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="150"/>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="203"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="152"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="205"/>
         <source>mm</source>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="165"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="167"/>
         <source>Joint 2-3</source>
         <translation>Ledd 2-3</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="183"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="185"/>
         <source>Rotary Table</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2693,13 +2784,13 @@
         <translation type="vanished">Rotasjonsbord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="185"/>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="207"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="187"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="209"/>
         <source>axis</source>
         <translation>akse</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="205"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="207"/>
         <source>Linear track</source>
         <translation>Lineærbane</translation>
     </message>
@@ -2712,22 +2803,22 @@
         <translation>Språk</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/LanguageSettings.qml" line="150"/>
+        <location filename="../../IrbcamQml/Popups/Assets/LanguageSettings.qml" line="148"/>
         <source>Theme</source>
         <translation>Tema</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/LanguageSettings.qml" line="157"/>
+        <location filename="../../IrbcamQml/Popups/Assets/LanguageSettings.qml" line="155"/>
         <source>Dark</source>
         <translation>Mørk</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/LanguageSettings.qml" line="158"/>
+        <location filename="../../IrbcamQml/Popups/Assets/LanguageSettings.qml" line="156"/>
         <source>Light</source>
         <translation>Lys</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/LanguageSettings.qml" line="165"/>
+        <location filename="../../IrbcamQml/Popups/Assets/LanguageSettings.qml" line="163"/>
         <source>Show Welcome Messsage</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2784,25 +2875,28 @@
 <context>
     <name>LinearTrackEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="19"/>
         <source>Linear Track Editor</source>
-        <translation>Lineærbane-editor</translation>
+        <translation type="vanished">Lineærbane-editor</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="23"/>
-        <source>Linear Track is incompatible with Stationary Tool</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="36"/>
         <source>Select Linear Track</source>
-        <translation type="unfinished">Velg Lineær Bane</translation>
+        <translation type="obsolete">Velg Lineær Bane</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="40"/>
-        <source>Import URDF</source>
-        <extracomment>URDF: Unified Robot Description Format (https://en.wikipedia.org/wiki/URDF)</extracomment>
+        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="19"/>
+        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="49"/>
+        <source>Linear Tracks</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="34"/>
+        <source>Linear track is incompatible with stationary tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/LinearTrackEditor.qml" line="60"/>
+        <source>Import</source>
+        <translation type="unfinished">Import</translation>
     </message>
 </context>
 <context>
@@ -2832,14 +2926,12 @@
         <translation type="vanished">Det oppstod en nettverksfeil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="35"/>
         <source>Save Station</source>
-        <translation>Lagre stasjon</translation>
+        <translation type="vanished">Lagre stasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="35"/>
         <source>Load Station</source>
-        <translation>Laste stasjon</translation>
+        <translation type="vanished">Laste stasjon</translation>
     </message>
     <message>
         <source> loaded</source>
@@ -2862,9 +2954,8 @@
         <translation type="vanished">Er du sikker på at du vil overskrive stasjonen </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="50"/>
         <source>Saving station</source>
-        <translation>Lagrer stasjon</translation>
+        <translation type="vanished">Lagrer stasjon</translation>
     </message>
     <message>
         <source>Station Name</source>
@@ -2875,121 +2966,128 @@
         <translation type="vanished">Sist oppdatert</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="44"/>
         <source>Uninitialized</source>
-        <translation>Uinitialisert</translation>
+        <translation type="vanished">Uinitialisert</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="47"/>
         <source>Idle</source>
-        <translation>Inaktiv</translation>
+        <translation type="vanished">Inaktiv</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="48"/>
         <source>Loading assets</source>
-        <translation>Laster ressurser</translation>
+        <translation type="vanished">Laster ressurser</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="52"/>
         <source>Loading station</source>
-        <translation>Laster stasjon</translation>
+        <translation type="vanished">Laster stasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="54"/>
         <source>Unpacking station info</source>
-        <translation>Pakker ut stasjonsinfo</translation>
+        <translation type="vanished">Pakker ut stasjonsinfo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="57"/>
         <source>Unknown</source>
-        <translation>Ukjent</translation>
+        <translation type="vanished">Ukjent</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="135"/>
         <source>Are you sure you want to overwrite station</source>
-        <translation>Er du sikker på at du vil overskrive stasjonen</translation>
+        <translation type="vanished">Er du sikker på at du vil overskrive stasjonen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="154"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="239"/>
         <source>Save name</source>
         <translation>Lagre navn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="154"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="239"/>
         <source>Search</source>
         <translation>Søk</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="170"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="130"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="400"/>
         <source>Overwrite</source>
         <translation>Overskrive</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="170"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="36"/>
+        <source>Save Project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="36"/>
+        <source>Open Project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="104"/>
+        <source>Delete</source>
+        <translation type="unfinished">Slett</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="105"/>
+        <source>This action will permanently delete project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="106"/>
+        <source>from the cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="131"/>
+        <source>Are you sure you want to overwrite project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="159"/>
+        <source>No saved projects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="400"/>
         <source>Save</source>
         <translation>Lagre</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="400"/>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Refresh</source>
         <translation type="vanished">Forfriske</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="170"/>
         <source>Load</source>
-        <translation>Laste</translation>
+        <translation type="vanished">Laste</translation>
     </message>
 </context>
 <context>
     <name>LoadUserRobotRelation</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="32"/>
         <source>User-Robot Relation</source>
-        <translation>Bruker-robot-relasjon</translation>
+        <translation type="vanished">Bruker-robot-relasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="69"/>
         <source>Robot</source>
-        <translation type="unfinished">Robot</translation>
+        <translation type="obsolete">Robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="69"/>
-        <source>is in relation with the user</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="77"/>
-        <source>User have already added max number of robots in user-robot relation. Please remove any robot from the relation so that you can add</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="77"/>
         <source>robot</source>
-        <translation type="unfinished">robot</translation>
+        <translation type="obsolete">robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="85"/>
-        <source>User need to wait until</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="86"/>
-        <source>to update the user-robot relation. But you can continue generating robot code for the robots that are already in relation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="126"/>
         <source>Are you sure you want to add robot</source>
-        <translation type="unfinished">Er du sikker på at du vil legge til robot</translation>
+        <translation type="obsolete">Er du sikker på at du vil legge til robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="128"/>
         <source>to user relation</source>
-        <translation type="unfinished">til brukerrelasjon</translation>
+        <translation type="obsolete">til brukerrelasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadUserRobotRelation.qml" line="150"/>
         <source>Add</source>
-        <translation type="unfinished">Legg til</translation>
+        <translation type="obsolete">Legg til</translation>
     </message>
 </context>
 <context>
@@ -3000,27 +3098,27 @@
         <translation>Logg-inn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Login.qml" line="56"/>
+        <location filename="../../IrbcamQml/Popups/Login.qml" line="58"/>
         <source>Signing in</source>
         <translation>Logger inn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Login.qml" line="68"/>
+        <location filename="../../IrbcamQml/Popups/Login.qml" line="70"/>
         <source>Username</source>
         <translation>Brukernavn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Login.qml" line="80"/>
+        <location filename="../../IrbcamQml/Popups/Login.qml" line="82"/>
         <source>Password</source>
         <translation>Passord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Login.qml" line="96"/>
+        <location filename="../../IrbcamQml/Popups/Login.qml" line="98"/>
         <source>Sign out</source>
         <translation>Logg ut</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Login.qml" line="96"/>
+        <location filename="../../IrbcamQml/Popups/Login.qml" line="98"/>
         <source>Sign in</source>
         <translation>Logg inn</translation>
     </message>
@@ -3463,12 +3561,12 @@
         <translation>Punkter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="232"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="230"/>
         <source>User Frame</source>
         <translation>Brukerkoordinater</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="240"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="236"/>
         <source>Object Frame</source>
         <translation>Objektkoordinater</translation>
     </message>
@@ -3481,7 +3579,7 @@
         <translation type="vanished">Mekanisme</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="248"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="242"/>
         <source>Robot</source>
         <translation>Robot</translation>
     </message>
@@ -3534,7 +3632,7 @@
         <translation type="vanished">Velg Bord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="256"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="248"/>
         <source>Tool</source>
         <translation>Verktøy</translation>
     </message>
@@ -3603,19 +3701,16 @@
         <translation type="vanished">Veiviser &amp;ny stasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="78"/>
         <source>&amp;Open Station</source>
-        <translation>&amp;Åpne stasjon</translation>
+        <translation type="vanished">&amp;Åpne stasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="85"/>
         <source>&amp;Save Station</source>
-        <translation>Lagre &amp;stasjon</translation>
+        <translation type="vanished">Lagre &amp;stasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="95"/>
         <source>Save Station &amp;As ...</source>
-        <translation>Lagre st&amp;asjon som ...</translation>
+        <translation type="vanished">Lagre st&amp;asjon som ...</translation>
     </message>
     <message>
         <source>A&amp;PT</source>
@@ -3693,11 +3788,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="60"/>
-        <source>&amp;Empty Station</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../IrbcamQml/Menus.qml" line="69"/>
         <source>Station &amp;Wizard</source>
         <translation type="unfinished"></translation>
@@ -3755,7 +3845,7 @@
         <translation>Global</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="264"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="254"/>
         <source>Rotary Table</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3764,32 +3854,52 @@
         <translation type="vanished">Rotasjonsbord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="272"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="60"/>
+        <source>&amp;Empty Project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="78"/>
+        <source>&amp;Open Project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="85"/>
+        <source>&amp;Save Project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="95"/>
+        <source>Save Project &amp;As ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="260"/>
         <source>Target</source>
         <translation>Punkter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="283"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="269"/>
         <source>No plugins are enabled</source>
         <translation>Ingen programtillegg er aktivert</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="309"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="295"/>
         <source>This plugin does not have valid source content</source>
         <translation>Dette programtillegget har ikke gyldig kildekode</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="339"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="325"/>
         <source>User Manual</source>
         <translation>Brukermanual</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="350"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="336"/>
         <source>EULA</source>
         <translation>Sluttbrukeravtale</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="360"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="346"/>
         <source>Feedback</source>
         <translation>Tilbakemelding</translation>
     </message>
@@ -3823,7 +3933,7 @@
         <translation type="vanished">Animer Bakover</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="289"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="275"/>
         <source>&amp;Plugins</source>
         <translation>&amp;Programtillegg</translation>
     </message>
@@ -3836,7 +3946,7 @@
         <translation type="vanished">Denne plugin er ikke tilgjengelig: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="345"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="331"/>
         <source>Forum</source>
         <translation>Forum</translation>
     </message>
@@ -3873,7 +3983,7 @@
         <translation type="vanished">Innstillinger for Programtillegg</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="337"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="323"/>
         <source>&amp;Help</source>
         <translation>&amp;Hjelp</translation>
     </message>
@@ -3890,7 +4000,7 @@
         <translation type="vanished">Språk / Enheter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="355"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="341"/>
         <source>About IRBCAM</source>
         <translation>Om IRBCAM</translation>
     </message>
@@ -4020,7 +4130,7 @@
 <context>
     <name>NetworkObjectListModel</name>
     <message>
-        <location filename="../../../backend/src/networkobjectlistmodel.cpp" line="96"/>
+        <location filename="../../../backend/src/networkobjectlistmodel.cpp" line="59"/>
         <source>Failed to fetch list from server</source>
         <translation>Kunne ikke hente liste fra server</translation>
     </message>
@@ -4033,12 +4143,12 @@
         <translation>Logg inn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/NotSignedIn.qml" line="60"/>
+        <location filename="../../IrbcamQml/Popups/NotSignedIn.qml" line="51"/>
         <source>Sign in</source>
         <translation>Logg inn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/NotSignedIn.qml" line="53"/>
+        <location filename="../../IrbcamQml/Popups/NotSignedIn.qml" line="44"/>
         <source>Sign in to save your work and use premium features</source>
         <translation>Logg in for å lagre ditt arbeid og bruke premium egenskaper</translation>
     </message>
@@ -4063,7 +4173,7 @@
 <context>
     <name>ObjectFrameEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ObjectFrameEditor.qml" line="18"/>
+        <location filename="../../IrbcamQml/Sidebar/ObjectFrameEditor.qml" line="17"/>
         <source>Edit Object Frame</source>
         <translation>Redigere objektkoordinat</translation>
     </message>
@@ -4133,32 +4243,32 @@
         <translation>Redigere bane</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="101"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="102"/>
         <source>Expand/collapse all targets</source>
         <translation>Utvid/skjul alle punkter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="112"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="113"/>
         <source>Index</source>
         <translation>Indeks</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="157"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="155"/>
         <source>Go to</source>
         <translation>Gå til</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="164"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="162"/>
         <source>Sparse Changes</source>
         <translation>Endringer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="165"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="163"/>
         <source>Indicates changes in velocity, tool and spindle speed</source>
         <translation>Indikerer endringer i hastighet, verktøy og spindelhastighet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="379"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="381"/>
         <source>Add Targets</source>
         <translation>Legg til punker</translation>
     </message>
@@ -4211,7 +4321,7 @@
         <translation type="vanished">Konfigurer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="437"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="442"/>
         <source>Configure Max Distance</source>
         <translation>Konfigurer maksimumsavstand</translation>
     </message>
@@ -4231,37 +4341,37 @@
         <translation type="vanished">Programtillegg feilet. Nettverksfeil: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="408"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="410"/>
         <source>Failed to get plugin from server</source>
         <translation>Kunne ikke hente programtillegg fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="581"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="587"/>
         <source>Failed to extract archive</source>
         <translation>Kunne ikke pakke ut arkiv</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="623"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="629"/>
         <source>Unsupported file extension</source>
         <translation>Ikke-støttet filtype</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="632"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="638"/>
         <source>Failed to load files</source>
         <translation>Kunne ikke laste filer</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="662"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="668"/>
         <source>Expected a single QML file in the root directory, but found </source>
         <translation>Forventet en enkelt QML-fil i rotmappen, men fant </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="677"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="683"/>
         <source>Expected a single image file in the root directory, but found </source>
         <translation>Forventet en enkel bildefil i rotmappen, men fant </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="770"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="776"/>
         <source>Failed to rename plugin</source>
         <translation>Kunne ikke gi nytt navn til programtillegg</translation>
     </message>
@@ -4305,70 +4415,70 @@
         <translation type="vanished">Steng</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="50"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="61"/>
         <source>Internal</source>
         <translation>Intern</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="50"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="61"/>
         <source>Custom</source>
         <translation>Tilpasset</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="75"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="96"/>
         <source>This plugin will not be saved when the application is closed</source>
         <translation>Dette programtillegget blir ikke lagret når applikasjonen stenges</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="129"/>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="135"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="147"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="153"/>
         <source>Name</source>
         <translation>Navn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="152"/>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="183"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="170"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="201"/>
         <source>Url</source>
         <translation>Url</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="158"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="176"/>
         <source>QML file or ZIP archive</source>
         <translation>QML-fil eller ZIP-arkiv</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="219"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="237"/>
         <source>Open local qml file or archive</source>
         <translation>Åpne lokal QML-fil eller arkiv</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="219"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="237"/>
         <source>Note: local plugins are not saved between sessions</source>
         <translation>Notat: lokale programtillegg blir ikke lagret mellom økter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="227"/>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="253"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="245"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="271"/>
         <source>Icon</source>
         <translation>Ikon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="235"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="253"/>
         <source>Icon files</source>
         <translation>Ikonfiler</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="277"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="295"/>
         <source>Open local icon file</source>
         <translation>Åpne lokal ikonfil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="288"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="306"/>
         <source>Ok</source>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="342"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="361"/>
         <source>Add plugin</source>
         <translation>Legg til programtillegg</translation>
     </message>
@@ -4401,11 +4511,38 @@
     </message>
 </context>
 <context>
+    <name>PopupItem</name>
+    <message>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="53"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Avbryt</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="53"/>
+        <source>Back</source>
+        <translation type="unfinished">Tilbake</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="66"/>
+        <source>Finish</source>
+        <translation type="unfinished">Avslutt</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="66"/>
+        <source>Next</source>
+        <translation type="unfinished">Neste</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="66"/>
+        <source>Ok</source>
+        <translation type="unfinished">Ok</translation>
+    </message>
+</context>
+<context>
     <name>PopupLoader</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="106"/>
         <source>Cancel</source>
-        <translation>Avbryt</translation>
+        <translation type="vanished">Avbryt</translation>
     </message>
     <message>
         <location filename="../qml/popups/PopupLoader.qml" line="56"/>
@@ -4413,142 +4550,252 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="111"/>
         <source>Back</source>
-        <translation>Tilbake</translation>
+        <translation type="vanished">Tilbake</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="112"/>
         <source>back</source>
-        <translation>tilbake</translation>
+        <translation type="vanished">tilbake</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="117"/>
         <source>Finish</source>
-        <translation>Avslutt</translation>
+        <translation type="vanished">Avslutt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="122"/>
         <source>Next</source>
-        <translation>Neste</translation>
+        <translation type="vanished">Neste</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="123"/>
         <source>forward</source>
-        <translation>fremover</translation>
+        <translation type="vanished">fremover</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupLoader.qml" line="128"/>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
 </context>
 <context>
     <name>PoseEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="81"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="87"/>
         <source>Position</source>
         <translation>Posisjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="89"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="99"/>
         <source>X</source>
         <translation>X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="93"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="103"/>
         <source>Y</source>
         <translation>Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="97"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="107"/>
         <source>Z</source>
         <translation>Z</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="159"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="172"/>
         <source>Rotation</source>
         <translation>Rotasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="168"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="187"/>
         <source>Rx</source>
         <translation>Rx</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="169"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="188"/>
         <source>Yaw</source>
         <translation>Dreining</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="174"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="193"/>
         <source>Ry</source>
         <translation>Ry</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="175"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="194"/>
         <source>Pitch</source>
         <translation>Stamping</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="180"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="199"/>
         <source>Rz</source>
         <translation>Rz</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="181"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="200"/>
         <source>Roll</source>
         <translation>Rulling</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="246"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="265"/>
         <source>Normalize</source>
         <translation>Normalisér</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="250"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="269"/>
         <source>Normalize quaternions</source>
         <translation>Normalisér kvaternioner</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="328"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="347"/>
         <source>Q1</source>
         <translation>Q1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="329"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="348"/>
         <source>Quaternion scalar</source>
         <translation>Kvaternionskalar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="334"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="353"/>
         <source>Q2</source>
         <translation>Q2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="335"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="354"/>
         <source>Quaternion i</source>
         <translation>Kvaternion-i</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="340"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="359"/>
         <source>Q3</source>
         <translation>Q3</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="341"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="360"/>
         <source>Quaternion j</source>
         <translation>Kvaternion-j</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="346"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="365"/>
         <source>Q4</source>
         <translation>Q4</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="347"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="366"/>
         <source>Quaternion k</source>
         <translation>Kvaternion-k</translation>
+    </message>
+</context>
+<context>
+    <name>ProjectListModel</name>
+    <message>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="201"/>
+        <source>Failed to get saved projects from server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="215"/>
+        <source>All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="233"/>
+        <source>Recent</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <location filename="../../../backend/src/abstractassetitemmodel.cpp" line="731"/>
+        <source>years</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/abstractassetitemmodel.cpp" line="731"/>
+        <source>year</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/abstractassetitemmodel.cpp" line="740"/>
+        <source>months</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/abstractassetitemmodel.cpp" line="740"/>
+        <source>month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/abstractassetitemmodel.cpp" line="749"/>
+        <source>days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/abstractassetitemmodel.cpp" line="749"/>
+        <source>day</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/abstractassetitemmodel.cpp" line="757"/>
+        <source>hours</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/abstractassetitemmodel.cpp" line="757"/>
+        <source>hour</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/abstractassetitemmodel.cpp" line="765"/>
+        <source>minutes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/abstractassetitemmodel.cpp" line="765"/>
+        <source>minute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/abstractassetitemmodel.cpp" line="768"/>
+        <source>less than 1 minute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="31"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="646"/>
+        <location filename="../../../backend/src/simplelistmodel.cpp" line="27"/>
+        <source>Name</source>
+        <translation type="unfinished">Navn</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="33"/>
+        <source>Created</source>
+        <translation type="unfinished">Opprettet</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="35"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="648"/>
+        <location filename="../../../backend/src/simplelistmodel.cpp" line="29"/>
+        <source>Modified</source>
+        <translation type="unfinished">Modifisert</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="353"/>
+        <source>Robots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="368"/>
+        <source>User Created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="398"/>
+        <source>Activated Robots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="686"/>
+        <location filename="../../../backend/src/simplelistmodel.cpp" line="221"/>
+        <source>user created</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4602,20 +4849,12 @@
         <translation type="vanished">Du må være logget inn for å bruke denne funksjonen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="18"/>
         <source>Robot Editor</source>
-        <translation>Robot-editor</translation>
+        <translation type="vanished">Robot-editor</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="28"/>
         <source>Select Robot</source>
-        <translation type="unfinished">Velg Robot</translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="32"/>
-        <source>Import URDF</source>
-        <extracomment>URDF: Unified Robot Description Format (https://en.wikipedia.org/wiki/URDF)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Velg Robot</translation>
     </message>
     <message>
         <source>Fetching robot list</source>
@@ -4636,6 +4875,110 @@
     <message>
         <source>OK</source>
         <translation type="vanished">OK</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="20"/>
+        <source>Robots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="45"/>
+        <source>Robot must be activated in order to export robot code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="47"/>
+        <source>You have currently activated </source>
+        <extracomment>You have currently activated &lt;number&gt; of &lt;number&gt; robots</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="49"/>
+        <source> of </source>
+        <extracomment>You have currently activated &lt;number&gt; of &lt;number&gt; robots</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="51"/>
+        <source> robots</source>
+        <extracomment>You have currently activated &lt;number&gt; of &lt;number&gt; robots</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="54"/>
+        <source>Your list of activated robots is full. You must remove one or more robots in order to activate new ones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="57"/>
+        <source>Click confirm to add </source>
+        <extracomment>Click confirm to add &lt;robot name&gt; to the list of activated robots</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="59"/>
+        <source> to the list of activated robots</source>
+        <extracomment>Click confirm to add &lt;robot name&gt; to the list of activated robots</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="80"/>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="90"/>
+        <source>This robot has been activated for robot code export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="92"/>
+        <source>It can be removed from the list of activated robots in:</source>
+        <extracomment>e.g: It can be removed from the list of activated robots in: 2 months 3 days</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="99"/>
+        <source>Activated date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="106"/>
+        <source>Unlocked date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="216"/>
+        <source>Activation info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="216"/>
+        <source>Activate robot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/RobotEditor.qml" line="236"/>
+        <source>Import</source>
+        <translation type="unfinished">Import</translation>
+    </message>
+</context>
+<context>
+    <name>RobotListModel</name>
+    <message>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="331"/>
+        <source>An error occurred when fetching robot list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="850"/>
+        <source>was successfully removed from the list of activated robots</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="910"/>
+        <source>was successfully added to the list of activated robots</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4912,24 +5255,19 @@ Bare UTF-8-kodede filer støttes</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="19"/>
-        <source>Rotary Table Editor</source>
+        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="46"/>
+        <source>Rotary Tables</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="23"/>
-        <source>Rotary Table is incompatible with Stationary Tool</source>
+        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="31"/>
+        <source>Rotary table is incompatible with stationary tool</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="37"/>
-        <source>Select Rotary Table</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="41"/>
-        <source>Import Urdf</source>
-        <extracomment>URDF: Unified Robot Description Format (https://en.wikipedia.org/wiki/URDF)</extracomment>
-        <translation type="unfinished"></translation>
+        <location filename="../../IrbcamQml/Sidebar/RotaryTableEditor.qml" line="57"/>
+        <source>Import</source>
+        <translation type="unfinished">Import</translation>
     </message>
 </context>
 <context>
@@ -4990,6 +5328,14 @@ Klikk igjen for å skrive over</translation>
     </message>
 </context>
 <context>
+    <name>SearchBox</name>
+    <message>
+        <location filename="../../IrbcamQml/Controls/SearchBox.qml" line="80"/>
+        <source>Search</source>
+        <translation type="unfinished">Søk</translation>
+    </message>
+</context>
+<context>
     <name>SettingsInterface</name>
     <message>
         <location filename="../../../backend/src/settingsinterface.cpp" line="115"/>
@@ -5002,17 +5348,17 @@ Klikk igjen for å skrive over</translation>
         <translation>Skiftet språk</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="251"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="253"/>
         <source>Failed to save settings for</source>
         <translation>Kunne ikke lagre innstillinger for</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="256"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="258"/>
         <source>Settings for</source>
         <translation>Innstillinger for</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="256"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="258"/>
         <source>saved</source>
         <translation>lagret</translation>
     </message>
@@ -5020,24 +5366,51 @@ Klikk igjen for å skrive over</translation>
 <context>
     <name>Sidebar</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="111"/>
         <source>Back</source>
-        <translation>Tilbake</translation>
+        <translation type="vanished">Tilbake</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="111"/>
         <source>Close</source>
-        <translation>Lukk</translation>
+        <translation type="vanished">Lukk</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="168"/>
         <source>Finish</source>
-        <translation>Avslutt</translation>
+        <translation type="vanished">Avslutt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Sidebar.qml" line="173"/>
         <source>Next</source>
-        <translation>Neste</translation>
+        <translation type="vanished">Neste</translation>
+    </message>
+</context>
+<context>
+    <name>SidebarItem</name>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/SidebarItem.qml" line="54"/>
+        <source>Back</source>
+        <translation type="unfinished">Tilbake</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/SidebarItem.qml" line="54"/>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/SidebarItem.qml" line="81"/>
+        <source>Next</source>
+        <translation type="unfinished">Neste</translation>
+    </message>
+</context>
+<context>
+    <name>SimpleListModel</name>
+    <message>
+        <location filename="../../../backend/src/simplelistmodel.cpp" line="6"/>
+        <source>User Created</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/simplelistmodel.cpp" line="174"/>
+        <source>An error occurred when fetching list</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5048,7 +5421,7 @@ Klikk igjen for å skrive over</translation>
         <translation>Stasjonsinfo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="46"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="48"/>
         <source>Robot: </source>
         <translation>Robot: </translation>
     </message>
@@ -5058,109 +5431,109 @@ Klikk igjen for å skrive over</translation>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="49"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="51"/>
         <source>No robot selected</source>
         <translation>Ingen robot valgt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="53"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="55"/>
         <source>Tool: </source>
         <translation>Verktøy: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="56"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="58"/>
         <source>No tool selected</source>
         <translation>Ingen verktøy valgt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="56"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="58"/>
         <source>Stationary tool</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="56"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="58"/>
         <source>Robot holds the tool</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="60"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="62"/>
         <source>Geometry: </source>
         <translation>Geometri: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="60"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="62"/>
         <source>Geometries: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="66"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="68"/>
         <source>No geometry selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="80"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="82"/>
         <source>Linear track: </source>
         <translation>Lineær bane: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="83"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="85"/>
         <source>No linear track selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="87"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="89"/>
         <source>Rotary Table: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="90"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="92"/>
         <source>No rotary table selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="94"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="96"/>
         <source>APT/CSV/JSON: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="97"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="99"/>
         <source>No path imported</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="101"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="103"/>
         <source>Targets: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="126"/>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="133"/>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="140"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="128"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="135"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="142"/>
         <source>No</source>
         <translation>Nei</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="161"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="163"/>
         <source>Rotatry Table Mode: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="170"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="172"/>
         <source>Rotatry Table Angle: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="179"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="181"/>
         <source>Linear Track Mode: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="188"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="190"/>
         <source>Linear Track Offset: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="199"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="201"/>
         <source>mm</source>
         <extracomment>mm - millimeters</extracomment>
         <translation type="unfinished">mm</translation>
@@ -5178,7 +5551,7 @@ Klikk igjen for å skrive over</translation>
         <translation type="vanished">APT: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="116"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="118"/>
         <source>Status: </source>
         <translation>Status: </translation>
     </message>
@@ -5187,22 +5560,22 @@ Klikk igjen for å skrive over</translation>
         <translation type="vanished">Ikke tilgjengelig</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="31"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="33"/>
         <source>Station</source>
         <translation>Stasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="39"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="41"/>
         <source>Name: </source>
         <translation>Navn: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="109"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="111"/>
         <source>Configuration</source>
         <translation>Konfigurasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="152"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="154"/>
         <source>Tool roll angle: </source>
         <translation>Verktøyrullvinkel: </translation>
     </message>
@@ -5211,29 +5584,29 @@ Klikk igjen for å skrive over</translation>
         <translation type="vanished">°</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="144"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="146"/>
         <source>Tool roll mode: </source>
         <translation>Verktøyrullmodus: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="123"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="125"/>
         <source>Bending backwards: </source>
         <translation>Bøye bakover: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="126"/>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="133"/>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="140"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="128"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="135"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="142"/>
         <source>Yes</source>
         <translation>Ja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="130"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="132"/>
         <source>Elbow down: </source>
         <translation>Albue ned: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="137"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="139"/>
         <source>Wrist down: </source>
         <translation>Håndledd ned: </translation>
     </message>
@@ -5291,156 +5664,152 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Bane importert fra JSON</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="286"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="317"/>
         <source>Failed to confirm that the station was saved to the server (the station may or may not have been saved)</source>
         <translation>Kunne ikke bekrefte at stasjonen ble lagret på serveren (stasjonen kan ha blitt lagret eller ikke)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="311"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="496"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1245"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="351"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="556"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1336"/>
         <source>Station</source>
         <translation>Stasjon</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="311"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="351"/>
         <source>saved</source>
         <translation>lagret</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="392"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="443"/>
         <source>Failed to download station from server</source>
         <translation>Kunne ikke laste ned stasjonen fra serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="440"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="496"/>
         <source>Station cleared</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="471"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="531"/>
         <source>Failed to confirm that the station was deleted from the server (the station may or may not have been deleted)</source>
         <translation>Kunne ikke bekrefte at stasjonen ble slettet fra serveren (stasjonen kan ha blitt slettet)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="496"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="556"/>
         <source>was deleted from the server</source>
         <translation>ble slettet fra serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="516"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="580"/>
         <source>File</source>
         <translation>Fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="546"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="610"/>
         <source>Maximum APT file size</source>
         <translation>Maksimal APT-filstørrelse</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="546"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="610"/>
         <source>exceeded. Current file size (after compression): </source>
         <translation>overskredet. Gjeldende filstørrelse (etter komprimering): </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="547"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="611"/>
         <source>Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <translation>Større baner kan importeres ved å dele APT-filen i mindre filer og bruke alternativet &quot;legg til&quot;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="564"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="630"/>
         <source>Failed to start cloud job</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="594"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="660"/>
         <source>Failed to get parsed apt</source>
         <translation>Kunne ikke hente analysert APT</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="564"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="594"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="630"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="660"/>
         <source>from server</source>
         <translation>fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="634"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="700"/>
         <source>Failed to import APT file</source>
         <translation>Kunne ikke importere APT-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="687"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="717"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="759"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="789"/>
         <source>Failed to get robot code from server</source>
         <translation>Kunne ikke hente robotkode fra serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="931"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="992"/>
         <source>Robot</source>
-        <translation>Robot</translation>
+        <translation type="vanished">Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="931"/>
         <source>added to user</source>
-        <translation>lagt til bruker</translation>
+        <translation type="vanished">lagt til bruker</translation>
     </message>
     <message>
         <source>Failed to confirm that the user-robot relation was deleted from the server (the user-robot relation may or may not have been deleted)</source>
         <translation type="vanished">Kunne ikke bekrefte at bruker-robot-relasjonen ble slettet fra serveren (relasjonen kan ha blitt slettet)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="992"/>
         <source>was removed from user-robot relation in the server</source>
-        <translation>ble fjernet fra bruker-robot-relasjonen i serveren</translation>
+        <translation type="vanished">ble fjernet fra bruker-robot-relasjonen i serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1029"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1048"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1120"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1139"/>
         <source>Failed to recover saved station</source>
         <translation>Kunne ikke gjenopprette lagret stasjon</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1068"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1159"/>
         <source>Missing</source>
         <translation>Mangler</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1068"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1159"/>
         <source>info in station retrieved from server</source>
         <translation>Info i stasjonen hentet fra serveren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1074"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1165"/>
         <source>Station was loaded but</source>
         <translation>Stasjonen ble lastet, men</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1074"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1165"/>
         <source>data was corrupt or missing</source>
         <translation>data var korrupt eller manglet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1087"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1093"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1178"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1184"/>
         <source>robot</source>
         <translation>robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1101"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1107"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1192"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1198"/>
         <source>tool</source>
         <translation>verktøy</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1115"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1121"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1206"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1212"/>
         <source>turntable</source>
         <translation>rotasjonsbord</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1131"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1137"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1222"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1228"/>
         <source>linear track</source>
         <translation>lineærbane</translation>
     </message>
@@ -5449,9 +5818,9 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Mangler robot info i stasjon hentet fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1069"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1075"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1161"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1160"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1166"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1252"/>
         <source>This may be due to the save coming from an older version of IRBCAM</source>
         <translation>Dette kan være fordi den ble lagret med en eldre versjon av IRBCAM</translation>
     </message>
@@ -5460,22 +5829,22 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Mangler verktøy info i stasjon hentet fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1149"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1240"/>
         <source>Missing station info in station retrieved from server</source>
         <translation>Manglende stasjonsinformasjon i stasjonen hentet fra server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1160"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1251"/>
         <source>Station was loaded with missing info</source>
         <translation>Stasjonen ble lastet med manglende info</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1166"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1257"/>
         <source>Failed to load station data</source>
         <translation>Kunne ikke laste stasjonsdata</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1245"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1336"/>
         <source>loaded</source>
         <translation>lastet</translation>
     </message>
@@ -5484,7 +5853,7 @@ Bare UTF-8-kodede filer støttes</translation>
         <translation type="vanished">Kunne ikke importere APT-fil: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="639"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="705"/>
         <source>Path imported from APT</source>
         <translation>Bane importert fra APT</translation>
     </message>
@@ -5517,8 +5886,8 @@ This may be due to the save coming from an older version</source>
 Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1182"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1196"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1273"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1287"/>
         <source>Path information missing from saved station</source>
         <translation>Baneinformasjon mangler fra lagret stasjon</translation>
     </message>
@@ -5531,12 +5900,12 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
         <translation type="vanished"> lagret</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1278"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1369"/>
         <source>Autosave</source>
         <translation>Autolagring</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1280"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1371"/>
         <source>unnamed</source>
         <translation>ikke navngitt</translation>
     </message>
@@ -5599,12 +5968,12 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
         <translation>Veiviser ny stasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationWizard.qml" line="14"/>
+        <location filename="../../IrbcamQml/Popups/StationWizard.qml" line="16"/>
         <source>The New Station Wizard will guide you through the setup of a new station</source>
         <translation>Veiviser ny stasjon vil lede deg gjennom oppsett av en ny stasjon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationWizard.qml" line="18"/>
+        <location filename="../../IrbcamQml/Popups/StationWizard.qml" line="20"/>
         <source>Press &apos;Next&apos; to start the wizard</source>
         <translation>Trykk &apos;Neste&apos; for å starte veiviser</translation>
     </message>
@@ -5612,17 +5981,17 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
 <context>
     <name>TargetDelegate</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="192"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="191"/>
         <source>Velocity change</source>
         <translation>Hastighetsendring</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="210"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="209"/>
         <source>Tool change</source>
         <translation>Verktøyskifte</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="228"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="227"/>
         <source>Spindle speed change</source>
         <translation>Spindelhastighetsendring</translation>
     </message>
@@ -5747,58 +6116,152 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
         <translation type="vanished">Velg verktøy</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="26"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="101"/>
+        <source>Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="50"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="430"/>
+        <source>Overwrite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="51"/>
+        <source>Are you sure you want to overwrite</source>
+        <translation type="unfinished">Er du sikker på at du vil overskrive</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="110"/>
+        <source>Edit</source>
+        <translation type="unfinished">Rediger</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="124"/>
+        <source>Stationary tool is incompatible with</source>
+        <extracomment>Stationary tool is incompatible with &lt;Rotary Table&gt;&lt;/&gt;&lt;Linear Track&gt;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="126"/>
+        <source>rotary table</source>
+        <extracomment>Stationary tool is incompatible with &lt;Rotary Table&gt;&lt;/&gt;&lt;Linear Track&gt;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="129"/>
+        <source>linear track</source>
+        <extracomment>Stationary tool is incompatible with &lt;Rotary Table&gt;&lt;/&gt;&lt;Linear Track&gt;</extracomment>
+        <translation type="unfinished">lineærbane</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="135"/>
+        <source>Stationary Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="155"/>
+        <source>Move tooltip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="158"/>
+        <source>Move base</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="184"/>
         <source>Generic Tool</source>
-        <translation type="vanished">Generisk Verktøy</translation>
+        <translation>Generisk Verktøy</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="202"/>
         <source>Diameter</source>
-        <translation type="vanished">Diameter</translation>
+        <translation>Diameter</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="206"/>
         <source>Cone length</source>
-        <translation type="vanished">Kjeglelengde</translation>
+        <translation>Kjeglelengde</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="210"/>
         <source>Color</source>
-        <translation type="vanished">Farge</translation>
+        <translation>Farge</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="256"/>
         <source>Select color</source>
-        <translation type="vanished">Velg farge</translation>
+        <translation>Velg farge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="22"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="272"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="430"/>
+        <source>Import</source>
+        <translation type="unfinished">Import</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="285"/>
+        <source>Weight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="321"/>
+        <source>CoG</source>
+        <extracomment>Centre of Gravity</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="375"/>
+        <source>Open file</source>
+        <translation type="unfinished">Åpne fil</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="376"/>
+        <source>Asset files</source>
+        <translation type="unfinished">Ressursfiler</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="385"/>
+        <source>File</source>
+        <translation type="unfinished">Fil</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="391"/>
+        <source>No file selected</source>
+        <translation type="unfinished">Ingen fil valgt</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="408"/>
+        <source>Name</source>
+        <translation type="unfinished">Navn</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="420"/>
+        <source>Name of the custom tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Tool Editor</source>
-        <translation>Verktøy-editor</translation>
+        <translation type="vanished">Verktøy-editor</translation>
     </message>
     <message>
         <source>Tool selection is currently not compatible with Hokarob PKM1</source>
         <translation type="vanished">Verktøyvalg er for øyeblikket ikke kompatibelt med Hokarob PKM1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="45"/>
         <source>Select Tool</source>
-        <translation>Velg verktøy</translation>
+        <translation type="vanished">Velg verktøy</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="48"/>
         <source>Upload Tool</source>
-        <translation>Last opp verktøy</translation>
+        <translation type="vanished">Last opp verktøy</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="77"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="67"/>
         <source>Tool length</source>
         <translation>Verktøylengde</translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="107"/>
-        <source>The tool</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="108"/>
-        <source>looks too large. You may want to scale it down. If the model is using millimeters, you can scale down by 0.001 and upload again.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5809,77 +6272,77 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="42"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="39"/>
         <source>Trace Color</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="50"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="47"/>
         <source>Custom</source>
         <translation type="unfinished">Tilpasset</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="51"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="48"/>
         <source>LightGray</source>
         <translation type="unfinished">Lysegrå</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="52"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="49"/>
         <source>Red</source>
         <translation type="unfinished">Rød</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="53"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="50"/>
         <source>Green</source>
         <translation type="unfinished">Grønn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="54"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="51"/>
         <source>Blue</source>
         <translation type="unfinished">Blå</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="81"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="78"/>
         <source>Color</source>
         <translation type="unfinished">Farge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="83"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="80"/>
         <source>Any valid SVG color name (eg. &apos;blue&apos;) or hex rgb triplet (eg. &apos;#808080&apos;)</source>
         <translation type="unfinished">Ethvert gyldig SVG-fargenavn (f.eks. &apos;blå&apos;) eller hex rgb-triplett (f.eks. &apos;#808080&apos;)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="106"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="103"/>
         <source>Select color</source>
         <translation type="unfinished">Velg farge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="121"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="118"/>
         <source>Trace Width</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="141"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="138"/>
         <source>Trace Length</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="160"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="157"/>
         <source>Enable Tool Trace</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="167"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="164"/>
         <source>Show Targets</source>
         <translation type="unfinished">Vis Punkt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="181"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="178"/>
         <source>Target Size</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="201"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="198"/>
         <source>Targets</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5960,82 +6423,67 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
         <translation type="vanished">Verktøynavn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTool.qml" line="37"/>
         <source>Edit</source>
-        <translation>Rediger</translation>
+        <translation type="vanished">Rediger</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTool.qml" line="48"/>
         <source>Properties</source>
-        <translation>Egenskaper</translation>
+        <translation type="vanished">Egenskaper</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTool.qml" line="56"/>
         <source>Weight [kg]</source>
-        <translation>Vekt [kg]</translation>
+        <translation type="vanished">Vekt [kg]</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/UploadTool.qml" line="150"/>
         <source>Upload</source>
-        <translation>Laste opp</translation>
+        <translation type="vanished">Laste opp</translation>
     </message>
 </context>
 <context>
     <name>UploadToolPopup</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/UploadToolPopup.qml" line="24"/>
         <source>Upload Tool</source>
-        <translation>Laste opp verktøy</translation>
+        <translation type="vanished">Laste opp verktøy</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/UploadToolPopup.qml" line="77"/>
         <source>Warning!</source>
-        <translation>Advarsel!</translation>
+        <translation type="vanished">Advarsel!</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/UploadToolPopup.qml" line="77"/>
         <source>This action will permanently delete tool </source>
-        <translation>Denne handlingen vil slette verktøyet permanent </translation>
+        <translation type="vanished">Denne handlingen vil slette verktøyet permanent </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/UploadToolPopup.qml" line="78"/>
         <source> from the cloud</source>
-        <translation> fra skyen</translation>
+        <translation type="vanished"> fra skyen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/UploadToolPopup.qml" line="90"/>
         <source>Are you sure you want to overwrite tool </source>
-        <translation>Er du sikker på at du vil overskrive verktøyet </translation>
+        <translation type="vanished">Er du sikker på at du vil overskrive verktøyet </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/UploadToolPopup.qml" line="105"/>
         <source>Tool Name</source>
-        <translation>Verktøynavn</translation>
+        <translation type="vanished">Verktøynavn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/UploadToolPopup.qml" line="110"/>
         <source>Last Updated</source>
-        <translation>Sist oppdatert</translation>
+        <translation type="vanished">Sist oppdatert</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/UploadToolPopup.qml" line="126"/>
         <source>Fetching tool list</source>
-        <translation>Henter verktøyliste</translation>
+        <translation type="vanished">Henter verktøyliste</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/UploadToolPopup.qml" line="126"/>
         <source>Uploading tool</source>
-        <translation>Laster opp verktøy</translation>
+        <translation type="vanished">Laster opp verktøy</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/UploadToolPopup.qml" line="242"/>
         <source>Overwrite</source>
-        <translation>Overskrive</translation>
+        <translation type="vanished">Overskrive</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/UploadToolPopup.qml" line="242"/>
         <source>Upload</source>
-        <translation>Laste opp</translation>
+        <translation type="vanished">Laste opp</translation>
     </message>
 </context>
 <context>
@@ -6056,36 +6504,32 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
 <context>
     <name>UrdfImporter</name>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="56"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="90"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="124"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="624"/>
         <source>Failed to upload</source>
         <translation type="unfinished">Kunne ikke laste opp</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="163"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="487"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="828"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="624"/>
+        <source>to server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="60"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="336"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="706"/>
         <source>Failed to build</source>
         <translation type="unfinished">Kunne ikke bygge</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="420"/>
         <source>Failed to upload turntable to server</source>
-        <translation type="unfinished">Kunne ikke laste opp rotasjonsbord til server</translation>
+        <translation type="obsolete">Kunne ikke laste opp rotasjonsbord til server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="761"/>
         <source>Failed to upload robot to server</source>
-        <translation type="unfinished">Kunne ikke laste opp robot til server</translation>
+        <translation type="obsolete">Kunne ikke laste opp robot til server</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="1124"/>
-        <source>Failed to upload linear track to server</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="1223"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="1057"/>
         <source>Failed to get custom3d from server</source>
         <translation type="unfinished">Kunne ikke hente egendefinert 3D-objekt fra server</translation>
     </message>
@@ -6101,53 +6545,53 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
 <context>
     <name>UtilitiesInterface</name>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="253"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="264"/>
         <source>Fixed Angle</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="255"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="266"/>
         <source>Dynamic Angle 1</source>
         <translation type="unfinished">Dynamisk Vinkel 1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="257"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="268"/>
         <source>Dynamic Angle 2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="259"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="270"/>
         <source>No Change</source>
         <translation type="unfinished">Ingen endring</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="263"/>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="283"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="274"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="294"/>
         <source>Unknown</source>
         <translation type="unfinished">Ukjent</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="271"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="282"/>
         <source>Fixed Position</source>
         <translation type="unfinished">Stasjonær posisjon</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="273"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="284"/>
         <source>Dynamic Position</source>
         <translation type="unfinished">Dynamisk posisjon</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="275"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="286"/>
         <source>Positive Only</source>
         <translation type="unfinished">Kun positiv</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="277"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="288"/>
         <source>Negative Only</source>
         <translation type="unfinished">Kun negativ</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="279"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="290"/>
         <source>Batch Mode</source>
         <translation type="unfinished">Batchmodus</translation>
     </message>
@@ -6170,14 +6614,13 @@ Dette kan skyldes at lagringen kommer fra en eldre versjon</translation>
 <context>
     <name>Welcome</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="13"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="11"/>
         <source>Welcome to IRBCAM Beta</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="30"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="24"/>
         <source>
-
 Thank you for joining our journey as we shape the future of IRBCAM! Feel free to look around and test the different features and plugins. We want to test the application thoroughly.
 &lt;br&gt;&lt;br&gt;
 
@@ -6195,18 +6638,17 @@ IRBCAM Beta is updated weekly with bugfixes, performance optimisations and new f
 &lt;br&gt;&lt;br&gt;
 
 &lt;strong&gt;Ready to Dive In?&lt;/strong&gt;&lt;br&gt;
-
 </source>
         <extracomment>This text is formatted based on HTML. Make sure that everything in the &lt;angle brackets&gt; stays the same when translating.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="56"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="48"/>
         <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="65"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="57"/>
         <source>Don&apos;t show again</source>
         <translation type="unfinished"></translation>
     </message>
