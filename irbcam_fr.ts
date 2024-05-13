@@ -2760,6 +2760,45 @@ Please save your work and reload page as soon as possible</source>
     </message>
 </context>
 <context>
+    <name>IrbcamQmlEnums</name>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="358"/>
+        <source>Undefined</source>
+        <extracomment>Collapsible list section. Tool category</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="361"/>
+        <source>Generic</source>
+        <extracomment>Collapsible list section. Tool category</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="364"/>
+        <source>Spindle</source>
+        <extracomment>Collapsible list section. Tool category</extracomment>
+        <translation type="unfinished">Broche</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="367"/>
+        <source>Weldgun</source>
+        <extracomment>Collapsible list section. Tool category</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="370"/>
+        <source>Roller</source>
+        <extracomment>Collapsible list section. Tool category</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="376"/>
+        <source>Unknown (%1)</source>
+        <extracomment>Collapsible list section. %1 = number</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>IrbcamSettings</name>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="23"/>
@@ -2943,13 +2982,13 @@ Please save your work and reload page as soon as possible</source>
 <context>
     <name>ItemListModel</name>
     <message>
-        <location filename="../../../backend/src/itemlistmodel.cpp" line="8"/>
+        <location filename="../../../backend/src/itemlistmodel.cpp" line="11"/>
         <source>User Created</source>
         <extracomment>External name of an Item list model</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/itemlistmodel.cpp" line="131"/>
+        <location filename="../../../backend/src/itemlistmodel.cpp" line="157"/>
         <source>An error occurred when fetching list</source>
         <extracomment>Error message. Referring to fetching items to show in a list (e.g. list of robots)</extracomment>
         <translation type="unfinished"></translation>
