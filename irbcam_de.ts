@@ -872,7 +872,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="vanished">Werkzeug-Rollwinkel (Grad)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="309"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="337"/>
         <source>Rotary Table Angle (deg)</source>
         <extracomment>Label for text field: Starting angle for rotary table</extracomment>
         <translation type="unfinished"></translation>
@@ -883,13 +883,13 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="vanished">Rückwärts beugen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="485"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="513"/>
         <source>Elbow Down</source>
         <extracomment>Checkbox: Select to use solution where the robot&apos;s &quot;elbow&quot; points downwards</extracomment>
         <translation>Ellenbogen nach unten</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="496"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="524"/>
         <source>Wrist Down</source>
         <extracomment>Checkbox: Select to use solution where robot &quot;wrist&quot; points downwards</extracomment>
         <translation>Handgelenk nach unten</translation>
@@ -899,13 +899,13 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="vanished">Große Neuorientierung Ermöglichen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="106"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="108"/>
         <source>Export Robot Code</source>
         <extracomment>Button: Open popup to export robot code</extracomment>
         <translation type="unfinished">Robotercode exportieren</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="108"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="110"/>
         <source>Solve Path</source>
         <extracomment>Button: Attempt to solve path</extracomment>
         <translation type="unfinished"></translation>
@@ -916,20 +916,20 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="vanished">Werkzeugrollenmodus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="183"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="185"/>
         <source>Tool roll mode</source>
         <extracomment>Label for dropdown menu: Select how the tool should rotate about its Z-axis</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="202"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="208"/>
         <source>No Change</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Keine Änderung</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="204"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="283"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="210"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="311"/>
         <source>Fixed Angle</source>
         <extracomment>Dropdown menu item: Select tool roll mode
 ----------
@@ -937,8 +937,8 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Fester Winkel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="206"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="285"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="212"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="313"/>
         <source>Dynamic Angle 1</source>
         <extracomment>Dropdown menu item: Select tool roll mode
 ----------
@@ -946,8 +946,8 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Dynamischer Winkel 1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="208"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="287"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="214"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="315"/>
         <source>Dynamic Angle 2</source>
         <extracomment>Dropdown menu item: Select tool roll mode
 ----------
@@ -955,115 +955,144 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Dynamischer Winkel 2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="210"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="216"/>
         <source>Roller Mode</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="216"/>
         <source>Overwrite path tool roll angle (RZ2) with the selected method</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
-        <translation>Pfadwerkzeugrollwinkel (RZ2) mit der ausgewählten Methode überschreiben</translation>
+        <translation type="vanished">Pfadwerkzeugrollwinkel (RZ2) mit der ausgewählten Methode überschreiben</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="234"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="262"/>
         <source>Tool roll angle (deg)</source>
         <extracomment>Label for text field: Referring to rotation about the tool Z-axis</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="236"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="264"/>
         <source>Set initial tool roll angle</source>
         <extracomment>Tool tip for slider.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="264"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="292"/>
         <source>Rotary table Mode</source>
         <extracomment>Label for a dropdown menu: Select operating mode for rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="294"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="322"/>
         <source>Select motion mode for rotary table</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="311"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="339"/>
         <source>Initial angle for rotary table</source>
         <extracomment>Tool tip for text field</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="343"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="371"/>
         <source>Linear track mode</source>
         <extracomment>Label for dropdown menu: Select operating mode for linear track</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="376"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="404"/>
         <source>Select motion mode for linear track</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="389"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="417"/>
         <source>Batch size</source>
         <extracomment>Label for text field: Referring to size of batches in linear track motion</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="391"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="419"/>
         <source>Size of batch window</source>
         <extracomment>Tool tip for text field.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="434"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="462"/>
         <source>Initial position of linear track</source>
         <extracomment>Tool tip for label.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="436"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="464"/>
         <source>Linear track</source>
         <extracomment>Label for slider: Referring to linear track position: Full sentence: Linear Track (mm) / Linear Track Axis &lt;number&gt; (mm)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="439"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="467"/>
         <source>axis</source>
         <extracomment>Label for slider: Referring to linear track position: Full sentence: Linear Track (mm) / Linear Track Axis &lt;number&gt; (mm)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="361"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="389"/>
         <source>Fixed Position</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="363"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="222"/>
+        <source>Overwrite tool roll angle</source>
+        <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="225"/>
+        <source>values of all targets with the selected method</source>
+        <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="235"/>
+        <source>This configuration will overwrite tool roll angle</source>
+        <extracomment>Content for confirmation popup</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="238"/>
+        <source>values of all targets.</source>
+        <extracomment>Content for confirmation popup</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="242"/>
+        <source>Ok</source>
+        <extracomment>Acknowledge button for confirmation popup</extracomment>
+        <translation type="unfinished">Ok</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="391"/>
         <source>Dynamic Position</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="365"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="393"/>
         <source>Positive Only</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="367"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="395"/>
         <source>Negative Only</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="369"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="397"/>
         <source>Batch Mode</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation type="unfinished"></translation>
@@ -1074,19 +1103,19 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="obsolete">Lineare Bahn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="442"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="470"/>
         <source> (mm)</source>
         <extracomment>Label for slider: Referring to linear track position: Full sentence: Linear Track (mm) / Linear Track Axis &lt;number&gt; (mm)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="474"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="502"/>
         <source>Bending backwards</source>
         <extracomment>Checkbox: Select to use solution where robot bends backwards</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="507"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="535"/>
         <source>Allow Large Reorient</source>
         <extracomment>Checkbox: Select to allow large orientation changes between targets</extracomment>
         <translation>Große Neuausrichtung zulassen</translation>
@@ -1096,7 +1125,7 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="vanished">Konfigurieren</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="133"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="135"/>
         <source>Status: </source>
         <extracomment>Label: Referring to status of solving the path</extracomment>
         <translation>Status: </translation>
@@ -1105,13 +1134,13 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
 <context>
     <name>ConfirmDialog</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ConfirmDialog.qml" line="101"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ConfirmDialog.qml" line="102"/>
         <source>Cancel</source>
         <extracomment>Cancel button</extracomment>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ConfirmDialog.qml" line="111"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ConfirmDialog.qml" line="116"/>
         <source>Confirm</source>
         <extracomment>Confirm button</extracomment>
         <translation>Bestätigen</translation>
