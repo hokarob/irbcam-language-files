@@ -6412,7 +6412,7 @@ Button. Import custom tool</extracomment>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="399"/>
         <source>Asset files</source>
-        <extracomment>File type filter in file browser. Displayed like this: Asset files (*.zip *.obj *.dae *.fbx *.stl *.gltf *.glb)</extracomment>
+        <extracomment>File type filter in file browser. Displayed like this: Asset files (*.zip *.obj *.dae *.fbx *.stl *.gltf *.glb *.wrl)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
