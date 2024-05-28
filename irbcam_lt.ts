@@ -6775,42 +6775,46 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
     <name>Welcome</name>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="11"/>
-        <source>Welcome to IRBCAM Beta</source>
+        <source>Welcome to IRBCAM</source>
         <extracomment>Title</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="24"/>
-        <source>
-Thank you for joining our journey as we shape the future of IRBCAM! Feel free to look around and test the different features and plugins. We want to test the application thoroughly.
+        <source>We’re thrilled to have you on board! Here are a few ways to get the most out of your experience:
 &lt;br&gt;&lt;br&gt;
-
-&lt;strong&gt;Report Bugs and Request Features:&lt;/strong&gt;&lt;br&gt;
-Found something quirky? Have a brilliant idea for a feature? Let us know! Submit feedback in &lt;strong&gt;Help &gt; Feedback.&lt;/strong&gt; Your input drives our development.
+&lt;strong&gt;Need Help?&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Visit Our Forum: Connect with other users, find answers to your questions, and share your experiences. &lt;a href=&quot;https://forum.hokarob.com&quot;&gt;Join the forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email Us: If you need direct support, feel free to reach out at &lt;a href=&quot;mailto:support@irbcam.com&quot;&gt;support@irbcam.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;br&gt;&lt;br&gt;
-
-&lt;strong&gt;Work in Progress:&lt;/strong&gt;&lt;br&gt;
-Keep in mind, IRBCAM is still under construction. You might find glitches in unexpected places, but with your help, we will iron them out.
-Take special care when exporting robot code. We do our best to simulate the behaviour of the different robots, but errors might tag along. Double-check before deploying to your robot.
+&lt;strong&gt;Your Feedback Matters&lt;/strong&gt;&lt;br&gt;
+Report via &lt;strong&gt;Help &gt; Feedback.&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Report Bugs: Help us improve by reporting any issues you encounter.&lt;/li&gt;
+&lt;li&gt;Request Features: Have a great idea? Let us know what features you&apos;d like to see.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;br&gt;&lt;br&gt;
-
-&lt;strong&gt;Stay in the Loop:&lt;/strong&gt;&lt;br&gt;
-IRBCAM Beta is updated weekly with bugfixes, performance optimisations and new features. Join us in &lt;a href=&quot;https://forum.hokarob.com&quot;&gt;our forum&lt;/a&gt; to see the release notes and to stay in touch.
+&lt;strong&gt;Get Involved&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Engage in Our Forum: Share your thoughts, ask questions, and get the latest updates from our community and development team.&lt;/li&gt;
+&lt;li&gt;Stay Updated: Keep an eye on our forum for announcements and updates on new releases and features.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;br&gt;&lt;br&gt;
-
 &lt;strong&gt;Ready to Dive In?&lt;/strong&gt;&lt;br&gt;
-</source>
+Jump in and start exploring the new and improved IRBCAM. We can&apos;t wait to see what you&apos;ll create!</source>
         <extracomment>This text is formatted based on HTML. Make sure that everything in the &lt;angle brackets&gt; stays the same when translating.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="49"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="53"/>
         <source>Close</source>
         <extracomment>Button</extracomment>
         <translation type="unfinished">Uždaryti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="59"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="63"/>
         <source>Don&apos;t show again</source>
         <extracomment>Button</extracomment>
         <translation type="unfinished"></translation>
