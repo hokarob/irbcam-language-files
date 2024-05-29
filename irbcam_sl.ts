@@ -2161,30 +2161,47 @@ Placeholder for when no user frame number is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="215"/>
+        <source>No arcs</source>
+        <extracomment>Checkbox: Select to disable arc moves</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="220"/>
+        <source>Arcs are split into linear moves</source>
+        <extracomment>Tool tip for no arcs checkbox</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="226"/>
+        <source>Gun on/off</source>
+        <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>No Arcs</source>
         <extracomment>Checkbox: Select to disable arc moves</extracomment>
         <translation type="vanished">Brez lokov</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="230"/>
         <source>Gun On/Off</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
-        <translation>Strelivo vklopljeno/izklopljeno</translation>
+        <translation type="vanished">Strelivo vklopljeno/izklopljeno</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="244"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="240"/>
         <source>File: </source>
         <extracomment>Shorthand for file name</extracomment>
         <translation>Datoteka: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="251"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="247"/>
         <source>No file selected</source>
         <extracomment>Placeholder file name until a file is selected</extracomment>
         <translation>Nobena datoteka ni izbrana</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="271"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="267"/>
         <source>Import</source>
         <extracomment>Import button</extracomment>
         <translation>Uvozi</translation>
