@@ -563,19 +563,19 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="829"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="842"/>
         <source>Failed to send report</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="840"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="853"/>
         <source>Attachment should be less than</source>
         <extracomment>Error message - Full sentence: Attachment should be less than&lt; size&gt;MB</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="876"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="889"/>
         <source>Report sent</source>
         <extracomment>Status message: Referring to sending a feedback report</extracomment>
         <translation type="unfinished"></translation>
@@ -817,7 +817,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="obsolete">Kot zvijanja orodja (stopinje)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="337"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="336"/>
         <source>Rotary Table Angle (deg)</source>
         <extracomment>Label for text field: Starting angle for rotary table</extracomment>
         <translation type="unfinished"></translation>
@@ -828,13 +828,13 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="obsolete">Upogibanje nazaj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="513"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="512"/>
         <source>Elbow Down</source>
         <extracomment>Checkbox: Select to use solution where the robot&apos;s &quot;elbow&quot; points downwards</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="524"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="523"/>
         <source>Wrist Down</source>
         <extracomment>Checkbox: Select to use solution where robot &quot;wrist&quot; points downwards</extracomment>
         <translation type="unfinished"></translation>
@@ -874,7 +874,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="210"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="311"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="310"/>
         <source>Fixed Angle</source>
         <extracomment>Dropdown menu item: Select tool roll mode
 ----------
@@ -883,7 +883,7 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="212"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="313"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="312"/>
         <source>Dynamic Angle 1</source>
         <extracomment>Dropdown menu item: Select tool roll mode
 ----------
@@ -892,7 +892,7 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="214"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="315"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="314"/>
         <source>Dynamic Angle 2</source>
         <extracomment>Dropdown menu item: Select tool roll mode
 ----------
@@ -924,61 +924,61 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="322"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="321"/>
         <source>Select motion mode for rotary table</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="339"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="338"/>
         <source>Initial angle for rotary table</source>
         <extracomment>Tool tip for text field</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="371"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="370"/>
         <source>Linear track mode</source>
         <extracomment>Label for dropdown menu: Select operating mode for linear track</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="404"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="403"/>
         <source>Select motion mode for linear track</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="417"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="416"/>
         <source>Batch size</source>
         <extracomment>Label for text field: Referring to size of batches in linear track motion</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="419"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="418"/>
         <source>Size of batch window</source>
         <extracomment>Tool tip for text field.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="462"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="461"/>
         <source>Initial position of linear track</source>
         <extracomment>Tool tip for label.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="464"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="463"/>
         <source>Linear track</source>
         <extracomment>Label for slider: Referring to linear track position: Full sentence: Linear Track (mm) / Linear Track Axis &lt;number&gt; (mm)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="467"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="466"/>
         <source>axis</source>
         <extracomment>Label for slider: Referring to linear track position: Full sentence: Linear Track (mm) / Linear Track Axis &lt;number&gt; (mm)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="389"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="388"/>
         <source>Fixed Position</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation type="unfinished"></translation>
@@ -1014,25 +1014,25 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="391"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="390"/>
         <source>Dynamic Position</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="393"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="392"/>
         <source>Positive Only</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="395"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="394"/>
         <source>Negative Only</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="397"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="396"/>
         <source>Batch Mode</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation type="unfinished"></translation>
@@ -1043,19 +1043,19 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="obsolete">Vozna Enota</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="470"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="469"/>
         <source> (mm)</source>
         <extracomment>Label for slider: Referring to linear track position: Full sentence: Linear Track (mm) / Linear Track Axis &lt;number&gt; (mm)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="502"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="501"/>
         <source>Bending backwards</source>
         <extracomment>Checkbox: Select to use solution where robot bends backwards</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="535"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="534"/>
         <source>Allow Large Reorient</source>
         <extracomment>Checkbox: Select to allow large orientation changes between targets</extracomment>
         <translation type="unfinished"></translation>
@@ -2437,43 +2437,43 @@ Button: Referring to overwriting an asset</extracomment>
 <context>
     <name>IrbcamInterfacePublic</name>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="198"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="200"/>
         <source>User Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the user frame</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="204"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="206"/>
         <source>Object Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the object frame</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="210"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="212"/>
         <source>Tooltip Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the tooltip frame. In this context, tooltip means the tip of the tool (not UI element)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="216"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="218"/>
         <source>Stationary Tool Base Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the base frame of the tool</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="228"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="230"/>
         <source>Rotary Table Base Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the rotary table frame</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="234"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="236"/>
         <source>Linear Track Base Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the linear track frame</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="222"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="224"/>
         <source>Robot Base Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the robot frame</extracomment>
         <translation type="unfinished"></translation>
@@ -2601,37 +2601,37 @@ Please save your work and reload page as soon as possible</source>
 <context>
     <name>IrbcamQmlEnums</name>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="358"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="440"/>
         <source>Undefined</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="361"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="443"/>
         <source>Generic</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="364"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="446"/>
         <source>Spindle</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="367"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="449"/>
         <source>Weldgun</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="370"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="452"/>
         <source>Roller</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="376"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="458"/>
         <source>Unknown (%1)</source>
         <extracomment>Collapsible list section. %1 = number</extracomment>
         <translation type="unfinished"></translation>
@@ -3584,13 +3584,13 @@ Button text: Overwrite project</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="262"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="265"/>
         <source>User Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation type="unfinished">Uporabniški Koordinantni Sistem</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="269"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="272"/>
         <source>Object Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation type="unfinished">Koordinatni System Objekta</translation>
@@ -3604,7 +3604,7 @@ Button text: Overwrite project</extracomment>
         <translation type="obsolete">Mehanizem</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="276"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="279"/>
         <source>Robot</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation type="unfinished">Robot</translation>
@@ -3658,7 +3658,7 @@ Button text: Overwrite project</extracomment>
         <translation type="obsolete">Izberi premično mizo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="283"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="286"/>
         <source>Tool</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation type="unfinished">Lega Orodja</translation>
@@ -3858,67 +3858,79 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="218"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="202"/>
+        <source>&amp;Analyze</source>
+        <extracomment>Menu title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="205"/>
+        <source>&amp;Optimizer</source>
+        <extracomment>Menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="221"/>
         <source>&amp;View</source>
         <extracomment>Menu title</extracomment>
         <translation type="unfinished">&amp;Pogled</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="221"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="224"/>
         <source>Station</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished">Postaja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="233"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="236"/>
         <source>2D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="239"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="242"/>
         <source>3D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="255"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="258"/>
         <source>Global</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="290"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="293"/>
         <source>Rotary Table</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="297"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="300"/>
         <source>Target</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="307"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="310"/>
         <source>No plugins are enabled</source>
         <extracomment>Tool tip to explain why plugins are greyed out</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="335"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="338"/>
         <source>This plugin does not have valid source content</source>
         <extracomment>Tool tip to explain why button is greyed out</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="383"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="386"/>
         <source>EULA</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="395"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="398"/>
         <source>Feedback</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
@@ -3932,7 +3944,7 @@ Do you want to continue?</source>
         <translation type="obsolete">Pravokotne Ogledov</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="227"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="230"/>
         <source>Combination View</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished">Kombiniran Pogled</translation>
@@ -3954,7 +3966,7 @@ Do you want to continue?</source>
         <translation type="obsolete">Animiraj Nazaj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="314"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="317"/>
         <source>&amp;Plugins</source>
         <extracomment>Menu title</extracomment>
         <translation type="unfinished">&amp;Vtičniki</translation>
@@ -3968,7 +3980,7 @@ Do you want to continue?</source>
         <translation type="vanished">Ta vstavek ni na voljo: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="377"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="380"/>
         <source>Forum</source>
         <extracomment>Menu item</extracomment>
         <translation>Forum</translation>
@@ -3994,7 +4006,7 @@ Do you want to continue?</source>
         <translation type="vanished">Nastavitve vstavkov</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="364"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="367"/>
         <source>&amp;Help</source>
         <extracomment>Menu title</extracomment>
         <translation type="unfinished">&amp;Pomoč</translation>
@@ -4004,7 +4016,7 @@ Do you want to continue?</source>
         <translation type="obsolete">3D Navigacija</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="250"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="253"/>
         <source>Coordinate Systems</source>
         <extracomment>Menu title</extracomment>
         <translation type="unfinished">Koordinatni Sistemi</translation>
@@ -4018,7 +4030,7 @@ Do you want to continue?</source>
         <translation type="obsolete">Jezik / Enote</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="389"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="392"/>
         <source>About IRBCAM</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished">O IRBCAM</translation>
@@ -4224,6 +4236,381 @@ Do you want to continue?</source>
         <source>Object Frame</source>
         <extracomment>Title</extracomment>
         <translation type="unfinished">Koordinatni System Objekta</translation>
+    </message>
+</context>
+<context>
+    <name>OptimizationConstraints</name>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="34"/>
+        <source>Bending Backwards</source>
+        <extracomment>Checkbox: Select to use solution where robot bends backwards</extracomment>
+        <translation type="unfinished">Upogibanje nazaj</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="52"/>
+        <source>Elbow Down</source>
+        <extracomment>Checkbox: Select to use solution where the robot&apos;s &quot;elbow&quot; points downwards</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="70"/>
+        <source>Wrist Down</source>
+        <extracomment>Checkbox: Select to use solution where robot &quot;wrist&quot; points downwards</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="88"/>
+        <source>Allow Large Reorient</source>
+        <extracomment>Checkbox: Select to allow large orientation changes between targets</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="101"/>
+        <source>Tool Roll Mode</source>
+        <extracomment>Label for dropdown menu: Select how the tool should rotate about its Z-axis</extracomment>
+        <translation type="unfinished">Način zvijanja orodja</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="121"/>
+        <source>No Change</source>
+        <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="123"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="170"/>
+        <source>Fixed Angle</source>
+        <extracomment>Dropdown menu item: Select tool roll mode
+----------
+Dropdown menu item: Select operating mode for rotary table</extracomment>
+        <translation type="unfinished">Fiksni kot</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="125"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="172"/>
+        <source>Dynamic Angle 1</source>
+        <extracomment>Dropdown menu item: Select tool roll mode
+----------
+Dropdown menu item: Select operating mode for rotary table</extracomment>
+        <translation type="unfinished">Dinamični kot 1</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="127"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="174"/>
+        <source>Dynamic Angle 2</source>
+        <extracomment>Dropdown menu item: Select tool roll mode
+----------
+Dropdown menu item: Select operating mode for rotary table</extracomment>
+        <translation type="unfinished">Dinamični kot 2</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="129"/>
+        <source>Roller Mode</source>
+        <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="149"/>
+        <source>Rotary Table Mode</source>
+        <extracomment>Label for a dropdown menu: Select operating mode for rotary table</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="195"/>
+        <source>Linear Track Mode</source>
+        <extracomment>Label for dropdown menu: Select operating mode for linear track</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="213"/>
+        <source>Fixed Position</source>
+        <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="215"/>
+        <source>Dynamic Position</source>
+        <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="217"/>
+        <source>Positive Only</source>
+        <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="219"/>
+        <source>Negative Only</source>
+        <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="221"/>
+        <source>Batch Mode</source>
+        <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptimizationInParamsEditor</name>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="47"/>
+        <source>Object Frame X</source>
+        <extracomment>Collapsible section: Optimization options for object frame position x-axis</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="49"/>
+        <source>Object Frame Y</source>
+        <extracomment>Collapsible section: Optimization options for object frame position y-axis</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="51"/>
+        <source>Object Frame RotZ</source>
+        <extracomment>Collapsible section: Optimization options for object frame rotation z-axis</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="53"/>
+        <source>Tool Roll Angle</source>
+        <extracomment>Collapsible section: Optimization options for tool roll angle</extracomment>
+        <translation type="unfinished">Kot Orodja - Roll</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="55"/>
+        <source>Rotary Axis Angle</source>
+        <extracomment>Collapsible section: Optimization options for rotary axis angle</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="57"/>
+        <source>Linear Track Offset</source>
+        <extracomment>Collapsible section: Optimization options for linear track offset</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="71"/>
+        <source>Min-max (°)</source>
+        <extracomment>Label for a number input field</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="73"/>
+        <source>Min-max (mm)</source>
+        <extracomment>Label for a number input field</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="120"/>
+        <source>Steps</source>
+        <extracomment>Label for text field. Type in number of steps the optimiser should divide the job into</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="144"/>
+        <source>%1mm</source>
+        <extracomment>shorthand for millimeters</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptimizationInterface</name>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="178"/>
+        <source>Failed to run optimization</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="185"/>
+        <source>Empty optimization parameter</source>
+        <extracomment>Error message. No parameters has been selected to optimise</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="198"/>
+        <source>Failed to optimize</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="203"/>
+        <source>Failed to find any solution</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="209"/>
+        <source>Optimized successfully</source>
+        <extracomment>Info message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="244"/>
+        <source>Values copied to project</source>
+        <extracomment>Info message. Means that the values in the optimiser has been transferred to the project</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptimizationResults</name>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="68"/>
+        <source>Object Frame X</source>
+        <extracomment>Axis label for plotting</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="72"/>
+        <source>Object Frame Y</source>
+        <extracomment>Axis label for plotting</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="76"/>
+        <source>Object Frame RotZ</source>
+        <extracomment>Axis label for plotting</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="80"/>
+        <source>Tool Roll Angle</source>
+        <extracomment>Axis label for plotting</extracomment>
+        <translation type="unfinished">Kot Orodja - Roll</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="84"/>
+        <source>Rotary Axis Angle</source>
+        <extracomment>Axis label for plotting</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="88"/>
+        <source>Linear Track Offset</source>
+        <extracomment>Axis label for plotting</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="100"/>
+        <source>OFX</source>
+        <extracomment>Shorthand for: Object Frame X</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="104"/>
+        <source>OFY</source>
+        <extracomment>Shorthand for: Object Frame Y</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="108"/>
+        <source>OFRZ</source>
+        <extracomment>Shorthand for: Object Frame RotZ</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="112"/>
+        <source>TRA</source>
+        <extracomment>Shorthand for: Tool Roll Angle</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="116"/>
+        <source>RAA</source>
+        <extracomment>Shorthand for: Rotary Axis Angle</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="120"/>
+        <source>LTO</source>
+        <extracomment>Shorthand for: Linear Track Offset</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="327"/>
+        <source>Copy to project</source>
+        <extracomment>Button. Transfer optimised values to project</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>OptimizationTypeSelector</name>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="24"/>
+        <source>Object frame X</source>
+        <extracomment>Checkbox. Select to optimise this parameter</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="35"/>
+        <source>Object frame Y</source>
+        <extracomment>Checkbox. Select to optimise this parameter</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="46"/>
+        <source>Object frame RotZ</source>
+        <extracomment>Checkbox. Select to optimise this parameter</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="60"/>
+        <source>Tool roll angle</source>
+        <extracomment>Checkbox. Select to optimise this parameter</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="72"/>
+        <source>Rotary axis angle</source>
+        <extracomment>Checkbox. Select to optimise this parameter</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="84"/>
+        <source>Linear track offset</source>
+        <extracomment>Checkbox. Select to optimise this parameter</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Optimizer</name>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="22"/>
+        <source>Parameter Optimizer</source>
+        <extracomment>Title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="28"/>
+        <source>Warning</source>
+        <extracomment>Confirmation popup title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="30"/>
+        <source>The current configuration will attempt to solve the path %1 times. This might take a while, and the user interface will be unresponsive while the optimization is running. Do you want to continue?</source>
+        <extracomment>Confirmation popup body. %1 = number of attempted solves</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="42"/>
+        <source>Optimization Parameters (max 3)</source>
+        <extracomment>Section title. Section contains a number of checkboxes for different parameters</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="83"/>
+        <source>Optimization Constraints</source>
+        <extracomment>Section title. Section contains a number of checkboxes for different parameters</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="102"/>
+        <source>Optimize</source>
+        <extracomment>Button. Starts the optimizer</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5348,7 +5735,7 @@ Za prepis znova kliknite</translation>
 <context>
     <name>ScatterPlot2D</name>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="129"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="130"/>
         <source>Unknown</source>
         <extracomment>Axis name if it is unknown</extracomment>
         <translation type="unfinished">Neznano</translation>
@@ -6683,32 +7070,32 @@ Error message. %1 = name</extracomment>
 <context>
     <name>UtilitiesInterface</name>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="265"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="325"/>
         <source>Fixed Angle</source>
         <extracomment>Dropdown menu item. Select tool roll mode when solving path</extracomment>
         <translation type="unfinished">Fiksni kot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="268"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="328"/>
         <source>Dynamic Angle 1</source>
         <extracomment>Dropdown menu item. Select tool roll mode when solving path</extracomment>
         <translation type="unfinished">Dinamični kot 1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="271"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="331"/>
         <source>Dynamic Angle 2</source>
         <extracomment>Dropdown menu item. Select tool roll mode when solving path</extracomment>
         <translation type="unfinished">Dinamični kot 2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="274"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="334"/>
         <source>No Change</source>
         <extracomment>Dropdown menu item. Select tool roll mode when solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="279"/>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="305"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="339"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="365"/>
         <source>Unknown</source>
         <extracomment>Dropdown menu item. Select tool roll mode when solving path
 ----------
@@ -6716,31 +7103,31 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation type="unfinished">Neznano</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="288"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="348"/>
         <source>Fixed Position</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="291"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="351"/>
         <source>Dynamic Position</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="294"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="354"/>
         <source>Positive Only</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="297"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="357"/>
         <source>Negative Only</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="300"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="360"/>
         <source>Batch Mode</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation type="unfinished"></translation>
