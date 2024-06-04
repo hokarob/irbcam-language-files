@@ -3015,34 +3015,59 @@ Denne handlingen vil permanent slette %1 fra skyen</translation>
 <context>
     <name>OptimizationConstraints</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="34"/>
         <source>Bending Backwards</source>
         <extracomment>Checkbox: Select to use solution where robot bends backwards</extracomment>
-        <translation>Bakovervendt</translation>
+        <translation type="vanished">Bakovervendt</translation>
+    </message>
+    <message>
+        <source>Elbow Down</source>
+        <extracomment>Checkbox: Select to use solution where the robot&apos;s &quot;elbow&quot; points downwards</extracomment>
+        <translation type="vanished">Nedbøyd albue</translation>
+    </message>
+    <message>
+        <source>Wrist Down</source>
+        <extracomment>Checkbox: Select to use solution where robot &quot;wrist&quot; points downwards</extracomment>
+        <translation type="vanished">Nedovervendt håndledd</translation>
+    </message>
+    <message>
+        <source>Allow Large Reorient</source>
+        <extracomment>Checkbox: Select to allow large orientation changes between targets</extracomment>
+        <translation type="vanished">Tillat store reorienteringer</translation>
+    </message>
+    <message>
+        <source>Tool Roll Mode</source>
+        <extracomment>Label for dropdown menu: Select how the tool should rotate about its Z-axis</extracomment>
+        <translation type="vanished">Verktøyrulling</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="34"/>
+        <source>Bending backwards</source>
+        <extracomment>Checkbox: Select to use solution where robot bends backwards</extracomment>
+        <translation type="unfinished">Bakoverbøyd</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="52"/>
-        <source>Elbow Down</source>
+        <source>Elbow down</source>
         <extracomment>Checkbox: Select to use solution where the robot&apos;s &quot;elbow&quot; points downwards</extracomment>
-        <translation>Nedbøyd albue</translation>
+        <translation type="unfinished">Nedbøyd albue</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="70"/>
-        <source>Wrist Down</source>
+        <source>Wrist down</source>
         <extracomment>Checkbox: Select to use solution where robot &quot;wrist&quot; points downwards</extracomment>
-        <translation>Nedovervendt håndledd</translation>
+        <translation type="unfinished">Nedovervendt håndledd</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="88"/>
-        <source>Allow Large Reorient</source>
+        <source>Allow large reorient</source>
         <extracomment>Checkbox: Select to allow large orientation changes between targets</extracomment>
-        <translation>Tillat store reorienteringer</translation>
+        <translation type="unfinished">Tillat store reorienteringer</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="101"/>
-        <source>Tool Roll Mode</source>
+        <source>Tool roll mode</source>
         <extracomment>Label for dropdown menu: Select how the tool should rotate about its Z-axis</extracomment>
-        <translation>Verktøyrulling</translation>
+        <translation type="unfinished">Verktøyrulling</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="121"/>
@@ -3085,15 +3110,25 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="149"/>
-        <source>Rotary Table Mode</source>
+        <source>Rotary table mode</source>
         <extracomment>Label for a dropdown menu: Select operating mode for rotary table</extracomment>
-        <translation>Rotasjonsbordmodus</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="195"/>
+        <source>Linear track mode</source>
+        <extracomment>Label for dropdown menu: Select operating mode for linear track</extracomment>
+        <translation type="unfinished">Lineærbanemodus</translation>
+    </message>
+    <message>
+        <source>Rotary Table Mode</source>
+        <extracomment>Label for a dropdown menu: Select operating mode for rotary table</extracomment>
+        <translation type="vanished">Rotasjonsbordmodus</translation>
+    </message>
+    <message>
         <source>Linear Track Mode</source>
         <extracomment>Label for dropdown menu: Select operating mode for linear track</extracomment>
-        <translation>Lineærbanemodus</translation>
+        <translation type="vanished">Lineærbanemodus</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="213"/>

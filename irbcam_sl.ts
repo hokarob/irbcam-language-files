@@ -4194,34 +4194,44 @@ This action will permanently delete %1 from the cloud</source>
 <context>
     <name>OptimizationConstraints</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="34"/>
         <source>Bending Backwards</source>
         <extracomment>Checkbox: Select to use solution where robot bends backwards</extracomment>
-        <translation type="unfinished">Upogibanje nazaj</translation>
+        <translation type="obsolete">Upogibanje nazaj</translation>
+    </message>
+    <message>
+        <source>Tool Roll Mode</source>
+        <extracomment>Label for dropdown menu: Select how the tool should rotate about its Z-axis</extracomment>
+        <translation type="obsolete">Način zvijanja orodja</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="34"/>
+        <source>Bending backwards</source>
+        <extracomment>Checkbox: Select to use solution where robot bends backwards</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="52"/>
-        <source>Elbow Down</source>
+        <source>Elbow down</source>
         <extracomment>Checkbox: Select to use solution where the robot&apos;s &quot;elbow&quot; points downwards</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="70"/>
-        <source>Wrist Down</source>
+        <source>Wrist down</source>
         <extracomment>Checkbox: Select to use solution where robot &quot;wrist&quot; points downwards</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="88"/>
-        <source>Allow Large Reorient</source>
+        <source>Allow large reorient</source>
         <extracomment>Checkbox: Select to allow large orientation changes between targets</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="101"/>
-        <source>Tool Roll Mode</source>
+        <source>Tool roll mode</source>
         <extracomment>Label for dropdown menu: Select how the tool should rotate about its Z-axis</extracomment>
-        <translation type="unfinished">Način zvijanja orodja</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="121"/>
@@ -4264,13 +4274,13 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="149"/>
-        <source>Rotary Table Mode</source>
+        <source>Rotary table mode</source>
         <extracomment>Label for a dropdown menu: Select operating mode for rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="195"/>
-        <source>Linear Track Mode</source>
+        <source>Linear track mode</source>
         <extracomment>Label for dropdown menu: Select operating mode for linear track</extracomment>
         <translation type="unfinished"></translation>
     </message>
