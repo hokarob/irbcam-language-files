@@ -1420,7 +1420,7 @@ Button text</extracomment>
     <name>Eula</name>
     <message>
         <location filename="../../IrbcamQml/Popups/Eula.qml" line="15"/>
-        <source>End-user License Agreement</source>
+        <source>IRBCAM Terms of Service</source>
         <extracomment>Title</extracomment>
         <translation type="unfinished"></translation>
     </message>
@@ -3913,7 +3913,7 @@ Do you want to continue?</source>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="386"/>
-        <source>EULA</source>
+        <source>Terms of Service</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>

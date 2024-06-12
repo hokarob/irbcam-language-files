@@ -1665,10 +1665,15 @@ Button text</extracomment>
 <context>
     <name>Eula</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/Eula.qml" line="15"/>
         <source>End-user License Agreement</source>
         <extracomment>Title</extracomment>
-        <translation>Endbenutzer-Lizenzvereinbarung</translation>
+        <translation type="vanished">Endbenutzer-Lizenzvereinbarung</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Eula.qml" line="15"/>
+        <source>IRBCAM Terms of Service</source>
+        <extracomment>Title</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4207,6 +4212,12 @@ Do you want to continue?</source>
         <translation>Objektkoordinaten</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="386"/>
+        <source>Terms of Service</source>
+        <extracomment>Menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Tool Data</source>
         <translation type="vanished">Werkzeugdaten</translation>
     </message>
@@ -4489,10 +4500,9 @@ Do you want to continue?</source>
         <translation type="vanished">Benutzerhandbuch</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="386"/>
         <source>EULA</source>
         <extracomment>Menu item</extracomment>
-        <translation>EULA</translation>
+        <translation type="vanished">EULA</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="398"/>

@@ -1086,10 +1086,15 @@ Button text</extracomment>
 <context>
     <name>Eula</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/Eula.qml" line="15"/>
         <source>End-user License Agreement</source>
         <extracomment>Title</extracomment>
-        <translation>Sluttbrukeravtale</translation>
+        <translation type="vanished">Sluttbrukeravtale</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Eula.qml" line="15"/>
+        <source>IRBCAM Terms of Service</source>
+        <extracomment>Title</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2823,9 +2828,14 @@ Vil du fortsette?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="386"/>
+        <source>Terms of Service</source>
+        <extracomment>Menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>EULA</source>
         <extracomment>Menu item</extracomment>
-        <translation>EULA</translation>
+        <translation type="vanished">EULA</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="392"/>
