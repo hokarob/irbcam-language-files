@@ -2653,129 +2653,135 @@ Please save your work and reload page as soon as possible</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="94"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="95"/>
+        <source>Show welcome messsage</source>
+        <extracomment>Referring to the welcome popup for new users</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="109"/>
         <source>Auto Save</source>
         <extracomment>Collapsible section: Settings related to auto saving</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="115"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="130"/>
         <source>Auto save interval</source>
         <extracomment>Dropdown menu: Select interval for auto save</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="132"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="147"/>
         <source>5 min</source>
         <extracomment>Dropdown menu item: time interval in minutes</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="137"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="152"/>
         <source>10 min</source>
         <extracomment>Dropdown menu item: time interval in minutes</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="142"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="157"/>
         <source>15 min</source>
         <extracomment>Dropdown menu item: time interval in minutes</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="147"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="162"/>
         <source>30 min</source>
         <extracomment>Dropdown menu item: time interval in minutes</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="167"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="182"/>
         <source>Plugins</source>
         <extracomment>Collapsible section: Settings related to plugins</extracomment>
         <translation type="unfinished">Bővítmények</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="180"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="195"/>
         <source>Station</source>
         <extracomment>Collapsible section: Settings related to station</extracomment>
         <translation type="unfinished">Állomás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="196"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="211"/>
         <source>Simulation Speeds</source>
         <extracomment>Collapsible setcion within station settings: Speed related settings</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="330"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="345"/>
         <source>Set all revolute joints (deg)</source>
         <extracomment>Referring to setting all limit values at once</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="358"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="373"/>
         <source>Set all linear joints (mm)</source>
         <extracomment>Referring to setting all limit values at once</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="393"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="408"/>
         <source>Joint %1 (mm)</source>
         <extracomment>Label for text field. %1 = joint number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="395"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="410"/>
         <source>Joint %1 (°)</source>
         <extracomment>Label for text field. %1 = joint number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="204"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="219"/>
         <source>Rapid speed</source>
         <extracomment>Setting for rapid movement speed</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="101"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="116"/>
         <source>Enable auto save project</source>
         <extracomment>Checkbox: Select to enable auto saving</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="190"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="205"/>
         <source>Changes to station settings are not saved automatically. They are saved in the station and therefore saved and loaded with the project</source>
         <extracomment>Clarification on what station settings are</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="227"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="242"/>
         <source>Cutting speed</source>
         <extracomment>Setting for cutting movement speed</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="250"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="265"/>
         <source>Reorientation speed (deg/s)</source>
         <extracomment>Setting for how fast the robot should rotate the tool of the position is constant</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="275"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="290"/>
         <source>Distance to Joint Limits</source>
         <extracomment>Collapsible setcion within station settings: Reduction of allowed joint space</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="339"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="367"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="354"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="382"/>
         <source>Value</source>
         <extracomment>Placeholder for when no value is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="349"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="377"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="364"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="392"/>
         <source>Set</source>
         <extracomment>Button to set values</extracomment>
         <translation type="unfinished"></translation>
@@ -5040,31 +5046,31 @@ Placeholder text until an icon has been selected</extracomment>
 <context>
     <name>PopupItem</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="56"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="58"/>
         <source>Cancel</source>
         <extracomment>Button text: Cancel operation</extracomment>
         <translation type="unfinished">Mégse</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="58"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="60"/>
         <source>Back</source>
         <extracomment>Button text: Go back to previous page</extracomment>
         <translation type="unfinished">Vissza</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="74"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="76"/>
         <source>Finish</source>
         <extracomment>Button text: Finish operation</extracomment>
         <translation type="unfinished">Befejez</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="76"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="78"/>
         <source>Next</source>
         <extracomment>Button text: Go to next page</extracomment>
         <translation type="unfinished">Következő</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="78"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="80"/>
         <source>Ok</source>
         <extracomment>Button text</extracomment>
         <translation type="unfinished"></translation>
@@ -5907,25 +5913,25 @@ Kattintson újra a felülíráshoz</translation>
         <translation type="vanished">Nyelv lefordítása sikertelen erre</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="131"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="137"/>
         <source>Failed to translate language to %1</source>
         <extracomment>Error message. %1 = language</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="140"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="146"/>
         <source>Language changed</source>
         <extracomment>Status message</extracomment>
         <translation>Nyelv megváltoztatva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="292"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="319"/>
         <source>Failed to save settings for %1</source>
         <extracomment>Error message: %1 = full name (of user)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="298"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="325"/>
         <source>Settings for %1 saved</source>
         <extracomment>Status message. %1 = full name (of user)</extracomment>
         <translation type="unfinished"></translation>
@@ -7114,12 +7120,6 @@ Button. Import custom tool</extracomment>
         <extracomment>Tool tip for label: Station color</extracomment>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/Assets/UiSettings.qml" line="366"/>
-        <source>Show welcome messsage</source>
-        <extracomment>Referring to the welcome popup for new users</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>UploadItem</name>
@@ -7323,50 +7323,85 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
 <context>
     <name>Welcome</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="11"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="95"/>
         <source>Welcome to IRBCAM</source>
         <extracomment>Title</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="24"/>
-        <source>We’re thrilled to have you on board! Here are a few ways to get the most out of your experience:
-&lt;br&gt;&lt;br&gt;
-&lt;strong&gt;Need Help?&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Visit Our Forum: Connect with other users, find answers to your questions, and share your experiences. &lt;a href=&quot;https://forum.hokarob.com&quot;&gt;Join the forum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Email Us: If you need direct support, feel free to reach out at &lt;a href=&quot;mailto:support@irbcam.com&quot;&gt;support@irbcam.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br&gt;&lt;br&gt;
-&lt;strong&gt;Your Feedback Matters&lt;/strong&gt;&lt;br&gt;
-Report via &lt;strong&gt;Help &gt; Feedback.&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Report Bugs: Help us improve by reporting any issues you encounter.&lt;/li&gt;
-&lt;li&gt;Request Features: Have a great idea? Let us know what features you&apos;d like to see.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br&gt;&lt;br&gt;
-&lt;strong&gt;Get Involved&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;Engage in Our Forum: Share your thoughts, ask questions, and get the latest updates from our community and development team.&lt;/li&gt;
-&lt;li&gt;Stay Updated: Keep an eye on our forum for announcements and updates on new releases and features.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br&gt;&lt;br&gt;
-&lt;strong&gt;Ready to Dive In?&lt;/strong&gt;&lt;br&gt;
-Jump in and start exploring the new and improved IRBCAM. We can&apos;t wait to see what you&apos;ll create!</source>
-        <extracomment>This text is formatted based on HTML. Make sure that everything in the &lt;angle brackets&gt; stays the same when translating.</extracomment>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="109"/>
+        <source>Thank you for choosing IRBCAM! We&apos;re thrilled to have you onboard and understand that you are eager to get going. First of all, we have a couple of details to show you. Flip through these cards to get started.</source>
+        <extracomment>Label. This text is for the first page in the welcome popup</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="53"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="115"/>
+        <source>- The IRBCAM team</source>
+        <extracomment>Label. Best regards from us</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="165"/>
+        <source>Make IRBCAM Yours</source>
+        <extracomment>Title. This card contains user interface settings</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="175"/>
+        <source>Need Help?</source>
+        <extracomment>Title. This card contains info on how to get help with IRBCAM</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="183"/>
+        <source>IRBCAM is designed with ease-of-use in focus. However, if you need assistance, we&apos;re here to help. Here are a couple of ways to get support.</source>
+        <extracomment>Label</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="194"/>
+        <source>
+- [Visit our forum](%1): Connect with other users, find answers to your questions, and share your experiences.
+- Email Us: If you need direct support, feel free to reach out at [%2](mailto:%2)</source>
+        <extracomment>Label. This text is written in Markdown format. This means that the syntax of the brackets and parantheses should be the same. %1 = URL to forum. %2 = e-mail address</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="207"/>
+        <source>### Your feedback matters!
+Found a bug or have a great idea for a new feature? Please use the feedback form in **Help &gt; Feedback.**</source>
+        <extracomment>Label. This text is written in Markdown format. Keep the ### for the title and **asterisks for bold text**</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="221"/>
+        <source>Jump in and start exploring the new and improved IRBCAM. We can&apos;t wait to see what you&apos;ll create!</source>
+        <extracomment>Label</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="225"/>
+        <source>Don&apos;t show this again</source>
+        <extracomment>Checkbox. Select to disable the welcome popup</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="247"/>
+        <source>Back</source>
+        <extracomment>Button. Navigate to previous page</extracomment>
+        <translation type="unfinished">Vissza</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="268"/>
+        <source>Next</source>
+        <extracomment>Button. Navigate to next page</extracomment>
+        <translation type="unfinished">Következő</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="270"/>
         <source>Close</source>
-        <extracomment>Button</extracomment>
+        <extracomment>Button. Close popup</extracomment>
         <translation type="unfinished">Bezár</translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="63"/>
-        <source>Don&apos;t show again</source>
-        <extracomment>Button</extracomment>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
