@@ -7125,56 +7125,56 @@ Larger paths can be imported by splitting the APT file into smaller files and us
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="790"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="821"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="791"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="822"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="927"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="947"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="928"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="948"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="968"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="969"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1058"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1059"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="974"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="975"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="988"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="995"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="989"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="996"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1004"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1011"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1005"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1012"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1020"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1027"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1021"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1028"/>
         <source>rotary table</source>
         <extracomment>Attribute: Rotary table
 ----------
@@ -7182,34 +7182,34 @@ Attribute: rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1070"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1071"/>
         <source>Project was loaded with missing info
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1076"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1077"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1093"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1108"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1094"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1109"/>
         <source>Path information missing from saved project</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1156"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1157"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1038"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1045"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1039"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1046"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation type="unfinished"></translation>
@@ -7275,13 +7275,13 @@ Dies könnte auf eine Speicherung aus einer älteren Version zurückzuführen se
         <translation type="vanished"> gespeichert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1191"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1192"/>
         <source>Autosave</source>
         <extracomment>Prefix. This is prepended to autosave project names. Example: Autosave_myproject</extracomment>
         <translation>Automatisch speichern</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1194"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1195"/>
         <source>unnamed</source>
         <extracomment>Placeholder name for project until is has been saved</extracomment>
         <translation>unbenannt</translation>
