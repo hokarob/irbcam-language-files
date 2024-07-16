@@ -1896,7 +1896,13 @@ Placeholder for when no procedure name is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1409"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1384"/>
+        <source>You cannot generate robot code in the trial version of IRBCAM. You can end the trial version and subscribe to the paid version before generating robot code %1 here %2</source>
+        <extracomment>Warns the user that the selected robot must be activated before exporting robot code</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1422"/>
         <source>Generating robot code</source>
         <extracomment>Status message. Shown while waiting for robot code</extracomment>
         <translation type="unfinished"></translation>
@@ -2014,19 +2020,19 @@ Placeholder for when no value is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1411"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1424"/>
         <source>Robot code received. Save to file?</source>
         <extracomment>This question is displayed in a popup after robot code is generated</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1420"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1433"/>
         <source>Cancel</source>
         <extracomment>Cancel button</extracomment>
         <translation type="unfinished">Avbryt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1425"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1438"/>
         <source>Save</source>
         <extracomment>Save button</extracomment>
         <translation type="unfinished">Spara</translation>
@@ -2276,13 +2282,13 @@ Placeholder for when no user frame number is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1392"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1405"/>
         <source>Export</source>
         <extracomment>Button: Click here to export robot code</extracomment>
         <translation>Exportera</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1390"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1403"/>
         <source>Open robot list</source>
         <extracomment>Button: This is shown instead of &quot;Export&quot; if the user has to activate the selected robot</extracomment>
         <translation type="unfinished"></translation>
@@ -2747,37 +2753,37 @@ Placeholder for when no user frame number is entered</extracomment>
         <translation type="vanished">Adjö </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="86"/>
+        <location filename="../../../backend/src/networking.cpp" line="87"/>
         <source>Failed to sign in user %1</source>
         <extracomment>Error message. %1 = user name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="129"/>
+        <location filename="../../../backend/src/networking.cpp" line="130"/>
         <source>Goodbye %1</source>
         <extracomment>Status message shown on logout. %1 = full name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="357"/>
+        <location filename="../../../backend/src/networking.cpp" line="358"/>
         <source>Failed to check for updates</source>
         <extracomment>Warning message: Shown if the client is unable to check for updates</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="766"/>
+        <location filename="../../../backend/src/networking.cpp" line="767"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>okänd användare</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="775"/>
+        <location filename="../../../backend/src/networking.cpp" line="776"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>okänt användarnamn</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="810"/>
+        <location filename="../../../backend/src/networking.cpp" line="819"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -2785,39 +2791,39 @@ The affected settings have been set to their default values</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="838"/>
+        <location filename="../../../backend/src/networking.cpp" line="847"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="820"/>
+        <location filename="../../../backend/src/networking.cpp" line="829"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="828"/>
+        <location filename="../../../backend/src/networking.cpp" line="837"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1062"/>
+        <location filename="../../../backend/src/networking.cpp" line="1071"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1156"/>
+        <location filename="../../../backend/src/networking.cpp" line="1170"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1162"/>
+        <location filename="../../../backend/src/networking.cpp" line="1176"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -2833,7 +2839,7 @@ Please save your work and reload page as soon as possible</source>
         <translation type="vanished">Misslyckades med att läsa in inställningar för </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1182"/>
+        <location filename="../../../backend/src/networking.cpp" line="1196"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
@@ -2847,7 +2853,7 @@ Please save your work and reload page as soon as possible</source>
         <translation type="vanished"> inläst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1021"/>
+        <location filename="../../../backend/src/networking.cpp" line="1030"/>
         <source>A network error occurred</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished">Ett nätverksfel inträffade</translation>
@@ -6009,6 +6015,12 @@ Klicka igen för att skriva över</translation>
         <location filename="../qml/robotViewer/Scene.qml" line="28"/>
         <source></source>
         <translation></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="438"/>
+        <source>IRBCAM Trial Version</source>
+        <extracomment>Text on the floor tiles for trial version</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
