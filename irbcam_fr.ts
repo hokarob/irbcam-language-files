@@ -3599,61 +3599,61 @@ Please save your work and reload page as soon as possible</source>
         <translation type="vanished">Articulation </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="140"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="189"/>
         <source>Robot Joints</source>
         <extracomment>Title. This is the top left drawer in the station view, where the user can see the joint angles</extracomment>
         <translation>Articulations du robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="147"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="196"/>
         <source>No joints to show</source>
         <extracomment>Label. Only visible if no robot, linear track or rotary table is selected</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="164"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="213"/>
         <source>Joint %1</source>
         <extracomment>Slider. %1 = joint number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="171"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="222"/>
         <source> mm</source>
         <extracomment>Postfix for linear track position. Referring to the unit millimetres</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="206"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="269"/>
         <source>Rotary table</source>
         <extracomment>Label: Referring to rotary table angular position</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="208"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="271"/>
         <source>Rotary table axis %1</source>
         <extracomment>Slider: Referring to rotary table angular position if it has multiple axes. %1 = axis number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="226"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="287"/>
         <source>mm</source>
         <extracomment>Postfix: Unit displayed after numeric value. Millimetres</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="231"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="292"/>
         <source>Linear track axis %1</source>
         <extracomment>Slider: Referring to linear track position if it has multiple axes. %1 = axis number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="187"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="245"/>
         <source>Joint 2-3</source>
         <extracomment>Slider: This is specific for the difference between joints 2 and 3</extracomment>
         <translation>Articulation 2-3</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="229"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="290"/>
         <source>Linear track</source>
         <extracomment>Label: Referring to linear track position</extracomment>
         <translation type="unfinished"></translation>
