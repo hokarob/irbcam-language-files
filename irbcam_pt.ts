@@ -412,91 +412,91 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>AssetTreeView</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="61"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="63"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="64"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="66"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="67"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="69"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="70"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="72"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="73"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="75"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="76"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="78"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="79"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="81"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="82"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="84"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="85"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="87"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="88"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="90"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="91"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="93"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="94"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="96"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="97"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="99"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="103"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="105"/>
         <source>Unknown</source>
         <extracomment>Network status: Unknown state</extracomment>
         <translation type="unfinished">Desconhecido</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="277"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="280"/>
         <source>No items in list</source>
         <extracomment>Placeholder for empty list</extracomment>
         <translation type="unfinished"></translation>
@@ -2721,25 +2721,31 @@ Placeholder for when no user frame number is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="358"/>
+        <location filename="../../../backend/src/networking.cpp" line="205"/>
+        <source>Failed to get admin details</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/networking.cpp" line="431"/>
         <source>Failed to check for updates</source>
         <extracomment>Warning message: Shown if the client is unable to check for updates</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="767"/>
+        <location filename="../../../backend/src/networking.cpp" line="840"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>usuário desconhecido</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="776"/>
+        <location filename="../../../backend/src/networking.cpp" line="849"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>nome de usuário desconhecido</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="819"/>
+        <location filename="../../../backend/src/networking.cpp" line="892"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -2747,39 +2753,39 @@ The affected settings have been set to their default values</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="847"/>
+        <location filename="../../../backend/src/networking.cpp" line="920"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="829"/>
+        <location filename="../../../backend/src/networking.cpp" line="902"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="837"/>
+        <location filename="../../../backend/src/networking.cpp" line="910"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1071"/>
+        <location filename="../../../backend/src/networking.cpp" line="1144"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1170"/>
+        <location filename="../../../backend/src/networking.cpp" line="1248"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1176"/>
+        <location filename="../../../backend/src/networking.cpp" line="1254"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -2795,7 +2801,7 @@ Please save your work and reload page as soon as possible</source>
         <translation type="vanished">Falha ao carregar configurações para </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1196"/>
+        <location filename="../../../backend/src/networking.cpp" line="1274"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
@@ -2809,7 +2815,7 @@ Please save your work and reload page as soon as possible</source>
         <translation type="vanished"> carregado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1030"/>
+        <location filename="../../../backend/src/networking.cpp" line="1103"/>
         <source>A network error occurred</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished">Ocorreu um erro de rede</translation>
@@ -3223,81 +3229,93 @@ Collapsible item in tree view. This is the root item, indicating that the list c
         <translation type="obsolete">Desconhecido</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="118"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="144"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="120"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="146"/>
         <source>This action will permanently delete project %1 from the cloud</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="145"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="171"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="147"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="173"/>
         <source>Are you sure you want to overwrite project %1?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="161"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="187"/>
         <source>Ok</source>
         <extracomment>Popup text.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="170"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="196"/>
         <source>This project is read only. You cannot overwrite project %1.</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="333"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="332"/>
+        <source>Share</source>
+        <extracomment>Button text: Share project</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="381"/>
         <source>Save name</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to save</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="365"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="413"/>
         <source>The user has more than the maximum number of saved projects
 Surplus projects must be deleted before saving is allowed</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="368"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="416"/>
         <source>The maximum number of projects for this user has been reached
 One or more projects must be deleted to be able to create new projects</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="370"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="418"/>
         <source>The save name is invalid</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="353"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="401"/>
         <source>Overwrite</source>
         <extracomment>Button text: Overwrite project</extracomment>
         <translation type="unfinished">Sobrescrever</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="38"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="44"/>
         <source>Save Project</source>
         <extracomment>Title</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="40"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="47"/>
+        <source>Share Project</source>
+        <extracomment>Title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="49"/>
         <source>Open Project</source>
         <extracomment>Title</extracomment>
         <translation type="unfinished"></translation>
@@ -3308,19 +3326,19 @@ One or more projects must be deleted to be able to create new projects</source>
         <translation type="obsolete">Excluir</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="210"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="241"/>
         <source>No saved projects</source>
         <extracomment>Placeholder text for an empty list</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="355"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="403"/>
         <source>Save</source>
         <extracomment>Button text: Save project</extracomment>
         <translation type="unfinished">Salvar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="284"/>
+        <location filename="../../IrbcamQml/Popups/LoadStationCloud.qml" line="317"/>
         <source>Open</source>
         <extracomment>Button text: Open project</extracomment>
         <translation type="unfinished"></translation>
@@ -3738,7 +3756,7 @@ One or more projects must be deleted to be able to create new projects</source>
 <context>
     <name>Menus</name>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="60"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="68"/>
         <source>&amp;File</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Arquivo</translation>
@@ -3801,55 +3819,55 @@ One or more projects must be deleted to be able to create new projects</source>
         <translation type="obsolete">Sair (CTRL+Q)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="139"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="148"/>
         <source>&amp;Edit</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Editar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="142"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="151"/>
         <source>&amp;User Frame</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="148"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="157"/>
         <source>&amp;Object Frame</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="154"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="163"/>
         <source>&amp;Robot</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="166"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="175"/>
         <source>&amp;Linear Track</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="178"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="187"/>
         <source>&amp;Additional Objects</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="185"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="194"/>
         <source>Tar&amp;gets</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="285"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="293"/>
         <source>User Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Referêncial do Utilizador</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="292"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="300"/>
         <source>Object Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Referêncial do Objecto</translation>
@@ -3863,7 +3881,7 @@ One or more projects must be deleted to be able to create new projects</source>
         <translation type="vanished">Mecanismo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="299"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="307"/>
         <source>Robot</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation type="unfinished">Robô</translation>
@@ -3917,7 +3935,7 @@ One or more projects must be deleted to be able to create new projects</source>
         <translation type="vanished">Selecionar Tabela Linear</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="306"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="314"/>
         <source>Tool</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation type="unfinished">Ferramentas</translation>
@@ -4011,7 +4029,7 @@ One or more projects must be deleted to be able to create new projects</source>
         <translation type="vanished">R&amp;obô</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="160"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="169"/>
         <source>&amp;Tool</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Ferramenta</translation>
@@ -4025,7 +4043,7 @@ One or more projects must be deleted to be able to create new projects</source>
         <translation type="vanished">Optimizador</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="116"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="124"/>
         <source>&amp;Import Path</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
@@ -4043,7 +4061,7 @@ One or more projects must be deleted to be able to create new projects</source>
         <translation type="vanished">Distância Máxima</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="63"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="71"/>
         <source>&amp;New</source>
         <extracomment>Menu title</extracomment>
         <translation type="unfinished"></translation>
@@ -4077,139 +4095,127 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="68"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="76"/>
         <source>&amp;Empty Project</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="88"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="96"/>
         <source>&amp;Open Project</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="97"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="105"/>
         <source>&amp;Save Project</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="108"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="116"/>
         <source>Save Project &amp;As ...</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="78"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="86"/>
         <source>&amp;Project Wizard</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="125"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="133"/>
         <source>S&amp;ettings</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="132"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="140"/>
         <source>Project &amp;Info</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="172"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="181"/>
         <source>Rotary Ta&amp;ble</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="196"/>
-        <source>&amp;DH Table</source>
-        <extracomment>Menu item</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="203"/>
-        <source>The active subscription does not provide access to this feature.</source>
-        <extracomment>Tool tip to explain why button is greyed out</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="222"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="230"/>
         <source>&amp;Analyze</source>
         <extracomment>Menu title</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="225"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="233"/>
         <source>&amp;Optimizer</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="241"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="249"/>
         <source>&amp;View</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Ver</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="244"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="252"/>
         <source>Station</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished">Estação</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="256"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="264"/>
         <source>2D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="262"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="270"/>
         <source>3D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="278"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="286"/>
         <source>Global</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="313"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="321"/>
         <source>Rotary Table</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="320"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="328"/>
         <source>Target</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="330"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="338"/>
         <source>No plugins are enabled</source>
         <extracomment>Tool tip to explain why plugins are greyed out</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="358"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="366"/>
         <source>This plugin does not have valid source content</source>
         <extracomment>Tool tip to explain why button is greyed out</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="406"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="414"/>
         <source>Terms of Service</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="418"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="426"/>
         <source>Feedback</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
@@ -4223,7 +4229,7 @@ Do you want to continue?</source>
         <translation type="vanished">Projeções Ortogonais</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="250"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="258"/>
         <source>Combination View</source>
         <extracomment>Menu item</extracomment>
         <translation>Projeções Combinada</translation>
@@ -4245,7 +4251,7 @@ Do you want to continue?</source>
         <translation type="vanished">Animar para Trás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="337"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="345"/>
         <source>&amp;Plugins</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Plug-ins</translation>
@@ -4259,7 +4265,7 @@ Do you want to continue?</source>
         <translation type="vanished">Este plugin não está disponível: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="400"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="408"/>
         <source>Forum</source>
         <extracomment>Menu item</extracomment>
         <translation>Fórum</translation>
@@ -4285,7 +4291,7 @@ Do you want to continue?</source>
         <translation type="vanished">Configurações do Plugin</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="387"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="395"/>
         <source>&amp;Help</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Ajuda</translation>
@@ -4295,7 +4301,7 @@ Do you want to continue?</source>
         <translation type="vanished">Navegação 3D</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="273"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="281"/>
         <source>Coordinate Systems</source>
         <extracomment>Menu title</extracomment>
         <translation>Sistemas de Coordenadas</translation>
@@ -4309,10 +4315,25 @@ Do you want to continue?</source>
         <translation type="vanished">Linguagem / Unidades</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="412"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="420"/>
         <source>About IRBCAM</source>
         <extracomment>Menu item</extracomment>
         <translation>Sobre IRBCAM</translation>
+    </message>
+</context>
+<context>
+    <name>MenusAdditional</name>
+    <message>
+        <location filename="../../IrbcamQml/MenusAdditional.qml" line="30"/>
+        <source>&amp;DH Table</source>
+        <extracomment>Menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/MenusAdditional.qml" line="42"/>
+        <source>S&amp;hare Project</source>
+        <extracomment>Menu item</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6054,6 +6075,69 @@ Clique novamente para substituir</translation>
     </message>
 </context>
 <context>
+    <name>ShareStation</name>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="45"/>
+        <source>Uninitialized</source>
+        <extracomment>Network status: Connection is not initialised</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="48"/>
+        <source>Idle</source>
+        <extracomment>Network status: Network is ready for a new connection</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="51"/>
+        <source>Fetching description</source>
+        <extracomment>Network status: Fetching info from server</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="54"/>
+        <source>Sharing</source>
+        <extracomment>Network status: Sharing</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="60"/>
+        <source>Unknown</source>
+        <extracomment>Network status: Unknown state</extracomment>
+        <translation type="unfinished">Desconhecido</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="105"/>
+        <source>Share project %1</source>
+        <extracomment>Full sentence, %1 = name of the project</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="118"/>
+        <source>Allow write access</source>
+        <extracomment>Checkbox text, full sentence</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="138"/>
+        <source>Enter email</source>
+        <extracomment>Placeholder text for an empty textfield: Email</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="156"/>
+        <source>Share</source>
+        <extracomment>Button text: share project</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="165"/>
+        <source>The email is invalid</source>
+        <extracomment>Tool-tip: Explaining why the share button is disabled</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Sidebar</name>
     <message>
         <source>Back</source>
@@ -6469,13 +6553,13 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="636"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="725"/>
         <source>File %1 is empty</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="667"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="756"/>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -6506,86 +6590,98 @@ Larger paths can be imported by splitting the APT file into smaller files and us
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="684"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="677"/>
+        <source>Failed to confirm that the project was shared</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="700"/>
+        <source>Project %1 was shared with %2.</source>
+        <extracomment>Status message: %1= project name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="773"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="713"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="802"/>
         <source>Failed to get parsed APT %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="755"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="844"/>
         <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="766"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="855"/>
         <source>Failed to import APT file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="772"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="861"/>
         <source>Path imported from APT %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="827"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="858"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="916"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="947"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="963"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="983"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1052"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1072"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1004"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1093"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1094"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1183"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1010"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1099"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1024"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1031"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1113"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1120"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1040"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1047"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1129"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1136"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1056"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1063"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1145"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1152"/>
         <source>rotary table</source>
         <extracomment>Attribute: Rotary table
 ----------
@@ -6593,40 +6689,40 @@ Attribute: rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1106"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1195"/>
         <source>Project was loaded with missing info
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1112"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1201"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1129"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1144"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1218"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1233"/>
         <source>Path information missing from saved project</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1162"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1251"/>
         <source>DH Table information missing from saved project</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1209"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1298"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1074"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1081"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1163"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1170"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation type="unfinished"></translation>
