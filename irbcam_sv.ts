@@ -6063,7 +6063,7 @@ Klicka igen för att skriva över</translation>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="438"/>
+        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="443"/>
         <source>IRBCAM Trial Version</source>
         <extracomment>Text on the floor tiles for trial version</extracomment>
         <translation type="unfinished"></translation>
