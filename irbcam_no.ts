@@ -1971,103 +1971,109 @@ Placeholder for when no value is entered</extracomment>
         <translation>Minimum distanse (0.1 - 10 mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="98"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="91"/>
+        <source>Arcs are converted to linear segments for distances smaller than 1 mm</source>
+        <extracomment>Tool tip: Displayed when hovering over minimum distance label</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="101"/>
         <source>Minimum distance</source>
         <extracomment>Placeholder text where users input minimum distance between targets</extracomment>
         <translation>Minimum distanse</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="117"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="120"/>
         <source>Scaling X (0.001 - 10)</source>
         <extracomment>Description for a text field for inputting scaling multiplier</extracomment>
         <translation>Skalering X (0.001 - 10)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="126"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="129"/>
         <source>Scaling X</source>
         <extracomment>Placeholder text where users input scaling multiplier</extracomment>
         <translation>Skalering X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="144"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="147"/>
         <source>Scaling Y (0.001 - 10)</source>
         <extracomment>Description for a text field for inputting scaling multiplier</extracomment>
         <translation>Skalering Y (0.001 - 10)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="153"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="156"/>
         <source>Scaling Y</source>
         <extracomment>Placeholder text where users input scaling multiplier</extracomment>
         <translation>Skalering Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="171"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="174"/>
         <source>Scaling Z (0.001 - 10)</source>
         <extracomment>Description for a text field for inputting scaling multiplier</extracomment>
         <translation>Skalering Z (0.001 - 10)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="180"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="183"/>
         <source>Scaling Z</source>
         <extracomment>Placeholder text where users input scaling multiplier</extracomment>
         <translation>Skalering Z</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="203"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="206"/>
         <source>Append</source>
         <extracomment>Checkbox: Select to append targets to existing path</extracomment>
         <translation>Legg til</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="208"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="211"/>
         <source>Add to existing path instead of replacing</source>
         <extracomment>Tool tip for append checkbox.</extracomment>
         <translation>Legg til eksisterende bane istedenfor å erstatte</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="215"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="218"/>
         <source>Reverse INDIRV</source>
         <extracomment>Checkbox: Select to reverse INDIRV (initial direction vector). This is primarily for Catia users</extracomment>
         <translation>Reverser INDIRV</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="220"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="223"/>
         <source>Reverse direction of vector (Catia)</source>
         <extracomment>Tool tip for Reverse INDIRV checkbox</extracomment>
         <translation>Reverser vektorretning (Catia)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="227"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="230"/>
         <source>No arcs</source>
         <extracomment>Checkbox: Select to disable arc moves</extracomment>
         <translation>Ingen buer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="232"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="235"/>
         <source>Arcs are split into linear moves</source>
         <extracomment>Tool tip for no arcs checkbox</extracomment>
         <translation>Del buer inn i lineære segmenter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="238"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="241"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
         <translation>Pistol av/på</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="254"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="257"/>
         <source>File: </source>
         <extracomment>Shorthand for file name</extracomment>
         <translation>Fil: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="261"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="264"/>
         <source>No file selected</source>
         <extracomment>Placeholder file name until a file is selected</extracomment>
         <translation>Ingen fil valgt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="282"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="285"/>
         <source>Import</source>
         <extracomment>Import button</extracomment>
         <translation>Importer</translation>

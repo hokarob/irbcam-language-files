@@ -688,6 +688,21 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
     </message>
 </context>
 <context>
+    <name>BuyMenu</name>
+    <message>
+        <location filename="../../IrbcamQml/Controls/BuyMenu.qml" line="21"/>
+        <source>Buy or request a 7-day free trial</source>
+        <extracomment>This button opens the subscription page</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/BuyMenu.qml" line="33"/>
+        <source>Opens link in new tab</source>
+        <extracomment>Tool tip</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CloudMenu</name>
     <message>
         <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="14"/>
@@ -1868,13 +1883,13 @@ Placeholder for when no user frame number is entered</extracomment>
 <context>
     <name>ImportApt</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="126"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="129"/>
         <source>Scaling X</source>
         <extracomment>Placeholder text where users input scaling multiplier</extracomment>
         <translation>Mise à l&apos;échelle X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="153"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="156"/>
         <source>Scaling Y</source>
         <extracomment>Placeholder text where users input scaling multiplier</extracomment>
         <translation>Mise à l&apos;échelle Y</translation>
@@ -1910,91 +1925,97 @@ Placeholder for when no user frame number is entered</extracomment>
         <translation>Distance minimale (0,1 - 10 mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="98"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="91"/>
+        <source>Arcs are converted to linear segments for distances smaller than 1 mm</source>
+        <extracomment>Tool tip: Displayed when hovering over minimum distance label</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="101"/>
         <source>Minimum distance</source>
         <extracomment>Placeholder text where users input minimum distance between targets</extracomment>
         <translation>Distance minimale</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="117"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="120"/>
         <source>Scaling X (0.001 - 10)</source>
         <extracomment>Description for a text field for inputting scaling multiplier</extracomment>
         <translation>Mise à l&apos;échelle X (0,001 - 10)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="144"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="147"/>
         <source>Scaling Y (0.001 - 10)</source>
         <extracomment>Description for a text field for inputting scaling multiplier</extracomment>
         <translation>Mise à l&apos;échelle Y (0,001 - 10)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="171"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="174"/>
         <source>Scaling Z (0.001 - 10)</source>
         <extracomment>Description for a text field for inputting scaling multiplier</extracomment>
         <translation>Mise à l&apos;échelle Z (0,001 - 10)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="180"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="183"/>
         <source>Scaling Z</source>
         <extracomment>Placeholder text where users input scaling multiplier</extracomment>
         <translation>Mise à l&apos;échelle Z</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="203"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="206"/>
         <source>Append</source>
         <extracomment>Checkbox: Select to append targets to existing path</extracomment>
         <translation>Ajouter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="208"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="211"/>
         <source>Add to existing path instead of replacing</source>
         <extracomment>Tool tip for append checkbox.</extracomment>
         <translation>Ajouter au chemin existant au lieu de remplacer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="215"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="218"/>
         <source>Reverse INDIRV</source>
         <extracomment>Checkbox: Select to reverse INDIRV (initial direction vector). This is primarily for Catia users</extracomment>
         <translation>Inverser INDIRV</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="220"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="223"/>
         <source>Reverse direction of vector (Catia)</source>
         <extracomment>Tool tip for Reverse INDIRV checkbox</extracomment>
         <translation>Inverser la direction du vecteur (Catia)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="227"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="230"/>
         <source>No arcs</source>
         <extracomment>Checkbox: Select to disable arc moves</extracomment>
         <translation>Pas d&apos;arcs</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="232"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="235"/>
         <source>Arcs are split into linear moves</source>
         <extracomment>Tool tip for no arcs checkbox</extracomment>
         <translation>Les arcs sont découpés en mouvements linéaires</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="238"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="241"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
         <translation>Outil on/off</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="254"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="257"/>
         <source>File: </source>
         <extracomment>Shorthand for file name</extracomment>
         <translation>Fichier : </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="261"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="264"/>
         <source>No file selected</source>
         <extracomment>Placeholder file name until a file is selected</extracomment>
         <translation>Aucun fichier sélectionné</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="282"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="285"/>
         <source>Import</source>
         <extracomment>Import button</extracomment>
         <translation>Importer</translation>
@@ -2267,43 +2288,43 @@ Placeholder for when no user frame number is entered</extracomment>
 <context>
     <name>IrbcamNetwork</name>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="87"/>
+        <location filename="../../../backend/src/networking.cpp" line="88"/>
         <source>Failed to sign in user %1</source>
         <extracomment>Error message. %1 = user name</extracomment>
         <translation>Echec de la connexion de l&apos;utilisateur %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="130"/>
+        <location filename="../../../backend/src/networking.cpp" line="131"/>
         <source>Goodbye %1</source>
         <extracomment>Status message shown on logout. %1 = full name</extracomment>
         <translation>Au revoir %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="205"/>
+        <location filename="../../../backend/src/networking.cpp" line="206"/>
         <source>Failed to get admin details</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="431"/>
+        <location filename="../../../backend/src/networking.cpp" line="444"/>
         <source>Failed to check for updates</source>
         <extracomment>Warning message: Shown if the client is unable to check for updates</extracomment>
         <translation>Impossible de vérifier les mises à jour</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="840"/>
+        <location filename="../../../backend/src/networking.cpp" line="860"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>utilisateur inconnu</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="849"/>
+        <location filename="../../../backend/src/networking.cpp" line="869"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>nom d&apos;utilisateur inconnu</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="892"/>
+        <location filename="../../../backend/src/networking.cpp" line="912"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -2313,32 +2334,32 @@ Quelques options n&apos;étaient pas présentes sur le serveur. Cela est probabl
 Les paramètres affectés ont été mis à leur valeur par défaut</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="920"/>
+        <location filename="../../../backend/src/networking.cpp" line="940"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation>Bienvenue %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="902"/>
+        <location filename="../../../backend/src/networking.cpp" line="922"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation>Échec du chargement des options for %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="910"/>
+        <location filename="../../../backend/src/networking.cpp" line="930"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation>Options chargées pour %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1144"/>
+        <location filename="../../../backend/src/networking.cpp" line="1164"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
         <translation>Erreur distante : %1 code : %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1248"/>
+        <location filename="../../../backend/src/networking.cpp" line="1268"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
@@ -2346,7 +2367,7 @@ Save your work and reload page to get the newest features</source>
 Vous pouvez sauvegarder votre travail et recharger la page pour avoir accès aux dernières fonctionnalités</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1254"/>
+        <location filename="../../../backend/src/networking.cpp" line="1274"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -2356,13 +2377,13 @@ Quelques fonctionnalités ne seront pas disponibles jusqu&apos;à ce que la page
 Veuillez sauvegarder votre travail et recharger la page dès que vous le pouvez</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1103"/>
+        <location filename="../../../backend/src/networking.cpp" line="1123"/>
         <source>A network error occurred</source>
         <extracomment>Error message</extracomment>
         <translation>Une erreur de réseau est survenue</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1274"/>
+        <location filename="../../../backend/src/networking.cpp" line="1294"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Impossible de récupérer l&apos;état du processus serveur</translation>
@@ -3786,31 +3807,31 @@ Placeholder text until an icon has been selected</extracomment>
 <context>
     <name>PopupItem</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="58"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="59"/>
         <source>Cancel</source>
         <extracomment>Button text: Cancel operation</extracomment>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="60"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="61"/>
         <source>Back</source>
         <extracomment>Button text: Go back to previous page</extracomment>
         <translation>Retour</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="76"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="77"/>
         <source>Finish</source>
         <extracomment>Button text: Finish operation</extracomment>
         <translation>Terminer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="78"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="79"/>
         <source>Next</source>
         <extracomment>Button text: Go to next page</extracomment>
         <translation>Suivant</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="80"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="81"/>
         <source>Ok</source>
         <extracomment>Button text</extracomment>
         <translation>Ok</translation>
@@ -4896,19 +4917,19 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation>Projet %1 sauvegardé</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="552"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="553"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Projet initialisé</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="725"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="726"/>
         <source>File %1 is empty</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Le fichier %1 est vide</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="756"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="757"/>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -4916,87 +4937,93 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Des longs chemins peuvent être importés en les découpant en plus petits fichiers et en utilisatn l&apos;option &apos;Ajouter&apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="364"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="359"/>
         <source>Failed to confirm that the project was saved to the cloud (the project may or may not have been saved)</source>
         <extracomment>Error message</extracomment>
         <translation>Impossible de confirmer si le projet a été sauvegardé sur le serveur (le projet peut ou non avoir été sauvegardé)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="491"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="393"/>
+        <source>Autosave for project %1 saved</source>
+        <extracomment>Status message: %1 = name of project</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="492"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Échec du téléchargement du projet depuis le serveur</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="588"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="589"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Impossible de confirmer si le projet a été supprimé sur le serveur (le projet peut ou non avoir été supprimée)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="612"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="613"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Le projet %1 a été supprimé du serveur</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="677"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="678"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="700"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="701"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="773"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="774"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Impossible de lancer le processus serveur %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="802"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="803"/>
         <source>Failed to get parsed APT %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Échec de la récupération de l&apos;analyse du fichier APT %1 depuis le serveur</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="844"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="845"/>
         <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>Le nombre de décimales utilisées dans le fichier APT %1 est de %2 (faible précision numérique).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="855"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="856"/>
         <source>Failed to import APT file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Échec de l&apos;import du fichier APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="861"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="862"/>
         <source>Path imported from APT %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Chemin importé depuis APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="916"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="947"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="917"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="948"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Échec de la récupération du code pour le robot depuis le serveur</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1052"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1072"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1053"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1073"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Échec de la récupération du projet sauvegardé</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1093"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1094"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -5004,13 +5031,13 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Cela peut arriver si la sauvegarde vient d&apos;une version d&apos;IRBCAM plus ancienne</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1183"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1184"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Il manque des informations dans le projet récupéré depuis le serveur</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1099"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1100"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -5018,22 +5045,22 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Cela peut arriver si la sauvegarde vient d&apos;une version d&apos;IRBCAM plus ancienne</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1113"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1120"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1114"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1121"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1129"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1136"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1130"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1137"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>outil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1145"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1152"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1146"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1153"/>
         <source>rotary table</source>
         <extracomment>Attribute: Rotary table
 ----------
@@ -5041,7 +5068,7 @@ Attribute: rotary table</extracomment>
         <translation>table rotative</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1195"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1196"/>
         <source>Project was loaded with missing info
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message</extracomment>
@@ -5049,33 +5076,33 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Cela peut arriver si la sauvegarde vient d&apos;une version d&apos;IRBCAM plus ancienne</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1201"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1202"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Échec du chargement des données du projet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1218"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1233"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1219"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1234"/>
         <source>Path information missing from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Informations sur le chemin manquantes dans le projet enregistré</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1251"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1252"/>
         <source>DH Table information missing from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Les informations sur la table DH ne sont pas présentes dans la sauvegarde du projet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1298"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1299"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projet %1 chargé</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1163"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1170"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1164"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1171"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>rail linéaire</translation>
