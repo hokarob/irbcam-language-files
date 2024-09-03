@@ -1,5 +1,5 @@
 from pathlib import Path 
-import xml.etree.ElementTree as ET
+from xml.etree import ElementTree
 from typing import Tuple
 
 import requests
@@ -7,47 +7,79 @@ import requests
 current_dir = Path(__file__).parent.resolve()
 
 
-def count_unfinished_strings(xml_file: Path) -> int:
-    """Count untranslated (unfinished) strings
+def count_strings(xml_file: Path) -> Tuple[int, int]:
+    """Find number of translation strings and how many are missing a translation
 
-    :param xml_file: File in XML format
-    :return: Number of unfinished strings
+    :param: xml_file: Path to XML file (.ts file)
+    :return: Total number of strings and unfinished strings
     """
-    # Parse the XML file
-    tree = ET.parse(xml_file)
+
+    tree = ElementTree.parse(xml_file)
     root = tree.getroot()
+    
+    # Strings with type "unfinished". These are not translated
+    unfinished = 0
+    
+    # Vanished strings are no longer used in IRBCAM. The string has been removed from the source code
+    vanished = 0
+    
+    # Obsolete is assigned when the translation of the deleted message had been validated.
+    obsolete = 0
 
-    # Count the instances of <translation> elements with type="unfinished"
-    count = sum(1 for element in root.iter("translation") if element.get("type") == "unfinished")
+    # Total number of strings
+    strings = 0
 
-    return count
+    # Strings with empty source. e.g. tr(""). These are disregarded
+    nosource = 0
+
+    # Find all messages
+    for context in root.iter('context'):
+        # Find name of context (QML or cpp file)
+        context_name = context.find('name').text
+        # print(f'Looking for strings in {context_name}')
+
+        # Loop through messages
+        for message in context.iter('message'):
+            # Verify that the message has a source
+            source = message.find('source')
+            if source is None:
+                raise ValueError
+            if source.text is None:
+                nosource += 1
+                continue
 
 
-def count_all_strings(xml_file: Path) -> int:
-    """Count all translation strings in a document. Exclude vanished and obsolete
+            # Attempt to extract translation value
+            translation = message.find('translation')
+            if translation is None:
+                raise ValueError(f'Did not find translation tag for message: "{source.text}"')
+            
+            # Skip if the message has vanished
+            if translation.get('type') == 'vanished':
+                vanished += 1
+                continue
 
-    :param xml_file: Fine in XML format
-    :return: Number of strings
-    """
-    # Parse the XML file
-    tree = ET.parse(xml_file)
-    root = tree.getroot()
+            # Skip if the message is obsolete
+            if translation.get('type') == 'obsolete':
+                obsolete += 1
+                continue
 
-    count = 0
-    # Count the instances of <translation> elements 
-    # count = sum(1 for element in root.iter("translation") if element.get("type") != "vanished")
-    for element in root.iter("translation"):
-        # Check if the "type" attribute exists and is not "vanished"
-        if "type" not in element.attrib:
-            count += 1
-        elif element.attrib["type"] == "unfinished":
-            count += 1
-        elif element.attrib["type"] == "vanished" or element.attrib["type"] == "obsolete":
-            pass
-        else:
-            raise ValueError(element)
 
-    return count
+            # Increment number of strings
+            strings += 1
+
+            # Count if the message is unfinished
+            if translation.get('type') == 'unfinished':
+                # print(f'Unfinished string in {context_name}. Source text: "{source.text}"')
+                location = message.find('location')
+                if location is None:
+                    continue
+                unfinished += 1
+                continue
+
+    # print(f'Total: {strings}\nUnfinished: {unfinished}\nVanished: {vanished}\nObsolete: {obsolete}')
+
+    return strings, unfinished
 
 
 def generate_badge(name: Path, numerator: int, denominator: int) -> Tuple[str, str]:
@@ -88,14 +120,15 @@ def process_files(directory: Path) -> dict:
     :return: dictionary where each key is a country code, and it's respective value is URL to the badge
     """
     # Use glob to find all XML files in the directory
+    # ts_files = list(directory.glob("irbcam_lt.ts"))
     ts_files = list(directory.glob("*.ts"))
 
     urls = {}
 
     for file in ts_files:
-        den = count_all_strings(file)
+        den, unfinished = count_strings(file)
         # num = count_unfinished_strings(file)
-        num = den - count_unfinished_strings(file)
+        num = den - unfinished
         country, url = generate_badge(file, num, den)
         urls[country] = url
 
