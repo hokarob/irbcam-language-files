@@ -120,7 +120,6 @@ def process_files(directory: Path) -> dict:
     :return: dictionary where each key is a country code, and it's respective value is URL to the badge
     """
     # Use glob to find all XML files in the directory
-    # ts_files = list(directory.glob("irbcam_lt.ts"))
     ts_files = list(directory.glob("*.ts"))
 
     urls = {}
