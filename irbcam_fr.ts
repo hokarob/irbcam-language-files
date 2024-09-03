@@ -780,6 +780,21 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
     </message>
 </context>
 <context>
+    <name>BuyMenu</name>
+    <message>
+        <location filename="../../IrbcamQml/Controls/BuyMenu.qml" line="21"/>
+        <source>Buy or request a 7-day free trial</source>
+        <extracomment>This button opens the subscription page</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/BuyMenu.qml" line="33"/>
+        <source>Opens link in new tab</source>
+        <extracomment>Tool tip</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>CloudMenu</name>
     <message>
         <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="14"/>
