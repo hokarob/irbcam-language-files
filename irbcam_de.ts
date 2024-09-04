@@ -6456,27 +6456,27 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="vanished">Pfad erfolgreich konfiguriert in </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="93"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="94"/>
         <source>Failed to solve path
 No targets</source>
         <extracomment>Error message. This means that there is not path to solve</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="98"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="99"/>
         <source>Failed to solve path
 Solved %1 of %2 targets</source>
         <extracomment>Error message. %1 = first failed index, %2 = total number of targets</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="106"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="107"/>
         <source>Path solved successfully in %1 ms</source>
         <extracomment>Status message. %1 = time in milliseconds</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="199"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="200"/>
         <source>Start index must be smaller than end index</source>
         <extracomment>Error message</extracomment>
         <translation>Startindex muss kleiner als Endindex sein</translation>
@@ -6487,13 +6487,13 @@ Solved %1 of %2 targets</source>
         <translation type="vanished">Zulässige maximale Entfernung muss größer als 0,001 mm sein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="206"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="207"/>
         <source>Path is empty</source>
         <extracomment>Error message</extracomment>
         <translation>Pfad ist leer</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="213"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="214"/>
         <source>Invalid end index, end index must be smaller than the size of the path</source>
         <extracomment>Error message</extracomment>
         <translation>Ungültiger Endindex, Endindex muss kleiner als die Größe des Pfades sein</translation>
@@ -6504,29 +6504,29 @@ Solved %1 of %2 targets</source>
         <translation type="vanished">Maximale Entfernung erfolgreich konfiguriert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="233"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="234"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="241"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="242"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="246"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="247"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="266"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="309"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="267"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="310"/>
         <source>File is empty</source>
         <extracomment>Error message: Referring to an empty CSV file
 ----------
@@ -6534,8 +6534,8 @@ Error message: JSON file is empty</extracomment>
         <translation>Die Datei ist leer</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="273"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="316"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="274"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="317"/>
         <source>File is not a valid UTF-8 file
 Only UTF-8 encoded files are supported</source>
         <extracomment>Error message: Wrong encoding on CSV file
@@ -6545,163 +6545,163 @@ Error message: JSON file has wrong encoding</extracomment>
 Es werden nur UTF-8-codierte Dateien unterstützt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="284"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="285"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="327"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="328"/>
         <source>Failed to import JSON file</source>
         <extracomment>Error message: Failed to import path from JSON file</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="354"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="355"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="393"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="394"/>
         <source>Failed to parse APT file</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="417"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="418"/>
         <source>No error</source>
         <extracomment>Error status for solving path. Success (no error)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="420"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="421"/>
         <source>Path not solved</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="423"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="424"/>
         <source>Path solved successfully</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="426"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="427"/>
         <source>No solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="429"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="430"/>
         <source>Axis limit violation</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="432"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="433"/>
         <source>Solution is outside of workspace limits</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="435"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="436"/>
         <source>This robot cannot bend backwards</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="438"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="439"/>
         <source>Invalid kinematic parameters</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="441"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="442"/>
         <source>Undefined kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="444"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="445"/>
         <source>Invalid kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="447"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="448"/>
         <source>Invalid joint setpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="450"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="451"/>
         <source>Invalid number of degrees of freedom</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="453"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="454"/>
         <source>Division by zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="457"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="458"/>
         <source>Input is null pointer</source>
         <extracomment>Error status for solving path Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="460"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="461"/>
         <source>Robot not loaded</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="463"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="464"/>
         <source>Invalid path size</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="466"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="467"/>
         <source>Discontinuous step</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="469"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="470"/>
         <source>No targets</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="472"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="473"/>
         <source>Dynamic angle out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="475"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="476"/>
         <source>Index out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="478"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="479"/>
         <source>One or more targets have invalid speed</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="481"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="482"/>
         <source>Distance from the center of turntable to the point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="484"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="485"/>
         <source>Angular constraint on turntable is too shallow</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
@@ -6711,7 +6711,7 @@ Es werden nur UTF-8-codierte Dateien unterstützt</translation>
         <translation type="vanished">Fehler beim Importieren der CSV-Datei: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="291"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="292"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Pfad aus CSV importiert</translation>
@@ -6721,7 +6721,7 @@ Es werden nur UTF-8-codierte Dateien unterstützt</translation>
         <translation type="vanished">Fehler beim Importieren der JSON-Datei: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="334"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="335"/>
         <source>Path imported from JSON</source>
         <extracomment>Status message</extracomment>
         <translation>Pfad aus JSON importiert</translation>
@@ -6731,7 +6731,7 @@ Es werden nur UTF-8-codierte Dateien unterstützt</translation>
         <translation type="vanished">Pfad konnte nicht geladen werden: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="361"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="362"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Pfad geladen</translation>
@@ -8163,91 +8163,91 @@ Button. Import custom tool</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="69"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="64"/>
         <source> mm</source>
         <extracomment>postfix after a number (millimeters)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="168"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="254"/>
+        <source>Press ctrl + c to copy to clipboard</source>
+        <extracomment>label</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="419"/>
         <source>Relative to</source>
         <extracomment>label next to a drop-down menu</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="177"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="428"/>
         <source>Global origin</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="179"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="430"/>
         <source>Robot base</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="181"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="432"/>
         <source>User frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="183"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="434"/>
         <source>Object frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="284"/>
-        <source>Copy to target</source>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="535"/>
+        <source>Copy</source>
         <extracomment>Button</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="330"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="222"/>
         <source>Current tool-point</source>
         <extracomment>Label</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="346"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="234"/>
         <source>Relative to object frame</source>
         <extracomment>Tool-tip</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="371"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="268"/>
         <source>Targets</source>
         <extracomment>Label</extracomment>
         <translation type="unfinished">Ziele</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="495"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="390"/>
         <source>Replace</source>
         <extracomment>Button: Replace selected target</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="502"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="397"/>
         <source>Insert before</source>
         <extracomment>Button: Insert before selected target</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="507"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="402"/>
         <source>Insert after</source>
         <extracomment>Button: Insert after selected target</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="517"/>
-        <source>Copy to clipboard</source>
-        <extracomment>Button: Copy current position to clipboard</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="526"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="200"/>
         <source>Reference frame: %1
 Translation (mm)
 [x, y, z]: [%2, %3, %4]
@@ -8257,7 +8257,7 @@ Rotation (rad)
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="538"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="212"/>
         <source>Relative pose copied to clipboard</source>
         <extracomment>Notification message</extracomment>
         <translation type="unfinished"></translation>
