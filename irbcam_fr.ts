@@ -5191,7 +5191,7 @@ Target at index %1 has zero velocity</source>
 La cible àl&apos;indice %1 a une vitesse nulle</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="966"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="979"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -5205,7 +5205,7 @@ Target at index %1 is unreachable</source>
 La cible à l&apos;indice %1 est inatteignable</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1177"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1190"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
