@@ -2290,6 +2290,15 @@ Placeholder for when no value is entered</extracomment>
     </message>
 </context>
 <context>
+    <name>Irbcam</name>
+    <message>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="65"/>
+        <source>Clear all</source>
+        <extracomment>Button. Clear (acknowledge) all acknowledgeable messages</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>IrbcamApi</name>
     <message>
         <location filename="../../../backend/src/irbcamapi.cpp" line="90"/>
@@ -3315,7 +3324,7 @@ Vil du fortsette?</translation>
 <context>
     <name>MessageCentre</name>
     <message>
-        <location filename="../../IrbcamQml/Views/MessageCentre.qml" line="110"/>
+        <location filename="../../IrbcamQml/Views/MessageCentre.qml" line="112"/>
         <source>Ok</source>
         <extracomment>Button: dismiss message</extracomment>
         <translation>Ok</translation>

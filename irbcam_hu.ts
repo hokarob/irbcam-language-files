@@ -2705,6 +2705,12 @@ Placeholder for when no user frame number is entered</extracomment>
         <source>Error code: </source>
         <translation type="obsolete">Hibakód: </translation>
     </message>
+    <message>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="65"/>
+        <source>Clear all</source>
+        <extracomment>Button. Clear (acknowledge) all acknowledgeable messages</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>IrbcamApi</name>
@@ -4472,7 +4478,7 @@ Do you want to continue?</source>
 <context>
     <name>MessageCentre</name>
     <message>
-        <location filename="../../IrbcamQml/Views/MessageCentre.qml" line="110"/>
+        <location filename="../../IrbcamQml/Views/MessageCentre.qml" line="112"/>
         <source>Ok</source>
         <extracomment>Button: dismiss message</extracomment>
         <translation type="unfinished"></translation>
