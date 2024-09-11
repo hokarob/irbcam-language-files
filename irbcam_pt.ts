@@ -377,7 +377,13 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="202"/>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="125"/>
+        <source>Animation speed</source>
+        <extracomment>Tool-tip. Animation speed setting</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="168"/>
         <source>Tool Trace</source>
         <extracomment>Button: Open tool trace settings</extracomment>
         <translation type="unfinished"></translation>
@@ -3076,26 +3082,26 @@ Please save your work and reload page as soon as possible</source>
         <translation type="obsolete">Articulação </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="151"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="156"/>
         <source>Robot Joints</source>
         <extracomment>Title. This is the top left drawer in the station view, where the user can see the joint angles</extracomment>
         <translation type="unfinished">Articulações do Robô</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="153"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="158"/>
         <source>No joints to show</source>
         <extracomment>Label. Only visible if no robot, linear track or rotary table is selected</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="187"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="192"/>
         <source>Joint %1</source>
         <extracomment>Slider. %1 = joint number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="196"/>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="298"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="201"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="303"/>
         <source> mm</source>
         <extracomment>Postfix for linear joint position. Referring to the unit millimetres
 ----------
@@ -3103,31 +3109,31 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="264"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="269"/>
         <source>Rotary table</source>
         <extracomment>Label: Referring to rotary table angular position</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="266"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="271"/>
         <source>Rotary table axis %1</source>
         <extracomment>Slider: Referring to rotary table angular position if it has multiple axes. %1 = axis number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="307"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="312"/>
         <source>Linear track axis %1</source>
         <extracomment>Slider: Referring to linear track position if it has multiple axes. %1 = axis number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="228"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="233"/>
         <source>Joint 2-3</source>
         <extracomment>Slider: This is specific for the difference between joints 2 and 3</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="305"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="310"/>
         <source>Linear track</source>
         <extracomment>Label: Referring to linear track position</extracomment>
         <translation type="unfinished"></translation>
@@ -7309,91 +7315,91 @@ Button. Import custom tool</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="64"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="69"/>
         <source> mm</source>
         <extracomment>postfix after a number (millimeters)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="254"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="259"/>
         <source>Press ctrl + c to copy to clipboard</source>
         <extracomment>label</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="419"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="424"/>
         <source>Relative to</source>
         <extracomment>label next to a drop-down menu</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="428"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="433"/>
         <source>Global origin</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="430"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="435"/>
         <source>Robot base</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="432"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="437"/>
         <source>User frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="434"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="439"/>
         <source>Object frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="535"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="540"/>
         <source>Copy</source>
         <extracomment>Button</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="222"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="227"/>
         <source>Current tool-point</source>
         <extracomment>Label</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="234"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="239"/>
         <source>Relative to object frame</source>
         <extracomment>Tool-tip</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="268"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="273"/>
         <source>Targets</source>
         <extracomment>Label</extracomment>
         <translation type="unfinished">Pontos</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="390"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="395"/>
         <source>Replace</source>
         <extracomment>Button: Replace selected target</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="397"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="402"/>
         <source>Insert before</source>
         <extracomment>Button: Insert before selected target</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="402"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="407"/>
         <source>Insert after</source>
         <extracomment>Button: Insert after selected target</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="200"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="205"/>
         <source>Reference frame: %1
 Translation (mm)
 [x, y, z]: [%2, %3, %4]
@@ -7403,7 +7409,7 @@ Rotation (rad)
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="212"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="217"/>
         <source>Relative pose copied to clipboard</source>
         <extracomment>Notification message</extracomment>
         <translation type="unfinished"></translation>
