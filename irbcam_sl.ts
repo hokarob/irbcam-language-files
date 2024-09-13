@@ -535,19 +535,19 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="886"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="892"/>
         <source>Failed to send report</source>
         <extracomment>Error message</extracomment>
         <translation>Poročila ni bilo mogoče poslati</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="897"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="903"/>
         <source>Attachment should be less than %1 MB</source>
         <extracomment>Error message. %1 = size in MB</extracomment>
         <translation>Priloga mora biti manjša od %1 MB</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="940"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="946"/>
         <source>Report sent</source>
         <extracomment>Status message: Referring to sending a feedback report</extracomment>
         <translation>Poročilo poslano</translation>
@@ -5017,43 +5017,43 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation>Projekta ni bilo mogoče prenesti iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="622"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="624"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Projekt odobren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="658"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="660"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Ni bilo mogoče potrditi, da je bil projekt izbrisan iz oblaka (projekt je bil morda izbrisan ali pa tudi ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="682"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="684"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projekt %1 je bil izbrisan iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="747"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="749"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Ni bilo mogoče potrditi, da je bil projekt v skupni rabi</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="770"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="772"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Sporočilo o stanju: %1= ime projekta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="795"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="797"/>
         <source>File %1 is empty</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Datoteka %1 je prazna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="826"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="828"/>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -5061,53 +5061,53 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Večje poti je mogoče uvoziti tako, da datoteko APT razdelite na manjše datoteke in uporabite »priloži«</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="843"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="845"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Opravila v oblaku %1 ni bilo mogoče zagnati</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="872"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="874"/>
         <source>Failed to get parsed APT %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Ni bilo mogoče razčleniti APT %1 iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="914"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="916"/>
         <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>Število decimalnih mest, uporabljenih v datoteki APT %1, je %2 (nizka številska natančnost).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="925"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="927"/>
         <source>Failed to import APT file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Uvoz datoteke APT %1 ni uspel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="931"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="933"/>
         <source>Path imported from APT %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Pot, uvožena iz APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="986"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1017"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="988"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1019"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kode robota iz oblaka ni bilo mogoče pridobiti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1122"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1142"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1395"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1124"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1144"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1397"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Shranjenega projekta ni bilo mogoče obnoviti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1163"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1407"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1165"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1409"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -5115,8 +5115,8 @@ This may be due to the save coming from an older version of IRBCAM</source>
 To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1169"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1414"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1171"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1416"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -5124,28 +5124,28 @@ This may be due to the save coming from an older version of IRBCAM</source>
 To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1183"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1190"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1497"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1504"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1185"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1192"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1499"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1506"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1200"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1217"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1515"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1532"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1202"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1219"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1517"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1534"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>Orodje</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1227"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1234"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1543"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1550"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1229"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1236"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1545"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1552"/>
         <source>rotary table</source>
         <extracomment>Attribute: Rotary table
 ----------
@@ -5153,23 +5153,23 @@ Attribute: rotary table</extracomment>
         <translation>Rotacijska miza </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1245"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1252"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1560"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1567"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1247"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1254"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1562"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1569"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>Linearni pomik</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1265"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1431"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1267"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1433"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Manjkajoče informacije v projektu, pridobljene iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1277"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1279"/>
         <source>Project was loaded with missing info
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message</extracomment>
@@ -5177,48 +5177,48 @@ This may be due to the save coming from an older version of IRBCAM</source>
 To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1283"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1456"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1285"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1458"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Podatkov projekta ni bilo mogoče naložiti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1300"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1315"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1471"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1302"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1317"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1473"/>
         <source>Path information missing from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>V shranjenem projektu manjkajo informacije o poti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1333"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1335"/>
         <source>DH Table information missing from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>V shranjenem projektu manjkajo informacije o tabeli DH</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1380"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1628"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1382"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1630"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projekt %1 je naložen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1443"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1445"/>
         <source>Missing version info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1486"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1488"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1577"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1584"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1579"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1586"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation type="unfinished"></translation>
