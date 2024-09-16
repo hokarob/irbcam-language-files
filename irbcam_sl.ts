@@ -4290,7 +4290,7 @@ Column name. Refers to which date the items were modified</extracomment>
 <context>
     <name>RoboticsInterface</name>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="200"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="185"/>
         <source>Start index must be smaller than end index</source>
         <extracomment>Error message</extracomment>
         <translation>Začetni indeks mora biti manjši od končnega indeksa</translation>
@@ -4306,13 +4306,13 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="vanished">Največja dovoljena sprememba orientacije mora biti večja od 1,0 stopinje</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="207"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="192"/>
         <source>Path is empty</source>
         <extracomment>Error message</extracomment>
         <translation>Pot je prazna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="214"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="199"/>
         <source>Invalid end index, end index must be smaller than the size of the path</source>
         <extracomment>Error message</extracomment>
         <translation>Neveljaven končni indeks, končni indeks mora biti manjši od velikosti poti</translation>
@@ -4323,8 +4323,8 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="vanished">Največja razdalja je uspešno konfigurirana</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="267"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="310"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="252"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="295"/>
         <source>File is empty</source>
         <extracomment>Error message: Referring to an empty CSV file
 ----------
@@ -4332,8 +4332,8 @@ Error message: JSON file is empty</extracomment>
         <translation>Datoteka je prazna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="274"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="317"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="259"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="302"/>
         <source>File is not a valid UTF-8 file
 Only UTF-8 encoded files are supported</source>
         <extracomment>Error message: Wrong encoding on CSV file
@@ -4343,175 +4343,187 @@ Error message: JSON file has wrong encoding</extracomment>
 Podprte so samo datoteke, kodirane z UTF-8</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="285"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="270"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>Datoteke CSV ni bilo mogoče uvoziti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="328"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="313"/>
         <source>Failed to import JSON file</source>
         <extracomment>Error message: Failed to import path from JSON file</extracomment>
         <translation>Datoteke JSON ni bilo mogoče uvoziti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="355"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="340"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Nalaganje poti ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="394"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="379"/>
         <source>Failed to parse APT file</source>
         <extracomment>Error message</extracomment>
         <translation>Datoteke APT ni bilo mogoče razčleniti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="418"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="403"/>
         <source>No error</source>
         <extracomment>Error status for solving path. Success (no error)</extracomment>
         <translation>Brez napake</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="421"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="406"/>
         <source>Path not solved</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pot ni izračunana</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="424"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="409"/>
         <source>Path solved successfully</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pot uspešno izračunana</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="427"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="412"/>
         <source>No solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Brez rešitve</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="430"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="415"/>
         <source>Axis limit violation</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Kršitev meje osi</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="433"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="418"/>
         <source>Solution is outside of workspace limits</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Rešitev je zunaj omejitev delovnega prostora</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="436"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="421"/>
         <source>This robot cannot bend backwards</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ta robot se ne more upogniti nazaj</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="439"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="424"/>
         <source>Invalid kinematic parameters</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neveljavni kinematični parametri</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="442"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="427"/>
         <source>Undefined kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Nedefiniran kinematični tip</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="445"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="430"/>
         <source>Invalid kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neveljaven kinematični tip</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="448"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="433"/>
         <source>Invalid joint setpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neveljavna nastavitev sklepa</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="451"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="436"/>
         <source>Invalid number of degrees of freedom</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neveljavno število prostostnih stopinj</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="454"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="439"/>
         <source>Division by zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Deljenje z ničlo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="458"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="443"/>
         <source>Input is null pointer</source>
         <extracomment>Error status for solving path Error status for solving path</extracomment>
         <translation>Vnos je ničelni pointer</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="461"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="446"/>
         <source>Robot not loaded</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Robot ni naložen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="464"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="449"/>
         <source>Invalid path size</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neveljavna velikost poti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="467"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="452"/>
         <source>Discontinuous step</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Prekinjen korak</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="470"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="455"/>
         <source>No targets</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Brez točk</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="473"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="458"/>
         <source>Dynamic angle out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Dinamični kot izven območja</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="476"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="461"/>
         <source>Index out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Indeks izven obsega</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="479"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="464"/>
         <source>One or more targets have invalid speed</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ena ali več točk ima neveljavno hitrost</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="482"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="467"/>
         <source>Distance from the center of turntable to the point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Razdalja od središča rotacijske mize do točke je premajhna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="485"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="470"/>
         <source>Angular constraint on turntable is too shallow</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Kotna omejitev na rotacijski mizi je preplitka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="292"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="527"/>
+        <source>Distance between targets %1 and %2 (%3 mm) exceeds recommended maximum (%4 mm)</source>
+        <extracomment>Warning message. %1 = target index, %2 = target index, %3 = distance between targets, %4 = recommended maximum distance</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="546"/>
+        <source>Reorientation between targets %1 and %2 (%3°) exceeds recommended maximum (%4°)</source>
+        <extracomment>Warning message. %1 = target index, %2 = target index, %3 = reorientation between targets, %4 = recommended maximum reorientation</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="277"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Pot, uvožena iz CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="94"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="76"/>
         <source>Failed to solve path
 No targets</source>
         <extracomment>Error message. This means that there is not path to solve</extracomment>
@@ -4519,7 +4531,7 @@ No targets</source>
 Brez točk</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="99"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="81"/>
         <source>Failed to solve path
 Solved %1 of %2 targets</source>
         <extracomment>Error message. %1 = first failed index, %2 = total number of targets</extracomment>
@@ -4527,40 +4539,40 @@ Solved %1 of %2 targets</source>
 Izračunan %1 od %2 ciljev</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="107"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="89"/>
         <source>Path solved successfully in %1 ms</source>
         <extracomment>Status message. %1 = time in milliseconds</extracomment>
         <translation>Pot je bila uspešno izračunana v %1 ms</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="234"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="219"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="242"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="227"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="247"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="232"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="335"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="320"/>
         <source>Path imported from JSON</source>
         <extracomment>Status message</extracomment>
         <translation>Pot, uvožena iz JSON</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="362"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="347"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Pot je naložena</translation>
