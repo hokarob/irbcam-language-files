@@ -801,10 +801,9 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Remplacer l&apos;angle de roulis %1 de toutes les cibles avec la méthode sélectionnée</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="256"/>
         <source>This configuration will overwrite tool roll angle %1 values of all targets</source>
         <extracomment>Content for confirmation popup. %1 = RZ1</extracomment>
-        <translation>Cette configuration va remplacer l&apos;angle de roulis %1 de toutes les cibles</translation>
+        <translation type="vanished">Cette configuration va remplacer l&apos;angle de roulis %1 de toutes les cibles</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="280"/>
@@ -927,6 +926,12 @@ Utile pour éviter de tordre le cable ou d&apos;autres problèmes similaires dan
         <source>The active subscription does not provide access to exporting robot code&lt;br&gt;Click %1here%2 to manage subscriptions</source>
         <extracomment>Tool tip. %1 = start of link, %2 = end of link</extracomment>
         <translation>L&apos;abonnement actuel ne permet pas d&apos;exporter du code pour des robots&lt;br&gt;Cliquez %1ici%2 pour gérer les abonnements</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="256"/>
+        <source>This configuration will overwrite tool roll angle %1 values of all targets when solving the path. You may switch the %2 to %3 if you don&apos;t want to overwrite the tool roll angle before solving the path.</source>
+        <extracomment>Content for confirmation popup. %1 = RZ1, %2 = tool roll mode, %3 = No Change</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="260"/>
@@ -5297,7 +5302,7 @@ Target at index %1 has zero velocity</source>
 La cible àl&apos;indice %1 a une vitesse nulle</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="979"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="981"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -5311,7 +5316,7 @@ Target at index %1 is unreachable</source>
 La cible à l&apos;indice %1 est inatteignable</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1190"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1192"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>

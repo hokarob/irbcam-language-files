@@ -808,10 +808,15 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Prepiši vrednosti kota nagiba orodja %1 vseh tarč z izbrano metodo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="256"/>
         <source>This configuration will overwrite tool roll angle %1 values of all targets</source>
         <extracomment>Content for confirmation popup. %1 = RZ1</extracomment>
-        <translation>Ta konfiguracija bo prepisala vrednosti kota nagiba orodja %1 vseh za vse točke</translation>
+        <translation type="vanished">Ta konfiguracija bo prepisala vrednosti kota nagiba orodja %1 vseh za vse točke</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="256"/>
+        <source>This configuration will overwrite tool roll angle %1 values of all targets when solving the path. You may switch the %2 to %3 if you don&apos;t want to overwrite the tool roll angle before solving the path.</source>
+        <extracomment>Content for confirmation popup. %1 = RZ1, %2 = tool roll mode, %3 = No Change</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="260"/>
@@ -5286,7 +5291,7 @@ Target at index %1 has zero velocity</source>
 Cilj pri indeksu %1 ima ničelno hitrost</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="979"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="981"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -5300,7 +5305,7 @@ Target at index %1 is unreachable</source>
 Cilj z indeksom %1 je nedosegljiv</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1190"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1192"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
