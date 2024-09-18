@@ -909,10 +909,9 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Skriv över verktygsrullningsvinkel %1 värden för alla punkter med den valda metoden</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="256"/>
         <source>This configuration will overwrite tool roll angle %1 values of all targets</source>
         <extracomment>Content for confirmation popup. %1 = RZ1</extracomment>
-        <translation>Denna konfiguration kommer att skriva över verktygsrullningsvinkel %1 värden för alla punkter</translation>
+        <translation type="vanished">Denna konfiguration kommer att skriva över verktygsrullningsvinkel %1 värden för alla punkter</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="280"/>
@@ -1023,6 +1022,12 @@ Användbart för att undvika kabelvridning eller liknande problem i vissa situat
         <source>Fixed Position</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation>Fast position</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="256"/>
+        <source>This configuration will overwrite tool roll angle %1 values of all targets when solving the path. You may switch the %2 to %3 if you don&apos;t want to overwrite the tool roll angle before solving the path.</source>
+        <extracomment>Content for confirmation popup. %1 = RZ1, %2 = tool roll mode, %3 = No Change</extracomment>
+        <translation>Denna konfiguration kommer att skriva över verktygsrullningsvinkel %1 värden för alla mål när banan löses. Du kan byta %2 till %3 om du inte vill skriva över verktygsrullningsvinkeln innan du löser banan.</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="260"/>
@@ -7041,7 +7046,7 @@ Target at index %1 has zero velocity</source>
 Mål vid index %1 har noll hastighet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="979"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="981"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -7049,7 +7054,7 @@ Target at index %1 is not solved</source>
 Målet för index %1 är inte löst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1190"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1192"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
