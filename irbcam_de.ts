@@ -997,12 +997,6 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="256"/>
-        <source>This configuration will overwrite tool roll angle %1 values of all targets</source>
-        <extracomment>Content for confirmation popup. %1 = RZ1</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="280"/>
         <source>Tool roll angle (deg)</source>
         <extracomment>Label for text field: Referring to rotation about the tool Z-axis</extracomment>
@@ -1121,6 +1115,12 @@ Useful for avoiding cable twist or similar issues in certain situations</source>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="139"/>
         <source>The active subscription does not provide access to exporting robot code&lt;br&gt;Click %1here%2 to manage subscriptions</source>
         <extracomment>Tool tip. %1 = start of link, %2 = end of link</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="256"/>
+        <source>This configuration will overwrite tool roll angle %1 values of all targets when solving the path. You may switch the %2 to %3 if you don&apos;t want to overwrite the tool roll angle before solving the path.</source>
+        <extracomment>Content for confirmation popup. %1 = RZ1, %2 = tool roll mode, %3 = No Change</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7857,14 +7857,14 @@ Target at index %1 has zero velocity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="979"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="981"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1190"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1192"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
