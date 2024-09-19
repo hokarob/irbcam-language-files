@@ -1717,10 +1717,9 @@ Button text</extracomment>
 <context>
     <name>Eula</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/Eula.qml" line="15"/>
         <source>IRBCAM Terms of Service</source>
         <extracomment>Title</extracomment>
-        <translation>IRBCAMs användarvillkor</translation>
+        <translation type="vanished">IRBCAMs användarvillkor</translation>
     </message>
 </context>
 <context>
@@ -4358,13 +4357,12 @@ Vill du fortsätta?</translation>
         <translation>Denna plugin har inte giltigt källinnehåll</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="414"/>
         <source>Terms of Service</source>
         <extracomment>Menu item</extracomment>
-        <translation>Användarvillkor</translation>
+        <translation type="vanished">Användarvillkor</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="426"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="425"/>
         <source>Feedback</source>
         <extracomment>Menu item</extracomment>
         <translation>Feed-back</translation>
@@ -4460,7 +4458,7 @@ Vill du fortsätta?</translation>
         <translation type="obsolete">Språk / Enheter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="420"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="419"/>
         <source>About IRBCAM</source>
         <extracomment>Menu item</extracomment>
         <translation>Om IRBCAM</translation>
@@ -7257,10 +7255,9 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <translation>Stationärt verktyg är inte kompatibelt med roterande bord och linjärbanor</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="137"/>
         <source>Stationary tool is imcompatible with %1</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
-        <translation>Stationärt verktyg är inkompatibelt med %1</translation>
+        <translation type="vanished">Stationärt verktyg är inkompatibelt med %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="139"/>
@@ -7285,6 +7282,12 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <source>Edit</source>
         <extracomment>Collapsible section. This section contains tools to adjust tool position, rotation and other options</extracomment>
         <translation>Redigera</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="137"/>
+        <source>Stationary tool is incompatible with %1</source>
+        <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="150"/>
@@ -7923,6 +7926,12 @@ Found a bug or have a great idea for a new feature? Please use the feedback form
         <extracomment>Label. This text is written in Markdown format. Keep the ### for the title and **asterisks for bold text**</extracomment>
         <translation>### Din feedback är viktig!
 Hittade du en bugg eller har du en bra idé för en ny funktion? Använd feedbackformuläret i **Hjälp &gt; Feedback.**</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="216"/>
+        <source>Ready to dive in?</source>
+        <extracomment>Title. This is the last page of the welcome popup</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="221"/>

@@ -1331,10 +1331,9 @@ Button text</extracomment>
 <context>
     <name>Eula</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/Eula.qml" line="15"/>
         <source>IRBCAM Terms of Service</source>
         <extracomment>Title</extracomment>
-        <translation>Pogoji storitve IRBCAM</translation>
+        <translation type="vanished">Pogoji storitve IRBCAM</translation>
     </message>
 </context>
 <context>
@@ -3084,10 +3083,9 @@ Do you want to continue?</source>
         <translation>&amp;Rotacijska miza </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="414"/>
         <source>Terms of Service</source>
         <extracomment>Menu item</extracomment>
-        <translation>Pogoji storitve</translation>
+        <translation type="vanished">Pogoji storitve</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="187"/>
@@ -3198,7 +3196,7 @@ Do you want to continue?</source>
         <translation>Ta vtičnik nima veljavne izvorne vsebine</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="426"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="425"/>
         <source>Feedback</source>
         <extracomment>Menu item</extracomment>
         <translation>Povratne informacije</translation>
@@ -3234,7 +3232,7 @@ Do you want to continue?</source>
         <translation>Koordinatni sistemi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="420"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="419"/>
         <source>About IRBCAM</source>
         <extracomment>Menu item</extracomment>
         <translation>O IRBCAM</translation>
@@ -5466,10 +5464,15 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <translation>Stacionarno orodje ni združljivo z rotacijskimi mizami in linearnimi pomik</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="137"/>
         <source>Stationary tool is imcompatible with %1</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
-        <translation>Stacionarno orodje ni združljivo z %1</translation>
+        <translation type="vanished">Stacionarno orodje ni združljivo z %1</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="137"/>
+        <source>Stationary tool is incompatible with %1</source>
+        <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="139"/>
@@ -6051,6 +6054,12 @@ Found a bug or have a great idea for a new feature? Please use the feedback form
         <extracomment>Label. This text is written in Markdown format. Keep the ### for the title and **asterisks for bold text**</extracomment>
         <translation>### Vaše povratne informacije so pomembne!
 Ste našli napako ali imate odlično idejo za novo funkcijo? Uporabite obrazec za povratne informacije v **Pomoč &gt; Povratne informacije.**</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="216"/>
+        <source>Ready to dive in?</source>
+        <extracomment>Title. This is the last page of the welcome popup</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="221"/>

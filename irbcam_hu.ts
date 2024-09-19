@@ -1681,15 +1681,6 @@ Button text</extracomment>
     </message>
 </context>
 <context>
-    <name>Eula</name>
-    <message>
-        <location filename="../../IrbcamQml/Popups/Eula.qml" line="15"/>
-        <source>IRBCAM Terms of Service</source>
-        <extracomment>Title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>ExportRobot</name>
     <message>
         <source>Unknown</source>
@@ -4354,13 +4345,7 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="414"/>
-        <source>Terms of Service</source>
-        <extracomment>Menu item</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="426"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="425"/>
         <source>Feedback</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
@@ -4472,7 +4457,7 @@ Do you want to continue?</source>
         <translation type="obsolete">Nyelv / Egységek</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="420"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="419"/>
         <source>About IRBCAM</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished">Az IRBCAM-ról</translation>
@@ -7291,12 +7276,6 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="137"/>
-        <source>Stationary tool is imcompatible with %1</source>
-        <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="139"/>
         <source>rotary tables</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
@@ -7319,6 +7298,12 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <source>Edit</source>
         <extracomment>Collapsible section. This section contains tools to adjust tool position, rotation and other options</extracomment>
         <translation type="unfinished">Szerkesztés</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="137"/>
+        <source>Stationary tool is incompatible with %1</source>
+        <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="150"/>
@@ -7960,6 +7945,12 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <source>### Your feedback matters!
 Found a bug or have a great idea for a new feature? Please use the feedback form in **Help &gt; Feedback.**</source>
         <extracomment>Label. This text is written in Markdown format. Keep the ### for the title and **asterisks for bold text**</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="216"/>
+        <source>Ready to dive in?</source>
+        <extracomment>Title. This is the last page of the welcome popup</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>

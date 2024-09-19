@@ -1387,12 +1387,6 @@ Button text</extracomment>
         <extracomment>Title</extracomment>
         <translation type="vanished">Sluttbrukeravtale</translation>
     </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/Eula.qml" line="15"/>
-        <source>IRBCAM Terms of Service</source>
-        <extracomment>Title</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>ExportRobotCode</name>
@@ -3306,24 +3300,18 @@ Vil du fortsette?</translation>
         <translation>Forum</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="414"/>
-        <source>Terms of Service</source>
-        <extracomment>Menu item</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>EULA</source>
         <extracomment>Menu item</extracomment>
         <translation type="vanished">EULA</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="420"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="419"/>
         <source>About IRBCAM</source>
         <extracomment>Menu item</extracomment>
         <translation>Om IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="426"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="425"/>
         <source>Feedback</source>
         <extracomment>Menu item</extracomment>
         <translation>Tilbakemelding</translation>
@@ -5723,10 +5711,15 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <translation>Stasjonært verktøy er ikke kompatibel med rotasjonsbord og lineærbaner</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="137"/>
         <source>Stationary tool is imcompatible with %1</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
-        <translation>Stasjonært verktøy er ikke kompatibel med %1</translation>
+        <translation type="vanished">Stasjonært verktøy er ikke kompatibel med %1</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="137"/>
+        <source>Stationary tool is incompatible with %1</source>
+        <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="139"/>
@@ -6349,6 +6342,12 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <source>### Your feedback matters!
 Found a bug or have a great idea for a new feature? Please use the feedback form in **Help &gt; Feedback.**</source>
         <extracomment>Label. This text is written in Markdown format. Keep the ### for the title and **asterisks for bold text**</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="216"/>
+        <source>Ready to dive in?</source>
+        <extracomment>Title. This is the last page of the welcome popup</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
