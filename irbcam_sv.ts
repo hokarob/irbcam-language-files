@@ -7934,31 +7934,42 @@ Hittade du en bugg eller har du en bra idé för en ny funktion? Använd feedbac
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="221"/>
-        <source>Jump in and start exploring the new and improved IRBCAM. We can&apos;t wait to see what you&apos;ll create!</source>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="223"/>
+        <source>Jump in and start exploring IRBCAM. We can&apos;t wait to see what you&apos;ll create!</source>
         <extracomment>Label</extracomment>
-        <translation>Hoppa in och börja utforska den nya och förbättrade IRBCAM. Vi ser fram emot att se vad du kommer att skapa!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="225"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="231"/>
+        <source>Don&apos;t know where to start? No problem! Check out the tutorials in [our forum](%1) or open one of the tutorial projects here in IRBCAM.</source>
+        <extracomment>Label. This text is written in Markdown format. This is the link format: [text](url). %1: url to tutorials in our forum</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Jump in and start exploring the new and improved IRBCAM. We can&apos;t wait to see what you&apos;ll create!</source>
+        <extracomment>Label</extracomment>
+        <translation type="vanished">Hoppa in och börja utforska den nya och förbättrade IRBCAM. Vi ser fram emot att se vad du kommer att skapa!</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="243"/>
         <source>Don&apos;t show this again</source>
         <extracomment>Checkbox. Select to disable the welcome popup</extracomment>
         <translation>Visa inte detta igen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="247"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="265"/>
         <source>Back</source>
         <extracomment>Button. Navigate to previous page</extracomment>
         <translation>Tillbaka</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="268"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="286"/>
         <source>Next</source>
         <extracomment>Button. Navigate to next page</extracomment>
         <translation>Nästa</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="270"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="288"/>
         <source>Close</source>
         <extracomment>Button. Close popup</extracomment>
         <translation>Stäng</translation>
