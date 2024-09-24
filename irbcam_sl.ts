@@ -535,19 +535,19 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="901"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1012"/>
         <source>Failed to send report</source>
         <extracomment>Error message</extracomment>
         <translation>Poročila ni bilo mogoče poslati</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="912"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1023"/>
         <source>Attachment should be less than %1 MB</source>
         <extracomment>Error message. %1 = size in MB</extracomment>
         <translation>Priloga mora biti manjša od %1 MB</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="955"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1066"/>
         <source>Report sent</source>
         <extracomment>Status message: Referring to sending a feedback report</extracomment>
         <translation>Poročilo poslano</translation>
@@ -1182,6 +1182,45 @@ Button text</extracomment>
     </message>
 </context>
 <context>
+    <name>CustomTemplates</name>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="22"/>
+        <source>Custom Templates</source>
+        <extracomment>Collapsible section: Custom Templates</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="39"/>
+        <source>Enable Custom Templates</source>
+        <extracomment>Checkbox: Select to use custom templates when exporting robot code</extracomment>
+        <translation type="unfinished">Omogoči predloge po meri</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="59"/>
+        <source>Header</source>
+        <extracomment>Header in the exported robot code</extracomment>
+        <translation type="unfinished">Glava</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="75"/>
+        <source>Custom Header</source>
+        <extracomment>Placeholder for when no custom header template is entered</extracomment>
+        <translation type="unfinished">Glava po meri</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="91"/>
+        <source>Footer</source>
+        <extracomment>Footer in the exported robot code</extracomment>
+        <translation type="unfinished">Noga</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="107"/>
+        <source>Custom Footer</source>
+        <extracomment>Placeholder for when no custom footer template is entered</extracomment>
+        <translation type="unfinished">Noga po meri</translation>
+    </message>
+</context>
+<context>
     <name>DHRowEditor</name>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="44"/>
@@ -1339,540 +1378,471 @@ Button text</extracomment>
 <context>
     <name>ExportRobotCode</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="839"/>
         <source>Tool Data</source>
         <extracomment>Collapsible section: Set data related the tool</extracomment>
-        <translation>Podatki Orodja</translation>
+        <translation type="vanished">Podatki Orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="910"/>
         <source>Tool Weight</source>
         <extracomment>Placeholder for when no tool weight has been entered</extracomment>
-        <translation>Teža orodja</translation>
+        <translation type="vanished">Teža orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="869"/>
         <source>No tool selected</source>
         <extracomment>Only shown if the user has not selected a tool</extracomment>
-        <translation>Nobeno orodje ni izbrano</translation>
+        <translation type="vanished">Nobeno orodje ni izbrano</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="56"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="23"/>
         <source>Export Robot Code</source>
         <extracomment>Title</extracomment>
         <translation>Izvozi kodo robota</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="148"/>
         <source>Solution</source>
         <extracomment>Status of the solution</extracomment>
-        <translation>Rešitev</translation>
+        <translation type="vanished">Rešitev</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="181"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox. Select to switch off tool under rapid movement</extracomment>
-        <translation>Varilna pištola vključeno/izključeno</translation>
+        <translation type="vanished">Varilna pištola vključeno/izključeno</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="186"/>
         <source>Switch off tool (gun) under rapid movement</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation>Pri hitrem gibanju izklopi orodje (varilno pištolo).</translation>
+        <translation type="vanished">Pri hitrem gibanju izklopi orodje (varilno pištolo).</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="204"/>
         <source>Fine point before gun on/off</source>
         <extracomment>Checkbox. Select to enable fine point before gun on/off</extracomment>
-        <translation>Natančno pozicioniranje pred Varilna pištola vključeno/izključeno</translation>
+        <translation type="vanished">Natančno pozicioniranje pred Varilna pištola vključeno/izključeno</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="209"/>
         <source>Enable fine point before gun on/off</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation>Omogoči pozicioniranje pred Varilna pištola vključeno/izključeno</translation>
+        <translation type="vanished">Omogoči pozicioniranje pred Varilna pištola vključeno/izključeno</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="221"/>
         <source>Set tool number</source>
         <extracomment>Checkbox. Select to enable automatic tool changing in exported code</extracomment>
-        <translation>Nastavite številko orodja</translation>
+        <translation type="vanished">Nastavite številko orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="226"/>
         <source>Automatic tool changing</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation>Samodejna menjava orodja</translation>
+        <translation type="vanished">Samodejna menjava orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="235"/>
         <source>Export spindle speeds</source>
         <extracomment>Checkbox. Select to include spindle speeds in exported robot code</extracomment>
-        <translation>Izvozi hitrosti vretena</translation>
+        <translation type="vanished">Izvozi hitrosti vretena</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="240"/>
         <source>Include spindle speeds in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation>V izvoženo kodo vključite hitrosti vretena</translation>
+        <translation type="vanished">V izvoženo kodo vključite hitrosti vretena</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="250"/>
         <source>Arc welding</source>
         <extracomment>Checkbox</extracomment>
-        <translation>Obločno varjenje</translation>
+        <translation type="vanished">Obločno varjenje</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="259"/>
         <source>Override speeds</source>
         <extracomment>Checkbox. Select to override all feed speeds</extracomment>
-        <translation>Preglasi hitrosti</translation>
+        <translation type="vanished">Preglasi hitrosti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="264"/>
         <source>Override target speeds from path</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation>Preglasi ciljne hitrosti s poti</translation>
+        <translation type="vanished">Preglasi ciljne hitrosti s poti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="286"/>
         <source>Cutting speed (mm/s)</source>
         <extracomment>Selector for linear cutting speed</extracomment>
-        <translation>Hitrost rezanja (mm/s)</translation>
+        <translation type="vanished">Hitrost rezanja (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="288"/>
         <source>Override targets with speed mode &quot;cutting&quot; and &quot;input&quot;</source>
         <extracomment>Tool tip for dropdown menu. Select override cutting feed speed</extracomment>
-        <translation>Preglasite točke s hitrostnim načinom &quot;rezanje&quot; in &quot;vnos&quot;</translation>
+        <translation type="vanished">Preglasite točke s hitrostnim načinom &quot;rezanje&quot; in &quot;vnos&quot;</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="327"/>
         <source>Rapid speed (mm/s)</source>
         <extracomment>Selector for linear rapid speed</extracomment>
-        <translation>Visoka hitrost (mm/s)</translation>
+        <translation type="vanished">Visoka hitrost (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="329"/>
         <source>Override targets with speed mode &quot;rapid&quot;</source>
         <extracomment>Tool tip for dropdown menu. Select override rapid feed speed</extracomment>
-        <translation>Preglasite točke s hitrostnim načinom &quot;hitro gibanje&quot;</translation>
+        <translation type="vanished">Preglasite točke s hitrostnim načinom &quot;hitro gibanje&quot;</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="369"/>
         <source>Add lift points</source>
         <extracomment>Checkbox: Select to add points where robot lifts tool out of the cut</extracomment>
-        <translation>Dodajte točke dviga</translation>
+        <translation type="vanished">Dodajte točke dviga</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="388"/>
         <source>Lift distance (mm)</source>
         <extracomment>Distance to lift the tool in units of mm</extracomment>
-        <translation>Razdalja dviga (mm)</translation>
+        <translation type="vanished">Razdalja dviga (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="390"/>
         <source>Distance to lift tool out of cut</source>
         <extracomment>Tool tip for text field. Enter how much the tool should be lifted out of cut in a &quot;tool lift&quot;</extracomment>
-        <translation>Razdalja za dvig orodja iz reza</translation>
+        <translation type="vanished">Razdalja za dvig orodja iz reza</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="398"/>
         <source>Lift distance</source>
         <extracomment>Placeholder for when no distance is entered</extracomment>
-        <translation>Razdalja dviga</translation>
+        <translation type="vanished">Razdalja dviga</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="418"/>
         <source>S4 Controller</source>
         <extracomment>Checkbox. Select S4 controller</extracomment>
-        <translation>Krmilnik S4</translation>
+        <translation type="vanished">Krmilnik S4</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="423"/>
         <source>Select S4 Controller</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation>Izberite krmilnik S4</translation>
+        <translation type="vanished">Izberite krmilnik S4</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="433"/>
         <source>Number of lines per file</source>
         <extracomment>Restrict how many lines a single file can have</extracomment>
-        <translation>Število vrstic na datoteko</translation>
+        <translation type="vanished">Število vrstic na datoteko</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="436"/>
         <source>Split code into multiple files if the file is too large</source>
         <extracomment>Tool tip for text field. Robot code is splitted into multiple files if it has more than this mumber of lines.</extracomment>
-        <translation>Razdeli kodo na več datotek, če je datoteka prevelika</translation>
+        <translation type="vanished">Razdeli kodo na več datotek, če je datoteka prevelika</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="446"/>
         <source>Max lines</source>
         <extracomment>Placeholder for when no number is entered</extracomment>
-        <translation>Največ vrstic</translation>
+        <translation type="vanished">Največ vrstic</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="464"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="474"/>
         <source>Procedure name</source>
         <extracomment>Name of the procedure for the robot
 ----------
 Placeholder for when no procedure name is entered</extracomment>
-        <translation>Ime postopka</translation>
+        <translation type="vanished">Ime postopka</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="466"/>
         <source>Name of the subprocess in exported code</source>
         <extracomment>Tool tip for text field</extracomment>
-        <translation>Ime podprocesa v izvoženi kodi</translation>
+        <translation type="vanished">Ime podprocesa v izvoženi kodi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="745"/>
         <source>Dynamic loading of JBI files</source>
         <extracomment>Checkbox: Select if the robot code should load JBI files dynamically</extracomment>
-        <translation>Dinamično nalaganje datotek JBI</translation>
+        <translation type="vanished">Dinamično nalaganje datotek JBI</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="750"/>
         <source>Automatically load next if program is split into multiple files</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation>Naslednji samodejno naloži, če je program razdeljen na več datotek</translation>
+        <translation type="vanished">Naslednji samodejno naloži, če je program razdeljen na več datotek</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="760"/>
         <source>XRC controller</source>
         <extracomment>Checkbox: Select if the robot has an XRC controller</extracomment>
-        <translation>XRC krmilnik</translation>
+        <translation type="vanished">XRC krmilnik</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="765"/>
         <source>Select if the robot has an XRC controller</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation>Izberite, če ima robot krmilnik XRC</translation>
+        <translation type="vanished">Izberite, če ima robot krmilnik XRC</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1036"/>
-        <source>Custom Templates</source>
-        <extracomment>Collapsible section: Set data related the tool</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1054"/>
         <source>Enable Custom Templates</source>
         <extracomment>Checkbox: Select to use custom templates when exporting robot code</extracomment>
-        <translation>Omogoči predloge po meri</translation>
+        <translation type="vanished">Omogoči predloge po meri</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1075"/>
         <source>Header</source>
         <extracomment>Header in the exported robot code</extracomment>
-        <translation>Glava</translation>
+        <translation type="vanished">Glava</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1091"/>
         <source>Custom Header</source>
         <extracomment>Placeholder for when no custom header template is entered</extracomment>
-        <translation>Glava po meri</translation>
+        <translation type="vanished">Glava po meri</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1107"/>
         <source>Footer</source>
         <extracomment>Footer in the exported robot code</extracomment>
-        <translation>Noga</translation>
+        <translation type="vanished">Noga</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1123"/>
         <source>Custom Footer</source>
         <extracomment>Placeholder for when no custom footer template is entered</extracomment>
-        <translation>Noga po meri</translation>
+        <translation type="vanished">Noga po meri</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1417"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="124"/>
         <source>Robot must be activated before generating robot code</source>
         <extracomment>Warns the user that the selected robot must be activated before exporting robot code</extracomment>
         <translation>Robot mora biti aktiviran pred generiranjem kode robota</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1427"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="133"/>
         <source>You cannot generate robot code in the trial version of IRBCAM. You can end the trial version and subscribe to the paid version before generating robot code %1 here %2</source>
         <extracomment>Warns the user that the selected robot must be activated before exporting robot code</extracomment>
         <translation>V preskusni različici IRBCAM ne morete ustvariti robotske kode. Preizkusno različico lahko končate in se naročite na plačljivo različico, preden tukaj ustvarite kodo robota %1 %2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1446"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="146"/>
+        <source>Reset Export Options</source>
+        <extracomment>Popup title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="148"/>
+        <source>Are you sure you want reset export options to default values?</source>
+        <extracomment>Popup text</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="161"/>
+        <source>Reset</source>
+        <extracomment>Button: Reset</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="180"/>
         <source>Open robot list</source>
         <extracomment>Button: This is shown instead of &quot;Export&quot; if the user has to activate the selected robot</extracomment>
         <translation>Odpri seznam robotov</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1465"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="200"/>
         <source>Generating robot code</source>
         <extracomment>Status message. Shown while waiting for robot code</extracomment>
         <translation>Generiranje kode robota</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="164"/>
         <source>General Options</source>
         <extracomment>Collapsible section</extracomment>
-        <translation>Splošne možnosti</translation>
+        <translation type="vanished">Splošne možnosti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="100"/>
         <source>Info</source>
         <extracomment>Collapsible section: info about the setup</extracomment>
-        <translation>Informacije</translation>
+        <translation type="vanished">Informacije</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="120"/>
         <source>Robot</source>
         <extracomment>Which robot is loaded</extracomment>
-        <translation>Robot</translation>
+        <translation type="vanished">Robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="124"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="135"/>
         <source>None</source>
         <extracomment>Placeholder for robot name if no robot is loaded
 ----------
 Placeholder for tool name if no tool is loaded</extracomment>
-        <translation>Noben</translation>
+        <translation type="vanished">Noben</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="130"/>
         <source>Tool</source>
         <extracomment>Which tool is loaded</extracomment>
-        <translation>Orodje</translation>
+        <translation type="vanished">Orodje</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="140"/>
         <source>Number of targets</source>
         <extracomment>How many targets are in the path</extracomment>
-        <translation>Število točk</translation>
+        <translation type="vanished">Število točk</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="500"/>
         <source>No robot selected</source>
         <extracomment>Collapsible section. Only shown when no robot is selected</extracomment>
-        <translation>Izbran ni noben robot</translation>
+        <translation type="vanished">Izbran ni noben robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="518"/>
         <source>File Type</source>
         <extracomment>File type selector. Which file type should the exported file(s) have</extracomment>
-        <translation>Vrsta datoteke</translation>
+        <translation type="vanished">Vrsta datoteke</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="590"/>
         <source>Rotary table axis number</source>
         <extracomment>ABB specific option. Which axis number should the rotary table be assigned to</extracomment>
-        <translation>Številka osi rotacijske mize</translation>
+        <translation type="vanished">Številka osi rotacijske mize</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="615"/>
         <source>Linear track axis number</source>
         <extracomment>ABB specific option. Which axis number should the linear track be assigned to</extracomment>
-        <translation>Linearni pomik številka osi</translation>
+        <translation type="vanished">Linearni pomik številka osi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="775"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="784"/>
         <source>Pulses per 360 deg (or meter)</source>
         <extracomment>Referring to encoder ticks per one revolution or meter on a rotational or linear axis
 ----------
 Placeholder for when no value is entered</extracomment>
-        <translation>Pulzi na 360 stopinj (ali meter)</translation>
+        <translation type="vanished">Pulzi na 360 stopinj (ali meter)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="812"/>
         <source>Generic Export Options in JSON format: eg.
 {
  &quot;procedureName&quot;: &quot;main&quot;,
  &quot;maxLinesPerFile&quot;: 1000
 }</source>
         <extracomment>Placeholder for text field. Do not change the content within the { curly brackets }</extracomment>
-        <translation>Splošne možnosti izvoza v formatu JSON: npr.
+        <translation type="vanished">Splošne možnosti izvoza v formatu JSON: npr.
 {
  &quot;procedureName&quot;: &quot;main&quot;,
  &quot;maxLinesPerFile&quot;: 1000
 }</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="861"/>
         <source>Tool Name</source>
         <extracomment>Name of the selected tool</extracomment>
-        <translation>Ime orodja</translation>
+        <translation type="vanished">Ime orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="877"/>
         <source>Export Name</source>
         <extracomment>Name of the tool in the exported code</extracomment>
-        <translation>Ime izvoza</translation>
+        <translation type="vanished">Ime izvoza</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="886"/>
         <source>Tool Export Name</source>
         <extracomment>Placeholder for when no tool export name has been entered</extracomment>
-        <translation>Ime izvoza orodja</translation>
+        <translation type="vanished">Ime izvoza orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="900"/>
         <source>Weight (kg)</source>
         <extracomment>Tool weight</extracomment>
-        <translation>Teža (kg): </translation>
+        <translation type="vanished">Teža (kg): </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1467"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="202"/>
         <source>Robot code received. Save to file?</source>
         <extracomment>This question is displayed in a popup after robot code is generated</extracomment>
         <translation>Koda robota prejeta. Shrani v datoteko?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1476"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="211"/>
         <source>Cancel</source>
         <extracomment>Cancel button</extracomment>
         <translation>Prekliči</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1481"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="216"/>
         <source>Save</source>
         <extracomment>Save button</extracomment>
         <translation>Shrani</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1152"/>
         <source>ABB Options</source>
         <extracomment>Collapsible section: Options specific for ABB robots</extracomment>
-        <translation>AAB možnosti</translation>
+        <translation type="vanished">AAB možnosti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1209"/>
         <source>KUKA Options</source>
         <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
-        <translation>KUKA.možnosti</translation>
+        <translation type="vanished">KUKA.možnosti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1232"/>
         <source>FANUC Options</source>
         <extracomment>Collapsible section: Options specific for FANUC robots</extracomment>
-        <translation>FANUC možnosti</translation>
+        <translation type="vanished">FANUC možnosti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1259"/>
         <source>MOTOMAN Options</source>
         <extracomment>Collapsible section: Options specific for MOTOMAN robots</extracomment>
-        <translation>MOTOMAN možnosti</translation>
+        <translation type="vanished">MOTOMAN možnosti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="542"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="552"/>
         <source>Module Name</source>
         <extracomment>ABB specific option. Name of the module in the robot code
 ----------
 Placeholder for when no module name is entered</extracomment>
-        <translation>Ime modula</translation>
+        <translation type="vanished">Ime modula</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="640"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="650"/>
         <source>Work Object Name</source>
         <extracomment>Name of the work object in the exported robot code
 ----------
 Placeholder for when no object name is entered</extracomment>
-        <translation>Ime delovnega objekta</translation>
+        <translation type="vanished">Ime delovnega objekta</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="566"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="576"/>
         <source>External Axis Name</source>
         <extracomment>Name for external axis (rotary table)
 ----------
 Placeholder for when no external axis name is entered</extracomment>
-        <translation>Ime zunanje osi</translation>
+        <translation type="vanished">Ime zunanje osi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="664"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="673"/>
         <source>Number of Main Files</source>
         <extracomment>Referring to number of main.src files when exporting for KUKA robots
 ----------
 Placeholder for when no number is entered</extracomment>
-        <translation>Število glavnih datotek</translation>
+        <translation type="vanished">Število glavnih datotek</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="691"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="700"/>
         <source>Tool Number</source>
         <extracomment>Referring to which tool should be used in the exported robot code
 ----------
 Placeholder for when no tool number is entered</extracomment>
-        <translation>Številka orodja</translation>
+        <translation type="vanished">Številka orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="718"/>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="727"/>
         <source>User Frame Number</source>
         <extracomment>Referring to which user frame should be used in the exported code
 ----------
 Placeholder for when no user frame number is entered</extracomment>
-        <translation>Številka uporabniškega koordinantnega sistema</translation>
+        <translation type="vanished">Številka uporabniškega koordinantnega sistema</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="932"/>
         <source>Center of Gravity X (mm)</source>
         <extracomment>X-position of the tool&apos;s centre of gravity</extracomment>
-        <translation>Težišče X (mm)</translation>
+        <translation type="vanished">Težišče X (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="940"/>
         <source>Center of Gravity X</source>
         <extracomment>Placeholder text for when no X centre of gravity is entered</extracomment>
-        <translation>Težišče X</translation>
+        <translation type="vanished">Težišče X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="966"/>
         <source>Center of Gravity Y (mm)</source>
         <extracomment>Y-position of the tool&apos;s centre of gravity</extracomment>
-        <translation>Težišče Y (mm)</translation>
+        <translation type="vanished">Težišče Y (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="974"/>
         <source>Center of Gravity Y</source>
         <extracomment>Placeholder text for when no Y centre of gravity is entered</extracomment>
-        <translation>Težišče Y</translation>
+        <translation type="vanished">Težišče Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1000"/>
         <source>Center of Gravity Z (mm)</source>
         <extracomment>Z-position of the tool&apos;s centre of gravity</extracomment>
-        <translation>Težišče Z (mm)</translation>
+        <translation type="vanished">Težišče Z (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1008"/>
         <source>Center of Gravity Z</source>
         <extracomment>Placeholder text for when no Z centre of gravity is entered</extracomment>
-        <translation>Težišče Z</translation>
+        <translation type="vanished">Težišče Z</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1338"/>
         <source>Generic Options</source>
         <extracomment>Collapsible section: Options for generic robots</extracomment>
-        <translation>Generične možnosti</translation>
+        <translation type="vanished">Generične možnosti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1397"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="106"/>
         <source>Path must be configured before it can be exported</source>
         <extracomment>Warns the user that code cannot be exported before the path is solved</extracomment>
         <translation>Pot je treba konfigurirati, preden jo lahko izvozite</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1407"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="115"/>
         <source>One or more options are not valid</source>
         <extracomment>Warns the user that code cannot be exported with the current options</extracomment>
         <translation>Ena ali več možnosti ni veljavnih</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="1448"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="182"/>
         <source>Export</source>
         <extracomment>Button: Click here to export robot code</extracomment>
         <translation>Izvozi</translation>
@@ -1885,6 +1855,156 @@ Placeholder for when no user frame number is entered</extracomment>
         <source>Failed to open file: %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Datoteke ni bilo mogoče odpreti: %1</translation>
+    </message>
+</context>
+<context>
+    <name>General</name>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="25"/>
+        <source>General Options</source>
+        <extracomment>Collapsible section</extracomment>
+        <translation type="unfinished">Splošne možnosti</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="41"/>
+        <source>Gun on/off</source>
+        <extracomment>Checkbox. Select to switch off tool under rapid movement</extracomment>
+        <translation type="unfinished">Varilna pištola vključeno/izključeno</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="46"/>
+        <source>Switch off tool (gun) under rapid movement</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished">Pri hitrem gibanju izklopi orodje (varilno pištolo).</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="63"/>
+        <source>Fine point before gun on/off</source>
+        <extracomment>Checkbox. Select to enable fine point before gun on/off</extracomment>
+        <translation type="unfinished">Natančno pozicioniranje pred Varilna pištola vključeno/izključeno</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="68"/>
+        <source>Enable fine point before gun on/off</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished">Omogoči pozicioniranje pred Varilna pištola vključeno/izključeno</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="80"/>
+        <source>Set tool number</source>
+        <extracomment>Checkbox. Select to enable automatic tool changing in exported code</extracomment>
+        <translation type="unfinished">Nastavite številko orodja</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="85"/>
+        <source>Automatic tool changing</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished">Samodejna menjava orodja</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="94"/>
+        <source>Export spindle speeds</source>
+        <extracomment>Checkbox. Select to include spindle speeds in exported robot code</extracomment>
+        <translation type="unfinished">Izvozi hitrosti vretena</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="99"/>
+        <source>Include spindle speeds in exported code</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished">V izvoženo kodo vključite hitrosti vretena</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="109"/>
+        <source>Override speeds</source>
+        <extracomment>Checkbox. Select to override all feed speeds</extracomment>
+        <translation type="unfinished">Preglasi hitrosti</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="114"/>
+        <source>Override target speeds from path</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished">Preglasi ciljne hitrosti s poti</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="135"/>
+        <source>Cutting speed (mm/s)</source>
+        <extracomment>Selector for linear cutting speed</extracomment>
+        <translation type="unfinished">Hitrost rezanja (mm/s)</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="137"/>
+        <source>Override targets with speed mode &quot;cutting&quot; and &quot;input&quot;</source>
+        <extracomment>Tool tip for dropdown menu. Select override cutting feed speed</extracomment>
+        <translation type="unfinished">Preglasite točke s hitrostnim načinom &quot;rezanje&quot; in &quot;vnos&quot;</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="176"/>
+        <source>Rapid speed (mm/s)</source>
+        <extracomment>Selector for linear rapid speed</extracomment>
+        <translation type="unfinished">Visoka hitrost (mm/s)</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="178"/>
+        <source>Override targets with speed mode &quot;rapid&quot;</source>
+        <extracomment>Tool tip for dropdown menu. Select override rapid feed speed</extracomment>
+        <translation type="unfinished">Preglasite točke s hitrostnim načinom &quot;hitro gibanje&quot;</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="218"/>
+        <source>Add lift points</source>
+        <extracomment>Checkbox: Select to add points where robot lifts tool out of the cut</extracomment>
+        <translation type="unfinished">Dodajte točke dviga</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="236"/>
+        <source>Lift distance (mm)</source>
+        <extracomment>Distance to lift the tool in units of mm</extracomment>
+        <translation type="unfinished">Razdalja dviga (mm)</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="238"/>
+        <source>Distance to lift tool out of cut</source>
+        <extracomment>Tool tip for text field. Enter how much the tool should be lifted out of cut in a &quot;tool lift&quot;</extracomment>
+        <translation type="unfinished">Razdalja za dvig orodja iz reza</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="246"/>
+        <source>Lift distance</source>
+        <extracomment>Placeholder for when no distance is entered</extracomment>
+        <translation type="unfinished">Razdalja dviga</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="266"/>
+        <source>Number of lines per file</source>
+        <extracomment>Restrict how many lines a single file can have</extracomment>
+        <translation type="unfinished">Število vrstic na datoteko</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="269"/>
+        <source>Split code into multiple files if the file is too large</source>
+        <extracomment>Tool tip for text field. Robot code is splitted into multiple files if it has more than this mumber of lines.</extracomment>
+        <translation type="unfinished">Razdeli kodo na več datotek, če je datoteka prevelika</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="279"/>
+        <source>Max lines</source>
+        <extracomment>Placeholder for when no number is entered</extracomment>
+        <translation type="unfinished">Največ vrstic</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="297"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="307"/>
+        <source>Procedure name</source>
+        <extracomment>Name of the procedure for the robot
+----------
+Placeholder for when no procedure name is entered</extracomment>
+        <translation type="unfinished">Ime postopka</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="299"/>
+        <source>Name of the subprocess in exported code</source>
+        <extracomment>Tool tip for text field</extracomment>
+        <translation type="unfinished">Ime podprocesa v izvoženi kodi</translation>
     </message>
 </context>
 <context>
@@ -2236,6 +2356,48 @@ Placeholder for when no user frame number is entered</extracomment>
         <source>Import</source>
         <extracomment>Button: Import asset</extracomment>
         <translation>Uvozi</translation>
+    </message>
+</context>
+<context>
+    <name>Info</name>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="20"/>
+        <source>Info</source>
+        <extracomment>Collapsible section: info about the setup</extracomment>
+        <translation type="unfinished">Informacije</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="35"/>
+        <source>Robot</source>
+        <extracomment>Which robot is loaded</extracomment>
+        <translation type="unfinished">Robot</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="39"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="50"/>
+        <source>None</source>
+        <extracomment>Placeholder for robot name if no robot is loaded
+----------
+Placeholder for tool name if no tool is loaded</extracomment>
+        <translation type="unfinished">Noben</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="45"/>
+        <source>Tool</source>
+        <extracomment>Which tool is loaded</extracomment>
+        <translation type="unfinished">Orodje</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="55"/>
+        <source>Number of targets</source>
+        <extracomment>How many targets are in the path</extracomment>
+        <translation type="unfinished">Število točk</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="63"/>
+        <source>Solution</source>
+        <extracomment>Status of the solution</extracomment>
+        <translation type="unfinished">Rešitev</translation>
     </message>
 </context>
 <context>
@@ -2902,6 +3064,182 @@ Enega ali več projektov je treba izbrisati, da lahko ustvarite nove projekte</t
         <source>Sign in</source>
         <extracomment>Button: Sign in to account</extracomment>
         <translation>Prijava</translation>
+    </message>
+</context>
+<context>
+    <name>Manufacturer</name>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="30"/>
+        <source>No robot selected</source>
+        <extracomment>Collapsible section. Only shown when no robot is selected</extracomment>
+        <translation type="unfinished">Izbran ni noben robot</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="46"/>
+        <source>Arc welding</source>
+        <extracomment>Checkbox</extracomment>
+        <translation type="unfinished">Obločno varjenje</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="56"/>
+        <source>S4 Controller</source>
+        <extracomment>Checkbox. Select S4 controller</extracomment>
+        <translation type="unfinished">Krmilnik S4</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="61"/>
+        <source>Select S4 Controller</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished">Izberite krmilnik S4</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="70"/>
+        <source>File Type</source>
+        <extracomment>File type selector. Which file type should the exported file(s) have</extracomment>
+        <translation type="unfinished">Vrsta datoteke</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="94"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="104"/>
+        <source>Module Name</source>
+        <extracomment>ABB specific option. Name of the module in the robot code
+----------
+Placeholder for when no module name is entered</extracomment>
+        <translation type="unfinished">Ime modula</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="118"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="128"/>
+        <source>External Axis Name</source>
+        <extracomment>Name for external axis (rotary table)
+----------
+Placeholder for when no external axis name is entered</extracomment>
+        <translation type="unfinished">Ime zunanje osi</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="142"/>
+        <source>Rotary table axis number</source>
+        <extracomment>ABB specific option. Which axis number should the rotary table be assigned to</extracomment>
+        <translation type="unfinished">Številka osi rotacijske mize</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="167"/>
+        <source>Linear track axis number</source>
+        <extracomment>ABB specific option. Which axis number should the linear track be assigned to</extracomment>
+        <translation type="unfinished">Linearni pomik številka osi</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="192"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="202"/>
+        <source>Work Object Name</source>
+        <extracomment>Name of the work object in the exported robot code
+----------
+Placeholder for when no object name is entered</extracomment>
+        <translation type="unfinished">Ime delovnega objekta</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="216"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="225"/>
+        <source>Number of Main Files</source>
+        <extracomment>Referring to number of main.src files when exporting for KUKA robots
+----------
+Placeholder for when no number is entered</extracomment>
+        <translation type="unfinished">Število glavnih datotek</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="243"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="252"/>
+        <source>Tool Number</source>
+        <extracomment>Referring to which tool should be used in the exported robot code
+----------
+Placeholder for when no tool number is entered</extracomment>
+        <translation type="unfinished">Številka orodja</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="270"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="279"/>
+        <source>User Frame Number</source>
+        <extracomment>Referring to which user frame should be used in the exported code
+----------
+Placeholder for when no user frame number is entered</extracomment>
+        <translation type="unfinished">Številka uporabniškega koordinantnega sistema</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="297"/>
+        <source>Dynamic loading of JBI files</source>
+        <extracomment>Checkbox: Select if the robot code should load JBI files dynamically</extracomment>
+        <translation type="unfinished">Dinamično nalaganje datotek JBI</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="302"/>
+        <source>Automatically load next if program is split into multiple files</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished">Naslednji samodejno naloži, če je program razdeljen na več datotek</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="312"/>
+        <source>XRC controller</source>
+        <extracomment>Checkbox: Select if the robot has an XRC controller</extracomment>
+        <translation type="unfinished">XRC krmilnik</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="317"/>
+        <source>Select if the robot has an XRC controller</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished">Izberite, če ima robot krmilnik XRC</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="327"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="336"/>
+        <source>Pulses per 360 deg (or meter)</source>
+        <extracomment>Referring to encoder ticks per one revolution or meter on a rotational or linear axis
+----------
+Placeholder for when no value is entered</extracomment>
+        <translation type="unfinished">Pulzi na 360 stopinj (ali meter)</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="364"/>
+        <source>Generic Export Options in JSON format: eg.
+{
+ &quot;procedureName&quot;: &quot;main&quot;,
+ &quot;maxLinesPerFile&quot;: 1000
+}</source>
+        <extracomment>Placeholder for text field. Do not change the content within the { curly brackets }</extracomment>
+        <translation type="unfinished">Splošne možnosti izvoza v formatu JSON: npr.
+{
+ &quot;procedureName&quot;: &quot;main&quot;,
+ &quot;maxLinesPerFile&quot;: 1000
+}</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="387"/>
+        <source>ABB Options</source>
+        <extracomment>Collapsible section: Options specific for ABB robots</extracomment>
+        <translation type="unfinished">AAB možnosti</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="427"/>
+        <source>KUKA Options</source>
+        <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
+        <translation type="unfinished">KUKA.možnosti</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="439"/>
+        <source>FANUC Options</source>
+        <extracomment>Collapsible section: Options specific for FANUC robots</extracomment>
+        <translation type="unfinished">FANUC možnosti</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="455"/>
+        <source>MOTOMAN Options</source>
+        <extracomment>Collapsible section: Options specific for MOTOMAN robots</extracomment>
+        <translation type="unfinished">MOTOMAN možnosti</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="482"/>
+        <source>Generic Options</source>
+        <extracomment>Collapsible section: Options for generic robots</extracomment>
+        <translation type="unfinished">Generične možnosti</translation>
     </message>
 </context>
 <context>
@@ -5426,6 +5764,87 @@ Cilj je nedosegljiv s trenutno konfiguracijo</translation>
         <source>Motion Type</source>
         <extracomment>To select motion type for a target (linear or arc)</extracomment>
         <translation>Vrsta gibanja</translation>
+    </message>
+</context>
+<context>
+    <name>ToolData</name>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="32"/>
+        <source>Tool Data</source>
+        <extracomment>Collapsible section: Set data related the tool</extracomment>
+        <translation type="unfinished">Podatki Orodja</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="51"/>
+        <source>Tool Name</source>
+        <extracomment>Name of the selected tool</extracomment>
+        <translation type="unfinished">Ime orodja</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="59"/>
+        <source>No tool selected</source>
+        <extracomment>Only shown if the user has not selected a tool</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="67"/>
+        <source>Export Name</source>
+        <extracomment>Name of the tool in the exported code</extracomment>
+        <translation type="unfinished">Ime izvoza</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="76"/>
+        <source>Tool Export Name</source>
+        <extracomment>Placeholder for when no tool export name has been entered</extracomment>
+        <translation type="unfinished">Ime izvoza orodja</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="90"/>
+        <source>Weight (kg)</source>
+        <extracomment>Tool weight</extracomment>
+        <translation type="unfinished">Teža (kg): </translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="100"/>
+        <source>Tool Weight</source>
+        <extracomment>Placeholder for when no tool weight has been entered</extracomment>
+        <translation type="unfinished">Teža orodja</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="122"/>
+        <source>Center of Gravity X (mm)</source>
+        <extracomment>X-position of the tool&apos;s centre of gravity</extracomment>
+        <translation type="unfinished">Težišče X (mm)</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="130"/>
+        <source>Center of Gravity X</source>
+        <extracomment>Placeholder text for when no X centre of gravity is entered</extracomment>
+        <translation type="unfinished">Težišče X</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="156"/>
+        <source>Center of Gravity Y (mm)</source>
+        <extracomment>Y-position of the tool&apos;s centre of gravity</extracomment>
+        <translation type="unfinished">Težišče Y (mm)</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="164"/>
+        <source>Center of Gravity Y</source>
+        <extracomment>Placeholder text for when no Y centre of gravity is entered</extracomment>
+        <translation type="unfinished">Težišče Y</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="190"/>
+        <source>Center of Gravity Z (mm)</source>
+        <extracomment>Z-position of the tool&apos;s centre of gravity</extracomment>
+        <translation type="unfinished">Težišče Z (mm)</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="198"/>
+        <source>Center of Gravity Z</source>
+        <extracomment>Placeholder text for when no Z centre of gravity is entered</extracomment>
+        <translation type="unfinished">Težišče Z</translation>
     </message>
 </context>
 <context>
