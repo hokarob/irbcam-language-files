@@ -534,19 +534,19 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1012"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1027"/>
         <source>Failed to send report</source>
         <extracomment>Error message</extracomment>
         <translation>Échec de l&apos;envoi du rapport</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1023"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1038"/>
         <source>Attachment should be less than %1 MB</source>
         <extracomment>Error message. %1 = size in MB</extracomment>
         <translation>La pièce jointe doit faire moine de %1 MB</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1066"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1081"/>
         <source>Report sent</source>
         <extracomment>Status message: Referring to sending a feedback report</extracomment>
         <translation>Rapport envoyé</translation>
@@ -732,38 +732,38 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>ConfigurePathView</name>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="346"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="371"/>
         <source>Rotary Table Angle (deg)</source>
         <extracomment>Label for text field: Starting angle for rotary table</extracomment>
         <translation>Angle de la table rotative (deg)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="107"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="110"/>
         <source>Export Robot Code</source>
         <extracomment>Button: Open popup to export robot code</extracomment>
         <translation>Exporter le code pour le robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="109"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="112"/>
         <source>Solve Path</source>
         <extracomment>Button: Attempt to solve path</extracomment>
         <translation>Calculer le chemin</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="203"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="206"/>
         <source>Tool roll mode</source>
         <extracomment>Label for dropdown menu: Select how the tool should rotate about its Z-axis</extracomment>
         <translation>Mode de roulis de l&apos;outil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="226"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="229"/>
         <source>No Change</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Pas de changement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="228"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="320"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="231"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="345"/>
         <source>Fixed Angle</source>
         <extracomment>Dropdown menu item: Select tool roll mode
 ----------
@@ -771,8 +771,8 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Angle fixe</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="230"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="322"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="233"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="347"/>
         <source>Dynamic Angle 1</source>
         <extracomment>Dropdown menu item: Select tool roll mode
 ----------
@@ -780,8 +780,8 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Angle dynamique 1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="232"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="324"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="235"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="349"/>
         <source>Dynamic Angle 2</source>
         <extracomment>Dropdown menu item: Select tool roll mode
 ----------
@@ -789,13 +789,13 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Angle dynamique 2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="234"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="237"/>
         <source>Roller Mode</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Mode Roulette</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="240"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="243"/>
         <source>Overwrite tool roll angle %1 values of all targets with the selected method</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path. %1 = RZ2</extracomment>
         <translation>Remplacer l&apos;angle de roulis %1 de toutes les cibles avec la méthode sélectionnée</translation>
@@ -806,103 +806,126 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="vanished">Cette configuration va remplacer l&apos;angle de roulis %1 de toutes les cibles</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="274"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="277"/>
         <source>Tool roll angle (deg)</source>
         <extracomment>Label for text field: Referring to rotation about the tool Z-axis</extracomment>
         <translation>Angle de roulis de l&apos;outil (deg)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="276"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="279"/>
         <source>Set initial tool roll angle</source>
         <extracomment>Tool tip for slider.</extracomment>
         <translation>Sélectionner l&apos;angle de roulis de l&apos;outil initial</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="302"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="327"/>
         <source>Rotary table Mode</source>
         <extracomment>Label for a dropdown menu: Select operating mode for rotary table</extracomment>
         <translation>Mode de la table rotative</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="331"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="356"/>
         <source>Select motion mode for rotary table</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
         <translation>Sélectionner le mode de mouvement de la table rotative</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="348"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="373"/>
         <source>Initial angle for rotary table</source>
         <extracomment>Tool tip for text field</extracomment>
         <translation>Angle initial de la table rotative</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="380"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="405"/>
         <source>Linear track mode</source>
         <extracomment>Label for dropdown menu: Select operating mode for linear track</extracomment>
         <translation>Mode de l&apos;axe linéaire</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="413"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="438"/>
         <source>Select motion mode for linear track</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
         <translation>Sélectionner le mode de mouvement de l&apos;axe linéaire</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="426"/>
         <source>Batch size</source>
         <extracomment>Label for text field: Referring to size of batches in linear track motion</extracomment>
-        <translation>Taille du groupe</translation>
+        <translation type="vanished">Taille du groupe</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="428"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="453"/>
         <source>Size of batch window</source>
         <extracomment>Tool tip for text field.</extracomment>
         <translation>Taille de la fenêtre d&apos;un groupe</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="471"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="496"/>
         <source>Initial position of linear track</source>
         <extracomment>Tool tip for label.</extracomment>
         <translation>Position initiale de l&apos;axe linéaire</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="474"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="499"/>
         <source>Linear track axis %1 (mm)</source>
         <extracomment>Label for slider. Referring to linear track position if it is a multi axis linear track. %1 = axis number</extracomment>
         <translation>Axe linéaire %1 (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="476"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="501"/>
         <source>Linear track (mm)</source>
         <extracomment>Label for slider. Referring to linear track position</extracomment>
         <translation>Axe linéaire (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="514"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="537"/>
+        <source>Select solution where robot bends backwards</source>
+        <extracomment>Tool tip for bending backwards checkbox.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="546"/>
         <source>Elbow down</source>
         <extracomment>Checkbox: Select to use solution where the robot&apos;s &quot;elbow&quot; points downwards</extracomment>
         <translation>Coude vers le bas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="525"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="554"/>
+        <source>Select solution where robot points &quot;elbow&quot; downwards</source>
+        <extracomment>Tool tip for elbow down checkbox.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="563"/>
         <source>Wrist down</source>
         <extracomment>Checkbox: Select to use solution where robot &quot;wrist&quot; points downwards</extracomment>
         <translation>Poignet vers le bas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="536"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="571"/>
+        <source>Select solution where robot points &quot;wrist&quot; downwards</source>
+        <extracomment>Tool tip for wrist down checkbox.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="579"/>
         <source>Allow large reorient</source>
         <extracomment>Checkbox: Select to allow large orientation changes between targets</extracomment>
         <translation>Autoriser une grande réorientation</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="555"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="587"/>
+        <source>Allow the solver to try rotating tool 180° if necessary</source>
+        <extracomment>Tool tip for allow large reorient checkbox.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="603"/>
         <source>Flange offset</source>
         <extracomment>Label for deopdown menu: Flange offset</extracomment>
         <translation>Rotation de l&apos;outil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="557"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="605"/>
         <source>Add or subtract one full revolution on the tool flange (axis 6)
 Useful for avoiding cable twist or similar issues in certain situations</source>
         <extracomment>Tool tip for dropdown menu: Flange offset</extracomment>
@@ -910,67 +933,85 @@ Useful for avoiding cable twist or similar issues in certain situations</source>
 Utile pour éviter de tordre le cable ou d&apos;autres problèmes similaires dans certaines situations</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="398"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="423"/>
         <source>Fixed Position</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation>Position fixe</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="131"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="134"/>
         <source>The active subscription does not provide access to exporting 5-axis robot code&lt;br&gt;Click %1here%2 to manage subscriptions</source>
         <extracomment>Tool tip. %1 = start of link, %2 = end of link</extracomment>
         <translation>L&apos;abonnement actuel ne permet pas d&apos;exporter du code pour des robots 5-axes&lt;br&gt;Cliquez %1ici%2 pour gérer les abonnements</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="133"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="136"/>
         <source>The active subscription does not provide access to exporting robot code&lt;br&gt;Click %1here%2 to manage subscriptions</source>
         <extracomment>Tool tip. %1 = start of link, %2 = end of link</extracomment>
         <translation>L&apos;abonnement actuel ne permet pas d&apos;exporter du code pour des robots&lt;br&gt;Cliquez %1ici%2 pour gérer les abonnements</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="250"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="253"/>
         <source>This configuration will overwrite tool roll angle %1 values of all targets when solving the path. You may switch the %2 to %3 if you don&apos;t want to overwrite the tool roll angle before solving the path.</source>
         <extracomment>Content for confirmation popup. %1 = RZ1, %2 = tool roll mode, %3 = No Change</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="254"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="257"/>
         <source>Ok</source>
         <extracomment>Acknowledge button for confirmation popup</extracomment>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="400"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="302"/>
+        <source>Max angle difference</source>
+        <extracomment>Label for text field: Referring to maximum angular difference between adjacent targets</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="304"/>
+        <source>Maximum angular difference between adjacent targets (°)</source>
+        <extracomment>Tool tip for slider</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="425"/>
         <source>Dynamic Position</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation>Position dynamique</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="402"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="427"/>
         <source>Positive Only</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation>Positif uniquement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="404"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="429"/>
         <source>Negative Only</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation>Négatif uniquement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="406"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="431"/>
         <source>Batch Mode</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation>Mode par groupe</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="503"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="451"/>
+        <source>Batch size (mm)</source>
+        <extracomment>Label for text field: Referring to size of batches in linear track motion</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="529"/>
         <source>Bending backwards</source>
         <extracomment>Checkbox: Select to use solution where robot bends backwards</extracomment>
         <translation>Se plier vers l&apos;arrière</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="151"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="154"/>
         <source>Status: </source>
         <extracomment>Label: Referring to status of solving the path</extracomment>
         <translation>Statut : </translation>
@@ -2656,25 +2697,49 @@ Veuillez sauvegarder votre travail et recharger la page dès que vous le pouvez<
         <translation>Vitesses de simulation</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="348"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="224"/>
+        <source>Feed speed for rapid movements (mm/s)</source>
+        <extracomment>Tool tip for rapid speed input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="249"/>
+        <source>Feed speed for cutting movement (mm/s)</source>
+        <extracomment>Tool tip for cuttin speed input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="272"/>
+        <source>Reorientation speed</source>
+        <extracomment>Setting for how fast the robot should rotate the tool of the position is constant</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="274"/>
+        <source>Angular speed when rotating tool (°/s)</source>
+        <extracomment>Tool tip for reorientation speed input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="355"/>
         <source>Set all revolute joints (deg)</source>
         <extracomment>Referring to setting all limit values at once</extracomment>
         <translation>Modifier toutes les articulations rotatives (deg)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="376"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="383"/>
         <source>Set all linear joints (mm)</source>
         <extracomment>Referring to setting all limit values at once</extracomment>
         <translation>Modifier toutes les articulations linéaires (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="411"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="418"/>
         <source>Joint %1 (mm)</source>
         <extracomment>Label for text field. %1 = joint number</extracomment>
         <translation>Articulation %1 (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="413"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="420"/>
         <source>Joint %1 (°)</source>
         <extracomment>Label for text field. %1 = joint number</extracomment>
         <translation>Articulation %1 (°)</translation>
@@ -2704,33 +2769,32 @@ Veuillez sauvegarder votre travail et recharger la page dès que vous le pouvez<
         <translation>Les modifications de paramètres des la station ne sont pas sauvegardés automatiquement. Ils sont sauvegardés dans la station et donc sauvegardés et chargés avec le projet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="245"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="247"/>
         <source>Cutting speed</source>
         <extracomment>Setting for cutting movement speed</extracomment>
         <translation>Vitesse de coupe</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="268"/>
         <source>Reorientation speed (deg/s)</source>
         <extracomment>Setting for how fast the robot should rotate the tool of the position is constant</extracomment>
-        <translation>Vitesse de réorientation (deg/s)</translation>
+        <translation type="vanished">Vitesse de réorientation (deg/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="293"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="300"/>
         <source>Distance to Joint Limits</source>
         <extracomment>Collapsible setcion within station settings: Reduction of allowed joint space</extracomment>
         <translation>Distance limite des articulations</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="357"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="385"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="364"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="392"/>
         <source>Value</source>
         <extracomment>Placeholder for when no value is entered</extracomment>
         <translation>Valeur</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="367"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="395"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="374"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="402"/>
         <source>Set</source>
         <extracomment>Button to set values</extracomment>
         <translation>Appliquer</translation>
@@ -3230,50 +3294,69 @@ Placeholder for when no value is entered</extracomment>
         <translation>De</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="29"/>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="26"/>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="33"/>
+        <source>Enter target number or select range in target list</source>
+        <extracomment>Tooltip for from-target field
+----------
+Tooltip for to-target field</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="31"/>
         <source>To</source>
         <extracomment>Label for text field: Referring to index of the last target in the calculation</extracomment>
         <translation>À</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="34"/>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="38"/>
         <source>Max Distance</source>
         <extracomment>Label for text field: Maximum allowed distance between targets</extracomment>
         <translation>Distance maximale</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="36"/>
-        <source>Maximum distance between adjacent targets</source>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="40"/>
+        <source>Maximum distance between adjacent targets (mm). Recommended less than %1</source>
         <extracomment>Tool tip explaining max reorientation</extracomment>
-        <translation>Distance maximale entre cibles adjacentes</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="42"/>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="48"/>
+        <source>Maximum angular difference between adjacent targets (°). Recommended less than %1</source>
+        <extracomment>Tool tip explaining max reorientation</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum distance between adjacent targets</source>
+        <extracomment>Tool tip explaining max reorientation</extracomment>
+        <translation type="vanished">Distance maximale entre cibles adjacentes</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="46"/>
         <source>Max Reorientation</source>
         <extracomment>Label for text field: Maximum angular difference between targets</extracomment>
         <translation>Réorientation maximale</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="44"/>
         <source>Maximum angular difference between adjacent targets</source>
         <extracomment>Tool tip explaining max reorientation</extracomment>
-        <translation>Différence angulaire maximale entre cibles adjacentes</translation>
+        <translation type="vanished">Différence angulaire maximale entre cibles adjacentes</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="137"/>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="175"/>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="141"/>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="179"/>
         <source>N/A</source>
         <extracomment>Label, not available</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="192"/>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="196"/>
         <source>Check</source>
         <extracomment>Button</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="209"/>
+        <location filename="../../IrbcamQml/Views/MaxDistance.qml" line="213"/>
         <source>Configure</source>
         <extracomment>Button: Run calculation</extracomment>
         <translation>Configurer</translation>
@@ -4615,7 +4698,7 @@ Column name. Refers to which date the items were modified</extracomment>
 <context>
     <name>RoboticsInterface</name>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="79"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="80"/>
         <source>Failed to solve path
 No targets</source>
         <extracomment>Error message. This means that there is not path to solve</extracomment>
@@ -4623,7 +4706,7 @@ No targets</source>
 Pas de cibles</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="84"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="85"/>
         <source>Failed to solve path
 Solved %1 of %2 targets</source>
         <extracomment>Error message. %1 = first failed index, %2 = total number of targets</extracomment>
@@ -4631,13 +4714,13 @@ Solved %1 of %2 targets</source>
 Le calcul a réussi pour %1 cibles parmis les %2 présentes</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="92"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="93"/>
         <source>Path solved successfully in %1 ms</source>
         <extracomment>Status message. %1 = time in milliseconds</extracomment>
         <translation>Chemin calculé avec succès en %1 ms</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="188"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="189"/>
         <source>Start index must be smaller than end index</source>
         <extracomment>Error message</extracomment>
         <translation>L&apos;index de départ doit être inférieur à l&apos;index de fin</translation>
@@ -4653,13 +4736,13 @@ Le calcul a réussi pour %1 cibles parmis les %2 présentes</translation>
         <translation type="vanished">Le changement d&apos;orientation maximal doit être supérieur à 1.0 degré</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="195"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="196"/>
         <source>Path is empty</source>
         <extracomment>Error message</extracomment>
         <translation>Le chemin est vide</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="202"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="203"/>
         <source>Invalid end index, end index must be smaller than the size of the path</source>
         <extracomment>Error message</extracomment>
         <translation>Index de fin invalide, l&apos;index de fin doit être inférieur à la taille du chemin</translation>
@@ -4670,8 +4753,8 @@ Le calcul a réussi pour %1 cibles parmis les %2 présentes</translation>
         <translation type="vanished">Distance maximale configurée avec succès</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="255"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="298"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="256"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="299"/>
         <source>File is empty</source>
         <extracomment>Error message: Referring to an empty CSV file
 ----------
@@ -4679,8 +4762,8 @@ Error message: JSON file is empty</extracomment>
         <translation>Le fichier est vide</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="262"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="305"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="263"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="306"/>
         <source>File is not a valid UTF-8 file
 Only UTF-8 encoded files are supported</source>
         <extracomment>Error message: Wrong encoding on CSV file
@@ -4690,214 +4773,214 @@ Error message: JSON file has wrong encoding</extracomment>
 Seuls les fichiers UTF-8 sont supportés</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="273"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="274"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>Échec de l&apos;import du fichier CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="316"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="317"/>
         <source>Failed to import JSON file</source>
         <extracomment>Error message: Failed to import path from JSON file</extracomment>
         <translation>Échec de l&apos;import du fichier JSON</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="343"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="344"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Échec du chargement du chemin</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="382"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="383"/>
         <source>Failed to parse APT file</source>
         <extracomment>Error message</extracomment>
         <translation>Échec de l&apos;analyse du fichier APT</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="406"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="407"/>
         <source>No error</source>
         <extracomment>Error status for solving path. Success (no error)</extracomment>
         <translation>Pas d&apos;erreur</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="409"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="410"/>
         <source>Path not solved</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Chemin non calculé</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="412"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="413"/>
         <source>Path solved successfully</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Chemin calculé avec succès</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="415"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="416"/>
         <source>No solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pas de solution</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="418"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="419"/>
         <source>Axis limit violation</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Dépassement des limites de l&apos;axe</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="421"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="422"/>
         <source>Solution is outside of workspace limits</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>La solution est en dehors des limites de l&apos;espace de travail</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="424"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="425"/>
         <source>This robot cannot bend backwards</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ce robot ne peut pas se plier vers l&apos;arrière</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="427"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="428"/>
         <source>Invalid kinematic parameters</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Paramètres cinématiques invalides</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="430"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="431"/>
         <source>Undefined kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Type cinématique indéfini</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="433"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="434"/>
         <source>Invalid kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Type cinématique invalide</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="436"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="437"/>
         <source>Invalid joint setpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Consigne d&apos;articulation invalide</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="439"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="440"/>
         <source>Invalid number of degrees of freedom</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Nombre de degrés de liberté invalide</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="442"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="443"/>
         <source>Division by zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Division par zéro</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="446"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="447"/>
         <source>Input is null pointer</source>
         <extracomment>Error status for solving path Error status for solving path</extracomment>
         <translation>La valeur d&apos;entrée est un null pointer</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="449"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="450"/>
         <source>Robot not loaded</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Le robot n&apos;est pas chargé</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="452"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="453"/>
         <source>Invalid path size</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>taille de chemin invalide</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="455"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="456"/>
         <source>Discontinuous step</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Étape discontinue</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="458"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="459"/>
         <source>No targets</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pas de cibles</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="461"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="462"/>
         <source>Dynamic angle out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Angle dynamique hors limites</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="464"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="465"/>
         <source>Index out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Indice hors plage</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="467"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="468"/>
         <source>One or more targets have invalid speed</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Au moins une de cibles a une vitesse invalide</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="470"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="471"/>
         <source>Distance from the center of turntable to the point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>La distance entre le centre de la table rotative  et le point est trop petite</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="473"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="474"/>
         <source>Angular constraint on turntable is too shallow</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>La contrainte angulaire sur la table rotative est trop faible</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="530"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="528"/>
         <source>Distance between targets %1 and %2 (%3 mm) exceeds recommended maximum (%4 mm)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = distance between targets, %4 = recommended maximum distance</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="549"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="544"/>
         <source>Reorientation between targets %1 and %2 (%3°) exceeds recommended maximum (%4°)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = reorientation between targets, %4 = recommended maximum reorientation</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="280"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="281"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Chemin importé depuis CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="222"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="223"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="230"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="231"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="235"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="236"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="323"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="324"/>
         <source>Path imported from JSON</source>
         <extracomment>Status message</extracomment>
         <translation>Chemin importé depuis JSON</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="350"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="351"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Chemin chargé</translation>
@@ -5708,31 +5791,37 @@ La cible est inatteignable avec la configuration actuelle</translation>
         <translation>Coupe</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="198"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="192"/>
+        <source>Speed mode for the distance from this target to next</source>
+        <extracomment>Tool tip for dropdown menu. Set speed mode for current target</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="203"/>
         <source>Linear</source>
         <extracomment>Motion type for target</extracomment>
         <translation>Linéaire</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="200"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="205"/>
         <source>Arc Midpoint</source>
         <extracomment>Motion type for target</extracomment>
         <translation>Point milieu d&apos;arc</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="210"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="215"/>
         <source>Speed</source>
         <extracomment>Selected speed for a target</extracomment>
         <translation>Vitesse</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="215"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="220"/>
         <source>Tool</source>
         <extracomment>Selected tool for a target</extracomment>
         <translation>Outil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="220"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="225"/>
         <source>Spindle</source>
         <extracomment>Selected spindle for a target</extracomment>
         <translation>Broche</translation>
@@ -6034,37 +6123,49 @@ Button. Import custom tool</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="424"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="404"/>
+        <source>Insert</source>
+        <extracomment>Button: Insert target(s)</extracomment>
+        <translation type="unfinished">Insérer</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="406"/>
+        <source>Insert Before</source>
+        <extracomment>Button: Insert target(s) before a position (index) in the list</extracomment>
+        <translation type="unfinished">Insérer avant</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="435"/>
         <source>Relative to</source>
         <extracomment>label next to a drop-down menu</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="433"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="444"/>
         <source>Global origin</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="435"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="446"/>
         <source>Robot base</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation type="unfinished">Base du robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="437"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="448"/>
         <source>User frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation type="unfinished">Référentiel utilisateur</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="439"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="450"/>
         <source>Object frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation type="unfinished">Référentiel objet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="540"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="551"/>
         <source>Copy</source>
         <extracomment>Button</extracomment>
         <translation type="unfinished"></translation>
@@ -6094,13 +6195,7 @@ Button. Import custom tool</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="402"/>
-        <source>Insert before</source>
-        <extracomment>Button: Insert before selected target</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="407"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="418"/>
         <source>Insert after</source>
         <extracomment>Button: Insert after selected target</extracomment>
         <translation type="unfinished"></translation>
