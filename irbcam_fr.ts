@@ -4507,7 +4507,7 @@ Placeholder text until an icon has been selected</extracomment>
     </message>
     <message>
         <location filename="../../../backend/src/projectlistmodel.cpp" line="34"/>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="649"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="653"/>
         <location filename="../../../backend/src/simplelistmodel.cpp" line="32"/>
         <source>Name</source>
         <extracomment>List column
@@ -4523,7 +4523,7 @@ Column name.</extracomment>
     </message>
     <message>
         <location filename="../../../backend/src/projectlistmodel.cpp" line="40"/>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="652"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="656"/>
         <location filename="../../../backend/src/simplelistmodel.cpp" line="35"/>
         <source>Modified</source>
         <extracomment>List column
@@ -4556,7 +4556,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation>Robots Activés</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="697"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="701"/>
         <source>%1 (user created)</source>
         <extracomment>Appended to robot name in search results if it is imported by the user. %1=robot name. Example: My Robot (user created)</extracomment>
         <translation>%1 (personnalisé)</translation>
@@ -4683,13 +4683,13 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation>Une erreur est survenue pendant la récupération de la liste des robots</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="867"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="871"/>
         <source>%1 has been deactivated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 a été désactivé</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="926"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="930"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 a été activé</translation>
