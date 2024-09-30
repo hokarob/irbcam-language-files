@@ -32,25 +32,37 @@
         <translation>Kazalo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="92"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="89"/>
+        <source>Select index to insert target(s)</source>
+        <extracomment>Tool tip for index input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="94"/>
         <source>Count</source>
         <extracomment>Title for a text field: How many targets should be added to the path (target list)</extracomment>
         <translation>Štetje</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="157"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="96"/>
+        <source>Select how many copies to insert</source>
+        <extracomment>Tool tip for count input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="161"/>
         <source>Insert</source>
         <extracomment>Button: Insert target(s)</extracomment>
         <translation>Vstavi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="159"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="163"/>
         <source>Insert Before</source>
         <extracomment>Button: Insert target(s) before a position (index) in the list</extracomment>
         <translation>Vstavi pred</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="190"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="194"/>
         <source>Insert After</source>
         <extracomment>Button: Insert target(s) after a position (index) in the list</extracomment>
         <translation>Vstavi za</translation>
@@ -221,85 +233,118 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation>Linearno</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="260"/>
+        <source>X position (mm)</source>
+        <extracomment>Tool tip for X position input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="266"/>
+        <source>Y position (mm)</source>
+        <extracomment>Tool tip for Y position input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="272"/>
+        <source>Z position (mm)</source>
+        <extracomment>Tool tip for Z position input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="278"/>
         <source>Position</source>
         <extracomment>Label for text fields: Set the position in space (displacement/translation) for the object</extracomment>
         <translation>Položaj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="324"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="330"/>
         <source>Scale</source>
         <extracomment>Label for text fields: Set the scaling multiplicator (in x, y, z) to scale the object size</extracomment>
         <translation>Merilo </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="326"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="332"/>
         <source>Size</source>
         <extracomment>Label for text fields: Set the size (in x, y, z) of the the object</extracomment>
         <translation>Velikost</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="385"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="391"/>
         <source>Rotation</source>
         <extracomment>Collapsible section: In this section the user will adjust the rotation of the object</extracomment>
         <translation>Zasuk</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="399"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="405"/>
+        <source>Yaw angle (°)</source>
+        <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="412"/>
+        <source>Pitch angle (°)</source>
+        <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="419"/>
+        <source>Roll angle (°)</source>
+        <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Yaw</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
-        <translation>Odklon</translation>
+        <translation type="vanished">Odklon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="406"/>
         <source>Pitch</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
-        <translation>Naklon</translation>
+        <translation type="vanished">Naklon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="413"/>
         <source>Roll</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
-        <translation>Nagib</translation>
+        <translation type="vanished">Nagib</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="489"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="495"/>
         <source>Normalize</source>
         <extracomment>Button: Normalise the rotation quaternion</extracomment>
         <translation>Normaliziraj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="497"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="503"/>
         <source>Normalize quaternion</source>
         <extracomment>Tool tip for normalize button</extracomment>
         <translation>Normaliziraj kvaternion</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="594"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="600"/>
         <source>Quaternion scalar</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Kvaternionski skalar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="601"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="607"/>
         <source>Quaternion i</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Kvaternion i</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="608"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="614"/>
         <source>Quaternion j</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Kvaternion j</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="615"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="621"/>
         <source>Quaternion k</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Kvaternion k</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="628"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="634"/>
         <source>The geometry %1 looks too large. You may want to scale it down. If the model is using millimeters, you can scale down by 0.001. Do you want to scale down by 0.001?</source>
         <extracomment>Confirmation popup. %1 = geometry name</extracomment>
         <translation>Geometrija %1 je videti prevelika.Mogoče jo želite pomanjšati. Če model uporablja milimetre, jo lahko pomanjšate za faktor 0,001. Ali želite pomanjšavo za 0,001?</translation>
@@ -861,16 +906,14 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Izberi način gibanja za Rotacijsko mizo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="371"/>
         <source>Rotary Table Angle (deg)</source>
         <extracomment>Label for text field: Starting angle for rotary table</extracomment>
-        <translation>Kot Rotacijske mize (stopinje)</translation>
+        <translation type="vanished">Kot Rotacijske mize (stopinje)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="373"/>
         <source>Initial angle for rotary table</source>
         <extracomment>Tool tip for text field</extracomment>
-        <translation>Začetni kot za Rotacijsko mizo</translation>
+        <translation type="vanished">Začetni kot za Rotacijsko mizo</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="405"/>
@@ -924,6 +967,18 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <source>Batch size</source>
         <extracomment>Label for text field: Referring to size of batches in linear track motion</extracomment>
         <translation type="vanished">Velikost serije</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="371"/>
+        <source>Rotary Table Angle</source>
+        <extracomment>Label for text field: Starting angle for rotary table</extracomment>
+        <translation type="unfinished">Kot rotacijske mize</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="373"/>
+        <source>Initial angle for rotary table (°)</source>
+        <extracomment>Tool tip for text field</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="453"/>
@@ -1288,31 +1343,49 @@ Button text</extracomment>
         <translation>Vrsta</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="69"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="65"/>
+        <source>Joint type</source>
+        <extracomment>Tool tip for dropdown menu to select Denavit-Hartenberg joint type</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="71"/>
         <source>Min</source>
         <extracomment>Label: min joint limit</extracomment>
         <translation>Min.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="75"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="73"/>
+        <source>Lower limit (° or mm)</source>
+        <extracomment>Tool tip for minimum input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="79"/>
         <source>Max</source>
         <extracomment>Label: max joint limit</extracomment>
         <translation>Maks.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="94"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="81"/>
+        <source>Upper limit (° or mm)</source>
+        <extracomment>Tool tip for maximum input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="100"/>
         <source>Revolute</source>
         <extracomment>Dropdown menu item: Select which kind of joint</extracomment>
         <translation>Rotacijsko</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="96"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="102"/>
         <source>Prismatic</source>
         <extracomment>Dropdown menu item: Select which kind of joint</extracomment>
         <translation>Translacijski</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="98"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="104"/>
         <source>Fixed</source>
         <extracomment>Dropdown menu item: Select which kind of joint</extracomment>
         <translation>Fiksirano</translation>
@@ -2051,15 +2124,21 @@ Placeholder for when no procedure name is entered</extracomment>
 <context>
     <name>ImportApt</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="129"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="120"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="131"/>
         <source>Scaling X</source>
-        <extracomment>Placeholder text where users input scaling multiplier</extracomment>
+        <extracomment>Description for a text field for inputting scaling multiplier
+----------
+Placeholder text where users input scaling multiplier</extracomment>
         <translation>Merilo X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="156"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="149"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="160"/>
         <source>Scaling Y</source>
-        <extracomment>Placeholder text where users input scaling multiplier</extracomment>
+        <extracomment>Description for a text field for inputting scaling multiplier
+----------
+Placeholder text where users input scaling multiplier</extracomment>
         <translation>Merilo Y</translation>
     </message>
     <message>
@@ -2087,103 +2166,129 @@ Placeholder for when no procedure name is entered</extracomment>
         <translation>Aktivna naročnina ne omogoča dostopa do razčlenjevalnika APT. Kliknite %1tukaj%2 za upravljanje naročnin</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="89"/>
         <source>Minimum distance (0.1 - 10 mm)</source>
         <extracomment>Description for a text field where the user inputs the minimum distance between targets</extracomment>
-        <translation>Najmanjša razdalja (0,1 - 10 mm)</translation>
+        <translation type="vanished">Najmanjša razdalja (0,1 - 10 mm)</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="89"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="101"/>
+        <source>Minimum distance</source>
+        <extracomment>Description for a text field where the user inputs the minimum distance between targets
+----------
+Placeholder text where users input minimum distance between targets</extracomment>
+        <translation>Najmanjša razdalja</translation>
+    </message>
+    <message>
+        <source>Scaling X (0.001 - 10)</source>
+        <extracomment>Description for a text field for inputting scaling multiplier</extracomment>
+        <translation type="vanished">Merilo X (0.001 - 10)</translation>
+    </message>
+    <message>
+        <source>Scaling Y (0.001 - 10)</source>
+        <extracomment>Description for a text field for inputting scaling multiplier</extracomment>
+        <translation type="vanished">Merilo Y (0.001 - 10)</translation>
+    </message>
+    <message>
+        <source>Scaling Z (0.001 - 10)</source>
+        <extracomment>Description for a text field for inputting scaling multiplier</extracomment>
+        <translation type="vanished">Merilo Z (0.001 - 10)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="91"/>
-        <source>Arcs are converted to linear segments for distances smaller than 1 mm</source>
+        <source>Minimum distance between targets. Range: 0.1 - 10 (mm). For distances smaller than 1, arc moves are converted to linear</source>
         <extracomment>Tool tip: Displayed when hovering over minimum distance label</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="101"/>
-        <source>Minimum distance</source>
-        <extracomment>Placeholder text where users input minimum distance between targets</extracomment>
-        <translation>Najmanjša razdalja</translation>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="122"/>
+        <source>Scaling multiplier for X values. Range 0.001 - 10</source>
+        <extracomment>Tool tip for X scaling input</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="120"/>
-        <source>Scaling X (0.001 - 10)</source>
-        <extracomment>Description for a text field for inputting scaling multiplier</extracomment>
-        <translation>Merilo X (0.001 - 10)</translation>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="151"/>
+        <source>Scaling multiplier for Y values. Range 0.001 - 10</source>
+        <extracomment>Tool tip for Y scaling input</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="147"/>
-        <source>Scaling Y (0.001 - 10)</source>
-        <extracomment>Description for a text field for inputting scaling multiplier</extracomment>
-        <translation>Merilo Y (0.001 - 10)</translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="174"/>
-        <source>Scaling Z (0.001 - 10)</source>
-        <extracomment>Description for a text field for inputting scaling multiplier</extracomment>
-        <translation>Merilo Z (0.001 - 10)</translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="183"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="178"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="189"/>
         <source>Scaling Z</source>
-        <extracomment>Placeholder text where users input scaling multiplier</extracomment>
+        <extracomment>Description for a text field for inputting scaling multiplier
+----------
+Placeholder text where users input scaling multiplier</extracomment>
         <translation>Merilo Z</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="206"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="180"/>
+        <source>Scaling multiplier for Z values. Range 0.001 - 10</source>
+        <extracomment>Tool tip for Z scaling input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="212"/>
         <source>Append</source>
         <extracomment>Checkbox: Select to append targets to existing path</extracomment>
         <translation>Dodaj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="211"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="217"/>
         <source>Add to existing path instead of replacing</source>
         <extracomment>Tool tip for append checkbox.</extracomment>
         <translation>Dodajte obstoječi poti namesto zamenjave</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="218"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="224"/>
         <source>Reverse INDIRV</source>
         <extracomment>Checkbox: Select to reverse INDIRV (initial direction vector). This is primarily for Catia users</extracomment>
         <translation>Obrni INDIRV</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="223"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="229"/>
         <source>Reverse direction of vector (Catia)</source>
         <extracomment>Tool tip for Reverse INDIRV checkbox</extracomment>
         <translation>Reverse direction of vector (Catia)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="230"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="236"/>
         <source>No arcs</source>
         <extracomment>Checkbox: Select to disable arc moves</extracomment>
         <translation>Brez lokov</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="235"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="241"/>
         <source>Arcs are split into linear moves</source>
         <extracomment>Tool tip for no arcs checkbox</extracomment>
         <translation>Loki so razdeljeni na linearne gibe</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="241"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="248"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
         <translation>Varilna pištola vključeno/izključeno</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="257"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="254"/>
+        <source>Convert all feed speeds to rapid moves, except for cutting speed. This is useful if selecting &apos;Gun on/off&apos; when exporting</source>
+        <extracomment>Tool tip for Gun on/off checkbox</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="269"/>
         <source>File: </source>
         <extracomment>Shorthand for file name</extracomment>
         <translation>Datoteka: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="264"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="276"/>
         <source>No file selected</source>
         <extracomment>Placeholder file name until a file is selected</extracomment>
         <translation>Nobena datoteka ni izbrana</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="285"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ImportApt.qml" line="297"/>
         <source>Import</source>
         <extracomment>Import button</extracomment>
         <translation>Uvozi</translation>
@@ -4348,61 +4453,94 @@ Placeholder text until an icon has been selected</extracomment>
         <translation>Položaj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="177"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="104"/>
+        <source>X position (mm)</source>
+        <extracomment>Tool tip for X position input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="110"/>
+        <source>Y position (mm)</source>
+        <extracomment>Tool tip for Y position input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="116"/>
+        <source>Z position (mm)</source>
+        <extracomment>Tool tip for Z position input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="183"/>
         <source>Rotation</source>
         <extracomment>Physical rotation of an object</extracomment>
         <translation>Zasuk</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="195"/>
         <source>Yaw</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
-        <translation>Odklon</translation>
+        <translation type="vanished">Odklon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="202"/>
         <source>Pitch</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
-        <translation>Naklon</translation>
+        <translation type="vanished">Naklon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="209"/>
         <source>Roll</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
-        <translation>Nagib</translation>
+        <translation type="vanished">Nagib</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="275"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="201"/>
+        <source>Yaw angle (°)</source>
+        <extracomment>Tait-Bryan rotation type</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="208"/>
+        <source>Pitch angle (°)</source>
+        <extracomment>Tait-Bryan rotation type</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="215"/>
+        <source>Roll angle (°)</source>
+        <extracomment>Tait-Bryan rotation type</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="281"/>
         <source>Normalize</source>
         <extracomment>Referring to normalising a quaternion</extracomment>
         <translation>Normaliziraj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="282"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="288"/>
         <source>Normalize quaternions</source>
         <extracomment>Tool tip explaining that a button is to normalise quaternions</extracomment>
         <translation>Normaliziraj kvaternione</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="363"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="369"/>
         <source>Quaternion scalar</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Kvaternionski skalar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="370"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="376"/>
         <source>Quaternion i</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Kvaternion i</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="377"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="383"/>
         <source>Quaternion j</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Kvaternion j</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="384"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="390"/>
         <source>Quaternion k</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Kvaternion k</translation>
@@ -5762,10 +5900,15 @@ Cilj je nedosegljiv s trenutno konfiguracijo</translation>
 <context>
     <name>TargetDelegate</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="188"/>
         <source>Velocity change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in linear velocity (feed rate)</extracomment>
-        <translation>Sprememba hitrosti</translation>
+        <translation type="vanished">Sprememba hitrosti</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="188"/>
+        <source>Feed speed change</source>
+        <extracomment>Tool tip. Explains that this icon indicates a change in linear velocity (feed speed)</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="207"/>
@@ -5783,75 +5926,111 @@ Cilj je nedosegljiv s trenutno konfiguracijo</translation>
 <context>
     <name>TargetEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="151"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="69"/>
+        <source>Cartesian position (mm)</source>
+        <extracomment>Tool tip for X, Y and Z position inputs</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="112"/>
+        <source>Rotation angles (°)</source>
+        <extracomment>Tool tip for Rz1, Ry and Rz2 inputs</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="155"/>
         <source>Changes in RZ2 will have no effect unless &apos;Tool Roll Mode&apos; in &apos;Solve Path&apos; is set to &apos;No Change&apos;</source>
         <extracomment>Tool tip</extracomment>
         <translation>Spremembe v RZ2 ne bodo imele učinka, razen če je »Način nagiba orodja« v »Izračunaj pot« nastavljen na »Brez sprememb«</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="165"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="169"/>
         <source>Speed Mode</source>
-        <extracomment>To select speed mode for a target (rapid, cutting or manual)</extracomment>
+        <extracomment>Dropdown menu selecting speed mode for a target (rapid, cutting or manual)</extracomment>
         <translation>Hiter način</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="181"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="171"/>
+        <source>Select linear speed mode when approaching this target</source>
+        <extracomment>Tool tip for dropdown menu selecting speed mode</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="178"/>
+        <source>Select motion type for this target</source>
+        <extracomment>Tool tip for dropdown menu selecting motion type</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="189"/>
         <source>Input</source>
         <extracomment>Speed mode for target</extracomment>
         <translation>Vhod</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="183"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="191"/>
         <source>Rapid</source>
         <extracomment>Speed mode for target</extracomment>
         <translation>Hitro</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="185"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="193"/>
         <source>Cutting</source>
         <extracomment>Speed mode for target</extracomment>
         <translation>Rezanje</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="192"/>
-        <source>Speed mode for the distance from this target to next</source>
-        <extracomment>Tool tip for dropdown menu. Set speed mode for current target</extracomment>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="234"/>
+        <source>Spindle speed (rpm)</source>
+        <extracomment>Tool tip for spindle speed input</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="203"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="206"/>
         <source>Linear</source>
         <extracomment>Motion type for target</extracomment>
         <translation>Linearno</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="205"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="208"/>
         <source>Arc Midpoint</source>
         <extracomment>Motion type for target</extracomment>
         <translation>Sredina krožnega loka</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="215"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="218"/>
         <source>Speed</source>
         <extracomment>Selected speed for a target</extracomment>
         <translation>Hitrost</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="220"/>
+        <source>Feed speed (mm/s)</source>
+        <extracomment>Tool tip for feed speed input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="225"/>
         <source>Tool</source>
         <extracomment>Selected tool for a target</extracomment>
         <translation>Orodje</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="225"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="227"/>
+        <source>Tool number</source>
+        <extracomment>Tool tip for tool number input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="232"/>
         <source>Spindle</source>
-        <extracomment>Selected spindle for a target</extracomment>
+        <extracomment>Selected spindle speed for a target</extracomment>
         <translation>Vreteno</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="170"/>
+        <location filename="../../IrbcamQml/Controls/TargetEditor.qml" line="176"/>
         <source>Motion Type</source>
-        <extracomment>To select motion type for a target (linear or arc)</extracomment>
+        <extracomment>Dropdown menu selecting motion type for a target (linear or arc)</extracomment>
         <translation>Vrsta gibanja</translation>
     </message>
 </context>
