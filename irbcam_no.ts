@@ -6130,7 +6130,7 @@ Target at index %1 is unreachable</source>
 Mål på indeks %1 er utenfor rekkevidde</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1266"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1270"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
