@@ -7156,31 +7156,31 @@ Klicka igen för att skriva över</translation>
         <translation>Okänd</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="105"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="101"/>
         <source>Share project %1</source>
         <extracomment>Full sentence, %1 = name of the project</extracomment>
         <translation>Dela projekt %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="118"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="114"/>
         <source>Allow write access</source>
         <extracomment>Checkbox text, full sentence</extracomment>
         <translation>Tillåt skrivåtkomst</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="138"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="134"/>
         <source>Enter email</source>
         <extracomment>Placeholder text for an empty textfield: Email</extracomment>
         <translation>Ange e-post</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="156"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="152"/>
         <source>Share</source>
         <extracomment>Button text: share project</extracomment>
         <translation>Dela</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="165"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="161"/>
         <source>The email is invalid</source>
         <extracomment>Tool-tip: Explaining why the share button is disabled</extracomment>
         <translation>E-postadressen är ogiltig</translation>

@@ -5743,31 +5743,31 @@ Collapsible list section. This section contains all rotary tables</extracomment>
         <translation type="unfinished">Ukjent</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="105"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="101"/>
         <source>Share project %1</source>
         <extracomment>Full sentence, %1 = name of the project</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="118"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="114"/>
         <source>Allow write access</source>
         <extracomment>Checkbox text, full sentence</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="138"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="134"/>
         <source>Enter email</source>
         <extracomment>Placeholder text for an empty textfield: Email</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="156"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="152"/>
         <source>Share</source>
         <extracomment>Button text: share project</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="165"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="161"/>
         <source>The email is invalid</source>
         <extracomment>Tool-tip: Explaining why the share button is disabled</extracomment>
         <translation type="unfinished"></translation>
