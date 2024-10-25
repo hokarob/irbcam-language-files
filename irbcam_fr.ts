@@ -446,91 +446,91 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>AssetTreeView</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="63"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="69"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation>Non initialisé</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="66"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="72"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation>En attente</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="69"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="75"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation>Récupération de la description</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="72"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="78"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation>Téléchargement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="75"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="81"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation>Décompression</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="78"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="84"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation>Chargement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="81"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="87"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation>Suppression</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="84"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="90"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation>Téléversement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="87"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="93"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation>Récupération de la liste</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="90"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="96"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation>Décodage</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="93"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="99"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation>Vérification</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="96"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="102"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation>Chargement des ressources</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="99"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="105"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation>Traitement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="105"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="111"/>
         <source>Unknown</source>
         <extracomment>Network status: Unknown state</extracomment>
         <translation>Inconnu</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="280"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="286"/>
         <source>No items in list</source>
         <extracomment>Placeholder for empty list</extracomment>
         <translation>Aucun élément dans la liste</translation>
@@ -1123,26 +1123,26 @@ Tool tip for text field</extracomment>
         <translation>Géométries de l&apos;utilisateur</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="139"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="142"/>
         <source>Name</source>
         <extracomment>Title for a textfield</extracomment>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="60"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="61"/>
         <source>Geometries</source>
         <extracomment>List category separator</extracomment>
         <translation>Géométries</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="94"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="97"/>
         <source>Select</source>
         <extracomment>Button text: Select item</extracomment>
         <translation>Sélectionner</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="105"/>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="198"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="108"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="204"/>
         <source>Upload</source>
         <extracomment>Collapsible button title: Open/close upload section
 ----------
@@ -1150,73 +1150,73 @@ Button text</extracomment>
         <translation>Téléverser</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="126"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="129"/>
         <source>The active subscription does not provide access to custom assets. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation>L&apos;abonnement actuel ne permet pas d&apos;utiliser des ressources personnalisées&lt;br&gt;Cliquez %1ici%2 pour gérer les abonnements</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="146"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="150"/>
         <source>Geometry name</source>
         <extracomment>Placeholder text for an empty textfield</extracomment>
         <translation>Nom de la Géométrie</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="177"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="183"/>
         <source>File</source>
         <extracomment>Title for a textfield</extracomment>
         <translation>Fichier</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="182"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="188"/>
         <source>No file selected</source>
         <extracomment>This will be shown as a file name if no file is selected</extracomment>
         <translation>Aucun fichier sélectionné</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="211"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="217"/>
         <source>Asset files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>Fichiers de ressources</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="219"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="225"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title: %1 = name of geometry</extracomment>
         <translation>Écraser %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="221"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="227"/>
         <source>Are you sure you want to overwrite user geometry %1?</source>
         <extracomment>Popup content text: %1 = name of geometry</extracomment>
         <translation>Êtes vous sûrs de vouloir écraser la géométrie utilisateur %1 ?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="233"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="239"/>
         <source>Ok</source>
         <extracomment>Popup text.</extracomment>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="236"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="242"/>
         <source>You cannot overwrite to the readonly asset %1.</source>
         <extracomment>Popup content text: %1 = name of geometry</extracomment>
         <translation>Impossible de modifier la ressource en lecture seule %1.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="259"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="265"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = name of geometry</extracomment>
         <translation>Supprimer %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="261"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="267"/>
         <source>Are you sure you want to delete user geometry %1?</source>
         <extracomment>Popup content text. %1 = name of geometry</extracomment>
         <translation>Êtes vous sûrs de vouloir supprimer la géométrie utilisateur %1 ?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="196"/>
+        <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="202"/>
         <source>Overwrite</source>
         <extracomment>Button text</extracomment>
         <translation>Écraser</translation>
