@@ -629,19 +629,19 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1107"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1120"/>
         <source>Failed to send report</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att skicka rapporten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1118"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1131"/>
         <source>Attachment should be less than %1 MB</source>
         <extracomment>Error message. %1 = size in MB</extracomment>
         <translation>Bilagan ska vara mindre än %1 MB</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1161"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1174"/>
         <source>Report sent</source>
         <extracomment>Status message: Referring to sending a feedback report</extracomment>
         <translation>Rapport skickad</translation>
@@ -3739,25 +3739,37 @@ Spara ditt arbete och ladda om sidan så snart som möjligt</translation>
         <translation>Vinkelhastighet vid roterande verktyg (°/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="355"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="298"/>
+        <source>Rotary table speed</source>
+        <extracomment>Setting for rotary table speed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="300"/>
+        <source>Angular speed of rotary table (°/s)</source>
+        <extracomment>Tool tip for rotary table speed input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="379"/>
         <source>Set all revolute joints (deg)</source>
         <extracomment>Referring to setting all limit values at once</extracomment>
         <translation>Ställ in alla roterande leder (grader)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="383"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="407"/>
         <source>Set all linear joints (mm)</source>
         <extracomment>Referring to setting all limit values at once</extracomment>
         <translation>Ställ in alla linjära leder (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="418"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="442"/>
         <source>Joint %1 (mm)</source>
         <extracomment>Label for text field. %1 = joint number</extracomment>
         <translation>Led %1 (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="420"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="444"/>
         <source>Joint %1 (°)</source>
         <extracomment>Label for text field. %1 = joint number</extracomment>
         <translation>Led %1 (°)</translation>
@@ -3792,21 +3804,21 @@ Spara ditt arbete och ladda om sidan så snart som möjligt</translation>
         <translation type="vanished">Omorienteringshastighet (grader/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="300"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="324"/>
         <source>Distance to Joint Limits</source>
         <extracomment>Collapsible setcion within station settings: Reduction of allowed joint space</extracomment>
         <translation>Avstånd till ledgränser</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="364"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="392"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="388"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="416"/>
         <source>Value</source>
         <extracomment>Placeholder for when no value is entered</extracomment>
         <translation>Värde</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="374"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="402"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="398"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="426"/>
         <source>Set</source>
         <extracomment>Button to set values</extracomment>
         <translation>Ställ in</translation>
@@ -8134,7 +8146,7 @@ Target at index %1 has zero velocity</source>
 Mål vid index %1 har noll hastighet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1097"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1107"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -8142,7 +8154,7 @@ Target at index %1 is not solved</source>
 Målet för index %1 är inte löst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1305"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1315"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
