@@ -6805,7 +6805,7 @@ Clique novamente para substituir</translation>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="462"/>
+        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="463"/>
         <source>IRBCAM Trial Version</source>
         <extracomment>Text on the floor tiles for trial version</extracomment>
         <translation type="unfinished"></translation>

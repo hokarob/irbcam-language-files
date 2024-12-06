@@ -6076,7 +6076,7 @@ Collapsible list section. This section contains all rotary tables</extracomment>
 <context>
     <name>Scene</name>
     <message>
-        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="462"/>
+        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="463"/>
         <source>IRBCAM Trial Version</source>
         <extracomment>Text on the floor tiles for trial version</extracomment>
         <translation type="unfinished"></translation>
