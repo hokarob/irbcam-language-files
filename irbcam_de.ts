@@ -692,32 +692,32 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="291"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="294"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message. %1 = Name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="381"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="389"/>
         <source>Failed to load %1</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="473"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="482"/>
         <source>%1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="507"/>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="592"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="518"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="611"/>
         <source>Failed to download item from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="620"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="641"/>
         <source>Failed to unpack item</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
@@ -1186,18 +1186,6 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="593"/>
         <source>Select solution where robot points &quot;wrist&quot; downwards</source>
         <extracomment>Tool tip for wrist down checkbox.</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="601"/>
-        <source>Allow large reorient</source>
-        <extracomment>Checkbox: Select to allow large orientation changes between targets</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="609"/>
-        <source>Allow the solver to try rotating tool 180° if necessary</source>
-        <extracomment>Tool tip for allow large reorient checkbox.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4056,7 +4044,7 @@ Please save your work and reload page as soon as possible</source>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/JointViewer.qml" line="201"/>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="303"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="316"/>
         <source> mm</source>
         <extracomment>Postfix for linear joint position. Referring to the unit millimetres
 ----------
@@ -4064,25 +4052,31 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="269"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="246"/>
+        <source>Joint 2/3 Interaction</source>
+        <extracomment>Slider: This is specific for the difference between joints 2 and 3</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="282"/>
         <source>Rotary table</source>
         <extracomment>Label: Referring to rotary table angular position</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="271"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="284"/>
         <source>Rotary table axis %1</source>
         <extracomment>Slider: Referring to rotary table angular position if it has multiple axes. %1 = axis number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="312"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="325"/>
         <source>Linear track axis %1</source>
         <extracomment>Slider: Referring to linear track position if it has multiple axes. %1 = axis number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="330"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="343"/>
         <source>Home</source>
         <extracomment>Button. Send the robot to the home position</extracomment>
         <translation type="unfinished"></translation>
@@ -4094,7 +4088,7 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <translation>Gelenke 2-3</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="310"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="323"/>
         <source>Linear track</source>
         <extracomment>Label: Referring to linear track position</extracomment>
         <translation type="unfinished"></translation>
@@ -5824,12 +5818,6 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="88"/>
-        <source>Allow large reorient</source>
-        <extracomment>Checkbox: Select to allow large orientation changes between targets</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="101"/>
         <source>Tool roll mode</source>
         <extracomment>Label for dropdown menu: Select how the tool should rotate about its Z-axis</extracomment>
@@ -7142,21 +7130,21 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="vanished">Pfad erfolgreich konfiguriert in </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="940"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="961"/>
         <source>Failed to solve path
 No targets</source>
         <extracomment>Error message. This means that there is not path to solve</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="954"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="975"/>
         <source>Failed to solve path
 Solved %1 of %2 targets</source>
         <extracomment>Error message. %1 = first failed index, %2 = total number of targets</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="967"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="988"/>
         <source>Path solved successfully in %1 ms</source>
         <extracomment>Status message. %1 = time in milliseconds</extracomment>
         <translation type="unfinished"></translation>
@@ -7190,35 +7178,35 @@ Solved %1 of %2 targets</source>
         <translation type="vanished">Maximale Entfernung erfolgreich konfiguriert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="946"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="967"/>
         <source>Operation aborted by user
 Solved %1 of %2 targets</source>
         <extracomment>Warning message. %1 = first failed index, %2 = total number of targets</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="989"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1010"/>
         <source>Failed to configure max distance
 No new targets were added</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1002"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1023"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1010"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1031"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1015"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1036"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
@@ -7328,19 +7316,19 @@ No targets were deleted</source>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="816"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="982"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1003"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="924"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="945"/>
         <source>%1 Rotary lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="929"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="950"/>
         <source>%1 Linear lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation type="unfinished"></translation>
@@ -7582,27 +7570,27 @@ No targets were deleted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1048"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1069"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1054"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1075"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1063"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1084"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1069"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1090"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
@@ -8333,176 +8321,176 @@ Es werden nur UTF-8-codierte Dateien unterstützt</translation>
         <translation type="vanished">Der gespeicherte Station konnte nicht wiederhergestellt werden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="416"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="421"/>
         <source>Project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="652"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="657"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="835"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="840"/>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="378"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="383"/>
         <source>Failed to confirm that the project was saved to the cloud (the project may or may not have been saved)</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="412"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="417"/>
         <source>Autosave for project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="505"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="510"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="688"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="693"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="712"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="717"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="777"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="782"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="800"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="805"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="854"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="859"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="883"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="888"/>
         <source>Failed to get parsed APT %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="925"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="930"/>
         <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="936"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="941"/>
         <source>Failed to import APT file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="942"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="947"/>
         <source>Path imported from APT %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1000"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1031"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1005"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1036"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1136"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1156"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1410"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1141"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1161"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1415"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1177"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1422"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1182"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1427"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1279"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1446"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1284"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1451"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1458"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1463"/>
         <source>Missing version info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1504"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1509"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1596"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1603"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1601"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1608"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1183"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1429"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1188"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1434"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1197"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1204"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1516"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1523"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1202"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1209"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1521"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1528"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1214"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1231"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1534"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1551"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1219"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1236"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1539"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1556"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1241"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1248"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1562"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1569"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1246"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1253"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1567"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1574"/>
         <source>rotary table</source>
         <extracomment>Attribute: Rotary table
 ----------
@@ -8510,45 +8498,45 @@ Attribute: rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1291"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1296"/>
         <source>Project was loaded with missing info
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1297"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1471"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1302"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1476"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1314"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1330"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1486"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1319"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1335"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1491"/>
         <source>Path information missing from saved project</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1348"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1353"/>
         <source>DH Table information missing from saved project</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1395"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1647"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1400"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1652"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1259"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1266"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1579"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1586"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1264"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1271"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1584"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1591"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation type="unfinished"></translation>
@@ -8663,59 +8651,59 @@ Dies könnte auf eine Speicherung aus einer älteren Version zurückzuführen se
         <translation type="vanished">ist unerreichbar</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="562"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="582"/>
         <source>Inverse kinematics could not be solved with this value (x=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="584"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="606"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="604"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="626"/>
         <source>Inverse kinematics could not be solved with this value (y=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="626"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="646"/>
         <source>Inverse kinematics could not be solved with this value (rz1=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="646"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="667"/>
         <source>Inverse kinematics could not be solved with this value (ry=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="666"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="688"/>
         <source>Inverse kinematics could not be solved with this value (rz2=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="882"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="917"/>
         <source>Animation aborted
 Target at 0 is unreachable</source>
         <extracomment>Warning message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1006"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1044"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1114"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1155"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1322"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1383"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
@@ -9711,8 +9699,8 @@ Placeholder text for a text field where you enter a name for your object</extrac
     <name>UrdfImporter</name>
     <message>
         <location filename="../../../backend/src/urdfimporter.cpp" line="62"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="337"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="704"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="342"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="713"/>
         <source>Failed to build %1</source>
         <extracomment>Error message. %1 = name of rotation table
 ----------
@@ -9720,13 +9708,13 @@ Error message. %1 = name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="625"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="634"/>
         <source>Failed to upload %1 to the cloud</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="1055"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="1068"/>
         <source>Failed to get custom 3D object from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
