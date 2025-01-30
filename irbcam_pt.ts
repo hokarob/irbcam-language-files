@@ -644,19 +644,19 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1120"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1136"/>
         <source>Failed to send report</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1131"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1147"/>
         <source>Attachment should be less than %1 MB</source>
         <extracomment>Error message. %1 = size in MB</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1174"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1190"/>
         <source>Report sent</source>
         <extracomment>Status message: Referring to sending a feedback report</extracomment>
         <translation type="unfinished"></translation>
@@ -4014,38 +4014,38 @@ One or more projects must be deleted to be able to create new projects</source>
 <context>
     <name>Manufacturer</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="31"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="33"/>
         <source>No robot selected</source>
         <extracomment>Collapsible section. Only shown when no robot is selected</extracomment>
         <translation type="unfinished">Nenhum robô selecionado</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="47"/>
-        <source>Arc welding</source>
-        <extracomment>Checkbox</extracomment>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="73"/>
+        <source>Controller</source>
+        <extracomment>Controller selector. Which controller should the exported file(s) be compatible with</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="57"/>
-        <source>S4 Controller</source>
-        <extracomment>Checkbox. Select S4 controller</extracomment>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="89"/>
+        <source>Invalid controller</source>
+        <extracomment>Combo box item: Invalid controller type, unsupported for this robot manufacturer</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="62"/>
-        <source>Select S4 Controller</source>
-        <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="71"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="100"/>
         <source>File Type</source>
         <extracomment>File type selector. Which file type should the exported file(s) have</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="95"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="105"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="118"/>
+        <source>Invalid file type</source>
+        <extracomment>Combo box item: Invalid file type, unsupported for this robot manufacturer</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="128"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="138"/>
         <source>Path to Directory</source>
         <extracomment>ABB specific option. Path to directory
 ----------
@@ -4053,8 +4053,8 @@ Placeholder for when no path to directory is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="122"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="132"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="155"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="165"/>
         <source>Module Name</source>
         <extracomment>ABB specific option. Name of the module in the robot code
 ----------
@@ -4062,8 +4062,8 @@ Placeholder for when no module name is entered</extracomment>
         <translation type="unfinished">Nome do Módulo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="146"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="156"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="179"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="189"/>
         <source>External Axis Name</source>
         <extracomment>Name for external axis (rotary table)
 ----------
@@ -4071,20 +4071,20 @@ Placeholder for when no external axis name is entered</extracomment>
         <translation type="unfinished">Nome do Eixo Externo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="170"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="203"/>
         <source>Rotary table axis number</source>
         <extracomment>ABB specific option. Which axis number should the rotary table be assigned to</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="195"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="228"/>
         <source>Linear track axis number</source>
         <extracomment>ABB specific option. Which axis number should the linear track be assigned to</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="220"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="230"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="253"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="263"/>
         <source>Work Object Name</source>
         <extracomment>Name of the work object in the exported robot code
 ----------
@@ -4092,8 +4092,8 @@ Placeholder for when no object name is entered</extracomment>
         <translation type="unfinished">Nome do Objeto de Trabalho</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="271"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="280"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="304"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="313"/>
         <source>Tool Number</source>
         <extracomment>Referring to which tool should be used in the exported robot code
 ----------
@@ -4101,8 +4101,8 @@ Placeholder for when no tool number is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="298"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="307"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="331"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="340"/>
         <source>User Frame Number</source>
         <extracomment>Referring to which user frame should be used in the exported code
 ----------
@@ -4110,8 +4110,8 @@ Placeholder for when no user frame number is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="355"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="364"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="388"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="397"/>
         <source>Pulses per 360 deg (or meter)</source>
         <extracomment>Referring to encoder ticks per one revolution or meter on a rotational or linear axis
 ----------
@@ -4119,7 +4119,7 @@ Placeholder for when no value is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="392"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="425"/>
         <source>Generic Export Options in JSON format: eg.
 {
  &quot;procedureName&quot;: &quot;main&quot;,
@@ -4129,37 +4129,37 @@ Placeholder for when no value is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="415"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="448"/>
         <source>ABB Options</source>
         <extracomment>Collapsible section: Options specific for ABB robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="459"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="498"/>
         <source>KUKA Options</source>
         <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="473"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="516"/>
         <source>FANUC Options</source>
         <extracomment>Collapsible section: Options specific for FANUC robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="489"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="538"/>
         <source>MOTOMAN Options</source>
         <extracomment>Collapsible section: Options specific for MOTOMAN robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="517"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="580"/>
         <source>Generic Options</source>
         <extracomment>Collapsible section: Options for generic robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="529"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="601"/>
         <source>Universal Robots</source>
         <extracomment>Collapsible section: Options for universal robots robots</extracomment>
         <translation type="unfinished"></translation>
@@ -6221,14 +6221,14 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="vanished">Caminho configurado com sucesso em</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="975"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="991"/>
         <source>Failed to solve path
 Solved %1 of %2 targets</source>
         <extracomment>Error message. %1 = first failed index, %2 = total number of targets</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="988"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1004"/>
         <source>Path solved successfully in %1 ms</source>
         <extracomment>Status message. %1 = time in milliseconds</extracomment>
         <translation type="unfinished"></translation>
@@ -6524,27 +6524,27 @@ No targets were deleted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1069"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1085"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1075"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1091"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1084"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1100"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1090"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1106"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
@@ -6581,19 +6581,19 @@ Found %1 possible solutions within the specified parameters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="945"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="961"/>
         <source>%1 Rotary lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="950"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="966"/>
         <source>%1 Linear lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="961"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="977"/>
         <source>Failed to solve path
 No targets</source>
         <extracomment>Error message. This means that there is not path to solve</extracomment>
@@ -6661,41 +6661,41 @@ No targets</source>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="816"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1003"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1019"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="967"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="983"/>
         <source>Operation aborted by user
 Solved %1 of %2 targets</source>
         <extracomment>Warning message. %1 = first failed index, %2 = total number of targets</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1010"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1026"/>
         <source>Failed to configure max distance
 No new targets were added</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1023"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1039"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1031"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1047"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1036"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1052"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
