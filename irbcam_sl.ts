@@ -396,7 +396,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation>Mape: %1 n mogoče odpreti </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="923"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="924"/>
         <source>Custom geometry %1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Geometrija po meri %1 naložena</translation>

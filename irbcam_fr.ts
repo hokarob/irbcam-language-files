@@ -395,7 +395,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation>Échec de l&apos;ouverture du dossier : %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="923"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="924"/>
         <source>Custom geometry %1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Géométrie personnalisé %1 chargée</translation>
