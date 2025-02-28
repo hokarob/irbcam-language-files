@@ -7675,8 +7675,8 @@ Placeholder text for a text field where you enter a name for your object</extrac
     <name>UrdfImporter</name>
     <message>
         <location filename="../../../backend/src/urdfimporter.cpp" line="62"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="342"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="713"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="340"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="712"/>
         <source>Failed to build %1</source>
         <extracomment>Error message. %1 = name of rotation table
 ----------
@@ -7684,13 +7684,13 @@ Error message. %1 = name</extracomment>
         <translation>Kunne ikke bygge %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="634"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="633"/>
         <source>Failed to upload %1 to the cloud</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Kunne ikke laste opp %1 til skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="1068"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="1065"/>
         <source>Failed to get custom 3D object from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke hente egendefinert 3D-objekt fra skyen</translation>
