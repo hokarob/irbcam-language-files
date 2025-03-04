@@ -977,20 +977,20 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation>Verktygsrulleläge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="243"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="244"/>
         <source>No Change</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Ingen förändring</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="245"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="246"/>
         <source>RZ2 is unchanged.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="248"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="383"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="249"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="385"/>
         <source>Fixed Angle</source>
         <extracomment>Dropdown menu item: Select tool roll mode
 ----------
@@ -1012,13 +1012,13 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="vanished">Dynamisk vinkel 2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="263"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="264"/>
         <source>Roller Mode</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Rullläge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="272"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="273"/>
         <source>Overwrite tool roll angle %1 values of all targets with the selected method</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path. %1 = RZ2</extracomment>
         <translation>Skriv över verktygsrullningsvinkel %1 värden för alla punkter med den valda metoden</translation>
@@ -1029,20 +1029,20 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="vanished">Roterande Bordsvinkel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="421"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="423"/>
         <source>Initial angle for rotary table (°)</source>
         <extracomment>Tool tip for text field</extracomment>
         <translation>Inledande vinkel för roterande bord (°)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="502"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="504"/>
         <source>Batch size (mm)</source>
         <extracomment>Label for text field: Referring to size of batches in linear track motion</extracomment>
         <translation>Batchstorlek (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="697"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="704"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="699"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="706"/>
         <source>Configure interpolated</source>
         <extracomment>Checkbox: Select to configure interpolated targets
 ----------
@@ -1050,8 +1050,8 @@ Tool tip for configure interpolated checkbox.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="720"/>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="722"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="724"/>
         <source>Linear Threshold (mm)</source>
         <extracomment>Label for text field: linear threshold
 ----------
@@ -1059,8 +1059,8 @@ Tool tip for text field</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="743"/>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="745"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="747"/>
         <source>Angular Threshold (deg)</source>
         <extracomment>Label for text field: angular threshold
 ----------
@@ -1073,13 +1073,13 @@ Tool tip for text field</extracomment>
         <translation type="vanished">Denna konfiguration kommer att skriva över verktygsrullningsvinkel %1 värden för alla punkter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="310"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="311"/>
         <source>Tool roll angle (deg)</source>
         <extracomment>Label for text field: Referring to rotation about the tool Z-axis</extracomment>
         <translation>Verktygsrullningsvinkel (grader)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="312"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="313"/>
         <source>Set initial tool roll angle</source>
         <extracomment>Tool tip for slider.</extracomment>
         <translation>Ställ in initial verktygsrullningsvinkel</translation>
@@ -1100,7 +1100,7 @@ Tool tip for text field</extracomment>
         <translation type="vanished">Roterande bordsläge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="403"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="405"/>
         <source>Select motion mode for rotary table</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
         <translation>Välj rörelseläge för roterande bord</translation>
@@ -1111,13 +1111,13 @@ Tool tip for text field</extracomment>
         <translation type="vanished">Inledande vinkel för roterande bord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="457"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="459"/>
         <source>Linear track mode</source>
         <extracomment>Label for dropdown menu: Select operating mode for linear track</extracomment>
         <translation>Linjärbanaläge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="490"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="492"/>
         <source>Select motion mode for linear track</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
         <translation>Välj rörelseläge för linjärbana</translation>
@@ -1128,55 +1128,55 @@ Tool tip for text field</extracomment>
         <translation type="vanished">Batchstorlek</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="504"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="506"/>
         <source>Size of batch window</source>
         <extracomment>Tool tip for text field.</extracomment>
         <translation>Storlek på batchfönster</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="545"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="547"/>
         <source>Initial position of linear track</source>
         <extracomment>Tool tip for label.</extracomment>
         <translation>Initial position för linjärbana</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="548"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="550"/>
         <source>Linear track axis %1 (mm)</source>
         <extracomment>Label for slider. Referring to linear track position if it is a multi axis linear track. %1 = axis number</extracomment>
         <translation>Linjärbana axel %1 (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="550"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="552"/>
         <source>Linear track (mm)</source>
         <extracomment>Label for slider. Referring to linear track position</extracomment>
         <translation>Linjärbana (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="585"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="587"/>
         <source>Select solution where robot bends backwards</source>
         <extracomment>Tool tip for bending backwards checkbox.</extracomment>
         <translation>Välj lösning där roboten böjer sig bakåt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="594"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="596"/>
         <source>Elbow down</source>
         <extracomment>Checkbox: Select to use solution where the robot&apos;s &quot;elbow&quot; points downwards</extracomment>
         <translation>Armbågen ner</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="602"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="604"/>
         <source>Select solution where robot points &quot;elbow&quot; downwards</source>
         <extracomment>Tool tip for elbow down checkbox.</extracomment>
         <translation>Välj lösning där roboten pekar &quot;armbågen&quot; nedåt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="611"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="613"/>
         <source>Wrist down</source>
         <extracomment>Checkbox: Select to use solution where robot &quot;wrist&quot; points downwards</extracomment>
         <translation>Handleden ner</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="619"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="621"/>
         <source>Select solution where robot points &quot;wrist&quot; downwards</source>
         <extracomment>Tool tip for wrist down checkbox.</extracomment>
         <translation>Välj lösning där roboten pekar &quot;handled&quot; nedåt</translation>
@@ -1192,13 +1192,13 @@ Tool tip for text field</extracomment>
         <translation type="vanished">Låt lösaren prova att rotera verktyget 180° om det behövs</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="651"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="653"/>
         <source>Flange offset</source>
         <extracomment>Label for deopdown menu: Flange offset</extracomment>
         <translation>Flänsförskjutning</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="653"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="655"/>
         <source>Add or subtract one full revolution on the tool flange (axis 6)
 Useful for avoiding cable twist or similar issues in certain situations</source>
         <extracomment>Tool tip for dropdown menu: Flange offset</extracomment>
@@ -1206,133 +1206,133 @@ Useful for avoiding cable twist or similar issues in certain situations</source>
 Användbart för att undvika kabelvridning eller liknande problem i vissa situationer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="475"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="477"/>
         <source>Fixed Position</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation>Fast position</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="250"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="251"/>
         <source>RZ2 is equal to the tool roll angle with corrections to account for singularities.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="253"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="254"/>
         <source>Dynamic Angle</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="255"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="256"/>
         <source>RZ2 is set to the tool roll angle for the first target. For all other targets, it is dynamically adjusted by increasing and decreasing in 1-degree steps up to the maximum deviation from the starting tool roll angle.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="258"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="259"/>
         <source>Fixed Angle + Deviation</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="260"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="261"/>
         <source>RZ2 follows the fixed angle but is also dynamically adjusted by increasing and decreasing in 1-degree steps up to the maximum deviation from the starting tool roll angle.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="265"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="266"/>
         <source>RZ2 is calculated such that the roller direction is along the path.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="282"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="283"/>
         <source>This configuration will overwrite tool roll angle %1 values of all targets when solving the path. You may switch the %2 to %3 if you don&apos;t want to overwrite the tool roll angle before solving the path.</source>
         <extracomment>Content for confirmation popup. %1 = RZ1, %2 = Tool roll mode, %3 = No Change</extracomment>
         <translation>Denna konfiguration kommer att skriva över verktygsrullningsvinkel %1 värden för alla mål när banan löses. Du kan byta %2 till %3 om du inte vill skriva över verktygsrullningsvinkeln innan du löser banan.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="290"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="291"/>
         <source>Ok</source>
         <extracomment>Acknowledge button for confirmation popup</extracomment>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="335"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="336"/>
         <source>Maximum deviation</source>
         <extracomment>Label for slider</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="337"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="338"/>
         <source>Maximum deviation on the tool roll angle</source>
         <extracomment>Tool tip for slider</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="365"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="366"/>
         <source>Rotary table mode</source>
         <extracomment>Label for a dropdown menu: Select operating mode for rotary table</extracomment>
         <translation type="unfinished">Rotasionsbordläge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="385"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="387"/>
         <source>Rotary table angle is fixed.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="388"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="390"/>
         <source>Normal Mode</source>
         <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="390"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="392"/>
         <source>Rotary table angle is dynamically computed. This mode is useful when the rotation axis of the rotary table is not aligned (or not nearly aligned) to the tool roll axis.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="393"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="395"/>
         <source>Aligned Mode</source>
         <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="395"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="397"/>
         <source>Rotary table angle is dynamically computed. This mode is useful when the rotation axis of the rotary table is aligned (or nearly aligned) to the tool roll axis.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="419"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="421"/>
         <source>Rotary table angle</source>
         <extracomment>Label for text field: Starting angle for rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="477"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="479"/>
         <source>Dynamic Position</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation>Dynamisk Position</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="479"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="481"/>
         <source>Positive Only</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation>Endast Positiv</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="481"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="483"/>
         <source>Negative Only</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation>Endast Negativ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="483"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="485"/>
         <source>Batch Mode</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
         <translation>Batchläge</translation>
@@ -1343,7 +1343,7 @@ Användbart för att undvika kabelvridning eller liknande problem i vissa situat
         <translation type="obsolete">Linjär bana</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="577"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="579"/>
         <source>Bending backwards</source>
         <extracomment>Checkbox: Select to use solution where robot bends backwards</extracomment>
         <translation>Böjer sig bakåt</translation>
@@ -1808,37 +1808,37 @@ Button text</extracomment>
 <context>
     <name>CustomTemplates</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="23"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="24"/>
         <source>Custom Templates</source>
         <extracomment>Collapsible section: Custom Templates</extracomment>
         <translation>Anpassade mallar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="40"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="41"/>
         <source>Enable Custom Templates</source>
         <extracomment>Checkbox: Select to use custom templates when exporting robot code</extracomment>
         <translation>Aktivera anpassade mallar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="60"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="61"/>
         <source>Header</source>
         <extracomment>Header in the exported robot code</extracomment>
         <translation>Header</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="76"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="77"/>
         <source>Custom Header</source>
         <extracomment>Placeholder for when no custom header template is entered</extracomment>
         <translation>Anpassad Header</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="92"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="93"/>
         <source>Footer</source>
         <extracomment>Footer in the exported robot code</extracomment>
         <translation>Sidfot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="108"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="109"/>
         <source>Custom Footer</source>
         <extracomment>Placeholder for when no custom footer template is entered</extracomment>
         <translation>Anpassad Sidfot</translation>
@@ -2657,146 +2657,146 @@ Placeholder for when no user frame number is entered</extracomment>
 <context>
     <name>General</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="26"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="27"/>
         <source>General Options</source>
         <extracomment>Collapsible section</extracomment>
         <translation>Allmänna alternativ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="42"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="43"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox. Select to switch off tool under rapid movement</extracomment>
         <translation>Pistol på/av</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="47"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="48"/>
         <source>Switch off tool (gun) under rapid movement</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Stäng av verktyget (pistolen) under snabba rörelser</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="64"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="65"/>
         <source>Fine point before gun on/off</source>
         <extracomment>Checkbox. Select to enable fine point before gun on/off</extracomment>
         <translation>Finpunkt innan pistol på/av</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="69"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="70"/>
         <source>Enable fine point before gun on/off</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Aktivera finpunkt innan pistol på/av</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="81"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="82"/>
         <source>Set tool number</source>
         <extracomment>Checkbox. Select to enable automatic tool changing in exported code</extracomment>
         <translation>Ställ in verktygsnummer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="86"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="87"/>
         <source>Automatic tool changing</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Automatiskt verktygsbyte</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="95"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="96"/>
         <source>Export spindle speeds</source>
         <extracomment>Checkbox. Select to include spindle speeds in exported robot code</extracomment>
         <translation>Exportera spindelhastigheter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="100"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="101"/>
         <source>Include spindle speeds in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Inkludera spindelhastigheter i exporterad kod</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="110"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="112"/>
         <source>Override speeds</source>
         <extracomment>Checkbox. Select to override all feed speeds</extracomment>
         <translation>Åsidosätt hastigheter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="115"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="117"/>
         <source>Override target speeds from path</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Åsidosätt hastigheter från banan</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="136"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="138"/>
         <source>Cutting speed (mm/s)</source>
         <extracomment>Selector for linear cutting speed</extracomment>
         <translation>Skärhastighet (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="138"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="140"/>
         <source>Override targets with speed mode &quot;cutting&quot; and &quot;input&quot;</source>
         <extracomment>Tool tip for dropdown menu. Select override cutting feed speed</extracomment>
         <translation>Åsidosätt punkter med hastighetsläge &quot;cutting&quot; och &quot;input&quot;</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="177"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="179"/>
         <source>Rapid speed (mm/s)</source>
         <extracomment>Selector for linear rapid speed</extracomment>
         <translation>Snabb hastighet (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="179"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="181"/>
         <source>Override targets with speed mode &quot;rapid&quot;</source>
         <extracomment>Tool tip for dropdown menu. Select override rapid feed speed</extracomment>
         <translation>Åsidosätt punkter med hastighetsläget &quot;snabb&quot;</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="220"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="222"/>
         <source>Split files at linear lift points</source>
         <extracomment>Checkbox: Select to split files at linear lift points</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="230"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="232"/>
         <source>Add lift points</source>
         <extracomment>Checkbox: Select to add points where robot lifts tool out of the cut</extracomment>
         <translation>Lägg till lyftpunkter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="248"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="250"/>
         <source>Lift distance (mm)</source>
         <extracomment>Distance to lift the tool in units of mm</extracomment>
         <translation>Lyftavstånd (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="250"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="252"/>
         <source>Distance to lift tool out of cut</source>
         <extracomment>Tool tip for text field. Enter how much the tool should be lifted out of cut in a &quot;tool lift&quot;</extracomment>
         <translation>Avstånd till att lyfta verktyget ur snitt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="258"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="260"/>
         <source>Lift distance</source>
         <extracomment>Placeholder for when no distance is entered</extracomment>
         <translation>Lyftavstånd</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="278"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="280"/>
         <source>Number of lines per file</source>
         <extracomment>Restrict how many lines a single file can have</extracomment>
         <translation>Antal rader per fil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="281"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="283"/>
         <source>Split code into multiple files if the file is too large</source>
         <extracomment>Tool tip for text field. Robot code is splitted into multiple files if it has more than this mumber of lines.</extracomment>
         <translation>Dela upp koden i flera filer om filen är för stor</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="292"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="294"/>
         <source>Max lines</source>
         <extracomment>Placeholder for when no number is entered</extracomment>
         <translation>Max rader</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="310"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="320"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="312"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="322"/>
         <source>Procedure name</source>
         <extracomment>Name of the procedure for the robot
 ----------
@@ -2804,7 +2804,7 @@ Placeholder for when no procedure name is entered</extracomment>
         <translation>Procedurnamn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="312"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="314"/>
         <source>Name of the subprocess in exported code</source>
         <extracomment>Tool tip for text field</extracomment>
         <translation>Namn på underprocessen i exporterad kod</translation>
@@ -3491,20 +3491,20 @@ Tool tip for text field.</extracomment>
 <context>
     <name>Info</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="20"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="21"/>
         <source>Info</source>
         <extracomment>Collapsible section: info about the setup</extracomment>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="35"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="36"/>
         <source>Robot</source>
         <extracomment>Which robot is loaded</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="39"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="50"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="40"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="51"/>
         <source>None</source>
         <extracomment>Placeholder for robot name if no robot is loaded
 ----------
@@ -3512,19 +3512,19 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <translation>Ingen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="45"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="46"/>
         <source>Tool</source>
         <extracomment>Which tool is loaded</extracomment>
         <translation>Verktyg</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="55"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="56"/>
         <source>Number of targets</source>
         <extracomment>How many targets are in the path</extracomment>
         <translation>Antal punkter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="63"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="64"/>
         <source>Solution</source>
         <extracomment>Status of the solution</extracomment>
         <translation>Lösning</translation>
@@ -4737,7 +4737,7 @@ Ett eller flera projekt måste tas bort för att kunna skapa nya projekt</transl
 <context>
     <name>Manufacturer</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="33"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="34"/>
         <source>No robot selected</source>
         <extracomment>Collapsible section. Only shown when no robot is selected</extracomment>
         <translation>Ingen robot har valts</translation>
@@ -4758,14 +4758,14 @@ Ett eller flera projekt måste tas bort för att kunna skapa nya projekt</transl
         <translation type="vanished">Välj S4 Styrsystem</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="100"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="101"/>
         <source>File Type</source>
         <extracomment>File type selector. Which file type should the exported file(s) have</extracomment>
         <translation>Filtyp</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="128"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="138"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="129"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="139"/>
         <source>Path to Directory</source>
         <extracomment>ABB specific option. Path to directory
 ----------
@@ -4773,8 +4773,8 @@ Placeholder for when no path to directory is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="155"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="165"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="156"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="166"/>
         <source>Module Name</source>
         <extracomment>ABB specific option. Name of the module in the robot code
 ----------
@@ -4782,8 +4782,8 @@ Placeholder for when no module name is entered</extracomment>
         <translation>Modulnamn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="179"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="189"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="180"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="190"/>
         <source>External Axis Name</source>
         <extracomment>Name for external axis (rotary table)
 ----------
@@ -4791,20 +4791,20 @@ Placeholder for when no external axis name is entered</extracomment>
         <translation>Extern axelnamn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="203"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="204"/>
         <source>Rotary table axis number</source>
         <extracomment>ABB specific option. Which axis number should the rotary table be assigned to</extracomment>
         <translation>Roterande bordsaxelnummer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="228"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="229"/>
         <source>Linear track axis number</source>
         <extracomment>ABB specific option. Which axis number should the linear track be assigned to</extracomment>
         <translation>Linjärbana axelnummer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="253"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="263"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="254"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="264"/>
         <source>Work Object Name</source>
         <extracomment>Name of the work object in the exported robot code
 ----------
@@ -4819,8 +4819,8 @@ Placeholder for when no number is entered</extracomment>
         <translation type="vanished">Antal huvudfiler</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="304"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="313"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="305"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="314"/>
         <source>Tool Number</source>
         <extracomment>Referring to which tool should be used in the exported robot code
 ----------
@@ -4828,8 +4828,8 @@ Placeholder for when no tool number is entered</extracomment>
         <translation>Verktygsnummer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="331"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="340"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="332"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="341"/>
         <source>User Frame Number</source>
         <extracomment>Referring to which user frame should be used in the exported code
 ----------
@@ -4857,26 +4857,26 @@ Placeholder for when no user frame number is entered</extracomment>
         <translation type="vanished">Välj om roboten har et XRC-styrsystem</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="73"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="74"/>
         <source>Controller</source>
         <extracomment>Controller selector. Which controller should the exported file(s) be compatible with</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="89"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="90"/>
         <source>Invalid controller</source>
         <extracomment>Combo box item: Invalid controller type, unsupported for this robot manufacturer</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="118"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="119"/>
         <source>Invalid file type</source>
         <extracomment>Combo box item: Invalid file type, unsupported for this robot manufacturer</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="388"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="397"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="389"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="398"/>
         <source>Pulses per 360 deg (or meter)</source>
         <extracomment>Referring to encoder ticks per one revolution or meter on a rotational or linear axis
 ----------
@@ -4884,7 +4884,7 @@ Placeholder for when no value is entered</extracomment>
         <translation>Pulser per 360 grader (eller meter)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="425"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="426"/>
         <source>Generic Export Options in JSON format: eg.
 {
  &quot;procedureName&quot;: &quot;main&quot;,
@@ -4898,37 +4898,37 @@ Placeholder for when no value is entered</extracomment>
 }</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="448"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="449"/>
         <source>ABB Options</source>
         <extracomment>Collapsible section: Options specific for ABB robots</extracomment>
         <translation>ABB Opsjoner</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="498"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="499"/>
         <source>KUKA Options</source>
         <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
         <translation>KUKA Opsjoner</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="516"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="517"/>
         <source>FANUC Options</source>
         <extracomment>Collapsible section: Options specific for FANUC robots</extracomment>
         <translation>FANUC Opsjoner</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="538"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="539"/>
         <source>MOTOMAN Options</source>
         <extracomment>Collapsible section: Options specific for MOTOMAN robots</extracomment>
         <translation>MOTOMAN Opsjoner</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="580"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="581"/>
         <source>Generic Options</source>
         <extracomment>Collapsible section: Options for generic robots</extracomment>
         <translation>Generiska alternativ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="601"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="602"/>
         <source>Universal Robots</source>
         <extracomment>Collapsible section: Options for universal robots robots</extracomment>
         <translation type="unfinished"></translation>
@@ -8692,79 +8692,79 @@ Målet går inte att nå med den aktuella konfigurationen</translation>
 <context>
     <name>ToolData</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="32"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="33"/>
         <source>Tool Data</source>
         <extracomment>Collapsible section: Set data related the tool</extracomment>
         <translation>Verktygsdata</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="51"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="52"/>
         <source>Tool Name</source>
         <extracomment>Name of the selected tool</extracomment>
         <translation>Verktygsnamn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="59"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="60"/>
         <source>No tool selected</source>
         <extracomment>Only shown if the user has not selected a tool</extracomment>
         <translation>Inget verktyg valt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="67"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="68"/>
         <source>Export Name</source>
         <extracomment>Name of the tool in the exported code</extracomment>
         <translation>Export namn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="76"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="77"/>
         <source>Tool Export Name</source>
         <extracomment>Placeholder for when no tool export name has been entered</extracomment>
         <translation>Verktygs Exportnamn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="90"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="91"/>
         <source>Weight (kg)</source>
         <extracomment>Tool weight</extracomment>
         <translation>Vikt (kg)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="100"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="101"/>
         <source>Tool Weight</source>
         <extracomment>Placeholder for when no tool weight has been entered</extracomment>
         <translation>Verktygets Vikt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="122"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="123"/>
         <source>Center of Gravity X (mm)</source>
         <extracomment>X-position of the tool&apos;s centre of gravity</extracomment>
         <translation>Tyngdpunkt X (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="130"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="131"/>
         <source>Center of Gravity X</source>
         <extracomment>Placeholder text for when no X centre of gravity is entered</extracomment>
         <translation>Tyngdpunkt X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="156"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="157"/>
         <source>Center of Gravity Y (mm)</source>
         <extracomment>Y-position of the tool&apos;s centre of gravity</extracomment>
         <translation>Tyngdpunkt Y (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="164"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="165"/>
         <source>Center of Gravity Y</source>
         <extracomment>Placeholder text for when no Y centre of gravity is entered</extracomment>
         <translation>Tyngdpunkt Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="190"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="191"/>
         <source>Center of Gravity Z (mm)</source>
         <extracomment>Z-position of the tool&apos;s centre of gravity</extracomment>
         <translation>Tyngdpunkt Z (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="198"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="199"/>
         <source>Center of Gravity Z</source>
         <extracomment>Placeholder text for when no Z centre of gravity is entered</extracomment>
         <translation>Tyngdpunkt Z</translation>
