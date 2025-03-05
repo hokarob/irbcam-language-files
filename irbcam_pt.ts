@@ -2225,92 +2225,92 @@ Placeholder for when no external axis name is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="112"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="111"/>
         <source>Override speeds</source>
         <extracomment>Checkbox. Select to override all feed speeds</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="117"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="116"/>
         <source>Override target speeds from path</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="138"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="137"/>
         <source>Cutting speed (mm/s)</source>
         <extracomment>Selector for linear cutting speed</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="140"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="139"/>
         <source>Override targets with speed mode &quot;cutting&quot; and &quot;input&quot;</source>
         <extracomment>Tool tip for dropdown menu. Select override cutting feed speed</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="179"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="178"/>
         <source>Rapid speed (mm/s)</source>
         <extracomment>Selector for linear rapid speed</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="181"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="180"/>
         <source>Override targets with speed mode &quot;rapid&quot;</source>
         <extracomment>Tool tip for dropdown menu. Select override rapid feed speed</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="222"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="221"/>
         <source>Split files at linear lift points</source>
         <extracomment>Checkbox: Select to split files at linear lift points</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="232"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="231"/>
         <source>Add lift points</source>
         <extracomment>Checkbox: Select to add points where robot lifts tool out of the cut</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="250"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="249"/>
         <source>Lift distance (mm)</source>
         <extracomment>Distance to lift the tool in units of mm</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="252"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="251"/>
         <source>Distance to lift tool out of cut</source>
         <extracomment>Tool tip for text field. Enter how much the tool should be lifted out of cut in a &quot;tool lift&quot;</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="260"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="259"/>
         <source>Lift distance</source>
         <extracomment>Placeholder for when no distance is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="280"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="279"/>
         <source>Number of lines per file</source>
         <extracomment>Restrict how many lines a single file can have</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="283"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="282"/>
         <source>Split code into multiple files if the file is too large</source>
         <extracomment>Tool tip for text field. Robot code is splitted into multiple files if it has more than this mumber of lines.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="294"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="293"/>
         <source>Max lines</source>
         <extracomment>Placeholder for when no number is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="312"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="322"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="311"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="321"/>
         <source>Procedure name</source>
         <extracomment>Name of the procedure for the robot
 ----------
@@ -2318,7 +2318,7 @@ Placeholder for when no procedure name is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="314"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="313"/>
         <source>Name of the subprocess in exported code</source>
         <extracomment>Tool tip for text field</extracomment>
         <translation type="unfinished"></translation>
