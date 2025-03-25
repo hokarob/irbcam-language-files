@@ -668,19 +668,19 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1136"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1151"/>
         <source>Failed to send report</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1147"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1162"/>
         <source>Attachment should be less than %1 MB</source>
         <extracomment>Error message. %1 = size in MB</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1190"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1205"/>
         <source>Report sent</source>
         <extracomment>Status message: Referring to sending a feedback report</extracomment>
         <translation type="unfinished"></translation>
@@ -1768,19 +1768,25 @@ Button text</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="77"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="68"/>
+        <source>Before first move</source>
+        <extracomment>Checkbox: Select to include header before the first move when exporting robot code</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="87"/>
         <source>Custom Header</source>
         <extracomment>Placeholder for when no custom header template is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="93"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="103"/>
         <source>Footer</source>
         <extracomment>Footer in the exported robot code</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="109"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="119"/>
         <source>Custom Footer</source>
         <extracomment>Placeholder for when no custom footer template is entered</extracomment>
         <translation type="unfinished"></translation>
