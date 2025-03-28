@@ -5224,13 +5224,37 @@ Contex menu sub-item: Paste target(s) -&gt; After</extracomment>
 <context>
     <name>PathEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="32"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="33"/>
         <source>Targets</source>
         <extracomment>Title</extracomment>
         <translation>Bane</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="229"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="70"/>
+        <source>Path copied</source>
+        <extracomment>Notification text</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="74"/>
+        <source>Copied %1 paths</source>
+        <extracomment>Notification text</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="80"/>
+        <source>Target copied</source>
+        <extracomment>Notification text</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="84"/>
+        <source>Copied %1 targets</source>
+        <extracomment>Notification text</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="265"/>
         <source>The path list is empty
 Right click to see available options for populating the path</source>
         <extracomment>Placeholder text for empty path</extracomment>
@@ -6626,10 +6650,9 @@ Collapsible list section. This section contains all rotary tables</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="75"/>
         <source>Dynamic Angle 1</source>
         <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
-        <translation type="unfinished">Dynamisk vinkel 1</translation>
+        <translation type="obsolete">Dynamisk vinkel 1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="78"/>
@@ -6638,10 +6661,21 @@ Collapsible list section. This section contains all rotary tables</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="82"/>
         <source>Dynamic Angle 2</source>
         <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
-        <translation type="unfinished">Dynamisk vinkel 2</translation>
+        <translation type="obsolete">Dynamisk vinkel 2</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="75"/>
+        <source>Normal Mode</source>
+        <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
+        <translation type="unfinished">Normal Modus</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="82"/>
+        <source>Aligned Mode</source>
+        <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
+        <translation type="unfinished">Justert modus</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="85"/>
@@ -7134,7 +7168,7 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation type="vanished">Filen: %1 er tom</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="849"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="850"/>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -7142,34 +7176,34 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Større baner kan importeres ved å dele opp i flere mindre filer og velge &quot;Legg til&quot;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="939"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="940"/>
         <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>Antall desimaler i APT-fil: %1 er %2 (lav numerisk presisjon).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="950"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="951"/>
         <source>Failed to import APT file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Kunne ikke importere APT-fil %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="956"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="957"/>
         <source>Path imported from APT %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation>Bane importert fra APT: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1150"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1170"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1424"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1151"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1171"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1425"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke gjenopprette lagret prosjekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1197"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1443"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1198"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1444"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -7177,28 +7211,28 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1211"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1218"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1540"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1547"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1212"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1219"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1541"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1548"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1228"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1245"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1558"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1575"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1229"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1246"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1559"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1576"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>verktøy</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1255"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1262"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1586"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1593"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1256"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1263"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1587"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1594"/>
         <source>rotary table</source>
         <extracomment>Attribute: Rotary table
 ----------
@@ -7206,10 +7240,10 @@ Attribute: rotary table</extracomment>
         <translation>rotasjonsbord</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1273"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1280"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1603"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1610"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1274"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1281"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1604"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1611"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>lineærbane</translation>
@@ -7233,51 +7267,51 @@ Attribute: rotary table</extracomment>
         <translation>Kunne ikke laste ned prosjektet fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="691"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="692"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke bekrefte at prosjektet ble slettet fra skyen (det kan ha blitt slettet)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="715"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="716"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Prosjekt %1 ble slettet fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="791"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="792"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke bekrefte at prosjektet ble delt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="814"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="815"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Prosjekt %1 ble delt med %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="868"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="869"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Kunne ikke starte skyjobb %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="897"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="898"/>
         <source>Failed to get parsed APT %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Kunne ikke hente analysert APT %1 fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1014"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1045"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1015"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1046"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke hente robotkode fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1191"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1436"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1192"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1437"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -7285,14 +7319,14 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dette kan være fordi objektet er lagret med en eldre versjon av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1293"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1460"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1294"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1461"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Mangler info i prosjekt hentet fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1305"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1306"/>
         <source>Project was loaded with missing info
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message</extracomment>
@@ -7300,53 +7334,53 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1311"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1485"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1312"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1486"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke laste prosjektdata</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1328"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1344"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1329"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1345"/>
         <source>Path information missing from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Informasjon om bane mangler i lagret prosjekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1362"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1363"/>
         <source>DH Table information missing from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>DH Tabellinformasjon mangler fra lagret prosjekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1409"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1671"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1410"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1672"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Prosjekt %1 lastet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1472"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1473"/>
         <source>Missing version info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Manglende versjonsinformasjon i prosjektet hentet fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1509"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1510"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1528"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1529"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>importer bane</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1620"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1627"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1621"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1628"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH-tabell</translation>
@@ -8195,9 +8229,20 @@ Rotasjon (rad)
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="101"/>
+        <source>Dynamic Angle</source>
+        <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
+        <translation type="unfinished">Dynamisk Vinkel</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="109"/>
+        <source>Fixed Angle + Deviation</source>
+        <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
+        <translation type="unfinished">Fast vinkel + avvik</translation>
+    </message>
+    <message>
         <source>Dynamic Angle 1</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
-        <translation type="unfinished">Dynamisk vinkel 1</translation>
+        <translation type="obsolete">Dynamisk vinkel 1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="104"/>
@@ -8206,10 +8251,9 @@ Rotasjon (rad)
         <translation type="unfinished">RZ2 er satt til verktøyrullevinkelen for det første målet. For alle andre mål justeres den dynamisk ved å øke og redusere i 1-graders trinn opp til maksimalt avvik fra startverktøyets rullevinkel.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="109"/>
         <source>Dynamic Angle 2</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
-        <translation type="unfinished">Dynamisk vinkel 2</translation>
+        <translation type="obsolete">Dynamisk vinkel 2</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="112"/>
