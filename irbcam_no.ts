@@ -666,19 +666,19 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1176"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1192"/>
         <source>Failed to send report</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke sende rappport</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1187"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1203"/>
         <source>Attachment should be less than %1 MB</source>
         <extracomment>Error message. %1 = size in MB</extracomment>
         <translation>Vedlegg må være mindre enn %1 MB</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1230"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1246"/>
         <source>Report sent</source>
         <extracomment>Status message: Referring to sending a feedback report</extracomment>
         <translation>Rapport sendt inn</translation>
@@ -2874,49 +2874,41 @@ Kun UTF-8-enkodede filer er støttet</translation>
 <context>
     <name>IndexedRotaryTable</name>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/IndexedRotaryTable.qml" line="34"/>
         <source>This configuration will delete all rotary lift points. However, you can add them again by re-enabling this option and running solve path again. Are you sure you want to proceed?</source>
         <extracomment>Content for confirmation popup.</extracomment>
-        <translation>Denne konfigurasjonen vil slette alle roterende løftepunkter. Du kan imidlertid legge dem til igjen ved å aktivere dette alternativet på nytt og løse banen igjen. Er du sikker på at du vil fortsette?</translation>
+        <translation type="vanished">Denne konfigurasjonen vil slette alle roterende løftepunkter. Du kan imidlertid legge dem til igjen ved å aktivere dette alternativet på nytt og løse banen igjen. Er du sikker på at du vil fortsette?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/IndexedRotaryTable.qml" line="37"/>
         <source>Cancel</source>
         <extracomment>Cancel button for confirmation popup</extracomment>
-        <translation>Avbryt</translation>
+        <translation type="vanished">Avbryt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/IndexedRotaryTable.qml" line="39"/>
         <source>Ok</source>
         <extracomment>Acknowledge button for confirmation popup</extracomment>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/IndexedRotaryTable.qml" line="54"/>
         <source>Enable indexed mode</source>
         <extracomment>Checkbox: Select to enable indexed mode</extracomment>
-        <translation>Aktiver indeksert modus</translation>
+        <translation type="vanished">Aktiver indeksert modus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/IndexedRotaryTable.qml" line="76"/>
         <source>Step size (deg)</source>
         <extracomment>Label for text field: Referring to size of step in turntable indexed mode</extracomment>
-        <translation>Trinnstørrelse (grader)</translation>
+        <translation type="vanished">Trinnstørrelse (grader)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/IndexedRotaryTable.qml" line="78"/>
         <source>Size of step angle (1 - 360 deg)</source>
         <extracomment>Tool tip for text field.</extracomment>
-        <translation>Størrelse på trinnvinkel (1 - 360 grader)</translation>
+        <translation type="vanished">Størrelse på trinnvinkel (1 - 360 grader)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/IndexedRotaryTable.qml" line="103"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/IndexedRotaryTable.qml" line="105"/>
         <source>Lift distance (mm)</source>
         <extracomment>Label for text field: Referring to lift distance in turntable indexed mode
 ----------
 Tool tip for text field.</extracomment>
-        <translation>Løftedistanse (mm)</translation>
+        <translation type="vanished">Løftedistanse (mm)</translation>
     </message>
 </context>
 <context>
@@ -5299,37 +5291,37 @@ Right click to see available options for populating the path</source>
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1246"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1252"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation type="unfinished">Kunne ikke importere CSV-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1252"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1258"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished">Bane importert fra CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1267"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1273"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1291"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1297"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished">Kunne ikke laste bane</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1297"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1303"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished">Bane lastet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1797"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1803"/>
         <source> (copy)</source>
         <extracomment>Appended to path names when copied. E.g: My awesome path (copy)</extracomment>
         <translation type="unfinished"></translation>
@@ -6730,6 +6722,18 @@ Collapsible list section. This section contains all rotary tables</extracomment>
         <source>mm</source>
         <extracomment>Unit millimietres</extracomment>
         <translation type="unfinished">mm</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="200"/>
+        <source>Group indexed</source>
+        <extracomment>Checkbox: select to insert lift points between paths</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="208"/>
+        <source>Insert lift points between paths</source>
+        <extracomment>Tool tip for selecting group indexed</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
