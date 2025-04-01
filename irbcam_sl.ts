@@ -4678,35 +4678,35 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
 <context>
     <name>PathContextMenu</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="39"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="148"/>
         <source>Add new path</source>
         <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="43"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="82"/>
         <source>Add new</source>
         <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="45"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="84"/>
         <source>Rename</source>
         <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="48"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="87"/>
         <source>Path</source>
         <extracomment>Context menu sub-item: Add new -&gt; Path</extracomment>
         <translation type="unfinished">Pot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="50"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="60"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="78"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="138"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="171"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="89"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="108"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="129"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="212"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="245"/>
         <source>Before</source>
         <extracomment>Contex menu sub-item: Add new -&gt; Path -&gt; Before
 ----------
@@ -4720,11 +4720,11 @@ Contex menu sub-item: Paste target(s) -&gt; Before</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="52"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="62"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="80"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="140"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="173"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="91"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="110"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="131"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="214"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="247"/>
         <source>After</source>
         <extracomment>Contex menu sub-item: Add new -&gt; Path -&gt; After
 ----------
@@ -4738,119 +4738,143 @@ Contex menu sub-item: Paste target(s) -&gt; After</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="54"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="93"/>
         <source>Target</source>
         <extracomment>Contex menu sub-item: Add new -&gt; Target</extracomment>
         <translation type="unfinished">Točka</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="58"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="96"/>
+        <source>Copy path</source>
+        <extracomment>Contex menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="101"/>
+        <source>Delete path</source>
+        <extracomment>Context menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="106"/>
         <source>Add new target</source>
         <extracomment>Contex menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="67"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="113"/>
+        <source>Copy target</source>
+        <extracomment>Contex menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="118"/>
         <source>Split path after</source>
         <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="71"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="122"/>
         <source>Split path before</source>
         <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="76"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="127"/>
         <source>Split path</source>
         <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="91"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="47"/>
         <source>Copy selected paths</source>
         <extracomment>Contex menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="93"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="49"/>
         <source>Combine selected paths</source>
         <extracomment>Contex menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="97"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="53"/>
         <source>Copy selected path</source>
         <extracomment>Contex menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="104"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="60"/>
         <source>Copy selected targets</source>
         <extracomment>Contex menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="108"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="64"/>
         <source>Copy selected target</source>
         <extracomment>Contex menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="122"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="133"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="138"/>
+        <source>Delete target</source>
+        <extracomment>Context menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="169"/>
+        <source>Open project</source>
+        <extracomment>Context menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="196"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="207"/>
         <source>Paste paths</source>
         <extracomment>Contex menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="126"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="135"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="200"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="209"/>
         <source>Paste path</source>
         <extracomment>Contex menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="156"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="166"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="230"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="240"/>
         <source>Paste targets</source>
         <extracomment>Contex menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="158"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="168"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="232"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="242"/>
         <source>Paste target</source>
         <extracomment>Contex menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="182"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="73"/>
         <source>Delete selected</source>
         <extracomment>Contex menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="186"/>
-        <source>Delete</source>
-        <extracomment>Contex menu item</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="193"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="154"/>
         <source>Close max distance editor</source>
         <extracomment>Contex menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="195"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="156"/>
         <source>Open max distance editor</source>
         <extracomment>Contex menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="202"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="163"/>
         <source>Import Path</source>
         <extracomment>Contex menu item</extracomment>
         <translation type="unfinished">Uvozi pot</translation>
@@ -4870,31 +4894,33 @@ Contex menu sub-item: Paste target(s) -&gt; After</extracomment>
         <translation>Točke</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="70"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="65"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="87"/>
         <source>Path copied</source>
         <extracomment>Notification text</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="74"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="91"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification text</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="80"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="69"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="97"/>
         <source>Target copied</source>
         <extracomment>Notification text</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="84"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="101"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification text</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="265"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="299"/>
         <source>The path list is empty
 Right click to see available options for populating the path</source>
         <extracomment>Placeholder text for empty path</extracomment>
@@ -4939,37 +4965,37 @@ Right click to see available options for populating the path</source>
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1252"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1272"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation type="unfinished">Datoteke CSV ni bilo mogoče uvoziti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1258"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1278"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished">Pot, uvožena iz CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1273"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1293"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1297"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1317"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished">Nalaganje poti ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1303"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1323"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished">Pot je naložena</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1803"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1823"/>
         <source> (copy)</source>
         <extracomment>Appended to path names when copied. E.g: My awesome path (copy)</extracomment>
         <translation type="unfinished"></translation>
@@ -6826,23 +6852,23 @@ Večje poti je mogoče uvoziti tako, da datoteko APT razdelite na manjše datote
         <translation>Pot, uvožena iz APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1015"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1046"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1017"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1048"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kode robota iz oblaka ni bilo mogoče pridobiti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1151"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1171"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1425"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1153"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1173"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1427"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Shranjenega projekta ni bilo mogoče obnoviti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1192"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1437"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1194"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1439"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -6850,8 +6876,8 @@ This may be due to the save coming from an older version of IRBCAM</source>
 To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1198"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1444"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1200"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1446"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -6859,28 +6885,28 @@ This may be due to the save coming from an older version of IRBCAM</source>
 To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1212"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1219"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1541"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1548"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1214"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1221"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1543"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1550"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1229"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1246"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1559"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1576"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1231"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1248"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1561"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1578"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>Orodje</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1256"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1263"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1587"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1594"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1258"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1265"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1589"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1596"/>
         <source>rotary table</source>
         <extracomment>Attribute: Rotary table
 ----------
@@ -6888,23 +6914,23 @@ Attribute: rotary table</extracomment>
         <translation>Rotacijska miza </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1274"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1281"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1604"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1611"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1276"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1283"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1606"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1613"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>Linearni pomik</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1294"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1461"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1296"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1463"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Manjkajoče informacije v projektu, pridobljene iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1306"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1308"/>
         <source>Project was loaded with missing info
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message</extracomment>
@@ -6912,53 +6938,53 @@ This may be due to the save coming from an older version of IRBCAM</source>
 To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1312"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1486"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1314"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1488"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Podatkov projekta ni bilo mogoče naložiti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1329"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1345"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1331"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1347"/>
         <source>Path information missing from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>V shranjenem projektu manjkajo informacije o poti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1363"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1365"/>
         <source>DH Table information missing from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>V shranjenem projektu manjkajo informacije o tabeli DH</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1410"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1672"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1412"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1674"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projekt %1 je naložen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1473"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1475"/>
         <source>Missing version info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1510"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1512"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1529"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1531"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1621"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1628"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1623"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1630"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation type="unfinished"></translation>
