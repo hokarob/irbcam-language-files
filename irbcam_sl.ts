@@ -2845,44 +2845,44 @@ Placeholder for tool name if no tool is loaded</extracomment>
 <context>
     <name>IrbcamInterfacePublic</name>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="182"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="176"/>
         <source>User Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the user frame</extracomment>
         <translation>Uporabniški koordinatni sistem je posodobljen iz javnega API-ja</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="188"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="182"/>
         <source>Object Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the object frame</extracomment>
         <translatorcomment>Koordinatni sistem delovnega predmeta je. posodobljen iz javnega API-ja</translatorcomment>
         <translation>Object Frame updated from the Public API</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="194"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="188"/>
         <source>Tooltip Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the tooltip frame. In this context, tooltip means the tip of the tool (not UI element)</extracomment>
         <translation>Koordinatni sistem orodja je posodobljen iz javnega API-ja</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="200"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="194"/>
         <source>Stationary Tool Base Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the base frame of the tool</extracomment>
         <translation>Koordinatni sistem stacionarnega orodja je posodobljen iz javnega API-ja</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="206"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="200"/>
         <source>Robot Base Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the robot frame</extracomment>
         <translation>Osnovni koordinatni sistem robota je posodobljen iz javnega API-ja</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="212"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="206"/>
         <source>Rotary Table Base Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the rotary table frame</extracomment>
         <translation>Koordinatni sistem rotacijske mize je posodobljen iz javnega API-ja</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="218"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="212"/>
         <source>Linear Track Base Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the linear track frame</extracomment>
         <translation>Koordinatni sistem linearnega pomika je posodobljen iz javnega API-ja</translation>
@@ -4989,37 +4989,37 @@ Right click to see available options for populating the path</source>
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1272"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1274"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation type="unfinished">Datoteke CSV ni bilo mogoče uvoziti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1278"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1280"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished">Pot, uvožena iz CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1293"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1295"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1317"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1319"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished">Nalaganje poti ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1323"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1325"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished">Pot je naložena</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1823"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1825"/>
         <source> (copy)</source>
         <extracomment>Appended to path names when copied. E.g: My awesome path (copy)</extracomment>
         <translation type="unfinished"></translation>
