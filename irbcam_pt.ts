@@ -5099,209 +5099,269 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
 <context>
     <name>PathContextMenu</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="179"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="180"/>
         <source>Add new path</source>
         <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="154"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="155"/>
         <source>Add new</source>
         <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="157"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="158"/>
         <source>Path</source>
         <extracomment>Context menu sub-item: Add new -&gt; Path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="95"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="139"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="159"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="170"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="213"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="96"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="140"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="160"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="171"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="214"/>
         <source>Before</source>
-        <extracomment>Contex menu sub-item: Paste path(s) -&gt; Before
+        <extracomment>Context menu sub-item: Paste path(s) -&gt; Before
 ----------
-Contex menu sub-item: Paste target(s) -&gt; Before
+Context menu sub-item: Paste target(s) -&gt; Before
 ----------
-Contex menu sub-item: Add new -&gt; Path -&gt; Before
+Context menu sub-item: Add new -&gt; Path -&gt; Before
 ----------
-Contex menu sub-item: Add new target -&gt; Before
+Context menu sub-item: Add new target -&gt; Before
 ----------
-Contex menu sub-item: Split path -&gt; Before</extracomment>
+Context menu sub-item: Split path -&gt; Before</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="97"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="141"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="161"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="172"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="215"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="98"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="142"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="162"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="173"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="216"/>
         <source>After</source>
-        <extracomment>Contex menu sub-item: Paste path(s) -&gt; After
+        <extracomment>Context menu sub-item: Paste path(s) -&gt; After
 ----------
-Contex menu sub-item: Paste target(s) -&gt; After
+Context menu sub-item: Paste target(s) -&gt; After
 ----------
-Contex menu sub-item: Add new -&gt; Path -&gt; After
+Context menu sub-item: Add new -&gt; Path -&gt; After
 ----------
-Contex menu sub-item: Add new target -&gt; After
+Context menu sub-item: Add new target -&gt; After
 ----------
-Contex menu sub-item: Split path -&gt; After</extracomment>
+Context menu sub-item: Split path -&gt; After</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="163"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="164"/>
         <source>Target</source>
-        <extracomment>Contex menu sub-item: Add new -&gt; Target</extracomment>
+        <extracomment>Context menu sub-item: Add new -&gt; Target</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="49"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="50"/>
         <source>Copy path</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="235"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="236"/>
         <source>Delete path</source>
         <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="168"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="169"/>
         <source>Add new target</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="43"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="44"/>
         <source>Copy paths</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="45"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="46"/>
         <source>Copy targets in paths</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="51"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="52"/>
         <source>Copy targets in path</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="62"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="63"/>
         <source>Copy target</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="110"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="111"/>
         <source>Paste targets in a new path</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="112"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="113"/>
         <source>Paste target in a new path</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="124"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="125"/>
         <source>Paste targets at the end of path</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="126"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="127"/>
         <source>Paste target at the end of path</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="201"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="202"/>
         <source>Split path after</source>
         <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="206"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="207"/>
         <source>Split path before</source>
         <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="211"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="212"/>
         <source>Split path</source>
         <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="192"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="294"/>
+        <source>Expand all</source>
+        <extracomment>Context menu item: Expand all items in list</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="296"/>
+        <source>Collapse all</source>
+        <extracomment>Context menu item: Collapse all items in list</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="301"/>
+        <source>Expand</source>
+        <extracomment>Context menu</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="303"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="318"/>
+        <source>Current</source>
+        <extracomment>Context menu sub-item: Expand -&gt; Current
+----------
+Context menu sub-item: Collapse -&gt; Current</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="306"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="321"/>
+        <source>Targets</source>
+        <extracomment>Context menu sub-item: Expand -&gt; Targets
+----------
+Context menu sub-item: Collapse -&gt; Targets</extracomment>
+        <translation type="unfinished">Pontos</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="310"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="325"/>
+        <source>Selection</source>
+        <extracomment>Context menu sub-item: Expand -&gt; Selection
+----------
+Context menu sub-item: Collapse -&gt; Selection</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="313"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="328"/>
+        <source>All</source>
+        <extracomment>Context menu sub-item: Expand -&gt; All
+----------
+Context menu sub-item: Collapse -&gt; All</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="316"/>
+        <source>Collapse</source>
+        <extracomment>Context menu</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="193"/>
         <source>Combine selected paths</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="58"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="59"/>
         <source>Copy selected targets</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="241"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="242"/>
         <source>Delete target</source>
         <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="255"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="256"/>
         <source>Rename path</source>
         <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="280"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="281"/>
         <source>Open project</source>
         <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="79"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="90"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="80"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="91"/>
         <source>Paste paths</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="83"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="92"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="84"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="93"/>
         <source>Paste path</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="134"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="135"/>
         <source>Paste targets</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="136"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="137"/>
         <source>Paste target</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="228"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="229"/>
         <source>Delete selected</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5310,21 +5370,21 @@ Contex menu sub-item: Split path -&gt; After</extracomment>
         <translation type="obsolete">Excluir</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="264"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="265"/>
         <source>Close max distance editor</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="266"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="267"/>
         <source>Open max distance editor</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="274"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="275"/>
         <source>Import Path</source>
-        <extracomment>Contex menu item</extracomment>
+        <extracomment>Context menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5402,7 +5462,7 @@ Contex menu sub-item: Split path -&gt; After</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="382"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="373"/>
         <source>The path list is empty
 Right click to see available options for populating the path</source>
         <extracomment>Placeholder text for empty path</extracomment>
@@ -5473,37 +5533,37 @@ Right click to see available options for populating the path</source>
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1249"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1429"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1255"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1435"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1270"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1450"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1294"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1474"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1300"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1480"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1800"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1955"/>
         <source> (copy)</source>
         <extracomment>Appended to path names when copied. E.g: My awesome path (copy)</extracomment>
         <translation type="unfinished"></translation>
@@ -7926,50 +7986,50 @@ Target is unreachable with the current configuration</source>
 <context>
     <name>TargetDelegate</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="365"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="385"/>
         <source>Feed speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in linear velocity (feed speed)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="376"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="396"/>
         <source>Tool change</source>
         <extracomment>Tool tip. Explains that this icon indicates a tool change</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="386"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="406"/>
         <source>Spindle speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in spindle speed</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="417"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="437"/>
         <source>Target is successfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="419"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="439"/>
         <source>Path is succesfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="422"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="442"/>
         <source>Target failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="424"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="444"/>
         <source>Path failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="479"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="494"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="499"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="514"/>
         <source>mm</source>
         <extracomment>Unit millimetres
 ----------
@@ -7977,74 +8037,74 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="496"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="516"/>
         <source>s</source>
         <extracomment>Unit seconds. Part of a fraction mm/s</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="578"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="598"/>
         <source>Speed</source>
         <extracomment>Label over input field</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="583"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="603"/>
         <source>Tool</source>
         <extracomment>Label over input field</extracomment>
         <translation type="unfinished">Ferramentas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="588"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="608"/>
         <source>Spindle</source>
         <extracomment>Label over input field</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="601"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="621"/>
         <source>Input</source>
         <extracomment>Dropdown menu item. Speed mode: input</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="606"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="626"/>
         <source>Cutting</source>
         <extracomment>Dropdown menu item. Speed mode: cutting</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="611"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="631"/>
         <source>Rapid</source>
         <extracomment>Dropdown menu item. Speed mode: rapid</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="639"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="659"/>
         <source>rpm</source>
         <extracomment>Unit: revolutions per minute</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="648"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="668"/>
         <source>V</source>
         <extracomment>Input field prefix. Denotes velocity</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="655"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="675"/>
         <source>Motion type: </source>
         <extracomment>Droptown menu text</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="676"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="696"/>
         <source>Linear</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation type="unfinished">Linear</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="355"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="678"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="375"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="698"/>
         <source>Arc midpoint</source>
         <extracomment>Tooltip text
 ----------
@@ -8052,14 +8112,14 @@ Droptown menu text, motion type for target</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="274"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="294"/>
         <source>Undefined</source>
         <extracomment>Placeholder text for missing name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="353"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="663"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="373"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="683"/>
         <source>Rotary lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -8067,8 +8127,8 @@ Droptown menu text, motion type for target</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="350"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="659"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="370"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="679"/>
         <source>Linear lift point</source>
         <extracomment>Tooltip text
 ----------
