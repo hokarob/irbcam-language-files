@@ -556,7 +556,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="unfinished">Desconhecido</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="287"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="288"/>
         <source>No items in list</source>
         <extracomment>Placeholder for empty list</extracomment>
         <translation type="unfinished"></translation>
@@ -7131,88 +7131,88 @@ Clique novamente para substituir</translation>
 <context>
     <name>ShareStation</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="47"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="54"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="50"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="57"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="53"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="60"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="56"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="63"/>
         <source>Sharing</source>
         <extracomment>Network status: Sharing</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="62"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="69"/>
         <source>Unknown</source>
         <extracomment>Network status: Unknown state</extracomment>
         <translation type="unfinished">Desconhecido</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="103"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="110"/>
         <source>Share project %1</source>
         <extracomment>Full sentence, %1 = name of the project</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="116"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="123"/>
         <source>Allow write access</source>
         <extracomment>Checkbox text, full sentence</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="133"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="140"/>
         <source>Share with</source>
         <extracomment>label, share project with</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="143"/>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="152"/>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="158"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="150"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="159"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="165"/>
         <source>IRBCAM Support</source>
         <extracomment>combobox item, share project with IRBCAM Support</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="145"/>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="154"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="152"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="161"/>
         <source>Internal</source>
         <extracomment>combobox item, share project with users with in the organization</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="147"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="154"/>
         <source>External</source>
         <extracomment>combobox item, share project with users outside the organization</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="205"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="212"/>
         <source>Enter email</source>
         <extracomment>Placeholder text for an empty textfield: Email</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="223"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="230"/>
         <source>Share</source>
         <extracomment>Button text: share project</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="232"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="239"/>
         <source>The email is invalid</source>
         <extracomment>Tool-tip: Explaining why the share button is disabled</extracomment>
         <translation type="unfinished"></translation>

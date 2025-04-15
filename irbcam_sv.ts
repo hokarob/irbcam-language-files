@@ -580,7 +580,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation>Okänd</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="287"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="288"/>
         <source>No items in list</source>
         <extracomment>Placeholder for empty list</extracomment>
         <translation>Inga objekt i listan</translation>
@@ -8393,88 +8393,88 @@ Klicka igen för att skriva över</translation>
 <context>
     <name>ShareStation</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="47"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="54"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation>Oinitierad</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="50"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="57"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation>Inaktivt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="53"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="60"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation>Hämtar beskrivning</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="56"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="63"/>
         <source>Sharing</source>
         <extracomment>Network status: Sharing</extracomment>
         <translation>Delar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="62"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="69"/>
         <source>Unknown</source>
         <extracomment>Network status: Unknown state</extracomment>
         <translation>Okänd</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="103"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="110"/>
         <source>Share project %1</source>
         <extracomment>Full sentence, %1 = name of the project</extracomment>
         <translation>Dela projekt %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="116"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="123"/>
         <source>Allow write access</source>
         <extracomment>Checkbox text, full sentence</extracomment>
         <translation>Tillåt skrivåtkomst</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="133"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="140"/>
         <source>Share with</source>
         <extracomment>label, share project with</extracomment>
         <translation>Dela med</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="143"/>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="152"/>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="158"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="150"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="159"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="165"/>
         <source>IRBCAM Support</source>
         <extracomment>combobox item, share project with IRBCAM Support</extracomment>
         <translation>IRBCAM Kundsupport</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="145"/>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="154"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="152"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="161"/>
         <source>Internal</source>
         <extracomment>combobox item, share project with users with in the organization</extracomment>
         <translation>Interna</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="147"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="154"/>
         <source>External</source>
         <extracomment>combobox item, share project with users outside the organization</extracomment>
         <translation>Externa</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="205"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="212"/>
         <source>Enter email</source>
         <extracomment>Placeholder text for an empty textfield: Email</extracomment>
         <translation>Ange e-post</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="223"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="230"/>
         <source>Share</source>
         <extracomment>Button text: share project</extracomment>
         <translation>Dela</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="232"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="239"/>
         <source>The email is invalid</source>
         <extracomment>Tool-tip: Explaining why the share button is disabled</extracomment>
         <translation>E-postadressen är ogiltig</translation>
