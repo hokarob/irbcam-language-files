@@ -555,7 +555,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation>Neznano</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="288"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="289"/>
         <source>No items in list</source>
         <extracomment>Placeholder for empty list</extracomment>
         <translation>Na seznamu ni elementov</translation>

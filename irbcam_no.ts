@@ -568,7 +568,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation>Ukjent</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="288"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="289"/>
         <source>No items in list</source>
         <extracomment>Placeholder for empty list</extracomment>
         <translation>Ingenting i listen</translation>
