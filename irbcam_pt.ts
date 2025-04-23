@@ -2618,7 +2618,7 @@ Placeholder for tool name if no tool is loaded</extracomment>
 <context>
     <name>IrbcamApi</name>
     <message>
-        <location filename="../../../backend/src/irbcamapi.cpp" line="88"/>
+        <location filename="../../../backend/src/irbcamapi.cpp" line="91"/>
         <source>EULA not found</source>
         <extracomment>Shown instead of EULA if it fails to load</extracomment>
         <translation type="unfinished"></translation>
