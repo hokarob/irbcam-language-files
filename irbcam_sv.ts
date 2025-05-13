@@ -3237,61 +3237,61 @@ Placeholder text where users input scaling multiplier</extracomment>
         <translation>Ytterligare transformationer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="357"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="367"/>
         <source>Scaling presets</source>
         <extracomment>Title for drop-down menu where scaling presets may be selected</extracomment>
         <translation>Skalningsförinställningar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="372"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="382"/>
         <source>User defined</source>
         <extracomment>Drop-down menu item. Refers to user defined position units</extracomment>
         <translation>Användardefinierad</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="377"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="387"/>
         <source>From mm (no scaling)</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Från mm (ingen skalning)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="382"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="392"/>
         <source>From cm</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Från cm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="387"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="397"/>
         <source>From m</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Från m</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="392"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="402"/>
         <source>From inches</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Från tum</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="397"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="407"/>
         <source>From feet</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Från fot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="423"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="433"/>
         <source>Apply rotation to targets</source>
         <extracomment>Checkbox: Refers to applying rotation on individual targets in addition to rotating the whole imported path</extracomment>
         <translation>Tillämpa rotation på mål</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="427"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="437"/>
         <source>Apply rotation locally to individual targets</source>
         <extracomment>Tool tip for apply rotation to targets checkbox.</extracomment>
         <translation>Tillämpa rotation lokalt på individuella mål</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="447"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="457"/>
         <source>Import</source>
         <extracomment>Import button</extracomment>
         <translation>Importera</translation>
@@ -3314,7 +3314,7 @@ Only UTF-8 encoded files are supported</source>
 Endast UTF-8-kodade filer stöds</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="66"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="67"/>
         <source>Unsupported file type &apos;%1&apos;</source>
         <extracomment>Error message. %1 = file type</extracomment>
         <translation>Filtypen &apos;%1&apos; som inte stöds</translation>
