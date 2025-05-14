@@ -3964,43 +3964,43 @@ Placeholder for when no value is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="514"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="522"/>
         <source>ABB Options</source>
         <extracomment>Collapsible section: Options specific for ABB robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="562"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="570"/>
         <source>KUKA Options</source>
         <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="578"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="586"/>
         <source>FANUC Options</source>
         <extracomment>Collapsible section: Options specific for FANUC robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="598"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="606"/>
         <source>MOTOMAN Options</source>
         <extracomment>Collapsible section: Options specific for MOTOMAN robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="638"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="646"/>
         <source>Generic Options</source>
         <extracomment>Collapsible section: Options for generic robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="659"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="667"/>
         <source>UR Options</source>
         <extracomment>Collapsible section: Options for universal robots robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="672"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="680"/>
         <source>COMAU Options</source>
         <extracomment>Collapsible section: Options for universal robots robots</extracomment>
         <translation type="unfinished"></translation>
