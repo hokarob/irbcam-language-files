@@ -643,19 +643,19 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1190"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1193"/>
         <source>Failed to send report</source>
         <extracomment>Error message</extracomment>
         <translation>Poročila ni bilo mogoče poslati</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1201"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1204"/>
         <source>Attachment should be less than %1 MB</source>
         <extracomment>Error message. %1 = size in MB</extracomment>
         <translation>Priloga mora biti manjša od %1 MB</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1244"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1247"/>
         <source>Report sent</source>
         <extracomment>Status message: Referring to sending a feedback report</extracomment>
         <translation>Poročilo poslano</translation>
@@ -3737,45 +3737,51 @@ Placeholder for when no value is entered</extracomment>
 }</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="522"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="530"/>
         <source>ABB Options</source>
         <extracomment>Collapsible section: Options specific for ABB robots</extracomment>
         <translation type="unfinished">AAB možnosti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="570"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="578"/>
         <source>KUKA Options</source>
         <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
         <translation type="unfinished">KUKA.možnosti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="586"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="594"/>
         <source>FANUC Options</source>
         <extracomment>Collapsible section: Options specific for FANUC robots</extracomment>
         <translation type="unfinished">FANUC možnosti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="606"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="614"/>
         <source>MOTOMAN Options</source>
         <extracomment>Collapsible section: Options specific for MOTOMAN robots</extracomment>
         <translation type="unfinished">MOTOMAN možnosti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="646"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="654"/>
         <source>Generic Options</source>
         <extracomment>Collapsible section: Options for generic robots</extracomment>
         <translation type="unfinished">Generične možnosti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="667"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="675"/>
         <source>UR Options</source>
-        <extracomment>Collapsible section: Options for universal robots robots</extracomment>
+        <extracomment>Collapsible section: Options for UR robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="680"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="688"/>
         <source>COMAU Options</source>
-        <extracomment>Collapsible section: Options for universal robots robots</extracomment>
+        <extracomment>Collapsible section: Options for COMAU robots</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="701"/>
+        <source>DENSO Options</source>
+        <extracomment>Collapsible section: Options for DENSO robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
