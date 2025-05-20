@@ -6698,25 +6698,25 @@ Collapsible list section. This section contains all rotary tables</extracomment>
 <context>
     <name>SettingsInterface</name>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="140"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="142"/>
         <source>Failed to translate language to %1</source>
         <extracomment>Error message. %1 = language</extracomment>
         <translation>Jezika ni bilo mogoče prevesti v %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="149"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="151"/>
         <source>Language changed</source>
         <extracomment>Status message</extracomment>
         <translation>Jezik spremenjen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="322"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="324"/>
         <source>Failed to save settings for %1</source>
         <extracomment>Error message: %1 = full name (of user)</extracomment>
         <translation>Shranjevanje nastavitev za %1 ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="328"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="330"/>
         <source>Settings for %1 saved</source>
         <extracomment>Status message. %1 = full name (of user)</extracomment>
         <translation>Nastavitve za %1 so shranjene</translation>

@@ -8658,25 +8658,25 @@ Klicka igen för att skriva över</translation>
         <translation type="vanished">Det gick inte att översätta språket till</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="140"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="142"/>
         <source>Failed to translate language to %1</source>
         <extracomment>Error message. %1 = language</extracomment>
         <translation>Det gick inte att översätta språket till %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="149"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="151"/>
         <source>Language changed</source>
         <extracomment>Status message</extracomment>
         <translation>Språket har ändrats</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="322"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="324"/>
         <source>Failed to save settings for %1</source>
         <extracomment>Error message: %1 = full name (of user)</extracomment>
         <translation>Det gick inte att spara inställningarna för %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="328"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="330"/>
         <source>Settings for %1 saved</source>
         <extracomment>Status message. %1 = full name (of user)</extracomment>
         <translation>Inställningar för %1 sparade</translation>
