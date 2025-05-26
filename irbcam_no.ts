@@ -8524,97 +8524,97 @@ Button. Import custom tool</extracomment>
         <translation>Ingen verktøypunkt å vise</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="55"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="56"/>
         <source> mm</source>
         <extracomment>postfix after a number (millimeters)</extracomment>
         <translation> mm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="236"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="237"/>
         <source>Press ctrl + c to copy to clipboard</source>
         <extracomment>label</extracomment>
         <translation>Trykk ctrl + c for å kopiere til utklippstavlen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="408"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="409"/>
         <source>Insert</source>
         <extracomment>Button: Insert target</extracomment>
         <translation>Sett inn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="410"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="411"/>
         <source>Insert Before</source>
         <extracomment>Button: Insert target before selected target in the list</extracomment>
         <translation>Sett inn før</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="470"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="471"/>
         <source>Relative to</source>
         <extracomment>label next to a drop-down menu</extracomment>
         <translation>Relativ til</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="479"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="480"/>
         <source>Global origin</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Globalt nullpunkt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="481"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="482"/>
         <source>Robot base</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Robotbase</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="483"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="484"/>
         <source>User frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Brukerkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="485"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="486"/>
         <source>Object frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Objektkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="594"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="595"/>
         <source>Copy</source>
         <extracomment>Button</extracomment>
         <translation>Kopier</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="204"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="205"/>
         <source>Current tool-point</source>
         <extracomment>Label</extracomment>
         <translation>Gjeldende verktøypunkt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="216"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="217"/>
         <source>Relative to object frame</source>
         <extracomment>Tool-tip</extracomment>
         <translation>Relativt til objektkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="250"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="251"/>
         <source>Targets</source>
         <extracomment>Label</extracomment>
         <translation>Mål</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="399"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="400"/>
         <source>Replace</source>
         <extracomment>Button: Replace selected target</extracomment>
         <translation>Erstatt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="441"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="442"/>
         <source>Insert after</source>
         <extracomment>Button: Insert after selected target</extracomment>
         <translation>Sett inn etter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="182"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="183"/>
         <source>Reference frame: %1
 Translation (mm)
 [x, y, z]: [%2, %3, %4]
@@ -8628,7 +8628,7 @@ Rotasjon (rad)
 [z1, y, z2]: [%5, %6, %7]</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="194"/>
+        <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="195"/>
         <source>Relative pose copied to clipboard</source>
         <extracomment>Notification message</extracomment>
         <translation>Relativ positur kopiert til utklippstavlen</translation>
