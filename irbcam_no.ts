@@ -7314,19 +7314,19 @@ Collapsible list section. This section contains all rotary tables</extracomment>
         <translation>Eksterne</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="219"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="228"/>
         <source>Enter email</source>
         <extracomment>Placeholder text for an empty textfield: Email</extracomment>
         <translation>Skriv epost</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="239"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="248"/>
         <source>Share</source>
         <extracomment>Button text: share project</extracomment>
         <translation>Del</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="250"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="259"/>
         <source>The email is invalid</source>
         <extracomment>Tool-tip: Explaining why the share button is disabled</extracomment>
         <translation>Eposten er ikke gyldig</translation>

@@ -7360,19 +7360,19 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="219"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="228"/>
         <source>Enter email</source>
         <extracomment>Placeholder text for an empty textfield: Email</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="239"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="248"/>
         <source>Share</source>
         <extracomment>Button text: share project</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="250"/>
+        <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="259"/>
         <source>The email is invalid</source>
         <extracomment>Tool-tip: Explaining why the share button is disabled</extracomment>
         <translation type="unfinished"></translation>
