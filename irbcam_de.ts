@@ -5668,7 +5668,7 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
 <context>
     <name>OptimizationInterface</name>
     <message>
-        <location filename="../../../backend/src/optimizationinterface.cpp" line="265"/>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="266"/>
         <source>Values copied to project</source>
         <extracomment>Info message. Means that the values in the optimiser has been transferred to the project</extracomment>
         <translation type="unfinished"></translation>

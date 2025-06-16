@@ -4424,7 +4424,7 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="vanished">Uspešno optimizirano</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/optimizationinterface.cpp" line="265"/>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="266"/>
         <source>Values copied to project</source>
         <extracomment>Info message. Means that the values in the optimiser has been transferred to the project</extracomment>
         <translation>Vrednosti so kopirane v projekt</translation>
