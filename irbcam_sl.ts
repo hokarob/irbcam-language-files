@@ -7728,7 +7728,7 @@ Droptown menu text, motion type for target</extracomment>
     <name>ToolEditor</name>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="27"/>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="80"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="81"/>
         <source>Tools</source>
         <extracomment>Title
 ----------
@@ -7748,25 +7748,25 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <translation>Ali ste prepričani, da želite prepisati %1?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="92"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="93"/>
         <source>Edit</source>
         <extracomment>Collapsible section. This section contains tools to adjust tool position, rotation and other options</extracomment>
         <translation>Uredi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="109"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="110"/>
         <source>Show mesh</source>
         <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="116"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="117"/>
         <source>Transparent</source>
         <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="127"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="128"/>
         <source>Stationary tool is incompatible with rotary tables and linear tracks</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if both rotary table and linear track is selected</extracomment>
         <translation>Stacionarno orodje ni združljivo z rotacijskimi mizami in linearnimi pomik</translation>
@@ -7777,74 +7777,74 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <translation type="vanished">Stacionarno orodje ni združljivo z %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="129"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="130"/>
         <source>Stationary tool is incompatible with %1</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="131"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="132"/>
         <source>rotary tables</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
         <translation>Rotacijske mize </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="133"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="134"/>
         <source>linear tracks</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
         <translation>Linearni pomiki</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="142"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="143"/>
         <source>Stationary Tool</source>
         <extracomment>Checkbox. Select if robot should hold work object instead of tool</extracomment>
         <translation>Stacionarno orodje</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="164"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="165"/>
         <source>Move tooltip</source>
         <extracomment>Dropdown menu item. Select which reference to move</extracomment>
         <translation>Premakni konico orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="168"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="169"/>
         <source>Move base</source>
         <extracomment>Dropdown menu item. Select which reference to move</extracomment>
         <translation>Premakni bazo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="195"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="196"/>
         <source>Generic Tool</source>
         <extracomment>Collapsible section. Contains options for generic tool</extracomment>
         <translation>Generično orodje</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="214"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="215"/>
         <source>Diameter</source>
         <extracomment>Label for text field. Adjust generic tool diameter</extracomment>
         <translation>Premer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="219"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="220"/>
         <source>Cone length</source>
         <extracomment>Label for text field. Adjust cone length on the generic tool</extracomment>
         <translation>Dolžina stožca</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="224"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="225"/>
         <source>Color</source>
         <extracomment>Label for button. Adjust generic tool colour</extracomment>
         <translation>Barva</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="273"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="274"/>
         <source>Select color</source>
         <extracomment>Title for colour picker dialog box</extracomment>
         <translation>Izberite barvo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="290"/>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="475"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="291"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="476"/>
         <source>Import</source>
         <extracomment>Collapsible section. Contains tools to import custom tool
 ----------
@@ -7852,68 +7852,68 @@ Button. Import custom tool</extracomment>
         <translation>Uvozi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="304"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="305"/>
         <source>The active subscription does not provide access to custom assets. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation>Aktivna naročnina ne omogoča dostopa do sredstev po meri. Kliknite %1tukaj%2 za upravljanje naročnin</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="316"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="317"/>
         <source>Weight</source>
         <extracomment>Label for text field. Set tool weight</extracomment>
         <translation>Teža</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="352"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="353"/>
         <source>CoG</source>
         <extracomment>Label: Centre of Gravity</extracomment>
         <translatorcomment>Težišče</translatorcomment>
         <translation>T</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="409"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="410"/>
         <source>Open file</source>
         <extracomment>Title for file browser</extracomment>
         <translation>Odpri datoteko</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="411"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="412"/>
         <source>Asset files</source>
         <extracomment>File type filter in file browser. Displayed like this: Asset files (*.zip *.obj *.dae *.fbx *.stl *.gltf *.glb *.wrl)</extracomment>
         <translation>Datoteke sredstev</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="421"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="422"/>
         <source>File</source>
         <extracomment>Label. Refers to file path</extracomment>
         <translation>Datoteka</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="428"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="429"/>
         <source>No file selected</source>
         <extracomment>Placeholder. Used instead of file path when no file is selected</extracomment>
         <translation>Nobena datoteka ni izbrana</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="446"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="447"/>
         <source>Name</source>
         <extracomment>Label for text field. Input name for custom tool</extracomment>
         <translation>Ime</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="461"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="462"/>
         <source>Name of the custom tool</source>
         <extracomment>Placeholder. Used for tool name until a name is entered</extracomment>
         <translation>Ime orodja po meri</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="473"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="474"/>
         <source>Overwrite</source>
         <extracomment>Button. Import and overwrite existing custom tool</extracomment>
         <translation>Prepiši</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="488"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="490"/>
         <source>Cannot overwrite to read only asset.</source>
         <extracomment>Tool tip text. Cannot overwrite</extracomment>
         <translation>Sredstva samo za branje ni mogoče prepisati.</translation>
