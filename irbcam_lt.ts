@@ -2806,19 +2806,19 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="925"/>
+        <location filename="../../../backend/src/networking.cpp" line="959"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>nežinomas vartotojas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="934"/>
+        <location filename="../../../backend/src/networking.cpp" line="968"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>nežinomas vartotojo vardas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="985"/>
+        <location filename="../../../backend/src/networking.cpp" line="1019"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -2826,39 +2826,39 @@ The affected settings have been set to their default values</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1013"/>
+        <location filename="../../../backend/src/networking.cpp" line="1047"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="995"/>
+        <location filename="../../../backend/src/networking.cpp" line="1029"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1003"/>
+        <location filename="../../../backend/src/networking.cpp" line="1037"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1243"/>
+        <location filename="../../../backend/src/networking.cpp" line="1288"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1367"/>
+        <location filename="../../../backend/src/networking.cpp" line="1412"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1373"/>
+        <location filename="../../../backend/src/networking.cpp" line="1418"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -2874,7 +2874,7 @@ Please save your work and reload page as soon as possible</source>
         <translation type="vanished">Nepavyko įkelti nustatymų </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1393"/>
+        <location filename="../../../backend/src/networking.cpp" line="1438"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
@@ -2888,7 +2888,7 @@ Please save your work and reload page as soon as possible</source>
         <translation type="vanished"> įkelta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1202"/>
+        <location filename="../../../backend/src/networking.cpp" line="1247"/>
         <source>A network error occurred</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished">Įvyko tinklo klaida</translation>

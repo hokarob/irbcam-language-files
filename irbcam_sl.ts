@@ -2927,19 +2927,19 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <translation>Preverjanje posodobitev ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="925"/>
+        <location filename="../../../backend/src/networking.cpp" line="959"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>Neznan uporabnik</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="934"/>
+        <location filename="../../../backend/src/networking.cpp" line="968"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>Neznan uporabniški račun</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="985"/>
+        <location filename="../../../backend/src/networking.cpp" line="1019"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -2949,25 +2949,25 @@ Nekatere nastavitve niso bile na voljo v oblaku. To je verjetno posledica novih 
 Prizadete nastavitve so bile nastavljene na privzete vrednosti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="995"/>
+        <location filename="../../../backend/src/networking.cpp" line="1029"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation>Nalaganje nastavitev za %1 ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1003"/>
+        <location filename="../../../backend/src/networking.cpp" line="1037"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation>Nastavitve za %1 so naložene</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1013"/>
+        <location filename="../../../backend/src/networking.cpp" line="1047"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation>Dobrodošli %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1243"/>
+        <location filename="../../../backend/src/networking.cpp" line="1288"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
@@ -2975,7 +2975,7 @@ code: %2</source>
 koda: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1367"/>
+        <location filename="../../../backend/src/networking.cpp" line="1412"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
@@ -2983,7 +2983,7 @@ Save your work and reload page to get the newest features</source>
 Shranite svoje delo in znova naložite stran, da dobite najnovejše funkcije</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1373"/>
+        <location filename="../../../backend/src/networking.cpp" line="1418"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -2993,13 +2993,13 @@ Nekatere funkcije morda ne bodo na voljo, dokler se stran znova ne naloži.
 Prosimo, da shranite svoje delo in čim prej znova naložite stran</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1393"/>
+        <location filename="../../../backend/src/networking.cpp" line="1438"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Statusa opravila v oblaku ni bilo mogoče pridobiti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1202"/>
+        <location filename="../../../backend/src/networking.cpp" line="1247"/>
         <source>A network error occurred</source>
         <extracomment>Error message</extracomment>
         <translation>Prišlo je do napake v omrežju</translation>
