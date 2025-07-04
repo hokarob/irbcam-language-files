@@ -2778,229 +2778,235 @@ Placeholder text where users input scaling multiplier</extracomment>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="65"/>
+        <source>GCODE files</source>
+        <extracomment>This will be seen in the file type filter in the file interface</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="67"/>
         <source>Open file</source>
         <extracomment>Name of the file interface window</extracomment>
         <translation type="unfinished">Datei öffnen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="101"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="106"/>
         <source>Import Path</source>
         <extracomment>Title</extracomment>
         <translation>Pfad importieren</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="112"/>
-        <source>The active subscription does not provide access to APT parser. Click %1here%2 to manage subscriptions</source>
-        <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="136"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="141"/>
         <source>Documentation</source>
         <extracomment>Separator label. This section contains a link to the documentation</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="145"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="150"/>
         <source>Supported file formats are:</source>
         <extracomment>Label. Supported file formats are listed below this line</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="158"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="163"/>
         <source>Reference documentation for JSON and CSV format is in  %1our forum%2</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="169"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="174"/>
         <source>Select File</source>
         <extracomment>Section separator label</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="177"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="182"/>
         <source>File name: </source>
         <extracomment>Label</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="186"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="191"/>
         <source>No file selected</source>
         <extracomment>Placeholder file name until a file is selected</extracomment>
         <translation type="unfinished">Keine Datei ausgewählt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="190"/>
-        <source>Invalid file type. Only .apt, .json and .csv files are supported</source>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="117"/>
+        <source>The active subscription does not provide access to GCODE/APT parser. Click %1here%2 to manage subscriptions</source>
+        <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="195"/>
+        <source>Invalid file type. Only .apt, .gcode, .nc, .json and .csv files are supported</source>
         <extracomment>Tool tip: Invalid file type is selected</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="205"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="210"/>
         <source>%1 Import Options</source>
-        <extracomment>Additional options when importing file. %1 = APT, JSON or CSV depending on what type of file is selected</extracomment>
+        <extracomment>Additional options when importing file. %1 = APT, GCODE, JSON or CSV depending on what type of file is selected</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="212"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="217"/>
         <source>Minimum distance (mm)</source>
         <extracomment>Description for a text field where the user inputs the minimum distance between targets</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="214"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="219"/>
         <source>Minimum distance between targets. Range: 0.1 - 10 (mm). For distances smaller than 1, arc moves are converted to linear</source>
         <extracomment>Tool tip: Displayed when hovering over minimum distance label</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="243"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="248"/>
         <source>Append</source>
         <extracomment>Checkbox: Select to append targets to existing path</extracomment>
         <translation type="unfinished">Anhängen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="247"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="252"/>
         <source>Add to existing path instead of replacing</source>
         <extracomment>Tool tip for append checkbox.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="254"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="259"/>
         <source>Reverse INDIRV</source>
         <extracomment>Checkbox: Select to reverse INDIRV (initial direction vector). This is primarily for Catia users</extracomment>
         <translation type="unfinished">INDIRV umkehren</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="258"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="263"/>
         <source>Reverse direction of vector (Catia)</source>
         <extracomment>Tool tip for Reverse INDIRV checkbox</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="264"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="269"/>
         <source>No arcs</source>
         <extracomment>Checkbox: Select to disable arc moves</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="268"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="273"/>
         <source>Arcs are split into linear moves</source>
         <extracomment>Tool tip for no arcs checkbox</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="274"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="279"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="278"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="283"/>
         <source>Convert all feed speeds to rapid moves, except for cutting speed. This is useful if selecting &apos;Gun on/off&apos; when exporting</source>
         <extracomment>Tool tip for Gun on/off checkbox</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="287"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="292"/>
         <source>Column separator</source>
         <extracomment>Which character to use for separating CSV columns</extracomment>
         <translation type="unfinished">Spaltentrennzeichen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="299"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="304"/>
         <source>Comma &apos;,&apos;</source>
         <extracomment>Item in dropdown menu. Referring to using a comma character to separate columns in a CSV file</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="304"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="309"/>
         <source>Space &apos; &apos;</source>
         <extracomment>Item in dropdown menu. Referring to using a space character to separate columns in a CSV file</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="314"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="319"/>
         <source>Row separator</source>
         <extracomment>Which character to use for separating CSV rows</extracomment>
         <translation type="unfinished">Zeilentrennzeichen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="326"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="331"/>
         <source>Newline &apos;
 &apos;</source>
         <extracomment>Item in dropdown menu. Referring to a new line in a CSV file</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="331"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="336"/>
         <source>Semicolon &apos;;&apos;</source>
         <extracomment>Item in dropdown menu. Referring to the semicolon symbol</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="345"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="350"/>
         <source>Additional Transformations</source>
         <extracomment>Collapsible section title</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="367"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="372"/>
         <source>Scaling presets</source>
         <extracomment>Title for drop-down menu where scaling presets may be selected</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="382"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="387"/>
         <source>User defined</source>
         <extracomment>Drop-down menu item. Refers to user defined position units</extracomment>
         <translation type="unfinished">Benutzerdefinierte</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="387"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="392"/>
         <source>From mm (no scaling)</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="392"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="397"/>
         <source>From cm</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="397"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="402"/>
         <source>From m</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="402"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="407"/>
         <source>From inches</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="407"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="412"/>
         <source>From feet</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="433"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="438"/>
         <source>Apply rotation to targets</source>
         <extracomment>Checkbox: Refers to applying rotation on individual targets in addition to rotating the whole imported path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="437"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="442"/>
         <source>Apply rotation locally to individual targets</source>
         <extracomment>Tool tip for apply rotation to targets checkbox.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="457"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="462"/>
         <source>Import</source>
         <extracomment>Import button</extracomment>
         <translation type="unfinished">Importieren</translation>
@@ -8855,13 +8861,6 @@ Es werden nur UTF-8-codierte Dateien unterstützt</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1024"/>
-        <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
-Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
-        <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="389"/>
         <source>Failed to confirm that the project was saved to the cloud (the project may or may not have been saved)</source>
         <extracomment>Error message</extracomment>
@@ -8907,30 +8906,6 @@ Larger paths can be imported by splitting the APT file into smaller files and us
         <location filename="../../../backend/src/stationinterface.cpp" line="1043"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1072"/>
-        <source>Failed to get parsed APT %1 from the cloud</source>
-        <extracomment>Error message: %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1114"/>
-        <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
-        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1125"/>
-        <source>Failed to import APT file %1</source>
-        <extracomment>Error message. %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1131"/>
-        <source>Path imported from APT %1</source>
-        <extracomment>Notification. %1 = file name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8994,6 +8969,37 @@ This may be due to the save coming from an older version of IRBCAM</source>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1024"/>
+        <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
+Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
+        <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1072"/>
+        <source>Failed to get parsed %1 from the cloud</source>
+        <extracomment>Error message: %1 = file name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1114"/>
+        <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
+        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1125"/>
+        <source>Failed to import path from %1</source>
+        <extracomment>Error message. %1 = file name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1131"/>
+        <source>Path imported from %1</source>
+        <extracomment>Notification. %1 = file name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
