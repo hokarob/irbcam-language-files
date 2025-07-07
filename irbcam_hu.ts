@@ -6870,27 +6870,33 @@ No new targets were added
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1221"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1205"/>
+        <source>Failed to find max distance</source>
+        <extracomment>Error message from find max distance</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1223"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1227"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1229"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1236"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1238"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1242"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1244"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
