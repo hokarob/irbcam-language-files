@@ -385,38 +385,42 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>AdditionalObjectsModel</name>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="638"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="678"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Det gick inte att bekräfta att %1 togs bort från molnet (objektet kan ha tagits bort eller inte)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="668"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="708"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 togs bort från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="741"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="852"/>
         <source>Failed to download geometry from cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att ladda ner geometri från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="825"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="945"/>
         <source>Failed to download geometry from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att ladda ner geometri från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="884"/>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="897"/>
-        <source>Could not open folder: %1</source>
-        <extracomment>Error message. %1 = file path to folder</extracomment>
-        <translation>Kunde inte öppna mappen: %1</translation>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="980"/>
+        <source>Failed to unpack geometry from the cloud</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="924"/>
+        <source>Could not open folder: %1</source>
+        <extracomment>Error message. %1 = file path to folder</extracomment>
+        <translation type="vanished">Kunde inte öppna mappen: %1</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1107"/>
         <source>Custom geometry %1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Egen geometri %1 laddad</translation>
@@ -628,38 +632,38 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>BaseNetworkDataInterface</name>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="261"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="284"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Det gick inte att bekräfta att %1 togs bort från molnet (objektet kan ha tagits bort eller inte)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="294"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="317"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message. %1 = Name</extracomment>
         <translation>%1 togs bort från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="389"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="412"/>
         <source>Failed to load %1</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Det gick inte att ladda %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="482"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="518"/>
         <source>%1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 har laddats</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="518"/>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="611"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="548"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="644"/>
         <source>Failed to download item from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att ladda ner objektet från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="641"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="667"/>
         <source>Failed to unpack item</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att packa upp objektet</translation>
@@ -3632,43 +3636,43 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <translation type="vanished">Adjö </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="88"/>
+        <location filename="../../../backend/src/networking.cpp" line="84"/>
         <source>Failed to sign in user %1</source>
         <extracomment>Error message. %1 = user name</extracomment>
         <translation>Det gick inte att logga in användaren %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="131"/>
+        <location filename="../../../backend/src/networking.cpp" line="127"/>
         <source>Goodbye %1</source>
         <extracomment>Status message shown on logout. %1 = full name</extracomment>
         <translation>Adjö %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="206"/>
+        <location filename="../../../backend/src/networking.cpp" line="202"/>
         <source>Failed to get admin details</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att hämta administratörsinformation</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="444"/>
+        <location filename="../../../backend/src/networking.cpp" line="440"/>
         <source>Failed to check for updates</source>
         <extracomment>Warning message: Shown if the client is unable to check for updates</extracomment>
         <translation>Det gick inte att söka efter uppdateringar</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="959"/>
+        <location filename="../../../backend/src/networking.cpp" line="750"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>okänd användare</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="968"/>
+        <location filename="../../../backend/src/networking.cpp" line="759"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>okänt användarnamn</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1019"/>
+        <location filename="../../../backend/src/networking.cpp" line="810"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -3678,25 +3682,25 @@ Vissa inställningar var inte tillgängliga i molnet. Detta beror troligen på a
 De berörda inställningarna har ställts in på sina standardvärden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1047"/>
+        <location filename="../../../backend/src/networking.cpp" line="838"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation>Välkommen %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1029"/>
+        <location filename="../../../backend/src/networking.cpp" line="820"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation>Det gick inte att läsa in inställningarna för %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1037"/>
+        <location filename="../../../backend/src/networking.cpp" line="828"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation>Inställningar för %1 laddade</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1288"/>
+        <location filename="../../../backend/src/networking.cpp" line="914"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
@@ -3704,7 +3708,7 @@ code: %2</source>
 kod: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1412"/>
+        <location filename="../../../backend/src/networking.cpp" line="1037"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
@@ -3712,7 +3716,7 @@ Save your work and reload page to get the newest features</source>
 Spara ditt arbete och ladda om sidan för att få de senaste funktionerna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1418"/>
+        <location filename="../../../backend/src/networking.cpp" line="1043"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -3730,7 +3734,7 @@ Spara ditt arbete och ladda om sidan så snart som möjligt</translation>
         <translation type="vanished">Misslyckades med att läsa in inställningar för </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1438"/>
+        <location filename="../../../backend/src/networking.cpp" line="1063"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att få molnjobbstatus</translation>
@@ -3744,7 +3748,7 @@ Spara ditt arbete och ladda om sidan så snart som möjligt</translation>
         <translation type="vanished"> inläst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1247"/>
+        <location filename="../../../backend/src/networking.cpp" line="873"/>
         <source>A network error occurred</source>
         <extracomment>Error message</extracomment>
         <translation>Ett nätverksfel inträffade</translation>
@@ -3759,37 +3763,37 @@ Spara ditt arbete och ladda om sidan så snart som möjligt</translation>
 <context>
     <name>IrbcamQmlEnums</name>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="602"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="611"/>
         <source>Undefined</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Odefinierad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="605"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="614"/>
         <source>Generic</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Generisk</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="608"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="617"/>
         <source>Spindle</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Spindel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="611"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="620"/>
         <source>Weldgun</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Svetspistol</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="614"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="623"/>
         <source>Roller</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Rull</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="620"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="629"/>
         <source>Unknown (%1)</source>
         <extracomment>Collapsible list section. %1 = number</extracomment>
         <translation>Okänd (%1)</translation>
@@ -6694,43 +6698,43 @@ Right click to see available options for populating the path</source>
 <context>
     <name>PluginModel</name>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="410"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="426"/>
         <source>Failed to get plugin from server</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att hämta plugin från servern</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="588"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="604"/>
         <source>Failed to extract archive</source>
         <extracomment>Error message: Referring to extracting zip file which contains plugin</extracomment>
         <translation>Det gick inte att extrahera arkivet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="630"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="646"/>
         <source>Unsupported file extension</source>
         <extracomment>Error message: Only .qml and .zip files are supported</extracomment>
         <translation>Filtillägget stöds inte</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="640"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="656"/>
         <source>Failed to load files</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att ladda filer</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="671"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="687"/>
         <source>Expected a single QML file in the root directory, but found %1</source>
         <extracomment>Error message: Archive has too many QML files. %1 = number of QML files</extracomment>
         <translation>Förväntade en enda QML-fil i rotkatalogen, men hittade %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="687"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="703"/>
         <source>Expected a single image file in the root directory, but found %1</source>
         <extracomment>Error message: Archive has more than one icon file. %1 = number of icons</extracomment>
         <translation>Förväntade en enda bildfil i rotkatalogen, men hittade %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="780"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="796"/>
         <source>Failed to rename plugin %1</source>
         <extracomment>Error message: %1 = name of plugin</extracomment>
         <translation>Det gick inte att byta namn på plugin %1</translation>
@@ -7452,87 +7456,87 @@ Contextual postfix to project name in list of recent projects. Appended to names
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="460"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="467"/>
         <source>years</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; years</extracomment>
         <translation>år</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="462"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="469"/>
         <source>year</source>
         <extracomment>Used to format a label. Singular form. Example usage: This will expire in 1 year</extracomment>
         <translation>år</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="475"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="482"/>
         <source>months</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; months</extracomment>
         <translation>månader</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="477"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="484"/>
         <source>month</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 month</extracomment>
         <translation>månad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="490"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="497"/>
         <source>days</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; days</extracomment>
         <translation>dagar</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="492"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="499"/>
         <source>day</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 day</extracomment>
         <translation>dag</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="504"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="511"/>
         <source>hours</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; hours</extracomment>
         <translation>timmar</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="506"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="513"/>
         <source>hour</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 hour</extracomment>
         <translation>timme</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="520"/>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="537"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="527"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="544"/>
         <source>minutes</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; minutes</extracomment>
         <translation>minuter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="522"/>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="539"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="529"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="546"/>
         <source>minute</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 minute</extracomment>
         <translation>minut</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="527"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="534"/>
         <source>less than 1 minute</source>
         <extracomment>Used to format a label. Example usage: This will expire in less than 1 minute</extracomment>
         <translation>mindre än 1 minut</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="555"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="562"/>
         <source>seconds</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; seconds</extracomment>
         <translation>sekunder</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="557"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="564"/>
         <source>second</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 second</extracomment>
         <translation>sekund</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="562"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="570"/>
         <source>1 second</source>
         <extracomment>Used to format a label. Denotes that a process has one second or less left (or has been active for one second or less)</extracomment>
         <translation>1 sekund</translation>
@@ -7615,6 +7619,12 @@ Column name. Refers to which date the items were modified</extracomment>
     <message>
         <source> loaded</source>
         <translation type="vanished"> laddad</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/robotdatainterface.cpp" line="311"/>
+        <source>%1 has been activated</source>
+        <extracomment>Status message: %1 = name</extracomment>
+        <translation type="unfinished">%1 har aktiverats</translation>
     </message>
 </context>
 <context>
@@ -8180,7 +8190,7 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Avståndet mellan bågens startpunkt och bågens slutpunkt är för litet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1159"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1160"/>
         <source>Failed to configure max distance at index %1
 No new targets were added
 </source>
@@ -8188,13 +8198,13 @@ No new targets were added
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1205"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1206"/>
         <source>Failed to find max distance</source>
         <extracomment>Error message from find max distance</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1223"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1224"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
@@ -8202,13 +8212,13 @@ Found %1 possible solutions within the specified parameters</source>
 Hittade %1 möjliga lösningar inom de angivna parametrarna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1229"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1230"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation>Optimerare stötte på ett problem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1238"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1239"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
@@ -8216,7 +8226,7 @@ No solutions found with the specified parameters</source>
 Inga lösningar hittades med de angivna parametrarna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1244"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1245"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
@@ -8346,7 +8356,7 @@ Inga punkter</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="941"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1152"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1153"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Operation avbröts av användaren</translation>
@@ -8367,7 +8377,7 @@ No new targets were added</source>
 Inga nya mål har lagts till</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1172"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1173"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
@@ -8375,7 +8385,7 @@ Inga nya mål har lagts till</translation>
 1 nya punkter har lagts till</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1181"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1182"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
@@ -8383,7 +8393,7 @@ Inga nya mål har lagts till</translation>
 %1 nya punkter har lagts till</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1187"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1188"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
@@ -8658,7 +8668,7 @@ Klicka igen för att skriva över</translation>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="465"/>
+        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="456"/>
         <source>IRBCAM Trial Version</source>
         <extracomment>Text on the floor tiles for trial version</extracomment>
         <translation>IRBCAM testversion</translation>
@@ -9204,13 +9214,13 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation type="obsolete">Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="427"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="455"/>
         <source>Project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Projekt %1 sparad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="829"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="759"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Projektet rensas</translation>
@@ -9221,98 +9231,106 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation type="vanished">Fil %1 är tom</translation>
     </message>
     <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="962"/>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
-        <translation type="vanished">Maximal APT-filstorlek (%1 MB) har överskridits. Aktuell filstorlek (efter komprimering): %2 MB
+        <translation>Maximal APT-filstorlek (%1 MB) har överskridits. Aktuell filstorlek (efter komprimering): %2 MB
 Större banor kan importeras genom att dela APT-filen i mindre filer och använda alternativet &apos;lägg till&apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="389"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="410"/>
         <source>Failed to confirm that the project was saved to the cloud (the project may or may not have been saved)</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att bekräfta att projektet sparades i molnet (projektet kan ha sparats eller inte)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="423"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="379"/>
+        <source>No changes detected in project</source>
+        <extracomment>Notification message that is displayed if the user attempst to save project, but the project has not changed since last save</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="449"/>
         <source>Autosave for project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Autospara för projektet %1 har sparats</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="526"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="565"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att ladda ner projektet från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="866"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="797"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att bekräfta att projektet togs bort från molnet (projektet kan ha tagits bort eller inte)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="890"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="823"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projekt %1 togs bort från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="966"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="901"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att bekräfta att projektet delades</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="989"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="925"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projekt %1 delades med %2.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1043"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="985"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Det gick inte att starta molnjobbet %1</translation>
     </message>
     <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1015"/>
         <source>Failed to get parsed APT %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
-        <translation type="vanished">Det gick inte att få analyserad APT %1 från molnet</translation>
+        <translation>Det gick inte att få analyserad APT %1 från molnet</translation>
     </message>
     <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1060"/>
         <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="vanished">Antalet decimaler som används i APT-filen %1 är %2 (låg numerisk precision).</translation>
+        <translation>Antalet decimaler som används i APT-filen %1 är %2 (låg numerisk precision).</translation>
     </message>
     <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1078"/>
         <source>Failed to import APT file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
-        <translation type="vanished">Det gick inte att importera APT-filen %1</translation>
+        <translation>Det gick inte att importera APT-filen %1</translation>
     </message>
     <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1085"/>
         <source>Path imported from APT %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
-        <translation type="vanished">Verktygsbana importerad från APT %1</translation>
+        <translation>Verktygsbana importerad från APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1191"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1222"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1147"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1178"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att hämta robotkod från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1320"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1340"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1602"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1321"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att återställa sparat projekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1361"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1614"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1333"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -9320,40 +9338,38 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Detta kan bero på att lagringen kommer från en äldre version av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1463"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1638"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1359"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Saknar information i projektet hämtat från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1650"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1370"/>
         <source>Missing version info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Saknade versionsinformation i projektet hämtat från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1684"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1405"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1703"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1424"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>bana import</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1795"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1802"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1526"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1533"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH-tabell</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1367"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1621"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1341"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -9361,59 +9377,22 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Detta kan bero på att lagringen kommer från en äldre version av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1024"/>
-        <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
-Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
-        <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1072"/>
-        <source>Failed to get parsed %1 from the cloud</source>
-        <extracomment>Error message: %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1114"/>
-        <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
-        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1125"/>
-        <source>Failed to import path from %1</source>
-        <extracomment>Error message. %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1131"/>
-        <source>Path imported from %1</source>
-        <extracomment>Notification. %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1381"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1388"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1715"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1722"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1436"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1444"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1398"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1415"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1733"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1750"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1455"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1474"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>verktyg</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1425"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1432"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1761"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1768"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1485"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1493"/>
         <source>rotary table</source>
         <extracomment>Attribute: Rotary table
 ----------
@@ -9421,45 +9400,37 @@ Attribute: rotary table</extracomment>
         <translation>rotationsbord</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1475"/>
         <source>Project was loaded with missing info
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message</extracomment>
-        <translation>Projektet laddades med saknad information
+        <translation type="vanished">Projektet laddades med saknad information
 Detta kan bero på att lagringen kommer från en äldre version av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1481"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1660"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1380"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att läsa in projektdata</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1498"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1514"/>
         <source>Path information missing from saved project</source>
         <extracomment>Error message</extracomment>
-        <translation>Information om banan saknas från sparat projekt</translation>
+        <translation type="vanished">Information om banan saknas från sparat projekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1532"/>
         <source>DH Table information missing from saved project</source>
         <extracomment>Error message</extracomment>
-        <translation>DH Tabellinformation saknas från sparat projekt</translation>
+        <translation type="vanished">DH Tabellinformation saknas från sparat projekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1579"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1846"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1580"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projekt %1 laddad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1443"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1450"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1778"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1785"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1505"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1513"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>linjärbana</translation>
@@ -10850,32 +10821,32 @@ Error message. %1 = name</extracomment>
 <context>
     <name>UtilitiesInterface</name>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="333"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="339"/>
         <source>Fixed Angle</source>
         <extracomment>Dropdown menu item. Select tool roll mode when solving path</extracomment>
         <translation>Fast vinkel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="336"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="342"/>
         <source>Dynamic Angle 1</source>
         <extracomment>Dropdown menu item. Select tool roll mode when solving path</extracomment>
         <translation>Dynamisk Vinkel 1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="339"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="345"/>
         <source>Dynamic Angle 2</source>
         <extracomment>Dropdown menu item. Select tool roll mode when solving path</extracomment>
         <translation>Dynamisk Vinkel 2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="342"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="348"/>
         <source>No Change</source>
         <extracomment>Dropdown menu item. Select tool roll mode when solving path</extracomment>
         <translation>Ingen förändring</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="347"/>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="373"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="353"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="379"/>
         <source>Unknown</source>
         <extracomment>Dropdown menu item. Select tool roll mode when solving path
 ----------
@@ -10883,31 +10854,31 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Okänd</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="356"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="362"/>
         <source>Fixed Position</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Fast position</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="359"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="365"/>
         <source>Dynamic Position</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Dynamisk Position</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="362"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="368"/>
         <source>Positive Only</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Endast Positiv</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="365"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="371"/>
         <source>Negative Only</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Endast Negativ</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="368"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="374"/>
         <source>Batch Mode</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Batchläge</translation>
