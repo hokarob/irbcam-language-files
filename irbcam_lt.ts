@@ -7959,26 +7959,20 @@ This may be due to the save coming from an older version of IRBCAM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1370"/>
-        <source>Missing version info in project retrieved from the cloud</source>
-        <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1405"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1412"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1424"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1431"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1526"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1533"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1573"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1580"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation type="unfinished"></translation>
@@ -7991,26 +7985,27 @@ This may be due to the save coming from an older version of IRBCAM</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1436"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1444"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1447"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1455"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1465"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1455"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1474"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1479"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1487"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1508"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1485"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1493"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1522"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1530"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1540"/>
         <source>rotary table</source>
-        <extracomment>Attribute: Rotary table
-----------
-Attribute: rotary table</extracomment>
+        <extracomment>Attribute: rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8020,14 +8015,14 @@ Attribute: rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1580"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1627"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1505"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1513"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1552"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1560"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation type="unfinished"></translation>
