@@ -725,19 +725,19 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1193"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1256"/>
         <source>Failed to send report</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1204"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1267"/>
         <source>Attachment should be less than %1 MB</source>
         <extracomment>Error message. %1 = size in MB</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1247"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1310"/>
         <source>Report sent</source>
         <extracomment>Status message: Referring to sending a feedback report</extracomment>
         <translation type="unfinished"></translation>
@@ -4640,16 +4640,47 @@ Placeholder for when no user frame number is entered</extracomment>
         <translation type="unfinished">Benutzerrahmennummer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="391"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="400"/>
-        <source>Pulses per 360 deg (or meter)</source>
-        <extracomment>Referring to encoder ticks per one revolution or meter on a rotational or linear axis
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="361"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="371"/>
+        <source>Control Group 1</source>
+        <extracomment>Name of the move control group 1 in the exported robot code
 ----------
-Placeholder for when no value is entered</extracomment>
+Placeholder for when no move control group 1 is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="428"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="388"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="398"/>
+        <source>Control Group 2</source>
+        <extracomment>Name of the move control group 2 in the exported robot code
+----------
+Placeholder for when no move control group 2 is entered</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="412"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="421"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="463"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="472"/>
+        <source>Pulses per 360 deg (or meter)</source>
+        <extracomment>Referring to encoder ticks per one revolution or meter on a rotational or linear axis for Control Group 2
+----------
+Placeholder for when no value is entered
+----------
+Referring to encoder ticks per one revolution or meter on a rotational or linear axis for Control Group 3</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="439"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="449"/>
+        <source>Control Group 3</source>
+        <extracomment>Name of the move control group 3 in the exported robot code
+----------
+Placeholder for when no move control group 3 is entered</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="531"/>
         <source>Generic Export Options in JSON format: eg.
 {
  &quot;procedureName&quot;: &quot;main&quot;,
@@ -4659,49 +4690,49 @@ Placeholder for when no value is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="530"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="633"/>
         <source>ABB Options</source>
         <extracomment>Collapsible section: Options specific for ABB robots</extracomment>
         <translation type="unfinished">ABB Optionen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="578"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="681"/>
         <source>KUKA Options</source>
         <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
         <translation type="unfinished">KUKA Optionen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="594"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="697"/>
         <source>FANUC Options</source>
         <extracomment>Collapsible section: Options specific for FANUC robots</extracomment>
         <translation type="unfinished">FANUC Optionen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="614"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="717"/>
         <source>MOTOMAN Options</source>
         <extracomment>Collapsible section: Options specific for MOTOMAN robots</extracomment>
         <translation type="unfinished">MOTOMAN Optionen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="654"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="780"/>
         <source>Generic Options</source>
         <extracomment>Collapsible section: Options for generic robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="675"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="801"/>
         <source>UR Options</source>
         <extracomment>Collapsible section: Options for UR robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="688"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="814"/>
         <source>COMAU Options</source>
         <extracomment>Collapsible section: Options for COMAU robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="701"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="827"/>
         <source>DENSO Options</source>
         <extracomment>Collapsible section: Options for DENSO robots</extracomment>
         <translation type="unfinished"></translation>
