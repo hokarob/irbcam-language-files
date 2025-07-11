@@ -6272,7 +6272,7 @@ Column name. Refers to which date the items were modified</extracomment>
 <context>
     <name>RobotDataInterface</name>
     <message>
-        <location filename="../../../backend/src/robotdatainterface.cpp" line="311"/>
+        <location filename="../../../backend/src/robotdatainterface.cpp" line="320"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation type="unfinished">%1 ble aktivert</translation>

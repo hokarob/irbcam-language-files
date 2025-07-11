@@ -6375,7 +6375,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="vanished"> įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotdatainterface.cpp" line="311"/>
+        <location filename="../../../backend/src/robotdatainterface.cpp" line="320"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation type="unfinished"></translation>
