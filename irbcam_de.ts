@@ -725,19 +725,19 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1256"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1260"/>
         <source>Failed to send report</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1267"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1271"/>
         <source>Attachment should be less than %1 MB</source>
         <extracomment>Error message. %1 = size in MB</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1310"/>
+        <location filename="../../../backend/src/stationstructsinterface.cpp" line="1314"/>
         <source>Report sent</source>
         <extracomment>Status message: Referring to sending a feedback report</extracomment>
         <translation type="unfinished"></translation>
@@ -4752,6 +4752,12 @@ Placeholder for when no move control group 3 is entered</extracomment>
         <extracomment>Collapsible section: Options for DENSO robots</extracomment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="848"/>
+        <source>DOBOT Options</source>
+        <extracomment>Collapsible section: Options for DOBOT robots</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MaxDistance</name>
@@ -6703,7 +6709,7 @@ Placeholder text until an icon has been selected</extracomment>
 <context>
     <name>PoseEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="69"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="76"/>
         <source>Position</source>
         <extracomment>Physical position of an object</extracomment>
         <translation>Position</translation>
@@ -6721,7 +6727,7 @@ Placeholder text until an icon has been selected</extracomment>
         <translation type="vanished">Z</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="195"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="208"/>
         <source>Rotation</source>
         <extracomment>Physical rotation of an object</extracomment>
         <translation>Rotation</translation>
@@ -6754,37 +6760,43 @@ Placeholder text until an icon has been selected</extracomment>
         <translation type="vanished">Roll</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="88"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="95"/>
         <source>mm</source>
         <extracomment>Unit millimetres</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="240"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="175"/>
+        <source>Y offset is not supported!</source>
+        <extracomment>tooltip: Y offset is not supported!</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="253"/>
         <source>Yaw angle</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="262"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="275"/>
         <source>Pitch angle</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="284"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="297"/>
         <source>Roll angle</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="305"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="318"/>
         <source>Normalize</source>
         <extracomment>Referring to normalising a quaternion</extracomment>
         <translation>Normalisieren</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="312"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="325"/>
         <source>Normalize quaternions</source>
         <extracomment>Tool tip explaining that a button is to normalise quaternions</extracomment>
         <translation>Quaternionen normalisieren</translation>
@@ -6794,7 +6806,7 @@ Placeholder text until an icon has been selected</extracomment>
         <translation type="vanished">Q1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="324"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="337"/>
         <source>Quaternion scalar</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Quaternion Skalar</translation>
@@ -6804,7 +6816,7 @@ Placeholder text until an icon has been selected</extracomment>
         <translation type="vanished">Q2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="346"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="359"/>
         <source>Quaternion i</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Quaternion i</translation>
@@ -6814,7 +6826,7 @@ Placeholder text until an icon has been selected</extracomment>
         <translation type="vanished">Q3</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="368"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="381"/>
         <source>Quaternion j</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Quaternion j</translation>
@@ -6824,7 +6836,7 @@ Placeholder text until an icon has been selected</extracomment>
         <translation type="vanished">Q4</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="390"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="403"/>
         <source>Quaternion k</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Quaternion k</translation>
@@ -9634,8 +9646,8 @@ Droptown menu text, motion type for target</extracomment>
         <translation type="vanished">Werkzeug auswählen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="27"/>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="81"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="28"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="82"/>
         <source>Tools</source>
         <extracomment>Title
 ----------
@@ -9643,116 +9655,116 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="52"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="53"/>
         <source>Overwrite %1</source>
         <extracomment>Title for confirmation popup. %1 = tool name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="55"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="56"/>
         <source>Are you sure you want to overwrite %1?</source>
         <extracomment>Content in confirmation popup. %1 = tool name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="128"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="129"/>
         <source>Stationary tool is incompatible with rotary tables and linear tracks</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if both rotary table and linear track is selected</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="132"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="133"/>
         <source>rotary tables</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="134"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="135"/>
         <source>linear tracks</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="474"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="476"/>
         <source>Overwrite</source>
         <extracomment>Button. Import and overwrite existing custom tool</extracomment>
         <translation type="unfinished">Überschreiben</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="93"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="94"/>
         <source>Edit</source>
         <extracomment>Collapsible section. This section contains tools to adjust tool position, rotation and other options</extracomment>
         <translation type="unfinished">Bearbeiten</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="110"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="111"/>
         <source>Show mesh</source>
         <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="117"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="118"/>
         <source>Transparent</source>
         <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="130"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="131"/>
         <source>Stationary tool is incompatible with %1</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="143"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="144"/>
         <source>Stationary Tool</source>
         <extracomment>Checkbox. Select if robot should hold work object instead of tool</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="165"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="166"/>
         <source>Move tooltip</source>
         <extracomment>Dropdown menu item. Select which reference to move</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="169"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="170"/>
         <source>Move base</source>
         <extracomment>Dropdown menu item. Select which reference to move</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="196"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="198"/>
         <source>Generic Tool</source>
         <extracomment>Collapsible section. Contains options for generic tool</extracomment>
         <translation>Allgemeines Werkzeug</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="215"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="217"/>
         <source>Diameter</source>
         <extracomment>Label for text field. Adjust generic tool diameter</extracomment>
         <translation>Durchmesser</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="220"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="222"/>
         <source>Cone length</source>
         <extracomment>Label for text field. Adjust cone length on the generic tool</extracomment>
         <translation>Kegellänge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="225"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="227"/>
         <source>Color</source>
         <extracomment>Label for button. Adjust generic tool colour</extracomment>
         <translation>Farbe</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="274"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="276"/>
         <source>Select color</source>
         <extracomment>Title for colour picker dialog box</extracomment>
         <translation>Farbe auswählen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="291"/>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="476"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="293"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="478"/>
         <source>Import</source>
         <extracomment>Collapsible section. Contains tools to import custom tool
 ----------
@@ -9760,61 +9772,61 @@ Button. Import custom tool</extracomment>
         <translation type="unfinished">Importieren</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="305"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="307"/>
         <source>The active subscription does not provide access to custom assets. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="317"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="319"/>
         <source>Weight</source>
         <extracomment>Label for text field. Set tool weight</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="353"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="355"/>
         <source>CoG</source>
         <extracomment>Label: Centre of Gravity</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="410"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="412"/>
         <source>Open file</source>
         <extracomment>Title for file browser</extracomment>
         <translation type="unfinished">Datei öffnen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="412"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="414"/>
         <source>Asset files</source>
         <extracomment>File type filter in file browser. Displayed like this: Asset files (*.zip *.obj *.dae *.fbx *.stl *.gltf *.glb *.wrl)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="422"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="424"/>
         <source>File</source>
         <extracomment>Label. Refers to file path</extracomment>
         <translation type="unfinished">Datei</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="429"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="431"/>
         <source>No file selected</source>
         <extracomment>Placeholder. Used instead of file path when no file is selected</extracomment>
         <translation type="unfinished">Keine Datei ausgewählt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="447"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="449"/>
         <source>Name</source>
         <extracomment>Label for text field. Input name for custom tool</extracomment>
         <translation type="unfinished">Name</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="462"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="464"/>
         <source>Name of the custom tool</source>
         <extracomment>Placeholder. Used for tool name until a name is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="490"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="492"/>
         <source>Cannot overwrite to read only asset.</source>
         <extracomment>Tool tip text. Cannot overwrite</extracomment>
         <translation type="unfinished"></translation>
