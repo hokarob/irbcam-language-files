@@ -3870,7 +3870,7 @@ Please save your work and reload page as soon as possible</source>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/JointViewer.qml" line="202"/>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="317"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="330"/>
         <source> mm</source>
         <extracomment>Postfix for linear joint position. Referring to the unit millimetres
 ----------
@@ -3879,30 +3879,31 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/JointViewer.qml" line="247"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="260"/>
         <source>Joint 2/3 Interaction</source>
         <extracomment>Slider: This is specific for the difference between joints 2 and 3</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="283"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="296"/>
         <source>Rotary table</source>
         <extracomment>Label: Referring to rotary table angular position</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="285"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="298"/>
         <source>Rotary table axis %1</source>
         <extracomment>Slider: Referring to rotary table angular position if it has multiple axes. %1 = axis number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="326"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="339"/>
         <source>Linear track axis %1</source>
         <extracomment>Slider: Referring to linear track position if it has multiple axes. %1 = axis number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="344"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="357"/>
         <source>Home</source>
         <extracomment>Button. Send the robot to the home position</extracomment>
         <translation type="unfinished"></translation>
@@ -3914,7 +3915,7 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <translation>Gelenke 2-3</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="324"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="337"/>
         <source>Linear track</source>
         <extracomment>Label: Referring to linear track position</extracomment>
         <translation type="unfinished"></translation>
@@ -7310,7 +7311,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="vanished"> geladen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotdatainterface.cpp" line="320"/>
+        <location filename="../../../backend/src/robotdatainterface.cpp" line="332"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation type="unfinished"></translation>
