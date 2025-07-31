@@ -4046,14 +4046,14 @@ Spara ditt arbete och ladda om sidan så snart som möjligt</translation>
         <translation>Inga leder att visa</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="193"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="195"/>
         <source>Joint %1</source>
         <extracomment>Slider. %1 = joint number</extracomment>
         <translation>Led %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="202"/>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="330"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="239"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="367"/>
         <source> mm</source>
         <extracomment>Postfix for linear joint position. Referring to the unit millimetres
 ----------
@@ -4061,44 +4061,44 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <translation> mm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="247"/>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="260"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="284"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="297"/>
         <source>Joint 2/3 Interaction</source>
         <extracomment>Slider: This is specific for the difference between joints 2 and 3</extracomment>
         <translation>Led 2/3 Interaktion</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="296"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="333"/>
         <source>Rotary table</source>
         <extracomment>Label: Referring to rotary table angular position</extracomment>
         <translation>Rotationsbord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="298"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="335"/>
         <source>Rotary table axis %1</source>
         <extracomment>Slider: Referring to rotary table angular position if it has multiple axes. %1 = axis number</extracomment>
         <translation>Rotationsbord axel %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="339"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="376"/>
         <source>Linear track axis %1</source>
         <extracomment>Slider: Referring to linear track position if it has multiple axes. %1 = axis number</extracomment>
         <translation>Linjärbana axel %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="357"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="394"/>
         <source>Home</source>
         <extracomment>Button. Send the robot to the home position</extracomment>
         <translation>Hem</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="234"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="271"/>
         <source>Joint 2-3</source>
         <extracomment>Slider: This is specific for the difference between joints 2 and 3</extracomment>
         <translation>Led 2-3</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="337"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="374"/>
         <source>Linear track</source>
         <extracomment>Label: Referring to linear track position</extracomment>
         <translation>Linjärbana</translation>
@@ -7686,7 +7686,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="vanished"> laddad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotdatainterface.cpp" line="332"/>
+        <location filename="../../../backend/src/robotdatainterface.cpp" line="376"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation type="unfinished">%1 har aktiverats</translation>
