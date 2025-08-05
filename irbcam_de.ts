@@ -2018,7 +2018,7 @@ Button text</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="200"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="202"/>
         <source>Generating robot code</source>
         <extracomment>Status message. Shown while waiting for robot code</extracomment>
         <translation>Generieren von Robotercode</translation>
@@ -2124,19 +2124,19 @@ Button text</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="202"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="204"/>
         <source>Robot code received. Save to file?</source>
         <extracomment>This question is displayed in a popup after robot code is generated</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="211"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="213"/>
         <source>Cancel</source>
         <extracomment>Cancel button</extracomment>
         <translation type="unfinished">Abbrechen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="216"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="222"/>
         <source>Save</source>
         <extracomment>Save button</extracomment>
         <translation type="unfinished">Speichern</translation>

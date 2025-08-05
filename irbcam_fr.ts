@@ -1644,7 +1644,7 @@ Placeholder for when no procedure name is entered</extracomment>
         <translation>Vous ne pouvez pas générer de code pour le robot dans la version d&apos;essai d&apos;IRBCAM. Vous pouvez vous abonner %1 ici %2 afin de pouvoir générer le code pour le robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="200"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="202"/>
         <source>Generating robot code</source>
         <extracomment>Status message. Shown while waiting for robot code</extracomment>
         <translation>Génération du code pour le robot</translation>
@@ -1793,19 +1793,19 @@ Placeholder for when no value is entered</extracomment>
         <translation>Ouvrir la liste des robots</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="202"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="204"/>
         <source>Robot code received. Save to file?</source>
         <extracomment>This question is displayed in a popup after robot code is generated</extracomment>
         <translation>Le code pour le robot a été reçu. Le sauvegarder dans un ficheir ?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="211"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="213"/>
         <source>Cancel</source>
         <extracomment>Cancel button</extracomment>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="216"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="222"/>
         <source>Save</source>
         <extracomment>Save button</extracomment>
         <translation>Enregistrer</translation>
