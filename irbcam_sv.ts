@@ -10777,14 +10777,19 @@ Rotation (rad)
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/UiSettings.qml" line="282"/>
+        <source>Scene background color</source>
+        <extracomment>Label: Background color for station 3d view</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Station color</source>
         <extracomment>Label: Background color for station 3d view</extracomment>
-        <translation>Stationsfärg</translation>
+        <translation type="vanished">Stationsfärg</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/UiSettings.qml" line="284"/>
         <source>Background color for station 3d view</source>
-        <extracomment>Tool tip for label: Station color</extracomment>
+        <extracomment>Tool tip for label: Scene background color</extracomment>
         <translation>Bakgrundsfärg för station 3d-vy</translation>
     </message>
 </context>
@@ -10981,25 +10986,25 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>- IRBCAM-teamet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="172"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="171"/>
         <source>Make IRBCAM Yours</source>
         <extracomment>Title. This card contains user interface settings</extracomment>
         <translation>Gör IRBCAM till ditt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="182"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="181"/>
         <source>Need Help?</source>
         <extracomment>Title. This card contains info on how to get help with IRBCAM</extracomment>
         <translation>Behöver du hjälp?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="191"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="190"/>
         <source>IRBCAM is designed with ease-of-use in focus. However, if you need assistance, we&apos;re here to help. Here are a couple of ways to get support.</source>
         <extracomment>Label</extracomment>
         <translation>IRBCAM är designad med användarvänligheten i fokus. Men om du behöver hjälp finns vi här för att hjälpa dig. Här är ett par sätt att få stöd.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="203"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="202"/>
         <source>
 - [Visit our forum](%1): Connect with other users, find answers to your questions, and share your experiences.
 - Email Us: If you need direct support, feel free to reach out at [%2](mailto:%2)</source>
@@ -11009,7 +11014,7 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
 - E-posta oss: Om du behöver direkt support, kontakta oss gärna på [%2](mailto:%2)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="217"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="216"/>
         <source>### Your feedback matters!
 Found a bug or have a great idea for a new feature? Please use the feedback form in **Help &gt; Feedback.**</source>
         <extracomment>Label. This text is written in Markdown format. Keep the ### for the title and **asterisks for bold text**</extracomment>
@@ -11017,19 +11022,19 @@ Found a bug or have a great idea for a new feature? Please use the feedback form
 Hittade du en bugg eller har du en bra idé för en ny funktion? Använd feedbackformuläret i **Hjälp &gt; Feedback.**</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="226"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="225"/>
         <source>Ready to dive in?</source>
         <extracomment>Title. This is the last page of the welcome popup</extracomment>
         <translation>Redo att dyka i?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="234"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="233"/>
         <source>Jump in and start exploring IRBCAM. We can&apos;t wait to see what you&apos;ll create!</source>
         <extracomment>Label</extracomment>
         <translation>Hoppa in och börja utforska IRBCAM. Vi ser fram emot att se vad du kommer att skapa!</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="243"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="242"/>
         <source>Don&apos;t know where to start? No problem! Check out the tutorials in [our forum](%1) or open one of the tutorial projects here in IRBCAM.</source>
         <extracomment>Label. This text is written in Markdown format. This is the link format: [text](url). %1: url to tutorials in our forum</extracomment>
         <translation>Vet du inte var du ska börja? Inga problem! Kolla in handledningarna i [vårt forum](%1) eller öppna ett av handledningsprojekten här i IRBCAM.</translation>
@@ -11040,25 +11045,25 @@ Hittade du en bugg eller har du en bra idé för en ny funktion? Använd feedbac
         <translation type="vanished">Hoppa in och börja utforska den nya och förbättrade IRBCAM. Vi ser fram emot att se vad du kommer att skapa!</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="256"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="255"/>
         <source>Don&apos;t show this again</source>
         <extracomment>Checkbox. Select to disable the welcome popup</extracomment>
         <translation>Visa inte detta igen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="278"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="276"/>
         <source>Back</source>
         <extracomment>Button. Navigate to previous page</extracomment>
         <translation>Tillbaka</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="299"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="297"/>
         <source>Next</source>
         <extracomment>Button. Navigate to next page</extracomment>
         <translation>Nästa</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="301"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="299"/>
         <source>Close</source>
         <extracomment>Button. Close popup</extracomment>
         <translation>Stäng</translation>
