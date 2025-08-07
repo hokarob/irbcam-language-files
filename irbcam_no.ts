@@ -854,22 +854,40 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>CloudMenu</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="14"/>
+        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="19"/>
         <source>Log in</source>
         <extracomment>This menu button opens the sign-in form in a new tab</extracomment>
         <translation>Logg inn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="37"/>
+        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="42"/>
         <source>Account Settings</source>
         <extracomment>This menu button opens user account settings in a new tab</extracomment>
         <translation>Kontoinnstillinger</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="43"/>
+        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="48"/>
         <source>Log out</source>
         <extracomment>This menu button logs out the user</extracomment>
         <translation>Logg ut</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="68"/>
+        <source>The project %1 has unsaved changes. Do you want to continue?</source>
+        <extracomment>Confirmation popup. %1 = project name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="72"/>
+        <source>Sign out anyway</source>
+        <extracomment>This button sign out user ignoring any unsaved changes in the project</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="74"/>
+        <source>Save changes</source>
+        <extracomment>This button opens save project popup</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1253,13 +1271,13 @@ Tool tip for text field</extracomment>
 <context>
     <name>ConfirmDialog</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ConfirmDialog.qml" line="102"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ConfirmDialog.qml" line="106"/>
         <source>Cancel</source>
         <extracomment>Cancel button</extracomment>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/ConfirmDialog.qml" line="116"/>
+        <location filename="../../IrbcamQml/Popups/Assets/ConfirmDialog.qml" line="121"/>
         <source>Confirm</source>
         <extracomment>Confirm button</extracomment>
         <translation>Bekreft</translation>
@@ -3124,25 +3142,25 @@ Placeholder for tool name if no tool is loaded</extracomment>
 <context>
     <name>IrbcamNetwork</name>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="127"/>
+        <location filename="../../../backend/src/networking.cpp" line="141"/>
         <source>Goodbye %1</source>
         <extracomment>Status message shown on logout. %1 = full name</extracomment>
         <translation>På gjensyn %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="440"/>
+        <location filename="../../../backend/src/networking.cpp" line="456"/>
         <source>Failed to check for updates</source>
         <extracomment>Warning message: Shown if the client is unable to check for updates</extracomment>
         <translation>Kunne ikke søke etter oppdateringer</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="750"/>
+        <location filename="../../../backend/src/networking.cpp" line="766"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>ukjent bruker</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="759"/>
+        <location filename="../../../backend/src/networking.cpp" line="775"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>ukjent brukernavn</translation>
@@ -3154,13 +3172,13 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <translation>Kunne ikke logge inn %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="202"/>
+        <location filename="../../../backend/src/networking.cpp" line="218"/>
         <source>Failed to get admin details</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke hente administratordetaljer</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="810"/>
+        <location filename="../../../backend/src/networking.cpp" line="826"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -3170,31 +3188,31 @@ Noen innstillinger var ikke tilgjengelige i skyen. Dette er sannsynligvis fordi 
 De gjeldende innstillingene er satt til standardverdier</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="820"/>
+        <location filename="../../../backend/src/networking.cpp" line="836"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation>Kunne ikke laste innstillinger for %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="828"/>
+        <location filename="../../../backend/src/networking.cpp" line="844"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation>Innstillinger for %1 lastet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="838"/>
+        <location filename="../../../backend/src/networking.cpp" line="854"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation>Velkommen %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="873"/>
+        <location filename="../../../backend/src/networking.cpp" line="889"/>
         <source>A network error occurred</source>
         <extracomment>Error message</extracomment>
         <translation>En nettverksfeil har oppstått</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="914"/>
+        <location filename="../../../backend/src/networking.cpp" line="930"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
@@ -3202,7 +3220,7 @@ code: %2</source>
 Kode: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1037"/>
+        <location filename="../../../backend/src/networking.cpp" line="1053"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
@@ -3210,7 +3228,7 @@ Save your work and reload page to get the newest features</source>
 Lagre arbeidet ditt og last nettsiden på nytt for å tilgang på de nyeste funksjonene</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1043"/>
+        <location filename="../../../backend/src/networking.cpp" line="1059"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -3220,7 +3238,7 @@ Noen funksjoner kan være utilgjengelige inntil nettsiden lastes på nytt.
 Lagre arbeidet ditt og last nettsiden på nytt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1063"/>
+        <location filename="../../../backend/src/networking.cpp" line="1079"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke hente status for skyjobb</translation>
@@ -7721,13 +7739,13 @@ Label: Does the solution use a wrist-down configuration</extracomment>
 <context>
     <name>StationInterface</name>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="455"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="457"/>
         <source>Project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Prosjekt %1 lagret</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="759"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="791"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Prosjekt nullstilt</translation>
@@ -7738,7 +7756,7 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation type="vanished">Filen: %1 er tom</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="962"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="994"/>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -7746,31 +7764,31 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Større baner kan importeres ved å dele opp i flere mindre filer og velge &quot;Legg til&quot;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1060"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1092"/>
         <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>Antall desimaler i APT-fil: %1 er %2 (lav numerisk presisjon).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1078"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1110"/>
         <source>Failed to import APT file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Kunne ikke importere APT-fil %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1085"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1117"/>
         <source>Path imported from APT %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation>Bane importert fra APT: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1321"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1353"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke gjenopprette lagret prosjekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1341"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1373"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -7778,105 +7796,105 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1447"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1455"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1465"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1479"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1487"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1497"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1479"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1487"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1508"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1511"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1519"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1540"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>verktøy</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1522"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1530"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1540"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1554"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1562"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1572"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>rotasjonsbord</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1552"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1560"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1584"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1592"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>lineærbane</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="410"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="412"/>
         <source>Failed to confirm that the project was saved to the cloud (the project may or may not have been saved)</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke bekrefte at prosjektet ble lagret i skyen. (prosjektet kan ha blitt lagret)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="379"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="381"/>
         <source>No changes detected in project</source>
         <extracomment>Notification message that is displayed if the user attempst to save project, but the project has not changed since last save</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="449"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="451"/>
         <source>Autosave for project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Autolagring for prosjekt %1 lagret</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="565"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="587"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke laste ned prosjektet fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="797"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="829"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke bekrefte at prosjektet ble slettet fra skyen (det kan ha blitt slettet)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="823"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="855"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Prosjekt %1 ble slettet fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="901"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="933"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke bekrefte at prosjektet ble delt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="925"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="957"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Prosjekt %1 ble delt med %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="985"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1017"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Kunne ikke starte skyjobb %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1015"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1047"/>
         <source>Failed to get parsed APT %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Kunne ikke hente analysert APT %1 fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1147"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1178"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1179"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1210"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke hente robotkode fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1333"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1365"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -7884,7 +7902,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dette kan være fordi objektet er lagret med en eldre versjon av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1359"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1391"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Mangler info i prosjekt hentet fra skyen</translation>
@@ -7897,7 +7915,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1380"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1412"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke laste prosjektdata</translation>
@@ -7913,7 +7931,7 @@ Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</tran
         <translation type="vanished">DH Tabellinformasjon mangler fra lagret prosjekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1627"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1659"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Prosjekt %1 lastet</translation>
@@ -7924,20 +7942,20 @@ Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</tran
         <translation type="vanished">Manglende versjonsinformasjon i prosjektet hentet fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1412"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1444"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Manglende eller ødelagt baneinformasjon fra lagret prosjekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1431"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1463"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>importer bane</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1573"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1580"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1605"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1612"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH-tabell</translation>
@@ -9429,19 +9447,19 @@ Har du funnet en feil eller har du en god idé til en ny funksjon? Bruk tilbakem
         <translation>Ikke vis dette igjen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="276"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="277"/>
         <source>Back</source>
         <extracomment>Button. Navigate to previous page</extracomment>
         <translation>Tilbake</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="297"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="298"/>
         <source>Next</source>
         <extracomment>Button. Navigate to next page</extracomment>
         <translation>Neste</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="299"/>
+        <location filename="../../IrbcamQml/Popups/Welcome.qml" line="300"/>
         <source>Close</source>
         <extracomment>Button. Close popup</extracomment>
         <translation>Lukk</translation>
