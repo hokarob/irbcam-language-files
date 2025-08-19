@@ -3682,37 +3682,43 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <translation>Det gick inte att logga in användaren %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="141"/>
+        <location filename="../../../backend/src/networking.cpp" line="159"/>
         <source>Goodbye %1</source>
         <extracomment>Status message shown on logout. %1 = full name</extracomment>
         <translation>Adjö %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="218"/>
+        <location filename="../../../backend/src/networking.cpp" line="210"/>
+        <source>Failed to validate session token</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/networking.cpp" line="277"/>
         <source>Failed to get admin details</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att hämta administratörsinformation</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="456"/>
+        <location filename="../../../backend/src/networking.cpp" line="515"/>
         <source>Failed to check for updates</source>
         <extracomment>Warning message: Shown if the client is unable to check for updates</extracomment>
         <translation>Det gick inte att söka efter uppdateringar</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="766"/>
+        <location filename="../../../backend/src/networking.cpp" line="798"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>okänd användare</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="775"/>
+        <location filename="../../../backend/src/networking.cpp" line="807"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>okänt användarnamn</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="826"/>
+        <location filename="../../../backend/src/networking.cpp" line="858"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -3722,25 +3728,37 @@ Vissa inställningar var inte tillgängliga i molnet. Detta beror troligen på a
 De berörda inställningarna har ställts in på sina standardvärden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="854"/>
+        <location filename="../../../backend/src/networking.cpp" line="886"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation>Välkommen %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="836"/>
+        <location filename="../../../backend/src/networking.cpp" line="868"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation>Det gick inte att läsa in inställningarna för %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="844"/>
+        <location filename="../../../backend/src/networking.cpp" line="876"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation>Inställningar för %1 laddade</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="930"/>
+        <location filename="../../../backend/src/networking.cpp" line="906"/>
+        <source>Failed to get user details</source>
+        <extracomment>Error message.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/networking.cpp" line="1047"/>
+        <source>Your session has expired. Please sign in again.</source>
+        <extracomment>Error message.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/networking.cpp" line="1058"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
@@ -3748,7 +3766,7 @@ code: %2</source>
 kod: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1053"/>
+        <location filename="../../../backend/src/networking.cpp" line="1169"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
@@ -3756,7 +3774,7 @@ Save your work and reload page to get the newest features</source>
 Spara ditt arbete och ladda om sidan för att få de senaste funktionerna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1059"/>
+        <location filename="../../../backend/src/networking.cpp" line="1175"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -3774,7 +3792,7 @@ Spara ditt arbete och ladda om sidan så snart som möjligt</translation>
         <translation type="vanished">Misslyckades med att läsa in inställningar för </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1079"/>
+        <location filename="../../../backend/src/networking.cpp" line="1195"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att få molnjobbstatus</translation>
@@ -3788,7 +3806,7 @@ Spara ditt arbete och ladda om sidan så snart som möjligt</translation>
         <translation type="vanished"> inläst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="889"/>
+        <location filename="../../../backend/src/networking.cpp" line="1025"/>
         <source>A network error occurred</source>
         <extracomment>Error message</extracomment>
         <translation>Ett nätverksfel inträffade</translation>
