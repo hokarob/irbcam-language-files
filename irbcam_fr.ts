@@ -879,7 +879,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="vanished">Exporter le code pour le robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="173"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="171"/>
         <source>Solve Path</source>
         <extracomment>Button: Attempt to solve path</extracomment>
         <translation>Calculer le chemin</translation>
@@ -1023,32 +1023,32 @@ Utile pour éviter de tordre le cable ou d&apos;autres problèmes similaires dan
         <translation type="vanished">Position fixe</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="181"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="212"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="179"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="210"/>
         <source>Busy</source>
         <extracomment>Tool tip. Application is busy</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="184"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="182"/>
         <source>Path is already solved</source>
         <extracomment>Tool tip</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="186"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="184"/>
         <source>The active subscription does not provide access to exporting 5-axis robot code&lt;br&gt;Click %1here%2 to manage subscriptions</source>
         <extracomment>Tool tip. %1 = start of link, %2 = end of link</extracomment>
         <translation>L&apos;abonnement actuel ne permet pas d&apos;exporter du code pour des robots 5-axes&lt;br&gt;Cliquez %1ici%2 pour gérer les abonnements</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="199"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="197"/>
         <source>Export robot code</source>
         <extracomment>Button: Open popup to export robot code</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="214"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="212"/>
         <source>The active subscription does not provide access to exporting robot code&lt;br&gt;Click %1here%2 to manage subscriptions</source>
         <extracomment>Tool tip. %1 = start of link, %2 = end of link</extracomment>
         <translation>L&apos;abonnement actuel ne permet pas d&apos;exporter du code pour des robots&lt;br&gt;Cliquez %1ici%2 pour gérer les abonnements</translation>
@@ -1099,7 +1099,7 @@ Utile pour éviter de tordre le cable ou d&apos;autres problèmes similaires dan
         <translation type="vanished">Se plier vers l&apos;arrière</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="235"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="233"/>
         <source>Status: </source>
         <extracomment>Label: Referring to status of solving the path</extracomment>
         <translation>Statut : </translation>
@@ -5243,37 +5243,37 @@ Placeholder text until an icon has been selected</extracomment>
 <context>
     <name>PopupItem</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="95"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="94"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip: &apos;module&apos; in this case refers to a particular popup. For example the &apos;Export Robot Code&apos; popup or the &apos;Settings&apos; popup</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="131"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="130"/>
         <source>Cancel</source>
         <extracomment>Button text: Cancel operation</extracomment>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="133"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="132"/>
         <source>Back</source>
         <extracomment>Button text: Go back to previous page</extracomment>
         <translation>Retour</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="149"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="148"/>
         <source>Finish</source>
         <extracomment>Button text: Finish operation</extracomment>
         <translation>Terminer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="151"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="150"/>
         <source>Next</source>
         <extracomment>Button text: Go to next page</extracomment>
         <translation>Suivant</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="153"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="152"/>
         <source>Ok</source>
         <extracomment>Button text</extracomment>
         <translation>Ok</translation>
