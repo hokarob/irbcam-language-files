@@ -404,43 +404,43 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>AdditionalObjectsModel</name>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1193"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1195"/>
         <source>Custom geometry upload failed</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1198"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1200"/>
         <source>Custom geometry %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1241"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1243"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Det gick inte att bekräfta att %1 togs bort från molnet (objektet kan ha tagits bort eller inte)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1271"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1273"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 togs bort från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1491"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1493"/>
         <source>Failed to download geometry from cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att ladda ner geometri från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1586"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1588"/>
         <source>Failed to download geometry from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att ladda ner geometri från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1621"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1623"/>
         <source>Failed to unpack geometry from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
@@ -451,7 +451,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="vanished">Kunde inte öppna mappen: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1749"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1751"/>
         <source>Custom geometry %1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Egen geometri %1 laddad</translation>
@@ -630,77 +630,113 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>AsyncLoading</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="42"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="47"/>
         <source>Finding solutions</source>
         <extracomment>Popup title text for optimizer</extracomment>
         <translation>Hittar lösningar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="115"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="50"/>
+        <source>Solve path</source>
+        <extracomment>Popup title text for solve path</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="134"/>
+        <source>The tool roll mode was changed from %1 to %2 since the last time the path was solved</source>
+        <extracomment>Popup content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="147"/>
+        <source>This configuration will overwrite the tool roll angle %1 of all targets when solving the path</source>
+        <extracomment>Content for confirmation popup. %1 = RZ2, %2 = &apos;tool roll mode&apos;, %3 = the previous value of tool roll mode</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="159"/>
+        <source>This operation cannot be undone</source>
+        <extracomment>Content for confirmation popup</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="169"/>
+        <source>Do you want to continue?</source>
+        <extracomment>Popup content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="179"/>
         <source>Path %1 of %2</source>
         <extracomment>Label: Referring to status of paths to solve. %1 = current path number, %2 = total number of paths</extracomment>
         <translation>Bana %1 av %2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="122"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="186"/>
         <source>Operation %1 of %2</source>
         <extracomment>Label: Referring to status of operations. %1 = current operation number, %2 = total number of operations</extracomment>
         <translation>Operation %1 av %2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="152"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="216"/>
         <source>Elapsed: %1</source>
         <extracomment>Label. %1 = elapsed time since start</extracomment>
         <translation>Förfluten: %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="159"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="223"/>
         <source>Remaining: %1</source>
         <extracomment>Label. %1 = estimated remaining time</extracomment>
         <translation>Återstående: %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="166"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="233"/>
         <source>Cancel</source>
         <extracomment>Button text. Abort current operation</extracomment>
         <translation>Avbryt</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="247"/>
+        <source>Continue</source>
+        <extracomment>Button text. Continue operation</extracomment>
+        <translation type="unfinished">Fortsätta</translation>
     </message>
 </context>
 <context>
     <name>BaseNetworkDataInterface</name>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="374"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="377"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Det gick inte att bekräfta att %1 togs bort från molnet (objektet kan ha tagits bort eller inte)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="407"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="410"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message. %1 = Name</extracomment>
         <translation>%1 togs bort från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="505"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="508"/>
         <source>Failed to load %1</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Det gick inte att ladda %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="611"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="614"/>
         <source>%1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 har laddats</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="646"/>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="742"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="649"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="745"/>
         <source>Failed to download item from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att ladda ner objektet från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="765"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="768"/>
         <source>Failed to unpack item</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att packa upp objektet</translation>
@@ -924,18 +960,30 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="68"/>
-        <source>The project %1 has unsaved changes. Do you want to continue?</source>
-        <extracomment>Confirmation popup. %1 = project name</extracomment>
+        <source>Project contains unsaved changes</source>
+        <extracomment>Confirmation popup title</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="72"/>
+        <source>If you sign out now all unsaved changes will be discarded&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
+        <extracomment>Confirmation popup. %1 = project name Popup text</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="74"/>
+        <source>If you sign out now all unsaved changes in project %1 will be discarded&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
+        <extracomment>Popup text. %1 = project name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="77"/>
         <source>Sign out anyway</source>
         <extracomment>This button sign out user ignoring any unsaved changes in the project</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="74"/>
+        <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="79"/>
         <source>Save changes</source>
         <extracomment>This button opens save project popup</extracomment>
         <translation type="unfinished"></translation>
@@ -1005,38 +1053,31 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="vanished">Exportera robotkod</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="171"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="176"/>
         <source>Solve Path</source>
         <extracomment>Button: Attempt to solve path</extracomment>
         <translation>Lös Verktygsbana</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="179"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="210"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="189"/>
         <source>Busy</source>
         <extracomment>Tool tip. Application is busy</extracomment>
         <translation>Upptagen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="182"/>
-        <source>Path is already solved</source>
-        <extracomment>Tool tip</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="184"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="194"/>
         <source>The active subscription does not provide access to exporting 5-axis robot code&lt;br&gt;Click %1here%2 to manage subscriptions</source>
         <extracomment>Tool tip. %1 = start of link, %2 = end of link</extracomment>
         <translation>Den aktiva prenumerationen ger inte åtkomst till export av 5-axlig robotkod&lt;br&gt;Klicka %1här%2 för att hantera prenumerationer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="197"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="174"/>
         <source>Export robot code</source>
         <extracomment>Button: Open popup to export robot code</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="212"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="192"/>
         <source>The active subscription does not provide access to exporting robot code&lt;br&gt;Click %1here%2 to manage subscriptions</source>
         <extracomment>Tool tip. %1 = start of link, %2 = end of link</extracomment>
         <translation>Den aktiva prenumerationen ger inte åtkomst till export av robotkod&lt;br&gt;Klicka %1här%2 för att hantera prenumerationer</translation>
@@ -1370,7 +1411,7 @@ Användbart för att undvika kabelvridning eller liknande problem i vissa situat
         <translation type="obsolete">Konfigurera</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="233"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="244"/>
         <source>Status: </source>
         <extracomment>Label: Referring to status of solving the path</extracomment>
         <translation>Status: </translation>
@@ -1825,46 +1866,44 @@ Button text</extracomment>
 <context>
     <name>CustomTemplates</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="24"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="30"/>
         <source>Custom Templates</source>
         <extracomment>Collapsible section: Custom Templates</extracomment>
         <translation>Anpassade mallar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="41"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="47"/>
         <source>Enable Custom Templates</source>
         <extracomment>Checkbox: Select to use custom templates when exporting robot code</extracomment>
         <translation>Aktivera anpassade mallar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="61"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="67"/>
         <source>Header</source>
         <extracomment>Header in the exported robot code</extracomment>
         <translation>Header</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="68"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="74"/>
         <source>Before first move</source>
         <extracomment>Checkbox: Select to include header before the first move when exporting robot code</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="87"/>
         <source>Custom Header</source>
         <extracomment>Placeholder for when no custom header template is entered</extracomment>
-        <translation>Anpassad Header</translation>
+        <translation type="vanished">Anpassad Header</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="103"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="97"/>
         <source>Footer</source>
         <extracomment>Footer in the exported robot code</extracomment>
         <translation>Sidfot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="119"/>
         <source>Custom Footer</source>
         <extracomment>Placeholder for when no custom footer template is entered</extracomment>
-        <translation>Anpassad Sidfot</translation>
+        <translation type="vanished">Anpassad Sidfot</translation>
     </message>
 </context>
 <context>
@@ -2081,6 +2120,21 @@ Button text</extracomment>
     </message>
 </context>
 <context>
+    <name>ExportOptionsInterface</name>
+    <message>
+        <location filename="../../../backend/src/exportoptionsinterface.cpp" line="586"/>
+        <source>Custom header</source>
+        <extracomment>Placeholder for when no custom header template is entered</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/exportoptionsinterface.cpp" line="601"/>
+        <source>Custom footer</source>
+        <extracomment>Placeholder for when no custom footer template is entered</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ExportRobot</name>
     <message>
         <source>Unknown</source>
@@ -2288,13 +2342,13 @@ Placeholder for when no procedure name is entered</extracomment>
         <translation type="vanished">Anpassade mallar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="139"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="137"/>
         <source>You cannot generate robot code in the trial version of IRBCAM. You can end the trial version and subscribe to the paid version before generating robot code %1 here %2</source>
         <extracomment>Warns the user that the selected robot must be activated before exporting robot code</extracomment>
         <translation>Du kan inte generera robotkod i testversionen av IRBCAM. Du kan avsluta testversionen och prenumerera på den betalda versionen innan du genererar robotkoden %1 här %2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="208"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="206"/>
         <source>Generating robot code</source>
         <extracomment>Status message. Shown while waiting for robot code</extracomment>
         <translation>Genererar robotkod</translation>
@@ -2397,19 +2451,19 @@ Placeholder for when no value is entered</extracomment>
         <translation type="vanished">Vikt (kg)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="210"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="208"/>
         <source>Robot code received. Save to file?</source>
         <extracomment>This question is displayed in a popup after robot code is generated</extracomment>
         <translation>Robotkod mottagen. Spara till fil?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="230"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="228"/>
         <source>Cancel</source>
         <extracomment>Cancel button</extracomment>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="239"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="237"/>
         <source>Save</source>
         <extracomment>Save button</extracomment>
         <translation>Spara</translation>
@@ -2601,49 +2655,49 @@ Placeholder for when no user frame number is entered</extracomment>
         <translation type="vanished">Generiska alternativ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="112"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="110"/>
         <source>Path must be configured before it can be exported</source>
         <extracomment>Warns the user that code cannot be exported before the path is solved</extracomment>
         <translation>Verktygsbanan måste konfigureras innan den kan exporteras</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="121"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="119"/>
         <source>One or more options are not valid</source>
         <extracomment>Warns the user that code cannot be exported with the current options</extracomment>
         <translation>Ett eller flera alternativ är inte giltiga</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="130"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="128"/>
         <source>Robot must be activated before generating robot code</source>
         <extracomment>Warns the user that the selected robot must be activated before exporting robot code</extracomment>
         <translation>Roboten måste aktiveras innan robotkod genereras</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="152"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="150"/>
         <source>Reset Export Options</source>
         <extracomment>Popup title</extracomment>
         <translation>Återställ exportalternativ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="154"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="152"/>
         <source>Are you sure you want reset export options to default values?</source>
         <extracomment>Popup text</extracomment>
         <translation>Är du säker på att du vill återställa exportalternativen till standardvärden?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="167"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="165"/>
         <source>Reset</source>
         <extracomment>Button: Reset</extracomment>
         <translation>Återställa</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="188"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="186"/>
         <source>Export</source>
         <extracomment>Button: Click here to export robot code</extracomment>
         <translation>Exportera</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="186"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="184"/>
         <source>Open robot list</source>
         <extracomment>Button: This is shown instead of &quot;Export&quot; if the user has to activate the selected robot</extracomment>
         <translation>Öppna robotlistan</translation>
@@ -2812,7 +2866,7 @@ Placeholder for when no user frame number is entered</extracomment>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="234"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="244"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="253"/>
         <source>Procedure name</source>
         <extracomment>Name of the procedure for the robot
 ----------
@@ -3638,19 +3692,19 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <translation type="obsolete">Ok</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="94"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="101"/>
         <source>Clear all</source>
         <extracomment>Button. Clear (acknowledge) all acknowledgeable messages</extracomment>
         <translation>Rensa alla</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="468"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="492"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="470"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="494"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation type="unfinished"></translation>
@@ -3862,37 +3916,37 @@ Spara ditt arbete och ladda om sidan så snart som möjligt</translation>
 <context>
     <name>IrbcamQmlEnums</name>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="501"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="564"/>
         <source>Undefined</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Odefinierad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="504"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="567"/>
         <source>Generic</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Generisk</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="507"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="570"/>
         <source>Spindle</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Spindel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="510"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="573"/>
         <source>Weldgun</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Svetspistol</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="513"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="576"/>
         <source>Roller</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Rull</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="519"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="582"/>
         <source>Unknown (%1)</source>
         <extracomment>Collapsible list section. %1 = number</extracomment>
         <translation>Okänd (%1)</translation>
@@ -4230,22 +4284,19 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="28"/>
         <source>This configuration will delete all linear lift points. However, you can add them again by re-enabling this option and running solve path again. Are you sure you want to proceed?</source>
         <extracomment>Content for confirmation popup.</extracomment>
-        <translation>Denna konfiguration tar bort alla linjära lyftpunkter. Du kan dock lägga till dem igen genom att återaktivera det här alternativet och köra lösningssökvägen igen. Är du säker på att du vill fortsätta?</translation>
+        <translation type="vanished">Denna konfiguration tar bort alla linjära lyftpunkter. Du kan dock lägga till dem igen genom att återaktivera det här alternativet och köra lösningssökvägen igen. Är du säker på att du vill fortsätta?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="31"/>
         <source>Cancel</source>
         <extracomment>Cancel button for confirmation popup</extracomment>
-        <translation>Avbryt</translation>
+        <translation type="vanished">Avbryt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="33"/>
         <source>Ok</source>
         <extracomment>Acknowledge button for confirmation popup</extracomment>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="47"/>
@@ -4254,25 +4305,25 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <translation type="unfinished">Lägg till lyftpunkter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="77"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="71"/>
         <source>Lift distance</source>
         <extracomment>Label for text field: linear lift distance</extracomment>
         <translation type="unfinished">Lyftavstånd</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="89"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="83"/>
         <source>mm</source>
         <extracomment>Unit: millimetres</extracomment>
         <translation type="unfinished">mm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="103"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="97"/>
         <source>Targets between lift points</source>
         <extracomment>Label for text field: number of targets</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="105"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="99"/>
         <source>Preferred number of targets between lift points</source>
         <extracomment>Tooltip for text field</extracomment>
         <translation type="unfinished"></translation>
@@ -5221,7 +5272,7 @@ Tooltip for to-target field</extracomment>
 <context>
     <name>Menus</name>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="68"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="104"/>
         <source>&amp;File</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Fil</translation>
@@ -5284,55 +5335,55 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Avsluta (CTRL+Q)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="149"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="202"/>
         <source>&amp;Edit</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Redigera</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="154"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="207"/>
         <source>&amp;User Frame</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Användarkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="162"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="215"/>
         <source>&amp;Object Frame</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Objektkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="170"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="223"/>
         <source>&amp;Robot</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="186"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="239"/>
         <source>&amp;Linear Track</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Linjärbana</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="200"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="255"/>
         <source>&amp;Additional Objects</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Ytterligare objekt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="209"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="264"/>
         <source>Tar&amp;gets</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Punkter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="309"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="356"/>
         <source>User Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Användarkoordinater</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="317"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="364"/>
         <source>Object Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Objektkoordinater</translation>
@@ -5346,7 +5397,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Mekanism</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="325"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="372"/>
         <source>Robot</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Robot</translation>
@@ -5360,7 +5411,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Välj Robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="349"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="396"/>
         <source>Linear Track</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation type="unfinished">Linjär bana</translation>
@@ -5402,7 +5453,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Välj Bord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="333"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="380"/>
         <source>Tool</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Verktyg</translation>
@@ -5464,7 +5515,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Radera Mål</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="178"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="231"/>
         <source>&amp;Tool</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Verktyg</translation>
@@ -5478,7 +5529,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Optimera</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="124"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="150"/>
         <source>&amp;Import Path</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Importera Bana</translation>
@@ -5496,7 +5547,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Maksimum Avstånd</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="71"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="107"/>
         <source>&amp;New</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Ny</translation>
@@ -5510,19 +5561,19 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Orientering</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="44"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="45"/>
         <source>New Project Wizard</source>
         <extracomment>Title of a dialog box</extracomment>
         <translation>Nytt Projekt Guide</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="46"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="47"/>
         <source>New Empty Project</source>
         <extracomment>Title of a dialog box</extracomment>
         <translation>Nytt Tomt Projekt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="48"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="49"/>
         <source>This action will remove all unsaved changes in the current project
 
 Do you want to continue?</source>
@@ -5532,115 +5583,127 @@ Do you want to continue?</source>
 Vill du fortsätta?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="76"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="112"/>
         <source>&amp;Empty Project</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Tomt Projekt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="96"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="127"/>
         <source>&amp;Open Project</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Öppna Projekt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="105"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="135"/>
         <source>&amp;Save Project</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Spara Projekt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="116"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="144"/>
         <source>Save Project &amp;As ...</source>
         <extracomment>Menu item</extracomment>
         <translation>Sp&amp;ara Projekt Som ...</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="86"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="120"/>
         <source>&amp;Project Wizard</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Projekt Guide</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="133"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="79"/>
+        <source>This module contains unsaved changes</source>
+        <extracomment>Tool tip text</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="157"/>
         <source>S&amp;ettings</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Inställningar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="140"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="164"/>
         <source>Project &amp;Info</source>
         <extracomment>Menu item</extracomment>
         <translation>Projekt &amp;Info</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="194"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="247"/>
         <source>Rotary Ta&amp;ble</source>
         <extracomment>Menu item</extracomment>
         <translation>Rotasions&amp;bord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="245"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="275"/>
+        <source>&amp;Export Options</source>
+        <extracomment>Menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="292"/>
         <source>&amp;Analyze</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Analysera</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="248"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="295"/>
         <source>&amp;Optimizer</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Optimerare</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="264"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="311"/>
         <source>&amp;View</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Vy</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="267"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="314"/>
         <source>Station</source>
         <extracomment>Menu item</extracomment>
         <translation>Station</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="279"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="326"/>
         <source>2D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation>2D Plot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="285"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="332"/>
         <source>3D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation>3D Plot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="301"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="348"/>
         <source>Global</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Global</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="341"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="388"/>
         <source>Rotary Table</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Rotasionsbord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="357"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="404"/>
         <source>Target</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Punkt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="368"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="415"/>
         <source>No plugins are enabled</source>
         <extracomment>Tool tip to explain why plugins are greyed out</extracomment>
         <translation>Inga plugins är aktiverade</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="396"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="443"/>
         <source>This plugin does not have valid source content</source>
         <extracomment>Tool tip to explain why button is greyed out</extracomment>
         <translation>Denna plugin har inte giltigt källinnehåll</translation>
@@ -5651,7 +5714,7 @@ Vill du fortsätta?</translation>
         <translation type="vanished">Användarvillkor</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="455"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="502"/>
         <source>Feedback</source>
         <extracomment>Menu item</extracomment>
         <translation>Feed-back</translation>
@@ -5665,7 +5728,7 @@ Vill du fortsätta?</translation>
         <translation type="obsolete">Ortogonala Vyer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="273"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="320"/>
         <source>Combination View</source>
         <extracomment>Menu item</extracomment>
         <translation>Kombinationsvisning</translation>
@@ -5687,7 +5750,7 @@ Vill du fortsätta?</translation>
         <translation type="obsolete">Animera Bakåt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="375"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="422"/>
         <source>&amp;Plugins</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Plugins</translation>
@@ -5701,7 +5764,7 @@ Vill du fortsätta?</translation>
         <translation type="vanished">Detta plugin är inte tillgängligt: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="438"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="485"/>
         <source>Forum</source>
         <extracomment>Menu item</extracomment>
         <translation>Forum</translation>
@@ -5723,7 +5786,7 @@ Vill du fortsätta?</translation>
         <translation type="vanished">Plugin-inställningar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="425"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="472"/>
         <source>&amp;Help</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Hjälp</translation>
@@ -5733,7 +5796,7 @@ Vill du fortsätta?</translation>
         <translation type="obsolete">3D-Navigation</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="296"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="343"/>
         <source>Coordinate Systems</source>
         <extracomment>Menu title</extracomment>
         <translation>Koordinatsystemer</translation>
@@ -5747,7 +5810,7 @@ Vill du fortsätta?</translation>
         <translation type="obsolete">Språk / Enheter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="449"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="496"/>
         <source>About IRBCAM</source>
         <extracomment>Menu item</extracomment>
         <translation>Om IRBCAM</translation>
@@ -5908,6 +5971,16 @@ Vill du fortsätta?</translation>
         <translation>Handled ner</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="112"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="160"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="200"/>
+        <source>Mode: %1</source>
+        <extracomment>Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Angle)
+----------
+Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Allow large reorient</source>
         <extracomment>Checkbox: Select to allow large orientation changes between targets</extracomment>
         <translation type="vanished">Tillåt stor omorientering</translation>
@@ -5987,7 +6060,7 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="vanished">RZ2 beräknas så att rullriktningen är längs banan.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="142"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="145"/>
         <source>Rotary table mode</source>
         <extracomment>Label for a dropdown menu: Select operating mode for rotary table</extracomment>
         <translation>Rotasionsbordläge</translation>
@@ -6018,7 +6091,7 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="vanished">Roterande bordsvinkel beräknas dynamiskt. Det här läget är användbart när rotationsaxeln för det roterande bordet är inriktad (eller nästan inriktad) mot verktygsrullens axel.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="184"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="191"/>
         <source>Linear track mode</source>
         <extracomment>Label for dropdown menu: Select operating mode for linear track</extracomment>
         <translation>Linjärbanaläge</translation>
@@ -6772,55 +6845,55 @@ Right click to see available options for populating the path</source>
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1531"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1533"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation type="unfinished">Det gick inte att importera CSV-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1537"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1539"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished">Banan importerad från CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1553"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1555"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1578"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1580"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished">Det gick inte att läsa in banan</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1584"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1586"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished">Verktygsbana laddad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2201"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2203"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2206"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2208"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2245"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2247"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2250"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2252"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation type="unfinished"></translation>
@@ -7035,37 +7108,37 @@ Placeholder text until an icon has been selected</extracomment>
 <context>
     <name>PopupItem</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="94"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="96"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip: &apos;module&apos; in this case refers to a particular popup. For example the &apos;Export Robot Code&apos; popup or the &apos;Settings&apos; popup</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="130"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="132"/>
         <source>Cancel</source>
         <extracomment>Button text: Cancel operation</extracomment>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="132"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="134"/>
         <source>Back</source>
         <extracomment>Button text: Go back to previous page</extracomment>
         <translation>Tillbaka</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="148"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="150"/>
         <source>Finish</source>
         <extracomment>Button text: Finish operation</extracomment>
         <translation>Avsluta</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="150"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="152"/>
         <source>Next</source>
         <extracomment>Button text: Go to next page</extracomment>
         <translation>Nästa</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="152"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="154"/>
         <source>Ok</source>
         <extracomment>Button text</extracomment>
         <translation>Ok</translation>
@@ -7401,205 +7474,223 @@ Contextual postfix to project name in list of recent projects. Appended to names
 <context>
     <name>ProjectManager</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="161"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="166"/>
+        <source>Project contains unsaved changes</source>
+        <extracomment>Popup title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="170"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="164"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="173"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="175"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="185"/>
+        <source>Opening a new project will discard all unsaved changes&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
+        <extracomment>Popup text</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="188"/>
+        <source>Opening a new project will discard all unsaved changes in project %1&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
+        <extracomment>Popup text. %1 = project name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="191"/>
         <source>This action will permanently delete project %1 from the cloud</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation type="unfinished">Den här åtgärden raderar projekt %1 permanent från molnet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="179"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="195"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="184"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="200"/>
         <source>Are you sure you want to overwrite project %1?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation type="unfinished">Är du säker på att du vill skriva över projektet %1?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="222"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="242"/>
         <source>Save Project</source>
         <extracomment>Title</extracomment>
         <translation type="unfinished">Spara Projekt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="225"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="245"/>
         <source>Open Project</source>
         <extracomment>Title</extracomment>
         <translation type="unfinished">Öppna Projekt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="228"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="248"/>
         <source>Share Project</source>
         <extracomment>Title</extracomment>
         <translation type="unfinished">Dela Projekt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="281"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="301"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation type="unfinished">Oinitierad</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="284"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="304"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation type="unfinished">Inaktivt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="287"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="307"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation type="unfinished">Hämtar beskrivning</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="290"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="310"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation type="unfinished">Laddar ner</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="293"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="313"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation type="unfinished">Uppackning</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="296"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="316"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation type="unfinished">Laddar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="299"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="319"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation type="unfinished">Raderar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="302"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="322"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation type="unfinished">Laddar upp</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="305"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="325"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation type="unfinished">Hämtar lista</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="308"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="328"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation type="unfinished">Avkodning</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="311"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="331"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation type="unfinished">Verifierar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="314"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="334"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation type="unfinished">Laddar tillgångar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="317"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="337"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation type="unfinished">Bearbetar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="323"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="343"/>
         <source>Unknown</source>
         <extracomment>Network status: Unknown state</extracomment>
         <translation type="unfinished">Okänd</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="554"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="574"/>
         <source>Save name</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to save</extracomment>
         <translation type="unfinished">Spar namn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="558"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="578"/>
         <source>Search</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to search for</extracomment>
         <translation type="unfinished">Sök</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="699"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="719"/>
         <source>Overwrite</source>
         <extracomment>Button text: Overwrite project</extracomment>
         <translation type="unfinished">Skriva över</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="701"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="721"/>
         <source>Save</source>
         <extracomment>Button text: Save project</extracomment>
         <translation type="unfinished">Spara</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="704"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="724"/>
         <source>Open</source>
         <extracomment>Button text: Open project</extracomment>
         <translation type="unfinished">Öppna</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="707"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="727"/>
         <source>Share</source>
         <extracomment>Button text: Share project</extracomment>
         <translation type="unfinished">Dela</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="738"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="758"/>
         <source>You do not have write access to this project</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="743"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="763"/>
         <source>You have reached the maximum number of saved projects. A project must be deleted before a new one can be created</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="747"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="767"/>
         <source>The save name is invalid</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation type="unfinished">Spar namnet är ogiltigt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="750"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="770"/>
         <source>Select a project to open</source>
         <extracomment>Tool-tip: Explaining why the open button is disabled</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="753"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="773"/>
         <source>Select a project to share</source>
         <extracomment>Tool-tip: Explaining why the share button is disabled</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="772"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="792"/>
         <source>No saved projects</source>
         <extracomment>Placeholder text for an empty list</extracomment>
         <translation type="unfinished">Inga sparade projekt</translation>
@@ -7608,87 +7699,87 @@ Contextual postfix to project name in list of recent projects. Appended to names
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="357"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="307"/>
         <source>years</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; years</extracomment>
         <translation>år</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="359"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="309"/>
         <source>year</source>
         <extracomment>Used to format a label. Singular form. Example usage: This will expire in 1 year</extracomment>
         <translation>år</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="372"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="322"/>
         <source>months</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; months</extracomment>
         <translation>månader</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="374"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="324"/>
         <source>month</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 month</extracomment>
         <translation>månad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="387"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="337"/>
         <source>days</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; days</extracomment>
         <translation>dagar</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="389"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="339"/>
         <source>day</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 day</extracomment>
         <translation>dag</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="401"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="351"/>
         <source>hours</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; hours</extracomment>
         <translation>timmar</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="403"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="353"/>
         <source>hour</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 hour</extracomment>
         <translation>timme</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="417"/>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="434"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="367"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="384"/>
         <source>minutes</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; minutes</extracomment>
         <translation>minuter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="419"/>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="436"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="369"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="386"/>
         <source>minute</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 minute</extracomment>
         <translation>minut</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="424"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="374"/>
         <source>less than 1 minute</source>
         <extracomment>Used to format a label. Example usage: This will expire in less than 1 minute</extracomment>
         <translation>mindre än 1 minut</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="452"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="402"/>
         <source>seconds</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; seconds</extracomment>
         <translation>sekunder</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="454"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="404"/>
         <source>second</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 second</extracomment>
         <translation>sekund</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="460"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="410"/>
         <source>1 second</source>
         <extracomment>Used to format a label. Denotes that a process has one second or less left (or has been active for one second or less)</extracomment>
         <translation>1 sekund</translation>
@@ -8008,7 +8099,7 @@ Användbart för att undvika kabelvridning eller liknande problem i vissa situat
         <translation type="vanished">Sökväg konfigurerad på </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1078"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1094"/>
         <source>Failed to solve path
 Solved %1 of %2 targets</source>
         <extracomment>Error message. %1 = first failed index, %2 = total number of targets</extracomment>
@@ -8016,7 +8107,7 @@ Solved %1 of %2 targets</source>
 Löste %1 av %2 punkter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1091"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1107"/>
         <source>Path solved successfully in %1 ms</source>
         <extracomment>Status message. %1 = time in milliseconds</extracomment>
         <translation>Banan löstes på %1 ms</translation>
@@ -8116,26 +8207,26 @@ Inga mål har raderats</translation>
         <translation type="vanished">Det gick inte att tolka APT-filen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="748"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="764"/>
         <source>No error</source>
         <extracomment>Error status for solving path. Success (no error)</extracomment>
         <translation>Inget fel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="751"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="767"/>
         <source>Path not solved</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Banan inte löst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="754"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="770"/>
         <source>Path solved successfully</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Banan löstes framgångsrikt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="710"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="757"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="726"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="773"/>
         <source>Solving path</source>
         <extracomment>Solution progress status
 ----------
@@ -8143,14 +8234,14 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Löser banan</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="707"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="723"/>
         <source>Idle</source>
         <extracomment>Solution progress status</extracomment>
         <translation type="unfinished">Inaktivt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="713"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="760"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="729"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="776"/>
         <source>Verifying path</source>
         <extracomment>Solution progress status
 ----------
@@ -8158,8 +8249,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Verifierer banan</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="716"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="763"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="732"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="779"/>
         <source>Configuring max distance</source>
         <extracomment>Solution progress status
 ----------
@@ -8167,8 +8258,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Konfigurera maxavstånd</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="719"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="766"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="735"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="782"/>
         <source>Setting up linear lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -8176,8 +8267,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Inrätta linjära lyftpunkter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="722"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="769"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="738"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="785"/>
         <source>Setting up rotary lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -8185,8 +8276,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Uppställning av roterande lyftpunkter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="725"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="772"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="741"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="788"/>
         <source>Solving rotary lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -8194,109 +8285,109 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Lösning av roterande lyftpunkter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="775"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="791"/>
         <source>No solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ingen lösning</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="778"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="794"/>
         <source>Axis limit violation</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Axelgränsöverträdelse</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="781"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="797"/>
         <source>Solution is outside of workspace limits</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Lösningen ligger utanför arbetsytans gränser</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="784"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="800"/>
         <source>This robot cannot bend backwards</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Denna robot kan inte böja sig bakåt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="787"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="803"/>
         <source>Invalid kinematic parameters</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ogiltiga kinematiska parametrar</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="790"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="806"/>
         <source>Undefined kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Odefinierad kinematisk typ</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="793"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="809"/>
         <source>Invalid kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ogiltig kinematisk typ</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="796"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="812"/>
         <source>Invalid joint setpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ogiltigt ledbörvärde</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="799"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="815"/>
         <source>Invalid number of degrees of freedom</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ogiltigt antal frihetsgrader</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="802"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="818"/>
         <source>Division by zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Division med noll</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="805"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="821"/>
         <source>Input is null pointer</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ingången är nollpekare</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="808"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="824"/>
         <source>Robot not loaded</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Roboten är inte laddad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="811"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="827"/>
         <source>Invalid path size</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ogiltig storlek på verktygsbanan</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="814"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="830"/>
         <source>Discontinuous step</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Diskontinuerligt steg</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="817"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="833"/>
         <source>No targets</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Inga punkter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="820"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="836"/>
         <source>Dynamic angle out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Dynamisk vinkel utanför räckvidd</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="823"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="839"/>
         <source>Index out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Index utanför intervallet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="826"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="842"/>
         <source>One or more targets have invalid speed</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ett eller flera mål har ogiltig hastighet</translation>
@@ -8312,37 +8403,37 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation type="vanished">Vinkelbegränsningen på rotationsbordet är för grunt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="835"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="851"/>
         <source>Invalid arc midpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ogiltig mittpunkt för bågen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="838"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="854"/>
         <source>Start target must be linear</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Startmålet måste vara linjärt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="841"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="857"/>
         <source>Radius of the arc must be finite and non-zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Radie av bågen måste vara ändlig och icke-noll</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="844"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="860"/>
         <source>Distance between arc start-point and arc mid-point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Avståndet mellan bågens startpunkt och bågens mittpunkt är för litet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="847"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="863"/>
         <source>Distance between arc start-point and arc end-point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Avståndet mellan bågens startpunkt och bågens slutpunkt är för litet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1115"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1131"/>
         <source>Failed to configure max distance at index %1
 No new targets were added
 </source>
@@ -8350,13 +8441,13 @@ No new targets were added
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1164"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1180"/>
         <source>Failed to find max distance</source>
         <extracomment>Error message from find max distance</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1182"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1198"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
@@ -8364,13 +8455,13 @@ Found %1 possible solutions within the specified parameters</source>
 Hittade %1 möjliga lösningar inom de angivna parametrarna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1188"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1204"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation>Optimerare stötte på ett problem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1197"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1213"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
@@ -8378,7 +8469,7 @@ No solutions found with the specified parameters</source>
 Inga lösningar hittades med de angivna parametrarna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1203"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1219"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
@@ -8386,25 +8477,25 @@ Found %1 possible solutions within the specified parameters</source>
 Hittade %1 möjliga lösningar inom de angivna parametrarna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="853"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="869"/>
         <source>Distance between two targets is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Avståndet mellan två mål är för litet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="856"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="872"/>
         <source>Angle between two targets is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Vinkeln mellan två mål är för liten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="949"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="965"/>
         <source>Distance between targets %1 and %2 (%3 mm) exceeds recommended maximum (%4 mm)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = distance between targets, %4 = recommended maximum distance</extracomment>
         <translation>Avståndet mellan punkten %1 och %2 (%3 mm) överskrider rekommenderat maximum (%4 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="970"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="986"/>
         <source>Reorientation between targets %1 and %2 (%3°) exceeds recommended maximum (%4°)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = reorientation between targets, %4 = recommended maximum reorientation</extracomment>
         <translation>Omorientering mellan punkt %1 och %2 (%3°) överskrider rekommenderat maximum (%4°)</translation>
@@ -8415,19 +8506,19 @@ Hittade %1 möjliga lösningar inom de angivna parametrarna</translation>
         <translation type="vanished">Banan importerad från CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1047"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1063"/>
         <source>%1 Rotary lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation>%1 roterande lyftpunkter har lagts till</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1053"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1069"/>
         <source>%1 Linear lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation>%1 Linjära lyftpunkter har lagts till</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1064"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1080"/>
         <source>Failed to solve path
 No targets</source>
         <extracomment>Error message. This means that there is no path to solve</extracomment>
@@ -8435,86 +8526,86 @@ No targets</source>
 Inga punkter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="850"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="866"/>
         <source>Arc angle is to small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Bågvinkeln är för liten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="829"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="845"/>
         <source>Target should not be at the rotation axis of the rotary table</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="832"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="848"/>
         <source>Z-axis of the target should not be aligned with the rotation axis of the rotary table</source>
         <extracomment>Error status for solving path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="859"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="875"/>
         <source>Lift target must be linear</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Lyftmålet måste vara linjärt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="862"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="878"/>
         <source>Rotary table step angle is out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Rotationsbordets stegvinkel är utanför intervallet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="865"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="881"/>
         <source>Lift distance is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Lyftavståndet är för litet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="868"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="884"/>
         <source>Length of lift direction vector is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Längden på lyftriktningsvektorn är för liten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="871"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="887"/>
         <source>Invalid indexed solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ogiltig indexerad lösning</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="874"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="890"/>
         <source>Invalid rotary lift point</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ogiltig roterande lyftpunkt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="877"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="893"/>
         <source>Lift point must be configured after all other targets are configured</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Lyftpunkt måste konfigureras efter att alla andra mål har konfigurerats</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="880"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="896"/>
         <source>Two consecutive targets are not reachable with same turntable step angle</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Två på varandra följande mål kan inte nås med samma rotationsbordsstegvinkel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="883"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="899"/>
         <source>Wrist alignment singularity</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Handledsjustering singularitet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="886"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1108"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="902"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1124"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Operation avbröts av användaren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1070"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1086"/>
         <source>Operation aborted by user
 Solved %1 of %2 targets</source>
         <extracomment>Warning message. %1 = first failed index, %2 = total number of targets</extracomment>
@@ -8529,7 +8620,7 @@ No new targets were added</source>
 Inga nya mål har lagts till</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1131"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1147"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
@@ -8537,7 +8628,7 @@ Inga nya mål har lagts till</translation>
 1 nya punkter har lagts till</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1140"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1156"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
@@ -8545,7 +8636,7 @@ Inga nya mål har lagts till</translation>
 %1 nya punkter har lagts till</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1146"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1162"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
@@ -8588,45 +8679,6 @@ Collapsible list section. This section contains all rotary tables</extracomment>
     </message>
 </context>
 <context>
-    <name>RotaryTableModes</name>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableModes.qml" line="10"/>
-        <source>Fixed Angle</source>
-        <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableModes.qml" line="13"/>
-        <source>Rotary table angle is fixed</source>
-        <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableModes.qml" line="17"/>
-        <source>Rotation Compensation</source>
-        <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableModes.qml" line="20"/>
-        <source>Rotary table angle is dynamically computed to compensate for rotational changes between the targets</source>
-        <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableModes.qml" line="24"/>
-        <source>Position Compensation</source>
-        <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableModes.qml" line="27"/>
-        <source>Rotary table angle is dynamically computed to compensate for positional changes between the targets</source>
-        <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>RotaryTableSettings</name>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="19"/>
@@ -8653,12 +8705,6 @@ Collapsible list section. This section contains all rotary tables</extracomment>
         <translation type="unfinished">Ok</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="66"/>
-        <source>Mode: </source>
-        <extracomment>Dropdown menu text prefix. E.g. Mode: Fixed Angle</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Normal Mode</source>
         <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="obsolete">Normalläge</translation>
@@ -8679,97 +8725,100 @@ Collapsible list section. This section contains all rotary tables</extracomment>
         <translation type="obsolete">Dynamisk vinkel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="87"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="70"/>
         <source>Select motion mode for rotary table</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
         <translation type="unfinished">Välj rörelseläge för roterande bord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="95"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="78"/>
         <source>Initial angle</source>
         <extracomment>Label for text field: Starting angle for rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="97"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="80"/>
         <source>Initial angle for rotary table</source>
         <extracomment>Tool tip for text field</extracomment>
         <translation type="unfinished">Inledande vinkel för roterande bord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="129"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="112"/>
         <source>Enable indexed mode</source>
         <extracomment>Checkbox: Select to enable indexed mode</extracomment>
         <translation type="unfinished">Aktivera indexerat läge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="163"/>
-        <source>Index Mode: </source>
-        <extracomment>Dropdown menu text prefix. E.g. Index Mode: No Group</extracomment>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="56"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="146"/>
+        <source>Mode: %1</source>
+        <extracomment>Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed angle)
+----------
+Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="175"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="158"/>
         <source>No Group</source>
         <extracomment>Dropdown menu item: Select indexing mode for indexed rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="178"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="161"/>
         <source>No lift points between paths.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="182"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="165"/>
         <source>Fixed Group</source>
         <extracomment>Dropdown menu item: Select indexing mode for indexed rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="185"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="168"/>
         <source>Rotary table angle is fixed for targets within a group.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="189"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="172"/>
         <source>Dynamic Group</source>
         <extracomment>Dropdown menu item: Select indexing mode for indexed rotary table</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="192"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="175"/>
         <source>Rotary table angle is dynamic for targets within a group.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="199"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="182"/>
         <source>Select indexing mode for indexed rotary table</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="205"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="188"/>
         <source>Step size</source>
         <extracomment>Label for text field: Referring to size of step in turntable indexed mode</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="207"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="190"/>
         <source>Size of step angle (1° - 360°)</source>
         <extracomment>Tool tip for text field.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="227"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="210"/>
         <source>Lift distance</source>
         <extracomment>Label for text field: Referring to lift distance in turntable indexed mode</extracomment>
         <translation type="unfinished">Lyftavstånd</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="242"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="225"/>
         <source>mm</source>
         <extracomment>Unit millimietres</extracomment>
         <translation type="unfinished">mm</translation>
@@ -8842,25 +8891,25 @@ Klicka igen för att skriva över</translation>
         <translation type="vanished">Det gick inte att översätta språket till</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="145"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="147"/>
         <source>Failed to translate language to %1</source>
         <extracomment>Error message. %1 = language</extracomment>
         <translation>Det gick inte att översätta språket till %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="154"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="156"/>
         <source>Language changed</source>
         <extracomment>Status message</extracomment>
         <translation>Språket har ändrats</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="325"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="327"/>
         <source>Failed to save settings for %1</source>
         <extracomment>Error message: %1 = full name (of user)</extracomment>
         <translation>Det gick inte att spara inställningarna för %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="331"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="333"/>
         <source>Settings for %1 saved</source>
         <extracomment>Status message. %1 = full name (of user)</extracomment>
         <translation>Inställningar för %1 sparade</translation>
@@ -8978,25 +9027,25 @@ Klicka igen för att skriva över</translation>
 <context>
     <name>SidebarItem</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/SidebarItem.qml" line="128"/>
+        <location filename="../../IrbcamQml/Sidebar/SidebarItem.qml" line="129"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip: &apos;module&apos; in this case refers to a particular sidebar. For example the &apos;Targets&apos; sidebar or the &apos;Robot&apos; sidebar</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/SidebarItem.qml" line="193"/>
+        <location filename="../../IrbcamQml/Sidebar/SidebarItem.qml" line="194"/>
         <source>Back</source>
         <extracomment>Button: Navigate back</extracomment>
         <translation>Tillbaka</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/SidebarItem.qml" line="195"/>
+        <location filename="../../IrbcamQml/Sidebar/SidebarItem.qml" line="196"/>
         <source>Close</source>
         <extracomment>Button: Close sidebar</extracomment>
         <translation>Stäng</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/SidebarItem.qml" line="208"/>
+        <location filename="../../IrbcamQml/Sidebar/SidebarItem.qml" line="209"/>
         <source>Next</source>
         <extracomment>Button: Navigate to next view</extracomment>
         <translation>Nästa</translation>
@@ -9047,6 +9096,24 @@ Klicka igen för att skriva över</translation>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="42"/>
         <source>Ctrl+V</source>
         <extracomment>Paste shortcut key combination(s)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/standardkeytexts.cpp" line="48"/>
+        <source>Ctrl+O</source>
+        <extracomment>Open document key combination(s)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/standardkeytexts.cpp" line="54"/>
+        <source>Ctrl+S</source>
+        <extracomment>Save document shortcut key combination(s)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/standardkeytexts.cpp" line="60"/>
+        <source>Ctrl+Alt+N</source>
+        <extracomment>New document shortcut key combination(s)</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9399,13 +9466,13 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation type="obsolete">Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="470"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="497"/>
         <source>Project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Projekt %1 sparad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="805"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="838"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Projektet rensas</translation>
@@ -9416,7 +9483,7 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation type="vanished">Fil %1 är tom</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1010"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1043"/>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -9424,98 +9491,98 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Större banor kan importeras genom att dela APT-filen i mindre filer och använda alternativet &apos;lägg till&apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="425"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="452"/>
         <source>Failed to confirm that the project was saved to the cloud (the project may or may not have been saved)</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att bekräfta att projektet sparades i molnet (projektet kan ha sparats eller inte)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="394"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="421"/>
         <source>No changes detected in project</source>
         <extracomment>Notification message that is displayed if the user attempst to save project, but the project has not changed since last save</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="464"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="491"/>
         <source>Autosave for project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Autospara för projektet %1 har sparats</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="601"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="634"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att ladda ner projektet från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="845"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="878"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att bekräfta att projektet togs bort från molnet (projektet kan ha tagits bort eller inte)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="871"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="904"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projekt %1 togs bort från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="949"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="982"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att bekräfta att projektet delades</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="973"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1006"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projekt %1 delades med %2.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1033"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1066"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Det gick inte att starta molnjobbet %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1063"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1096"/>
         <source>Failed to get parsed APT %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Det gick inte att få analyserad APT %1 från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1108"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1141"/>
         <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>Antalet decimaler som används i APT-filen %1 är %2 (låg numerisk precision).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1126"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1159"/>
         <source>Failed to import APT file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Det gick inte att importera APT-filen %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1133"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1166"/>
         <source>Path imported from APT %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation>Verktygsbana importerad från APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1195"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1227"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1228"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1260"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att hämta robotkod från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1370"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1403"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att återställa sparat projekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1382"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1415"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -9523,7 +9590,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Detta kan bero på att lagringen kommer från en äldre version av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1408"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1441"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Saknar information i projektet hämtat från molnet</translation>
@@ -9534,26 +9601,26 @@ Detta kan bero på att lagringen kommer från en äldre version av IRBCAM</trans
         <translation type="vanished">Saknade versionsinformation i projektet hämtat från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1509"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1542"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1528"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1561"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>bana import</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1679"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1686"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1712"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1719"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH-tabell</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1390"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1423"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -9561,49 +9628,49 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Detta kan bero på att lagringen kommer från en äldre version av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1439"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1472"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1457"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1490"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1467"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1500"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1476"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1509"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1544"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1552"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1562"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1577"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1585"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1595"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1576"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1584"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1614"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1609"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1617"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1647"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>verktyg</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1628"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1636"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1646"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1661"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1669"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1679"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>rotationsbord</translation>
@@ -9616,7 +9683,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Detta kan bero på att lagringen kommer från en äldre version av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1429"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1462"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att läsa in projektdata</translation>
@@ -9632,14 +9699,14 @@ Detta kan bero på att lagringen kommer från en äldre version av IRBCAM</trans
         <translation type="vanished">DH Tabellinformation saknas från sparat projekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1733"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1766"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projekt %1 laddad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1658"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1666"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1691"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1699"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>linjärbana</translation>
@@ -10516,64 +10583,34 @@ Rotation (rad)
 <context>
     <name>ToolRollModes</name>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollModes.qml" line="11"/>
         <source>No Change</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
-        <translation type="unfinished">Ingen förändring</translation>
+        <translation type="obsolete">Ingen förändring</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollModes.qml" line="14"/>
         <source>RZ2 is unchanged.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished">RZ2 är oförändrad.</translation>
+        <translation type="obsolete">RZ2 är oförändrad.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollModes.qml" line="19"/>
-        <source>Fixed Angle</source>
-        <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollModes.qml" line="22"/>
         <source>RZ2 is equal to the tool roll angle with corrections to account for singularities.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished">RZ2 är lika med verktygsrullningsvinkeln med korrigeringar för att ta hänsyn till singulariteter.</translation>
+        <translation type="obsolete">RZ2 är lika med verktygsrullningsvinkeln med korrigeringar för att ta hänsyn till singulariteter.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollModes.qml" line="27"/>
         <source>Dynamic Angle</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
-        <translation type="unfinished">Dynamisk vinkel</translation>
+        <translation type="obsolete">Dynamisk vinkel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollModes.qml" line="30"/>
-        <source>RZ2 is set to the tool roll angle for the first target. For all other targets, it is dynamically adjusted by increasing and decreasing in 1-degree steps up to the maximum deviation from the starting tool roll angle.</source>
-        <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollModes.qml" line="35"/>
         <source>Fixed Angle + Deviation</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
-        <translation type="unfinished">Fast vinkel + avvikelse</translation>
+        <translation type="obsolete">Fast vinkel + avvikelse</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollModes.qml" line="38"/>
-        <source>RZ2 follows the fixed angle but is also dynamically adjusted by increasing and decreasing in 1-degree steps up to the maximum deviation from the starting tool roll angle.</source>
-        <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollModes.qml" line="43"/>
-        <source>Roller Mode</source>
-        <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollModes.qml" line="46"/>
         <source>RZ2 is calculated such that the roller direction is along the path.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished">RZ2 beräknas så att rullriktningen är längs banan.</translation>
+        <translation type="obsolete">RZ2 beräknas så att rullriktningen är längs banan.</translation>
     </message>
 </context>
 <context>
@@ -10585,28 +10622,14 @@ Rotation (rad)
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="29"/>
         <source>This configuration will overwrite tool roll angle %1 values of all targets when solving the path. You may switch the %2 to %3 if you don&apos;t want to overwrite the tool roll angle before solving the path.</source>
         <extracomment>Content for confirmation popup. %1 = RZ2, %2 = Tool roll mode, %3 = No Change</extracomment>
-        <translation type="unfinished">Denna konfiguration kommer att skriva över verktygsrullningsvinkel %1 värden för alla mål när banan löses. Du kan byta %2 till %3 om du inte vill skriva över verktygsrullningsvinkeln innan du löser banan.</translation>
+        <translation type="obsolete">Denna konfiguration kommer att skriva över verktygsrullningsvinkel %1 värden för alla mål när banan löses. Du kan byta %2 till %3 om du inte vill skriva över verktygsrullningsvinkeln innan du löser banan.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="32"/>
-        <source>tool roll mode</source>
-        <extracomment>Confirmation popup content</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="38"/>
         <source>Ok</source>
         <extracomment>Acknowledge button for confirmation popup</extracomment>
-        <translation type="unfinished">Ok</translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="70"/>
-        <source>Mode: </source>
-        <extracomment>Dropdown menu text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Ok</translation>
     </message>
     <message>
         <source>No Change</source>
@@ -10639,31 +10662,37 @@ Rotation (rad)
         <translation type="obsolete">RZ2 beräknas så att rullriktningen är längs banan.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="104"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="36"/>
+        <source>Mode: %1</source>
+        <extracomment>Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Angle)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="65"/>
         <source>Overwrite tool roll angle %1 values of all targets with the selected method</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path. %1 = RZ2</extracomment>
         <translation type="unfinished">Skriv över verktygsrullningsvinkel %1 värden för alla punkter med den valda metoden</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="123"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="84"/>
         <source>Initial angle</source>
         <extracomment>Label for text field: Referring to rotation about the tool Z-axis</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="125"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="86"/>
         <source>Set initial tool roll angle</source>
         <extracomment>Tool tip for slider.</extracomment>
         <translation type="unfinished">Ställ in initial verktygsrullningsvinkel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="144"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="105"/>
         <source>Max angle difference</source>
         <extracomment>Label for text field: Referring to maximum angular difference between adjacent targets</extracomment>
         <translation type="unfinished">Max vinkelskillnad</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="146"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="107"/>
         <source>Maximum angular difference between adjacent targets</source>
         <extracomment>Tool tip for input</extracomment>
         <translation type="unfinished">Maximal vinkelskillnad mellan intilliggande punkter</translation>
@@ -10770,34 +10799,14 @@ Rotation (rad)
 <context>
     <name>TrackModes</name>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackModes.qml" line="9"/>
-        <source>Fixed Position</source>
-        <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackModes.qml" line="11"/>
         <source>Dynamic Position</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
-        <translation type="unfinished">Dynamisk Position</translation>
+        <translation type="obsolete">Dynamisk Position</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackModes.qml" line="13"/>
-        <source>Positive Only</source>
-        <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackModes.qml" line="15"/>
-        <source>Negative Only</source>
-        <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackModes.qml" line="17"/>
         <source>Batch Mode</source>
         <extracomment>Dropdown menu item: Select operating mode for linear track</extracomment>
-        <translation type="unfinished">Batchläge</translation>
+        <translation type="obsolete">Batchläge</translation>
     </message>
 </context>
 <context>
@@ -10807,12 +10816,6 @@ Rotation (rad)
         <source>Linear Track</source>
         <extracomment>Category separator text</extracomment>
         <translation type="unfinished">Linjär bana</translation>
-    </message>
-    <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="29"/>
-        <source>Mode: </source>
-        <extracomment>Dropdown menu text prefix. E.g. Mode: Fixed Position</extracomment>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dynamic Position</source>
@@ -10825,44 +10828,50 @@ Rotation (rad)
         <translation type="obsolete">Batchläge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="46"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="30"/>
+        <source>Mode: %1</source>
+        <extracomment>Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="45"/>
         <source>Select motion mode for linear track</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
         <translation type="unfinished">Välj rörelseläge för linjärbana</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="62"/>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="101"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="66"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="105"/>
         <source>mm</source>
         <extracomment>Unit: millimetres</extracomment>
         <translation type="unfinished">mm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="66"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="70"/>
         <source>Initial position of linear track</source>
         <extracomment>Tool tip for label.</extracomment>
         <translation type="unfinished">Initial position för linjärbana</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="69"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="73"/>
         <source>Initial value axis %1</source>
         <extracomment>Label for slider. Referring to linear track position if it is a multi axis linear track. %1 = axis number</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="71"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="75"/>
         <source>Initial value</source>
         <extracomment>Label for slider. Referring to linear track position</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="89"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="93"/>
         <source>Batch size</source>
         <extracomment>Label for text field: Referring to size of batches in linear track motion</extracomment>
         <translation type="unfinished">Batchstorlek</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="91"/>
+        <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="95"/>
         <source>Size of batch window</source>
         <extracomment>Tool tip for text field.</extracomment>
         <translation type="unfinished">Storlek på batchfönster</translation>
@@ -11056,67 +11065,144 @@ Error message. %1 = name</extracomment>
 <context>
     <name>UtilitiesInterface</name>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="229"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="424"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="515"/>
         <source>Fixed Angle</source>
-        <extracomment>Dropdown menu item. Select tool roll mode when solving path</extracomment>
+        <extracomment>Dropdown menu item: Select tool roll mode
+----------
+Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Fast vinkel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="232"/>
         <source>Dynamic Angle 1</source>
         <extracomment>Dropdown menu item. Select tool roll mode when solving path</extracomment>
-        <translation>Dynamisk Vinkel 1</translation>
+        <translation type="vanished">Dynamisk Vinkel 1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="235"/>
         <source>Dynamic Angle 2</source>
         <extracomment>Dropdown menu item. Select tool roll mode when solving path</extracomment>
-        <translation>Dynamisk Vinkel 2</translation>
+        <translation type="vanished">Dynamisk Vinkel 2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="238"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="433"/>
         <source>No Change</source>
-        <extracomment>Dropdown menu item. Select tool roll mode when solving path</extracomment>
+        <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Ingen förändring</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="243"/>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="269"/>
         <source>Unknown</source>
         <extracomment>Dropdown menu item. Select tool roll mode when solving path
 ----------
 Dropdown menu item. Select linear track mode when solving path</extracomment>
-        <translation>Okänd</translation>
+        <translation type="vanished">Okänd</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="252"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="427"/>
+        <source>Dynamic Angle</source>
+        <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
+        <translation type="unfinished">Dynamisk vinkel</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="430"/>
+        <source>Fixed Angle + Deviation</source>
+        <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
+        <translation type="unfinished">Fast vinkel + avvikelse</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="436"/>
+        <source>Roller Mode</source>
+        <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="452"/>
+        <source>RZ2 is equal to the tool roll angle with corrections to account for singularities</source>
+        <extracomment>Tool tip text for dropdown menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="455"/>
+        <source>RZ2 is set to the tool roll angle for the first target. For all other targets, it is dynamically adjusted by increasing and decreasing in 1-degree steps up to the maximum deviation from the starting tool roll angle</source>
+        <extracomment>Tool tip text for dropdown menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="462"/>
+        <source>RZ2 follows the fixed angle but is also dynamically adjusted by increasing and decreasing in 1-degree steps up to the maximum deviation from the starting tool roll angle</source>
+        <extracomment>Tool tip text for dropdown menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="468"/>
+        <source>RZ2 is unchanged</source>
+        <extracomment>Tool tip text for dropdown menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="471"/>
+        <source>RZ2 is calculated such that the roller direction is along the path</source>
+        <extracomment>Tool tip text for dropdown menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="485"/>
         <source>Fixed Position</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Fast position</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="255"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="488"/>
         <source>Dynamic Position</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Dynamisk Position</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="258"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="491"/>
         <source>Positive Only</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Endast Positiv</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="261"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="494"/>
         <source>Negative Only</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Endast Negativ</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="264"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="497"/>
         <source>Batch Mode</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Batchläge</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="518"/>
+        <source>Rotation Compensation</source>
+        <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="521"/>
+        <source>Position Compensation</source>
+        <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="539"/>
+        <source>Rotary table angle is fixed</source>
+        <extracomment>Tool tip text for dropdown menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="542"/>
+        <source>Rotary table angle is dynamically computed to compensate for rotational changes between the targets</source>
+        <extracomment>Tool tip text for dropdown menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="545"/>
+        <source>Rotary table angle is dynamically computed to compensate for positional changes between the targets</source>
+        <extracomment>Tool tip text for dropdown menu item</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
