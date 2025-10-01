@@ -3290,13 +3290,13 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="492"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="301"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="494"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="303"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation type="unfinished"></translation>
@@ -5095,13 +5095,13 @@ Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="356"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="360"/>
         <source>User Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Benutzerkoordinaten</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="364"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="368"/>
         <source>Object Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Objektkoordinaten</translation>
@@ -5115,7 +5115,7 @@ Do you want to continue?</source>
         <translation type="vanished">Mechanismus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="372"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="376"/>
         <source>Robot</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Roboter</translation>
@@ -5129,7 +5129,7 @@ Do you want to continue?</source>
         <translation type="vanished">Roboter auswählen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="396"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="400"/>
         <source>Linear Track</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Lineare Bahn</translation>
@@ -5171,7 +5171,7 @@ Do you want to continue?</source>
         <translation type="vanished">Angesteuerten Tisch auswählen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="380"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="384"/>
         <source>Tool</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Werkzeug</translation>
@@ -5328,25 +5328,25 @@ Do you want to continue?</source>
         <translation type="vanished">Einstellungen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="311"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="315"/>
         <source>&amp;View</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Ansicht</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="314"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="318"/>
         <source>Station</source>
         <extracomment>Menu item</extracomment>
         <translation>Roboterstation</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="326"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="330"/>
         <source>2D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation>2D-Diagramm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="332"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="336"/>
         <source>3D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation>3D-Diagramm</translation>
@@ -5356,31 +5356,31 @@ Do you want to continue?</source>
         <translation type="vanished">Zeitdiagramm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="348"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="352"/>
         <source>Global</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Global</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="388"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="392"/>
         <source>Rotary Table</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="404"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="408"/>
         <source>Target</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Ziel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="415"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="419"/>
         <source>No plugins are enabled</source>
         <extracomment>Tool tip to explain why plugins are greyed out</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="443"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="447"/>
         <source>This plugin does not have valid source content</source>
         <extracomment>Tool tip to explain why button is greyed out</extracomment>
         <translation type="unfinished"></translation>
@@ -5396,7 +5396,7 @@ Do you want to continue?</source>
         <translation type="vanished">EULA</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="502"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="506"/>
         <source>Feedback</source>
         <extracomment>Menu item</extracomment>
         <translation>Rückmeldung</translation>
@@ -5410,7 +5410,7 @@ Do you want to continue?</source>
         <translation type="vanished">Orthogonale Ansichten</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="320"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="324"/>
         <source>Combination View</source>
         <extracomment>Menu item</extracomment>
         <translation>Kombinationsansicht</translation>
@@ -5432,7 +5432,7 @@ Do you want to continue?</source>
         <translation type="vanished">Animation rückwärts</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="422"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="426"/>
         <source>&amp;Plugins</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Plugins</translation>
@@ -5446,7 +5446,7 @@ Do you want to continue?</source>
         <translation type="vanished">Dieses Plugin ist nicht verfügbar: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="485"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="489"/>
         <source>Forum</source>
         <extracomment>Menu item</extracomment>
         <translation>Forum</translation>
@@ -5484,7 +5484,7 @@ Do you want to continue?</source>
         <translation type="vanished">Plugin-Einstellungen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="472"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="476"/>
         <source>&amp;Help</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Hilfe</translation>
@@ -5494,7 +5494,7 @@ Do you want to continue?</source>
         <translation type="vanished">3D-Navigation</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="343"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="347"/>
         <source>Coordinate Systems</source>
         <extracomment>Menu title</extracomment>
         <translation>Koordinatensysteme</translation>
@@ -5508,7 +5508,7 @@ Do you want to continue?</source>
         <translation type="vanished">Sprache / Einheiten</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="496"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="500"/>
         <source>About IRBCAM</source>
         <extracomment>Menu item</extracomment>
         <translation>Über IRBCAM</translation>
@@ -5532,7 +5532,7 @@ Do you want to continue?</source>
 <context>
     <name>MessageCentre</name>
     <message>
-        <location filename="../../IrbcamQml/Views/MessageCentre.qml" line="112"/>
+        <location filename="../../IrbcamQml/Views/MessageCentre.qml" line="109"/>
         <source>Ok</source>
         <extracomment>Button: dismiss message</extracomment>
         <translation type="unfinished">Ok</translation>
@@ -8370,6 +8370,195 @@ Klicken Sie erneut, um zu überschreiben</translation>
         <source>Unknown</source>
         <extracomment>Axis name if it is unknown</extracomment>
         <translation type="vanished">Unbekannt</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="625"/>
+        <source>2D Plot Controls</source>
+        <extracomment>Info card title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="628"/>
+        <source>Hide controls</source>
+        <extracomment>Info card tooltip when the card is expanded</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="630"/>
+        <source>Show controls</source>
+        <extracomment>Info card tooltip when the card is collapsed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="635"/>
+        <source>Left click</source>
+        <extracomment>Interaction type</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="637"/>
+        <source>Select target</source>
+        <extracomment>Interaction explanation</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="641"/>
+        <source>Mouse wheel</source>
+        <extracomment>Interaction type</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="643"/>
+        <source>Zoom in/out inside plot</source>
+        <extracomment>Interaction explanation</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="646"/>
+        <source>Zooms relative to the current cursor position</source>
+        <extracomment>Interaction explanation detail</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="651"/>
+        <source>Left click + drag</source>
+        <extracomment>Interaction type</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="653"/>
+        <source>Zoom in to region</source>
+        <extracomment>Interaction explanation</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="657"/>
+        <source>Right click + drag</source>
+        <extracomment>Interaction type</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="659"/>
+        <source>Pan inside plot</source>
+        <extracomment>Interaction explanation</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="663"/>
+        <source>Double click</source>
+        <extracomment>Interaction type</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="665"/>
+        <source>Reset plot</source>
+        <extracomment>Interaction explanation</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ScatterPlot3D</name>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="250"/>
+        <source>3D Plot Controls</source>
+        <extracomment>Info card title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="253"/>
+        <source>Hide controls</source>
+        <extracomment>Info card tooltip when the card is expanded</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="255"/>
+        <source>Show controls</source>
+        <extracomment>Info card tooltip when the card is collapsed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="260"/>
+        <source>Left click</source>
+        <extracomment>Interaction type</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="262"/>
+        <source>Select target</source>
+        <extracomment>Interaction explanation</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="266"/>
+        <source>Mouse wheel</source>
+        <extracomment>Interaction type</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="268"/>
+        <source>Zoom in/out inside plot</source>
+        <extracomment>Interaction explanation</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="271"/>
+        <source>If a target is selected it zooms relative to the selected target</source>
+        <extracomment>Interaction explanation detail</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="273"/>
+        <source>If no target is selected it zooms relative to the center of the plot</source>
+        <extracomment>Interaction explanation detail</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="278"/>
+        <source>Ctrl + wheel</source>
+        <extracomment>Interaction type</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="280"/>
+        <source>Change the size of the plot</source>
+        <extracomment>Interaction explanation</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="284"/>
+        <source>Left click + drag</source>
+        <extracomment>Interaction type</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="286"/>
+        <source>Rotate the plot</source>
+        <extracomment>Interaction explanation</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="290"/>
+        <source>Right click + drag</source>
+        <extracomment>Interaction type</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="292"/>
+        <source>Pan inside plot</source>
+        <extracomment>Interaction explanation</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="296"/>
+        <source>Double click</source>
+        <extracomment>Interaction type</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="298"/>
+        <source>Reset plot</source>
+        <extracomment>Interaction explanation</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
