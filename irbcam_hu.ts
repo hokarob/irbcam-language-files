@@ -7644,25 +7644,25 @@ Kattintson újra a felülíráshoz</translation>
         <translation type="vanished">Nyelv lefordítása sikertelen erre</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="147"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="149"/>
         <source>Failed to translate language to %1</source>
         <extracomment>Error message. %1 = language</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="156"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="160"/>
         <source>Language changed</source>
         <extracomment>Status message</extracomment>
         <translation>Nyelv megváltoztatva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="327"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="335"/>
         <source>Failed to save settings for %1</source>
         <extracomment>Error message: %1 = full name (of user)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="333"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="341"/>
         <source>Settings for %1 saved</source>
         <extracomment>Status message. %1 = full name (of user)</extracomment>
         <translation type="unfinished"></translation>
