@@ -186,7 +186,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="81"/>
         <source>mm</source>
         <extracomment>Unit: millimetres</extracomment>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="187"/>
@@ -288,19 +288,19 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="431"/>
         <source>Yaw angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
-        <translation type="unfinished">Gierwinkel</translation>
+        <translation>Gierwinkel</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="441"/>
         <source>Pitch angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
-        <translation type="unfinished">Nickwinkel</translation>
+        <translation>Nickwinkel</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="451"/>
         <source>Roll angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
-        <translation type="unfinished">Rollwinkel</translation>
+        <translation>Rollwinkel</translation>
     </message>
     <message>
         <source>X position (mm)</source>
@@ -429,13 +429,13 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1195"/>
         <source>Custom geometry upload failed</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hochladen der benutzerdefinierten Geometrie fehlgeschlagen</translation>
     </message>
     <message>
         <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1200"/>
         <source>Custom geometry %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Geometrie %1 erfolgreich hochgeladen</translation>
     </message>
     <message>
         <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1243"/>
@@ -465,7 +465,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1623"/>
         <source>Failed to unpack geometry from the cloud</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Entpacken der Geometrie aus der Cloud fehlgeschlagen</translation>
     </message>
     <message>
         <source>Could not open folder: %1</source>
@@ -670,7 +670,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="107"/>
         <source>Waiting for response</source>
         <extracomment>Network status: Waitong for response from server</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Warten auf Antwort</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="113"/>
@@ -697,31 +697,31 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="50"/>
         <source>Solve path</source>
         <extracomment>Popup title text for solve path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pfad lösen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="134"/>
         <source>The tool roll mode was changed from %1 to %2 since the last time the path was solved</source>
         <extracomment>Popup content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Der Werkzeugrollenmodus wurde seit der letzten Lösung des Pfads von %1 auf %2 geändert.</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="147"/>
         <source>This configuration will overwrite the tool roll angle %1 of all targets when solving the path</source>
         <extracomment>Content for confirmation popup. %1 = RZ2, %2 = &apos;tool roll mode&apos;, %3 = the previous value of tool roll mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Diese Konfiguration überschreibt den Werkzeugrollwinkel %1 aller Ziele beim Lösen des Pfades</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="159"/>
         <source>This operation cannot be undone</source>
         <extracomment>Content for confirmation popup</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dieser Vorgang kann nicht rückgängig gemacht werden</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="169"/>
         <source>Do you want to continue?</source>
         <extracomment>Popup content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Möchten Sie fortfahren?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="179"/>
@@ -757,7 +757,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="247"/>
         <source>Continue</source>
         <extracomment>Button text. Continue operation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Weitermachen</translation>
     </message>
 </context>
 <context>
@@ -1001,31 +1001,31 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="68"/>
         <source>Project contains unsaved changes</source>
         <extracomment>Confirmation popup title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Das Projekt enthält nicht gespeicherte Änderungen.</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="72"/>
         <source>If you sign out now all unsaved changes will be discarded&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Confirmation popup. %1 = project name Popup text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Wenn Sie sich jetzt abmelden, werden alle nicht gespeicherten Änderungen verworfen&lt;br&gt;&lt;br&gt;Möchten Sie fortfahren?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="74"/>
         <source>If you sign out now all unsaved changes in project %1 will be discarded&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Wenn Sie sich jetzt abmelden, werden alle nicht gespeicherten Änderungen im Projekt %1 verworfen&lt;br&gt;&lt;br&gt;Möchten Sie fortfahren?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="77"/>
         <source>Sign out anyway</source>
         <extracomment>This button sign out user ignoring any unsaved changes in the project</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Trotzdem abmelden</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="79"/>
         <source>Save changes</source>
         <extracomment>This button opens save project popup</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Änderungen speichern</translation>
     </message>
 </context>
 <context>
@@ -1063,7 +1063,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="174"/>
         <source>Export robot code</source>
         <extracomment>Button: Open popup to export robot code</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Robotercode exportieren</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="244"/>
@@ -1126,7 +1126,7 @@ Button text</extracomment>
         <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="167"/>
         <source>Name</source>
         <extracomment>Title for a textfield</extracomment>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/CustomGeometry.qml" line="175"/>
@@ -1490,13 +1490,13 @@ Button text</extracomment>
         <location filename="../../../backend/src/exportoptionsinterface.cpp" line="586"/>
         <source>Custom header</source>
         <extracomment>Placeholder for when no custom header template is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierter Header</translation>
     </message>
     <message>
         <location filename="../../../backend/src/exportoptionsinterface.cpp" line="601"/>
         <source>Custom footer</source>
         <extracomment>Placeholder for when no custom footer template is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdefinierte Fußzeile</translation>
     </message>
 </context>
 <context>
@@ -1750,13 +1750,13 @@ Placeholder for when no procedure name is entered</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/GoToTargetPopup.qml" line="24"/>
         <source>Go to target</source>
         <extracomment>Popup title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zum Ziel</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/GoToTargetPopup.qml" line="91"/>
         <source>Go</source>
         <extracomment>Button text: click this button to go to target</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Gehen</translation>
     </message>
 </context>
 <context>
@@ -1795,13 +1795,13 @@ Placeholder for when no procedure name is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="65"/>
         <source>GCODE files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>GCODE-Dateien</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="67"/>
         <source>SVG files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SVG-Dateien</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="69"/>
@@ -1864,19 +1864,19 @@ Placeholder for when no procedure name is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="122"/>
         <source>The active subscription does not provide access to GCODE/APT parser. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Das aktive Abonnement gewährt keinen Zugriff auf den GCODE/APT-Parser. Klicken Sie %1hier%2, um Abonnements zu verwalten.</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="168"/>
         <source>Reference documentation for JSON and CSV format is in  %1our forum%2</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Die Referenzdokumentation für JSON- und CSV-Formate befindet sich in %1unserem Forum%2</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="200"/>
         <source>Invalid file type. Only .apt, .gcode, .nc, .json, .csv, and .svg files are supported</source>
         <extracomment>Tool tip: Invalid file type is selected</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiger Dateityp. Es werden nur Dateien der Typen .apt, .gcode, .nc, .json, .csv und .svg unterstützt.</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="215"/>
@@ -1973,7 +1973,8 @@ Placeholder for when no procedure name is entered</extracomment>
         <source>Newline &apos;
 &apos;</source>
         <extracomment>Item in dropdown menu. Referring to a new line in a CSV file</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zeilenumbruch &apos;
+&apos;</translation>
     </message>
     <message>
         <source>Newline &apos;\n&apos;</source>
@@ -2265,7 +2266,7 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <location filename="../../../backend/src/irbcamapi.cpp" line="91"/>
         <source>EULA not found</source>
         <extracomment>Shown instead of EULA if it fails to load</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Endbenutzer-Lizenzvereinbarung nicht gefunden</translation>
     </message>
 </context>
 <context>
@@ -2331,7 +2332,7 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <location filename="../../../backend/src/networking.cpp" line="208"/>
         <source>Failed to validate session token</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sitzungstoken konnte nicht validiert werden</translation>
     </message>
     <message>
         <location filename="../../../backend/src/networking.cpp" line="275"/>
@@ -2389,13 +2390,13 @@ Die betroffenen Einstellungen wurden auf ihre Standardwerte gesetzt</translation
         <location filename="../../../backend/src/networking.cpp" line="904"/>
         <source>Failed to get user details</source>
         <extracomment>Error message.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerdetails konnten nicht abgerufen werden</translation>
     </message>
     <message>
         <location filename="../../../backend/src/networking.cpp" line="1045"/>
         <source>Your session has expired. Please sign in again.</source>
         <extracomment>Error message.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ihre Sitzung ist abgelaufen. Bitte melden Sie sich erneut an.</translation>
     </message>
     <message>
         <location filename="../../../backend/src/networking.cpp" line="1056"/>
@@ -2832,37 +2833,37 @@ Collapsible item in tree view. This is the root item, indicating that the list c
         <location filename="../../IrbcamQml/Popups/Login.qml" line="17"/>
         <source>Sign In</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Anmelden</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Login.qml" line="60"/>
         <source>Signing in</source>
         <extracomment>Display text for a busy indicator when waiting for sign-in confirmation from the server</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Anmelden</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Login.qml" line="73"/>
         <source>Username</source>
         <extracomment>Placeholder text for empty username input field</extracomment>
-        <translation type="unfinished">Benutzername</translation>
+        <translation>Benutzername</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Login.qml" line="86"/>
         <source>Password</source>
         <extracomment>Placeholder text for empty password input field</extracomment>
-        <translation type="unfinished">Passwort</translation>
+        <translation>Passwort</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Login.qml" line="106"/>
         <source>Sign out</source>
         <extracomment>Button: Sign out of account</extracomment>
-        <translation type="unfinished">Abmelden</translation>
+        <translation>Abmelden</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Login.qml" line="108"/>
         <source>Sign in</source>
         <extracomment>Button: Sign in to account</extracomment>
-        <translation type="unfinished">Anmelden</translation>
+        <translation>Anmelden</translation>
     </message>
 </context>
 <context>
@@ -2970,7 +2971,7 @@ Placeholder for when no user frame number is entered</extracomment>
         <extracomment>Name of the move control group 1 in the exported robot code
 ----------
 Placeholder for when no move control group 1 is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollgruppe 1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="363"/>
@@ -2979,7 +2980,7 @@ Placeholder for when no move control group 1 is entered</extracomment>
         <extracomment>Name of the move control group 2 in the exported robot code
 ----------
 Placeholder for when no move control group 2 is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollgruppe 2</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="387"/>
@@ -3001,7 +3002,7 @@ Referring to encoder ticks per one revolution or meter on a rotational or linear
         <extracomment>Name of the move control group 3 in the exported robot code
 ----------
 Placeholder for when no move control group 3 is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollgruppe 3</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="506"/>
@@ -3069,7 +3070,7 @@ Placeholder for when no move control group 3 is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="831"/>
         <source>DOBOT Options</source>
         <extracomment>Collapsible section: Options for DOBOT robots</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>DOBOT-Optionen</translation>
     </message>
 </context>
 <context>
@@ -3084,7 +3085,7 @@ Placeholder for when no move control group 3 is entered</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/MaxDistance.qml" line="78"/>
         <source>From</source>
         <extracomment>Label for text field: Referring to index of the first target in the calculation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Von</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/MaxDistance.qml" line="80"/>
@@ -3099,13 +3100,13 @@ Tooltip for to-target field</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/MaxDistance.qml" line="85"/>
         <source>To</source>
         <extracomment>Label for text field: Referring to index of the last target in the calculation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zu</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/MaxDistance.qml" line="215"/>
         <source>Max Distance</source>
         <extracomment>Label for text field: Maximum allowed distance between targets</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Entfernung</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/MaxDistance.qml" line="217"/>
@@ -3123,7 +3124,7 @@ Tooltip for to-target field</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/MaxDistance.qml" line="327"/>
         <source>Configure</source>
         <extracomment>Button: Run calculation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurieren</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/MaxDistance.qml" line="223"/>
@@ -3173,7 +3174,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="../../IrbcamQml/Menus.qml" line="79"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul enthält nicht gespeicherte Änderungen.</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="104"/>
@@ -3185,7 +3186,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="../../IrbcamQml/Menus.qml" line="107"/>
         <source>&amp;New</source>
         <extracomment>Menu title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Neu</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="112"/>
@@ -3221,7 +3222,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="../../IrbcamQml/Menus.qml" line="150"/>
         <source>&amp;Import Path</source>
         <extracomment>Menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pfad &amp;Importieren</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="157"/>
@@ -3263,7 +3264,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="../../IrbcamQml/Menus.qml" line="231"/>
         <source>&amp;Tool</source>
         <extracomment>Menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Werkzeug</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="239"/>
@@ -3293,7 +3294,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="../../IrbcamQml/Menus.qml" line="275"/>
         <source>&amp;Export Options</source>
         <extracomment>Menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Exportoptionen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="292"/>
@@ -3311,13 +3312,13 @@ Möchten Sie fortfahren?</translation>
         <location filename="../../IrbcamQml/Menus.qml" line="315"/>
         <source>&amp;View</source>
         <extracomment>Menu title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ansicht</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="318"/>
         <source>Station</source>
         <extracomment>Menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Station</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="360"/>
@@ -3353,7 +3354,7 @@ Möchten Sie fortfahren?</translation>
         <location filename="../../IrbcamQml/Menus.qml" line="400"/>
         <source>Linear Track</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
-        <translation type="unfinished">Lineare Schiene</translation>
+        <translation>Lineare Schiene</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="408"/>
@@ -3477,19 +3478,19 @@ Möchten Sie fortfahren?</translation>
         <location filename="../../IrbcamQml/Popups/NotSignedIn.qml" line="14"/>
         <source>Sign In</source>
         <extracomment>Popup title: Sign in to account</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Anmelden</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/NotSignedIn.qml" line="46"/>
         <source>Sign in to save your work and use premium features</source>
         <extracomment>Information text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Melde dich an, um deine Arbeit zu speichern und Premium-Funktionen zu nutzen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/NotSignedIn.qml" line="56"/>
         <source>Sign in</source>
         <extracomment>Button text: Sign in to account</extracomment>
-        <translation type="unfinished">Anmelden</translation>
+        <translation>Anmelden</translation>
     </message>
 </context>
 <context>
@@ -3556,7 +3557,7 @@ Möchten Sie fortfahren?</translation>
         <extracomment>Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Angle)
 ----------
 Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modus: %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="145"/>
@@ -3916,13 +3917,13 @@ Context menu sub-item: Split path -&gt; After</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="129"/>
         <source>Paste targets at the beginning of path</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ziele am Anfang des Pfads einfügen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="131"/>
         <source>Paste target at the beginning of path</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ziel am Anfang des Pfads einfügen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="139"/>
@@ -3940,7 +3941,7 @@ Context menu sub-item: Split path -&gt; After</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="147"/>
         <source>Replace</source>
         <extracomment>Context menu sub-item: Paste target(s) -&gt; Replace</extracomment>
-        <translation type="unfinished">Ersetzen</translation>
+        <translation>Ersetzen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="163"/>
@@ -4036,7 +4037,7 @@ Context menu sub-item: Split path -&gt; After</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="285"/>
         <source>Go to target</source>
         <extracomment>Context menu item. Opens a popup with go to target index</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Gehe zum Ziel</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="294"/>
@@ -4184,25 +4185,25 @@ Rechtsklicken, um verfügbare Optionen zum Füllen des Pfades anzuzeigen</transl
         <location filename="../../../backend/src/pathmodel.cpp" line="2203"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ziel kopiert</translation>
     </message>
     <message>
         <location filename="../../../backend/src/pathmodel.cpp" line="2208"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
-        <translation type="unfinished">%1 Ziele kopiert</translation>
+        <translation>%1 Ziele kopiert</translation>
     </message>
     <message>
         <location filename="../../../backend/src/pathmodel.cpp" line="2247"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopierter Pfad</translation>
     </message>
     <message>
         <location filename="../../../backend/src/pathmodel.cpp" line="2252"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
-        <translation type="unfinished">%1 Pfade kopiert</translation>
+        <translation>%1 Pfade kopiert</translation>
     </message>
     <message>
         <source> (copy)</source>
@@ -4359,7 +4360,7 @@ Placeholder text until an icon has been selected</extracomment>
         <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="96"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip: &apos;module&apos; in this case refers to a particular popup. For example the &apos;Export Robot Code&apos; popup or the &apos;Settings&apos; popup</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul enthält nicht gespeicherte Änderungen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="132"/>
@@ -4410,7 +4411,7 @@ Placeholder text until an icon has been selected</extracomment>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="159"/>
         <source>Y offset is not supported!</source>
         <extracomment>tooltip: Y offset is not supported!</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Y-Offset wird nicht unterstützt!</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="185"/>
@@ -4584,7 +4585,7 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="166"/>
         <source>Project contains unsaved changes</source>
         <extracomment>Popup title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Das Projekt enthält nicht gespeicherte Änderungen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="170"/>
@@ -4602,13 +4603,13 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="185"/>
         <source>Opening a new project will discard all unsaved changes&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Popup text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Das Öffnen eines neuen Projekts verwirft alle nicht gespeicherten Änderungen&lt;br&gt;&lt;br&gt;Möchten Sie fortfahren?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="188"/>
         <source>Opening a new project will discard all unsaved changes in project %1&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Das Öffnen eines neuen Projekts verwirft alle nicht gespeicherten Änderungen im Projekt %1&lt;br&gt;&lt;br&gt;Möchten Sie fortfahren?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="191"/>
@@ -4934,7 +4935,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <location filename="../../../backend/src/robotdatainterface.cpp" line="376"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
-        <translation type="unfinished">%1 wurde aktiviert</translation>
+        <translation>%1 wurde aktiviert</translation>
     </message>
 </context>
 <context>
@@ -5519,7 +5520,7 @@ Keine neuen Ziele wurden hinzugefügt</translation>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1180"/>
         <source>Failed to find max distance</source>
         <extracomment>Error message from find max distance</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Entfernung konnte nicht gefunden werden</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1198"/>
@@ -5676,7 +5677,7 @@ Collapsible list section. This section contains all rotary tables</extracomment>
         <extracomment>Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed angle)
 ----------
 Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modus: %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="158"/>
@@ -5751,85 +5752,85 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="625"/>
         <source>2D Plot Controls</source>
         <extracomment>Info card title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>2D-Plot-Steuerelemente</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="628"/>
         <source>Hide controls</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Steuerelemente ausblenden</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="630"/>
         <source>Show controls</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Steuerelemente anzeigen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="635"/>
         <source>Left click</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Linksklick</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="637"/>
         <source>Select target</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ziel auswählen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="641"/>
         <source>Mouse wheel</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mausrad</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="643"/>
         <source>Zoom in/out inside plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Herein-/Herauszoomen im Plot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="646"/>
         <source>Zooms relative to the current cursor position</source>
         <extracomment>Interaction explanation detail</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zoomt relativ zur aktuellen Cursorposition</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="651"/>
         <source>Left click + drag</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Linksklick + Ziehen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="653"/>
         <source>Zoom in to region</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>In Region hineinzoomen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="657"/>
         <source>Right click + drag</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsklick + Ziehen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="659"/>
         <source>Pan inside plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Schwenk innerhalb der Handlung</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="663"/>
         <source>Double click</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Doppelklick</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="665"/>
         <source>Reset plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Handlung zurücksetzen</translation>
     </message>
 </context>
 <context>
@@ -5838,103 +5839,103 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="250"/>
         <source>3D Plot Controls</source>
         <extracomment>Info card title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D-Plot-Steuerungen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="253"/>
         <source>Hide controls</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Steuerelemente ausblenden</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="255"/>
         <source>Show controls</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Steuerelemente anzeigen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="260"/>
         <source>Left click</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Linksklick</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="262"/>
         <source>Select target</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ziel auswählen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="266"/>
         <source>Mouse wheel</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mausrad</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="268"/>
         <source>Zoom in/out inside plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Herein-/Herauszoomen im Plot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="271"/>
         <source>If a target is selected it zooms relative to the selected target</source>
         <extracomment>Interaction explanation detail</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Wenn ein Ziel ausgewählt ist, zoomt es relativ zum ausgewählten Ziel.</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="273"/>
         <source>If no target is selected it zooms relative to the center of the plot</source>
         <extracomment>Interaction explanation detail</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Wenn kein Ziel ausgewählt ist, zoomt es relativ zum Zentrum des Plots.</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="278"/>
         <source>Ctrl + wheel</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Strg + Mausrad</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="280"/>
         <source>Change the size of the plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Die Größe des Plots ändern</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="284"/>
         <source>Left click + drag</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Linksklick + Ziehen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="286"/>
         <source>Rotate the plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Den Plot drehen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="290"/>
         <source>Right click + drag</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsklick + Ziehen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="292"/>
         <source>Pan inside plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Schwenk ins Innere des Grundstücks</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="296"/>
         <source>Double click</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Doppelklick</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="298"/>
         <source>Reset plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Plot zurücksetzen</translation>
     </message>
 </context>
 <context>
@@ -5958,25 +5959,25 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
 <context>
     <name>SettingsInterface</name>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="149"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="147"/>
         <source>Failed to translate language to %1</source>
         <extracomment>Error message. %1 = language</extracomment>
         <translation>Fehler beim Übersetzen der Sprache in %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="160"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="156"/>
         <source>Language changed</source>
         <extracomment>Status message</extracomment>
         <translation>Sprache geändert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="335"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="327"/>
         <source>Failed to save settings for %1</source>
         <extracomment>Error message: %1 = full name (of user)</extracomment>
         <translation>Fehler beim Speichern der Einstellungen für %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="341"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="333"/>
         <source>Settings for %1 saved</source>
         <extracomment>Status message. %1 = full name (of user)</extracomment>
         <translation>Einstellungen für %1 gespeichert</translation>
@@ -6078,7 +6079,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <location filename="../../IrbcamQml/Sidebar/SidebarItem.qml" line="129"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip: &apos;module&apos; in this case refers to a particular sidebar. For example the &apos;Targets&apos; sidebar or the &apos;Robot&apos; sidebar</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Modul enthält nicht gespeicherte Änderungen.</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/SidebarItem.qml" line="194"/>
@@ -6126,43 +6127,43 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <location filename="../../../backend/src/standardkeytexts.cpp" line="24"/>
         <source>Ctrl+Z</source>
         <extracomment>Undo shortcut key combination(s)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Strg+Z</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="30"/>
         <source>Ctrl+Shift+Z, Ctrl+Y</source>
         <extracomment>Redo shortcut key combination(s)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Strg+Umschalt+Z, Strg+Y</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="36"/>
         <source>Ctrl+C</source>
         <extracomment>Copy shortcut key combination(s)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Strg+C</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="42"/>
         <source>Ctrl+V</source>
         <extracomment>Paste shortcut key combination(s)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Strg+V</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="48"/>
         <source>Ctrl+O</source>
         <extracomment>Open document key combination(s)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Strg+O</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="54"/>
         <source>Ctrl+S</source>
         <extracomment>Save document shortcut key combination(s)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Strg+S</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="60"/>
         <source>Ctrl+Alt+N</source>
         <extracomment>New document shortcut key combination(s)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Strg+Alt+N</translation>
     </message>
 </context>
 <context>
@@ -6408,7 +6409,7 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <location filename="../../../backend/src/stationinterface.cpp" line="421"/>
         <source>No changes detected in project</source>
         <extracomment>Notification message that is displayed if the user attempst to save project, but the project has not changed since last save</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Keine Änderungen im Projekt erkannt</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="452"/>
@@ -6438,7 +6439,7 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <location filename="../../../backend/src/stationinterface.cpp" line="838"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Projekt freigegeben</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="878"/>
@@ -6535,25 +6536,25 @@ Dies kann auf eine Speicherung aus einer älteren Version von IRBCAM zurückzuf�
         <location filename="../../../backend/src/stationinterface.cpp" line="1472"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Abrufen der Benutzer-Frame-Daten</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1490"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Laden der Benutzer-Frame-Daten</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1500"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Abruf der Objektrahmendaten fehlgeschlagen</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1509"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Objekt-Frame-Daten konnten nicht geladen werden</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1577"/>
@@ -6977,7 +6978,7 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="50"/>
         <source>mm</source>
         <extracomment>Unit millimetres</extracomment>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="91"/>
@@ -7367,7 +7368,7 @@ Rotation (rad)
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="36"/>
         <source>Mode: %1</source>
         <extracomment>Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Angle)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modus: %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="65"/>
@@ -7538,7 +7539,7 @@ Rotation (rad)
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="30"/>
         <source>Mode: %1</source>
         <extracomment>Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modus: %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="45"/>
@@ -7645,7 +7646,7 @@ Rotation (rad)
         <location filename="../../IrbcamQml/Popups/Assets/UiSettings.qml" line="282"/>
         <source>Scene background color</source>
         <extracomment>Label: Background color for station 3d view</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrundfarbe der Szene</translation>
     </message>
     <message>
         <source>Station color</source>
@@ -7665,13 +7666,13 @@ Rotation (rad)
         <location filename="../../IrbcamQml/Controls/UndoButtons.qml" line="37"/>
         <source>Undo last action (%1)</source>
         <extracomment>Undo button tooltip, %1 = key combination</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Letzte Aktion rückgängig machen (%1)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/UndoButtons.qml" line="52"/>
         <source>Redo last action (%1)</source>
         <extracomment>Redo button tooltip, %1 = key combination</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Letzte Aktion wiederholen (%1)</translation>
     </message>
 </context>
 <context>
@@ -7746,49 +7747,49 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../../backend/src/qmlutilities.cpp" line="427"/>
         <source>Dynamic Angle</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
-        <translation type="unfinished">Dynamischer Winkel</translation>
+        <translation>Dynamischer Winkel</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="430"/>
         <source>Fixed Angle + Deviation</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
-        <translation type="unfinished">Fester Winkel + Abweichung</translation>
+        <translation>Fester Winkel + Abweichung</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="436"/>
         <source>Roller Mode</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
-        <translation type="unfinished">Rollenmodus</translation>
+        <translation>Rollenmodus</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="452"/>
         <source>RZ2 is equal to the tool roll angle with corrections to account for singularities</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>RZ2 ist gleich dem Werkzeugrollwinkel mit Korrekturen, um Singularitäten zu berücksichtigen</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="455"/>
         <source>RZ2 is set to the tool roll angle for the first target. For all other targets, it is dynamically adjusted by increasing and decreasing in 1-degree steps up to the maximum deviation from the starting tool roll angle</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>RZ2 wird auf den Werkzeug-Rollwinkel für das erste Ziel eingestellt. Für alle anderen Ziele wird es dynamisch angepasst, indem es in Schritten von 1 Grad erhöht und verringert wird, bis zur maximalen Abweichung vom Ausgangs-Werkzeug-Rollwinkel</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="462"/>
         <source>RZ2 follows the fixed angle but is also dynamically adjusted by increasing and decreasing in 1-degree steps up to the maximum deviation from the starting tool roll angle</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>RZ2 folgt dem festen Winkel, wird aber auch dynamisch angepasst, indem es in Schritten von 1 Grad erhöht und verringert wird, bis zur maximalen Abweichung vom Ausgangs-Werkzeugrollwinkel</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="468"/>
         <source>RZ2 is unchanged</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>RZ2 ist unverändert</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="471"/>
         <source>RZ2 is calculated such that the roller direction is along the path</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>RZ2 wird so berechnet, dass die Walzenrichtung entlang des Pfads verläuft</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="485"/>
@@ -7824,31 +7825,31 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../../backend/src/qmlutilities.cpp" line="518"/>
         <source>Rotation Compensation</source>
         <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
-        <translation type="unfinished">Rotationskompensation</translation>
+        <translation>Rotationskompensation</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="521"/>
         <source>Position Compensation</source>
         <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
-        <translation type="unfinished">Positionskompensation</translation>
+        <translation>Positionskompensation</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="539"/>
         <source>Rotary table angle is fixed</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished">Drehtischwinkel ist festgelegt</translation>
+        <translation>Drehtischwinkel ist festgelegt</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="542"/>
         <source>Rotary table angle is dynamically computed to compensate for rotational changes between the targets</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished">Drehtischwinkel wird dynamisch berechnet, um Rotationsänderungen zwischen den Zielen zu kompensieren</translation>
+        <translation>Drehtischwinkel wird dynamisch berechnet, um Rotationsänderungen zwischen den Zielen zu kompensieren</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="545"/>
         <source>Rotary table angle is dynamically computed to compensate for positional changes between the targets</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished">Drehtischwinkel wird dynamisch berechnet, um Positionsänderungen zwischen den Zielen zu kompensieren</translation>
+        <translation>Drehtischwinkel wird dynamisch berechnet, um Positionsänderungen zwischen den Zielen zu kompensieren</translation>
     </message>
 </context>
 <context>
