@@ -611,7 +611,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
     <message>
         <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="107"/>
         <source>Waiting for response</source>
-        <extracomment>Network status: Waiting for response from server</extracomment>
+        <extracomment>Network status: Waitong for response from server</extracomment>
         <translation>Väntar på svar</translation>
     </message>
     <message>
@@ -8358,7 +8358,7 @@ Hittade %1 möjliga lösningar inom de angivna parametrarna</translation>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1213"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
-        <extracomment>Warning message from optimizer. The optimiser finished successfully, but no solution was found</extracomment>
+        <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
         <translation>Optimeraren avslutad
 Inga lösningar hittades med de angivna parametrarna</translation>
     </message>
@@ -9671,6 +9671,13 @@ Detta kan bero på att sparfilen kommer från en äldre version</translation>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projekt %1 delades med %2.</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1043"/>
+        <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
+Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
+        <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1066"/>
