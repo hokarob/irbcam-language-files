@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+a<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" language="sv_SE">
 <context>
@@ -9677,7 +9677,8 @@ Detta kan bero på att sparfilen kommer från en äldre version</translation>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maximal filstorlek för APT-filen (%1 MB) överskriden. Aktuell filstorlek (efter komprimering): %2 MB
+Större banor kan importeras genom att dela upp APT-filen i mindre filer och använda alternativet &apos;lägg till&apos;</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1066"/>
