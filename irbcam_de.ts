@@ -3722,109 +3722,109 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="258"/>
         <source>Optimizer Plot Controls</source>
         <extracomment>Info card title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Optimierer-Plot-Steuerungen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="261"/>
         <source>Hide controls</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
-        <translation type="unfinished">Steuerelemente ausblenden</translation>
+        <translation>Steuerelemente ausblenden</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="263"/>
         <source>Show controls</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
-        <translation type="unfinished">Steuerelemente anzeigen</translation>
+        <translation>Steuerelemente anzeigen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="268"/>
         <source>Left click</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished">Linksklick</translation>
+        <translation>Linksklick</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="270"/>
         <source>Select target</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished">Ziel auswählen</translation>
+        <translation>Ziel auswählen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="274"/>
         <source>Mouse wheel</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished">Mausrad</translation>
+        <translation>Mausrad</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="276"/>
         <source>Zoom in/out inside plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished">Herein-/Herauszoomen im Plot</translation>
+        <translation>Herein-/Herauszoomen im Plot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="279"/>
         <source>If a target is selected it zooms relative to the selected target</source>
         <extracomment>Interaction explanation detail</extracomment>
-        <translation type="unfinished">Wenn ein Ziel ausgewählt ist, zoomt es relativ zum ausgewählten Ziel.</translation>
+        <translation>Wenn ein Ziel ausgewählt ist, zoomt es relativ zum ausgewählten Ziel</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="281"/>
         <source>If no target is selected it zooms relative to the center of the plot</source>
         <extracomment>Interaction explanation detail</extracomment>
-        <translation type="unfinished">Wenn kein Ziel ausgewählt ist, zoomt es relativ zum Zentrum des Plots.</translation>
+        <translation>Wenn kein Ziel ausgewählt ist, zoomt es relativ zum Zentrum des Plots</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="286"/>
         <source>%1 + wheel</source>
         <extracomment>Interaction type - %1 = ctrl</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 + Rad</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="288"/>
         <source>Change the size of the plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished">Die Größe des Plots ändern</translation>
+        <translation>Die Größe des Plots ändern</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="292"/>
         <source>Left click + drag</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished">Linksklick + Ziehen</translation>
+        <translation>Linksklick + Ziehen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="294"/>
         <source>Rotate the plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished">Den Plot drehen</translation>
+        <translation>Den Plot drehen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="296"/>
         <source>Only available in 3D mode</source>
         <extracomment>Interaction detail</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nur verfügbar im 3D-Modus</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="300"/>
         <source>Right click + drag</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished">Rechtsklick + Ziehen</translation>
+        <translation>Rechtsklick + Ziehen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="302"/>
         <source>Pan inside plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Im Diagramm schwenken</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="306"/>
         <source>Double click</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished">Doppelklick</translation>
+        <translation>Doppelklick</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="308"/>
         <source>Reset plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Plot zurücksetzen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="374"/>
@@ -3917,73 +3917,73 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="61"/>
         <source>3D view navigation</source>
         <extracomment>Info card title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D-Ansichtsnavigation</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="64"/>
         <source>Hide 3D view navigation</source>
         <extracomment>Info card tooltip when expanded</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D-Ansicht-Navigation ausblenden</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="66"/>
         <source>Show 3D view navigation</source>
         <extracomment>Info card tooltip when collapsed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D-Ansicht-Navigation anzeigen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="70"/>
         <source>Rotate view</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ansicht drehen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="72"/>
         <source>Left click + drag</source>
         <extracomment>Info card operation: Rotate view</extracomment>
-        <translation type="unfinished">Linksklick + Ziehen</translation>
+        <translation>Linksklick + Ziehen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="76"/>
         <source>Pan view</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Panoramablick</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="78"/>
         <source>Right click + drag</source>
         <extracomment>Info card operation: Pan view</extracomment>
-        <translation type="unfinished">Rechtsklick + Ziehen</translation>
+        <translation>Rechtsklick + Ziehen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="82"/>
         <source>Zoom in/out</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hineinzoomen/Herauszoomen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="84"/>
         <source>Mouse wheel</source>
         <extracomment>Info card operation: Zoom in/out</extracomment>
-        <translation type="unfinished">Mausrad</translation>
+        <translation>Mausrad</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="88"/>
         <source>Select target</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished">Ziel auswählen</translation>
+        <translation>Ziel auswählen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="90"/>
         <source>Left click on target</source>
         <extracomment>Info card operation: Select target</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Linksklick auf Ziel</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="92"/>
         <source>Only available if &apos;Tool Trace&apos; → &apos;Show Targets&apos; is enabled</source>
         <extracomment>Info card detail: Select target</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nur verfügbar, wenn &apos;Werkzeugspur&apos; → &apos;Ziele anzeigen&apos; aktiviert ist</translation>
     </message>
 </context>
 <context>
@@ -4307,139 +4307,139 @@ Context menu sub-item: Collapse -&gt; All</extracomment>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="410"/>
         <source>Target list navigation</source>
         <extracomment>Info card title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ziellisten-Navigation</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="413"/>
         <source>Hide navigation info</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Navigationsinfo ausblenden</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="415"/>
         <source>Show navigation info</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Navigationsinfo anzeigen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="419"/>
         <source>Selection</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished">Auswahl</translation>
+        <translation>Auswahl</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="422"/>
         <source>Left click</source>
         <extracomment>Info card operation: Selection</extracomment>
-        <translation type="unfinished">Linksklick</translation>
+        <translation>Linksklick</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="424"/>
         <source>Up/down arrow keys</source>
         <extracomment>Info card operation: Selection</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pfeiltasten nach oben/unten</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="426"/>
         <source>Modifiers:</source>
         <extracomment>Info card operation: Selection sub category</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifikatoren:</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="430"/>
         <source>%1 - Select range</source>
         <extracomment>Info card detail: Modifiers - %1 = shift</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Bereich auswählen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="432"/>
         <source>%1 - Select additional (mouse only)</source>
         <extracomment>Info card detail: Modifiers - %1 = ctrl</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Zusätzliche auswählen (nur Maus)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="434"/>
         <source>%1 + %2 - Select additional range</source>
         <extracomment>Info card detail: Modifiers - %1 = shift, %2 = ctrl</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 + %2 - Zusätzlichen Bereich auswählen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="439"/>
         <source>Open context menu</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kontextmenü öffnen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="441"/>
         <source>Right click</source>
         <extracomment>Info card operation: Open context menu</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rechtsklick</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="443"/>
         <source>Content of the context menu will depend on what element is clicked</source>
         <extracomment>Info card detail: Right click</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Der Inhalt des Kontextmenüs hängt davon ab, welches Element angeklickt wird</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="447"/>
         <source>Expand/collapse</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Erweitern/Zusammenklappen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="450"/>
         <source>Double click</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
-        <translation type="unfinished">Doppelklick</translation>
+        <translation>Doppelklick</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="452"/>
         <source>Right arrow key (expand)</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rechte Pfeiltaste (erweitern)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="454"/>
         <source>Left arrow key (collapse)</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Linke Pfeiltaste (einklappen)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="459"/>
         <source>Copy selected</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Auswahl kopieren</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="464"/>
         <source>Paste copied</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopiertes einfügen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="467"/>
         <source>Pastes after the selected element</source>
         <extracomment>Info card detail: Paste copied</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fügt nach dem ausgewählten Element ein.</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="471"/>
         <source>Delete selected</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished">Ausgewählte löschen</translation>
+        <translation>Ausgewählte löschen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="476"/>
         <source>Undo last action</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Letzte Aktion rückgängig machen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="481"/>
         <source>Redo last action</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Letzte Aktion wiederholen</translation>
     </message>
     <message>
         <source>Path copied</source>
@@ -6214,7 +6214,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="279"/>
         <source>%1 + wheel</source>
         <extracomment>Interaction type - %1 = ctrl</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 + Rad</translation>
     </message>
     <message>
         <source>Ctrl + wheel</source>
@@ -6488,49 +6488,49 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <location filename="../../../backend/src/standardkeytexts.cpp" line="24"/>
         <source>Ctrl</source>
         <extracomment>Ctrl key</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Strg</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="30"/>
         <source>Alt</source>
         <extracomment>Alt key</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="36"/>
         <source>Shift</source>
         <extracomment>Shift key</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umschalttaste</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="42"/>
         <source>Del</source>
         <extracomment>Delete key</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Entf</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="48"/>
         <source>Left Arrow</source>
         <extracomment>Left arrow key</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Linkspfeil</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="54"/>
         <source>Right Arrow</source>
         <extracomment>Right arrow key</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pfeil nach rechts</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="60"/>
         <source>Up Arrow</source>
         <extracomment>Up arrow key</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pfeil nach oben</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="66"/>
         <source>Down Arrow</source>
         <extracomment>Down arrow key</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pfeil nach unten</translation>
     </message>
 </context>
 <context>
@@ -8279,91 +8279,91 @@ Haben Sie einen Fehler gefunden oder eine großartige Idee für eine neue Funkti
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="230"/>
         <source>Helpful Hints</source>
         <extracomment>Title. This card contains info on shortkeys and other hints</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nützliche Tipps</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="246"/>
         <source>Some shortcuts are global, no matter where you are in the application they will perform the following actions</source>
         <extracomment>Label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Einige Tastenkombinationen sind global, unabhängig davon, wo Sie sich in der Anwendung befinden, führen sie die folgenden Aktionen aus</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="253"/>
         <source>New project</source>
         <extracomment>Shortkey action: Create a new project</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Neues Projekt</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="262"/>
         <source>Open project</source>
         <extracomment>Shortkey action: Open existing project</extracomment>
-        <translation type="unfinished">Projekt öffnen</translation>
+        <translation>Projekt öffnen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="271"/>
         <source>Save project</source>
         <extracomment>Shortkey action: Save current project</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Projekt speichern</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="282"/>
         <source>Many windows are resizable. The mouse cursor changes to indicate this when the margin of a resizable window is hovered</source>
         <extracomment>Label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Viele Fenster können in der Größe verändert werden. Der Mauszeiger ändert sich, um dies anzuzeigen, wenn man mit der Maus über den Rand eines solchen Fensters fährt</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="289"/>
         <source>Resize window</source>
         <extracomment>Navigation action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fenstergröße ändern</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="293"/>
         <source>Left click + drag on the window margin</source>
         <extracomment>Navigation operation: Resize window</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Linksklick und Ziehen am Fensterrand</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="299"/>
         <source>Reset to default</source>
         <extracomment>Navigation action</extracomment>
-        <translation type="unfinished">Auf Standard zurücksetzen</translation>
+        <translation>Auf Standard zurücksetzen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="303"/>
         <source>Double click on the window margin</source>
         <extracomment>Navigation operation: Reset to default</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Doppelklick auf den Fensterrahmen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="311"/>
         <source>Most user input elements have undo/redo functionality</source>
         <extracomment>Label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Die meisten Benutzereingabeelemente verfügen über Rückgängig-/Wiederholen-Funktionalität</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="318"/>
         <source>Undo</source>
         <extracomment>Shortkey action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rückgängig</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="327"/>
         <source>Redo</source>
         <extracomment>Shortkey action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Wiederholen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="342"/>
         <source>IRBCAM has contextual help cards scattered around in the application. These cards contain helpful information such as shortkeys and navigation hints in the respective context</source>
         <extracomment>Label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>IRBCAM verfügt über kontextbezogene Hilfekarten, die in der Anwendung verteilt sind. Diese Karten enthalten hilfreiche Informationen wie Tastenkürzel und Navigationshinweise im jeweiligen Kontext</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="354"/>
         <source>Look for this icon to find them</source>
         <extracomment>Label - Next to an icon</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Suche nach diesem Icon, um sie zu finden</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="363"/>
