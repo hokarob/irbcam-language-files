@@ -3947,7 +3947,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="76"/>
         <source>Pan view</source>
         <extracomment>Info card action</extracomment>
-        <translation>Panoramablick</translation>
+        <translation>Schwenken</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="78"/>
