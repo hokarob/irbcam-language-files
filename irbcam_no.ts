@@ -5403,7 +5403,7 @@ uresponsivt imens optimeringen kjører. Vil du fortsette?</translation>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="76"/>
         <source>Pan view</source>
         <extracomment>Info card action</extracomment>
-        <translation>Panoramautsikt</translation>
+        <translation>Panorere</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="78"/>
