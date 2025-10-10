@@ -6904,13 +6904,13 @@ Context menu sub-item: Collapse -&gt; All</extracomment>
         <translation type="obsolete">Avbryt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="53"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="48"/>
         <source>Targets</source>
         <extracomment>Title</extracomment>
         <translation>Punkter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="399"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="387"/>
         <source>The path list is empty
 Right click to see available options for populating the path</source>
         <extracomment>Placeholder text for empty path</extracomment>
@@ -6918,139 +6918,139 @@ Right click to see available options for populating the path</source>
 Högerklicka för att se tillgängliga alternativ för att fylla banan</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="410"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="398"/>
         <source>Target list navigation</source>
         <extracomment>Info card title</extracomment>
         <translation>Navigering av mållista</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="413"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="401"/>
         <source>Hide navigation info</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
         <translation>Dölj navigationsinfo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="415"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="403"/>
         <source>Show navigation info</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
         <translation>Visa navigationsinfo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="419"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="407"/>
         <source>Selection</source>
         <extracomment>Info card action</extracomment>
         <translation>Urval</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="422"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="410"/>
         <source>Left click</source>
         <extracomment>Info card operation: Selection</extracomment>
         <translation>Vänsterklick</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="424"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="412"/>
         <source>Up/down arrow keys</source>
         <extracomment>Info card operation: Selection</extracomment>
         <translation>Uppåt-/nedåtpiltangenterna</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="426"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="414"/>
         <source>Modifiers:</source>
         <extracomment>Info card operation: Selection sub category</extracomment>
         <translation>Modifierare:</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="430"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="418"/>
         <source>%1 - Select range</source>
         <extracomment>Info card detail: Modifiers - %1 = shift</extracomment>
         <translation>%1 - Välj intervall</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="432"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="420"/>
         <source>%1 - Select additional (mouse only)</source>
         <extracomment>Info card detail: Modifiers - %1 = ctrl</extracomment>
         <translation>%1 - Välj ytterligare (endast mus)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="434"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="422"/>
         <source>%1 + %2 - Select additional range</source>
         <extracomment>Info card detail: Modifiers - %1 = shift, %2 = ctrl</extracomment>
         <translation>%1 + %2 - Välj ytterligare intervall</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="439"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="427"/>
         <source>Open context menu</source>
         <extracomment>Info card action</extracomment>
         <translation>Öppna snabbmeny</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="441"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="429"/>
         <source>Right click</source>
         <extracomment>Info card operation: Open context menu</extracomment>
         <translation>Högerklicka</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="443"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="431"/>
         <source>Content of the context menu will depend on what element is clicked</source>
         <extracomment>Info card detail: Right click</extracomment>
         <translation>Innehållet i snabbmenyn beror på vilket element som klickas på</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="447"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="435"/>
         <source>Expand/collapse</source>
         <extracomment>Info card action</extracomment>
         <translation>Utvidga/kollapsa</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="450"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="438"/>
         <source>Double click</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
         <translation>Dubbelklick</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="452"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="440"/>
         <source>Right arrow key (expand)</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
         <translation>Höger piltangent (expandera)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="454"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="442"/>
         <source>Left arrow key (collapse)</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
         <translation>Vänster piltangent (fäll ihop)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="459"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="447"/>
         <source>Copy selected</source>
         <extracomment>Info card action</extracomment>
         <translation>Kopiera markerat</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="464"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="452"/>
         <source>Paste copied</source>
         <extracomment>Info card action</extracomment>
         <translation>Klistra in kopierad</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="467"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="455"/>
         <source>Pastes after the selected element</source>
         <extracomment>Info card detail: Paste copied</extracomment>
         <translation>Klistrar in efter det valda elementet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="471"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="459"/>
         <source>Delete selected</source>
         <extracomment>Info card action</extracomment>
         <translation>Ta bort valda</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="476"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="464"/>
         <source>Undo last action</source>
         <extracomment>Info card action</extracomment>
         <translation>Ångra senaste åtgärd</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="481"/>
+        <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="469"/>
         <source>Redo last action</source>
         <extracomment>Info card action</extracomment>
         <translation>Gör om senaste åtgärd</translation>
@@ -7059,55 +7059,55 @@ Högerklicka för att se tillgängliga alternativ för att fylla banan</translat
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1533"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1373"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>Det gick inte att importera CSV-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1539"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1379"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Banan importerad från CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1555"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1395"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att tolka JSON-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1580"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1420"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att läsa in banan</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1586"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1426"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Verktygsbana laddad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2203"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1944"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopierad punkt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2208"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1949"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Kopierade %1 punkter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2247"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1988"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopierad bana</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2252"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1993"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Kopierade %1 banor</translation>
@@ -10316,50 +10316,50 @@ Målet går inte att nå med den aktuella konfigurationen</translation>
         <translation type="vanished">Hastighetsförändring</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="392"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="274"/>
         <source>Feed speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in linear velocity (feed speed)</extracomment>
         <translation>Ändring av matningshastighet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="403"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="285"/>
         <source>Tool change</source>
         <extracomment>Tool tip. Explains that this icon indicates a tool change</extracomment>
         <translation>Verktygsbyte</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="413"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="295"/>
         <source>Spindle speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in spindle speed</extracomment>
         <translation>Spindelhastighetsändring</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="444"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="326"/>
         <source>Target is successfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Punkt är framgångsrikt löst</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="446"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="328"/>
         <source>Path is succesfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Bana är framgångsrikt löst</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="449"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="331"/>
         <source>Target failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Punkt misslyckades att lösas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="451"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="333"/>
         <source>Path failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Bana misslyckades att lösas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="507"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="522"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="383"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="398"/>
         <source>mm</source>
         <extracomment>Unit millimetres
 ----------
@@ -10367,74 +10367,74 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="524"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="400"/>
         <source>s</source>
         <extracomment>Unit seconds. Part of a fraction mm/s</extracomment>
         <translation>s</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="614"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="474"/>
         <source>Speed</source>
         <extracomment>Label over input field</extracomment>
         <translation>Hastighet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="619"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="479"/>
         <source>Tool</source>
         <extracomment>Label over input field</extracomment>
         <translation>Verktyg</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="624"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="484"/>
         <source>Spindle</source>
         <extracomment>Label over input field</extracomment>
         <translation>Spindel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="637"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="497"/>
         <source>Input</source>
         <extracomment>Dropdown menu item. Speed mode: input</extracomment>
         <translation>Input</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="642"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="502"/>
         <source>Cutting</source>
         <extracomment>Dropdown menu item. Speed mode: cutting</extracomment>
         <translation>Skärande</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="647"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="507"/>
         <source>Rapid</source>
         <extracomment>Dropdown menu item. Speed mode: rapid</extracomment>
         <translation>Snabb</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="675"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="535"/>
         <source>rpm</source>
         <extracomment>Unit: revolutions per minute</extracomment>
         <translation>varv/min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="684"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="544"/>
         <source>V</source>
         <extracomment>Input field prefix. Denotes velocity</extracomment>
         <translation>H</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="691"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="551"/>
         <source>Motion type: </source>
         <extracomment>Droptown menu text</extracomment>
         <translation>Rörelsetyp: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="712"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="572"/>
         <source>Linear</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation>Linjär</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="382"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="714"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="265"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="574"/>
         <source>Arc midpoint</source>
         <extracomment>Tooltip text
 ----------
@@ -10442,14 +10442,14 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Bågens mittpunkt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="302"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="208"/>
         <source>Undefined</source>
         <extracomment>Placeholder text for missing name</extracomment>
         <translation>Odefinierad</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="377"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="695"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="260"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="555"/>
         <source>Linear lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -10457,8 +10457,8 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Linjär lyftpunkt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="380"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="699"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="263"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="559"/>
         <source>Rotary lift point</source>
         <extracomment>Tooltip text
 ----------
