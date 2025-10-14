@@ -5899,55 +5899,55 @@ Right click to see available options for populating the path</source>
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1373"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1466"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1379"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1472"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1395"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1488"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1420"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1513"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1426"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1519"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1944"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2037"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1949"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2042"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1988"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2081"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1993"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2086"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation type="unfinished"></translation>
@@ -8907,50 +8907,74 @@ Target is unreachable with the current configuration</source>
 <context>
     <name>TargetDelegate</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="274"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="275"/>
         <source>Feed speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in linear velocity (feed speed)</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="285"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="286"/>
         <source>Tool change</source>
         <extracomment>Tool tip. Explains that this icon indicates a tool change</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="295"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="296"/>
         <source>Spindle speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in spindle speed</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="326"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="327"/>
         <source>Target is successfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="328"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="329"/>
         <source>Path is succesfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="331"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="332"/>
         <source>Target failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="333"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="334"/>
         <source>Path failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="383"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="398"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="360"/>
+        <source>Unlock editing for this target</source>
+        <extracomment>Tooltip text for lock button</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="364"/>
+        <source>Lock editing for this target</source>
+        <extracomment>Tooltip text for lock button</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="370"/>
+        <source>Unlock editing for all targets in this path</source>
+        <extracomment>Tooltip text for lock button</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="374"/>
+        <source>Lock editing for all targets in this path</source>
+        <extracomment>Tooltip text for lock button</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="426"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="441"/>
         <source>mm</source>
         <extracomment>Unit millimetres
 ----------
@@ -8958,74 +8982,74 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="400"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="443"/>
         <source>s</source>
         <extracomment>Unit seconds. Part of a fraction mm/s</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="474"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="517"/>
         <source>Speed</source>
         <extracomment>Label over input field</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="479"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="522"/>
         <source>Tool</source>
         <extracomment>Label over input field</extracomment>
         <translation type="unfinished">Kiválasztás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="484"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="527"/>
         <source>Spindle</source>
         <extracomment>Label over input field</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="497"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="540"/>
         <source>Input</source>
         <extracomment>Dropdown menu item. Speed mode: input</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="502"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="545"/>
         <source>Cutting</source>
         <extracomment>Dropdown menu item. Speed mode: cutting</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="507"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="550"/>
         <source>Rapid</source>
         <extracomment>Dropdown menu item. Speed mode: rapid</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="535"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="578"/>
         <source>rpm</source>
         <extracomment>Unit: revolutions per minute</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="544"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="587"/>
         <source>V</source>
         <extracomment>Input field prefix. Denotes velocity</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="551"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="594"/>
         <source>Motion type: </source>
         <extracomment>Droptown menu text</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="572"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="615"/>
         <source>Linear</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation type="unfinished">Lineáris</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="265"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="574"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="266"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="617"/>
         <source>Arc midpoint</source>
         <extracomment>Tooltip text
 ----------
@@ -9033,14 +9057,14 @@ Droptown menu text, motion type for target</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="208"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="209"/>
         <source>Undefined</source>
         <extracomment>Placeholder text for missing name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="263"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="559"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="264"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="602"/>
         <source>Rotary lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -9048,8 +9072,8 @@ Droptown menu text, motion type for target</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="260"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="555"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="261"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="598"/>
         <source>Linear lift point</source>
         <extracomment>Tooltip text
 ----------
