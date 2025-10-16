@@ -2246,13 +2246,13 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <translation>Alle löschen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="375"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="349"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>%1 überschreiben</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="377"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="351"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Sind Sie sicher, dass Sie das Projekt %1 überschreiben möchten?&lt;br&gt;&lt;br&gt;Dieses Projekt wurde zuvor mit Version %2 gespeichert&lt;br&gt;&lt;br&gt;Wenn Sie es überschreiben, kann es möglicherweise nicht mehr mit IRBCAM %2 geöffnet werden&lt;br&gt;&lt;br&gt;Wenn Sie eine Kopie behalten möchten, können Sie das Projekt unter einem neuen Namen speichern</translation>
