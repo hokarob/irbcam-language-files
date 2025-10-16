@@ -2114,16 +2114,14 @@ Button text</extracomment>
 <context>
     <name>ExportOptionsInterface</name>
     <message>
-        <location filename="../../../backend/src/exportoptionsinterface.cpp" line="586"/>
         <source>Custom header</source>
         <extracomment>Placeholder for when no custom header template is entered</extracomment>
-        <translation>Anpassad header</translation>
+        <translation type="vanished">Anpassad header</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/exportoptionsinterface.cpp" line="601"/>
         <source>Custom footer</source>
         <extracomment>Placeholder for when no custom footer template is entered</extracomment>
-        <translation>Anpassad sidfot</translation>
+        <translation type="vanished">Anpassad sidfot</translation>
     </message>
 </context>
 <context>

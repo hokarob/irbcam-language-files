@@ -1774,16 +1774,14 @@ Button text</extracomment>
 <context>
     <name>ExportOptionsInterface</name>
     <message>
-        <location filename="../../../backend/src/exportoptionsinterface.cpp" line="586"/>
         <source>Custom header</source>
         <extracomment>Placeholder for when no custom header template is entered</extracomment>
-        <translation>Tilpasset topptekst</translation>
+        <translation type="vanished">Tilpasset topptekst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/exportoptionsinterface.cpp" line="601"/>
         <source>Custom footer</source>
         <extracomment>Placeholder for when no custom footer template is entered</extracomment>
-        <translation>Tilpasset bunntekst</translation>
+        <translation type="vanished">Tilpasset bunntekst</translation>
     </message>
 </context>
 <context>
