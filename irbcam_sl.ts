@@ -422,13 +422,13 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation>Pot je treba konfigurirati, preden se lahko animira</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="135"/>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="133"/>
         <source>Animation speed</source>
         <extracomment>Tool-tip. Animation speed setting</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="178"/>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="176"/>
         <source>Tool Trace</source>
         <extracomment>Button: Open tool trace settings</extracomment>
         <translation>Sled orodja</translation>
@@ -3390,26 +3390,26 @@ Prosimo, da shranite svoje delo in čim prej znova naložite stran</translation>
 <context>
     <name>JointViewer</name>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="157"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="97"/>
         <source>Robot Joints</source>
         <extracomment>Title. This is the top left drawer in the station view, where the user can see the joint angles</extracomment>
         <translation>Robotski sklepi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="159"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="99"/>
         <source>No joints to show</source>
         <extracomment>Label. Only visible if no robot, linear track or rotary table is selected</extracomment>
         <translation>Brez sklepov za prikaz</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="195"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="135"/>
         <source>Joint %1</source>
         <extracomment>Slider. %1 = joint number</extracomment>
         <translation>Sklep %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="239"/>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="367"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="179"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="307"/>
         <source> mm</source>
         <extracomment>Postfix for linear joint position. Referring to the unit millimetres
 ----------
@@ -3417,32 +3417,32 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <translation> mm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="271"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="211"/>
         <source>Joint 2-3</source>
         <extracomment>Slider: This is specific for the difference between joints 2 and 3</extracomment>
         <translation>Sklep 2-3</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="284"/>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="297"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="224"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="237"/>
         <source>Joint 2/3 Interaction</source>
         <extracomment>Slider: This is specific for the difference between joints 2 and 3</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="333"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="273"/>
         <source>Rotary table</source>
         <extracomment>Label: Referring to rotary table angular position</extracomment>
         <translation>Rotacijska miza </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="335"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="275"/>
         <source>Rotary table axis %1</source>
         <extracomment>Slider: Referring to rotary table angular position if it has multiple axes. %1 = axis number</extracomment>
         <translation>Rotacijska miza os %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="394"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="334"/>
         <source>Home</source>
         <extracomment>Button. Send the robot to the home position</extracomment>
         <translation type="unfinished"></translation>
@@ -3453,13 +3453,13 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <translation type="vanished"> mm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="374"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="314"/>
         <source>Linear track</source>
         <extracomment>Label: Referring to linear track position</extracomment>
         <translation>Linearni pomik</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="376"/>
+        <location filename="../../IrbcamQml/Views/JointViewer.qml" line="316"/>
         <source>Linear track axis %1</source>
         <extracomment>Slider: Referring to linear track position if it has multiple axes. %1 = axis number</extracomment>
         <translation type="unfinished">Os linearnega pomika %1</translation>
@@ -5727,7 +5727,7 @@ Placeholder text until an icon has been selected</extracomment>
         <translation>Položaj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="185"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="186"/>
         <source>Rotation</source>
         <extracomment>Physical rotation of an object</extracomment>
         <translation>Zasuk</translation>
@@ -5754,61 +5754,61 @@ Placeholder text until an icon has been selected</extracomment>
         <translation type="unfinished"> mm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="159"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="160"/>
         <source>Y offset is not supported!</source>
         <extracomment>tooltip: Y offset is not supported!</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="205"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="206"/>
         <source>Yaw angle</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="221"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="222"/>
         <source>Pitch angle</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="237"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="238"/>
         <source>Roll angle</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="251"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="252"/>
         <source>Normalize</source>
         <extracomment>Referring to normalising a quaternion</extracomment>
         <translation>Normaliziraj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="258"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="259"/>
         <source>Normalize quaternions</source>
         <extracomment>Tool tip explaining that a button is to normalise quaternions</extracomment>
         <translation>Normaliziraj kvaternione</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="271"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="272"/>
         <source>Quaternion scalar</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Kvaternionski skalar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="287"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="288"/>
         <source>Quaternion i</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Kvaternion i</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="303"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="304"/>
         <source>Quaternion j</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Kvaternion j</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="319"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="320"/>
         <source>Quaternion k</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Kvaternion k</translation>
