@@ -7175,25 +7175,25 @@ Droptown menu text, motion type for target</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="360"/>
         <source>Unlock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeitung für dieses Ziel freischalten</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="364"/>
         <source>Lock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeitung für dieses Ziel sperren</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="370"/>
         <source>Unlock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Schalten Sie die Bearbeitung für alle Ziele in diesem Pfad frei</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="374"/>
         <source>Lock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bearbeitung für alle Ziele in diesem Pfad sperren</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="426"/>
