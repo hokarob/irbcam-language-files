@@ -8940,25 +8940,25 @@ Mål er utenfor rekkevidde med nåværende konfigurasjon</translation>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="360"/>
         <source>Unlock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lås opp redigering for dette målet</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="364"/>
         <source>Lock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lås redigering for dette målet</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="370"/>
         <source>Unlock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lås opp redigering for alle mål i denne banen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="374"/>
         <source>Lock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lås redigering for alle mål i denne banen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="426"/>
