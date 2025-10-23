@@ -1614,104 +1614,104 @@ Button text</extracomment>
     <message>
         <source>Arc welding</source>
         <extracomment>Checkbox</extracomment>
-        <translation>Soudage à l&apos;arc</translation>
+        <translation type="vanished">Soudage à l&apos;arc</translation>
     </message>
     <message>
         <source>Override speeds</source>
         <extracomment>Checkbox. Select to override all feed speeds</extracomment>
-        <translation>Remplacer les vitesses</translation>
+        <translation type="vanished">Remplacer les vitesses</translation>
     </message>
     <message>
         <source>Override target speeds from path</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation>Remplacer les vitesses des cibles avec le chemin</translation>
+        <translation type="vanished">Remplacer les vitesses des cibles avec le chemin</translation>
     </message>
     <message>
         <source>Cutting speed (mm/s)</source>
         <extracomment>Selector for linear cutting speed</extracomment>
-        <translation>Vitesse de coupe (mm/s)</translation>
+        <translation type="vanished">Vitesse de coupe (mm/s)</translation>
     </message>
     <message>
         <source>Override targets with speed mode &quot;cutting&quot; and &quot;input&quot;</source>
         <extracomment>Tool tip for dropdown menu. Select override cutting feed speed</extracomment>
-        <translation>Remplacer les vitesses des cibles avec le mode de vitesse &quot;coupe&quot; et &quot;manuel&quot;</translation>
+        <translation type="vanished">Remplacer les vitesses des cibles avec le mode de vitesse &quot;coupe&quot; et &quot;manuel&quot;</translation>
     </message>
     <message>
         <source>Rapid speed (mm/s)</source>
         <extracomment>Selector for linear rapid speed</extracomment>
-        <translation>Vitesse de déplacement (mm/s)</translation>
+        <translation type="vanished">Vitesse de déplacement (mm/s)</translation>
     </message>
     <message>
         <source>Override targets with speed mode &quot;rapid&quot;</source>
         <extracomment>Tool tip for dropdown menu. Select override rapid feed speed</extracomment>
-        <translation>Remplacer les vitesses des cibles avec le mode de vitesse &quot;déplacement&quot;</translation>
+        <translation type="vanished">Remplacer les vitesses des cibles avec le mode de vitesse &quot;déplacement&quot;</translation>
     </message>
     <message>
         <source>Add lift points</source>
         <extracomment>Checkbox: Select to add points where robot lifts tool out of the cut</extracomment>
-        <translation>Ajouter des points de levée</translation>
+        <translation type="vanished">Ajouter des points de levée</translation>
     </message>
     <message>
         <source>Lift distance (mm)</source>
         <extracomment>Distance to lift the tool in units of mm</extracomment>
-        <translation>Distance de levée (mm)</translation>
+        <translation type="vanished">Distance de levée (mm)</translation>
     </message>
     <message>
         <source>Distance to lift tool out of cut</source>
         <extracomment>Tool tip for text field. Enter how much the tool should be lifted out of cut in a &quot;tool lift&quot;</extracomment>
-        <translation>Distance de levée de l&apos;outil hors de la coupe</translation>
+        <translation type="vanished">Distance de levée de l&apos;outil hors de la coupe</translation>
     </message>
     <message>
         <source>Lift distance</source>
         <extracomment>Placeholder for when no distance is entered</extracomment>
-        <translation>Distance de levée</translation>
+        <translation type="vanished">Distance de levée</translation>
     </message>
     <message>
         <source>Number of lines per file</source>
         <extracomment>Restrict how many lines a single file can have</extracomment>
-        <translation>Nombre de lignes par fichier</translation>
+        <translation type="vanished">Nombre de lignes par fichier</translation>
     </message>
     <message>
         <source>Split code into multiple files if the file is too large</source>
         <extracomment>Tool tip for text field. Robot code is splitted into multiple files if it has more than this mumber of lines.</extracomment>
-        <translation>Découper le code en plusieurs fichiers si le fichier est trop gros</translation>
+        <translation type="vanished">Découper le code en plusieurs fichiers si le fichier est trop gros</translation>
     </message>
     <message>
         <source>Max lines</source>
         <extracomment>Placeholder for when no number is entered</extracomment>
-        <translation>Lignes max</translation>
+        <translation type="vanished">Lignes max</translation>
     </message>
     <message>
         <source>Procedure name</source>
         <extracomment>Name of the procedure for the robot
 ----------
 Placeholder for when no procedure name is entered</extracomment>
-        <translation>Nom de la procédure</translation>
+        <translation type="vanished">Nom de la procédure</translation>
     </message>
     <message>
         <source>Name of the subprocess in exported code</source>
         <extracomment>Tool tip for text field</extracomment>
-        <translation>Nom du sous-processus dans le code exporté</translation>
+        <translation type="vanished">Nom du sous-processus dans le code exporté</translation>
     </message>
     <message>
         <source>Dynamic loading of JBI files</source>
         <extracomment>Checkbox: Select if the robot code should load JBI files dynamically</extracomment>
-        <translation>Chargement dynamique des fichiers JBI</translation>
+        <translation type="vanished">Chargement dynamique des fichiers JBI</translation>
     </message>
     <message>
         <source>Automatically load next if program is split into multiple files</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation>Charger la suite automatiquement si le programme est découpé en plusieurs fichiers</translation>
+        <translation type="vanished">Charger la suite automatiquement si le programme est découpé en plusieurs fichiers</translation>
     </message>
     <message>
         <source>XRC controller</source>
         <extracomment>Checkbox: Select if the robot has an XRC controller</extracomment>
-        <translation>Contrôleur XRC</translation>
+        <translation type="vanished">Contrôleur XRC</translation>
     </message>
     <message>
         <source>Select if the robot has an XRC controller</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation>Sélectionner si le robot a un contrôleur XRC</translation>
+        <translation type="vanished">Sélectionner si le robot a un contrôleur XRC</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="137"/>
@@ -1728,66 +1728,66 @@ Placeholder for when no procedure name is entered</extracomment>
     <message>
         <source>General Options</source>
         <extracomment>Collapsible section</extracomment>
-        <translation>Options générales</translation>
+        <translation type="vanished">Options générales</translation>
     </message>
     <message>
         <source>Solution</source>
         <extracomment>Status of the solution</extracomment>
-        <translation>Solution</translation>
+        <translation type="vanished">Solution</translation>
     </message>
     <message>
         <source>Info</source>
         <extracomment>Collapsible section: info about the setup</extracomment>
-        <translation>Info</translation>
+        <translation type="vanished">Info</translation>
     </message>
     <message>
         <source>Robot</source>
         <extracomment>Which robot is loaded</extracomment>
-        <translation>Robot</translation>
+        <translation type="vanished">Robot</translation>
     </message>
     <message>
         <source>None</source>
         <extracomment>Placeholder for robot name if no robot is loaded
 ----------
 Placeholder for tool name if no tool is loaded</extracomment>
-        <translation>Aucun</translation>
+        <translation type="vanished">Aucun</translation>
     </message>
     <message>
         <source>Tool</source>
         <extracomment>Which tool is loaded</extracomment>
-        <translation>Outil</translation>
+        <translation type="vanished">Outil</translation>
     </message>
     <message>
         <source>Number of targets</source>
         <extracomment>How many targets are in the path</extracomment>
-        <translation>Nombre de cibles</translation>
+        <translation type="vanished">Nombre de cibles</translation>
     </message>
     <message>
         <source>No robot selected</source>
         <extracomment>Collapsible section. Only shown when no robot is selected</extracomment>
-        <translation>Aucun robot sélectionné</translation>
+        <translation type="vanished">Aucun robot sélectionné</translation>
     </message>
     <message>
         <source>File Type</source>
         <extracomment>File type selector. Which file type should the exported file(s) have</extracomment>
-        <translation>Type de fichier</translation>
+        <translation type="vanished">Type de fichier</translation>
     </message>
     <message>
         <source>Rotary table axis number</source>
         <extracomment>ABB specific option. Which axis number should the rotary table be assigned to</extracomment>
-        <translation>Numéro d&apos;axe pour la table rotative</translation>
+        <translation type="vanished">Numéro d&apos;axe pour la table rotative</translation>
     </message>
     <message>
         <source>Linear track axis number</source>
         <extracomment>ABB specific option. Which axis number should the linear track be assigned to</extracomment>
-        <translation>Numéro d&apos;axe pour l&apos;axe linéaire</translation>
+        <translation type="vanished">Numéro d&apos;axe pour l&apos;axe linéaire</translation>
     </message>
     <message>
         <source>Pulses per 360 deg (or meter)</source>
         <extracomment>Referring to encoder ticks per one revolution or meter on a rotational or linear axis
 ----------
 Placeholder for when no value is entered</extracomment>
-        <translation>Impulsions par 360 degrés (ou mètre)</translation>
+        <translation type="vanished">Impulsions par 360 degrés (ou mètre)</translation>
     </message>
     <message>
         <source>Generic Export Options in JSON format: eg.
@@ -1796,7 +1796,7 @@ Placeholder for when no value is entered</extracomment>
  &quot;maxLinesPerFile&quot;: 1000
 }</source>
         <extracomment>Placeholder for text field. Do not change the content within the { curly brackets }</extracomment>
-        <translation>Options d&apos;export génériques au format JSON. Par exemple.
+        <translation type="vanished">Options d&apos;export génériques au format JSON. Par exemple.
 {
  &quot;procedureName&quot;: &quot;main&quot;,
  &quot;maxLinesPerFile&quot;: 1000
@@ -1805,62 +1805,62 @@ Placeholder for when no value is entered</extracomment>
     <message>
         <source>Tool Name</source>
         <extracomment>Name of the selected tool</extracomment>
-        <translation>Nom de l&apos;outil</translation>
+        <translation type="vanished">Nom de l&apos;outil</translation>
     </message>
     <message>
         <source>Export Name</source>
         <extracomment>Name of the tool in the exported code</extracomment>
-        <translation>Nom de l&apos;export</translation>
+        <translation type="vanished">Nom de l&apos;export</translation>
     </message>
     <message>
         <source>Tool Export Name</source>
         <extracomment>Placeholder for when no tool export name has been entered</extracomment>
-        <translation>Nom de l&apos;outil dans l&apos;export</translation>
+        <translation type="vanished">Nom de l&apos;outil dans l&apos;export</translation>
     </message>
     <message>
         <source>Weight (kg)</source>
         <extracomment>Tool weight</extracomment>
-        <translation>Poids (kg)</translation>
+        <translation type="vanished">Poids (kg)</translation>
     </message>
     <message>
         <source>Enable Custom Templates</source>
         <extracomment>Checkbox: Select to use custom templates when exporting robot code</extracomment>
-        <translation>Activer les modèles personnalisés</translation>
+        <translation type="vanished">Activer les modèles personnalisés</translation>
     </message>
     <message>
         <source>Header</source>
         <extracomment>Header in the exported robot code</extracomment>
-        <translation>Entête</translation>
+        <translation type="vanished">Entête</translation>
     </message>
     <message>
         <source>Custom Header</source>
         <extracomment>Placeholder for when no custom header template is entered</extracomment>
-        <translation>Entête personnalisée</translation>
+        <translation type="vanished">Entête personnalisée</translation>
     </message>
     <message>
         <source>Footer</source>
         <extracomment>Footer in the exported robot code</extracomment>
-        <translation>Bas de page</translation>
+        <translation type="vanished">Bas de page</translation>
     </message>
     <message>
         <source>Custom Footer</source>
         <extracomment>Placeholder for when no custom footer template is entered</extracomment>
-        <translation>Bas de page personnalisé</translation>
+        <translation type="vanished">Bas de page personnalisé</translation>
     </message>
     <message>
         <source>Move</source>
         <extracomment>Referring to the move-command in exported robot code</extracomment>
-        <translation>Mouvement</translation>
+        <translation type="vanished">Mouvement</translation>
     </message>
     <message>
         <source>Custom Move</source>
         <extracomment>Placeholder for when no custom move template is entered</extracomment>
-        <translation>Mouvement personnalisé</translation>
+        <translation type="vanished">Mouvement personnalisé</translation>
     </message>
     <message>
         <source>Generic Options</source>
         <extracomment>Collapsible section: Options for generic robots</extracomment>
-        <translation>Options génériques</translation>
+        <translation type="vanished">Options génériques</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="184"/>
@@ -1889,94 +1889,94 @@ Placeholder for when no value is entered</extracomment>
     <message>
         <source>ABB Options</source>
         <extracomment>Collapsible section: Options specific for ABB robots</extracomment>
-        <translation>Options ABB</translation>
+        <translation type="vanished">Options ABB</translation>
     </message>
     <message>
         <source>KUKA Options</source>
         <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
-        <translation>Options KUKA</translation>
+        <translation type="vanished">Options KUKA</translation>
     </message>
     <message>
         <source>FANUC Options</source>
         <extracomment>Collapsible section: Options specific for FANUC robots</extracomment>
-        <translation>Options FANUC</translation>
+        <translation type="vanished">Options FANUC</translation>
     </message>
     <message>
         <source>MOTOMAN Options</source>
         <extracomment>Collapsible section: Options specific for MOTOMAN robots</extracomment>
-        <translation>Options MOTOMAN</translation>
+        <translation type="vanished">Options MOTOMAN</translation>
     </message>
     <message>
         <source>Module Name</source>
         <extracomment>ABB specific option. Name of the module in the robot code
 ----------
 Placeholder for when no module name is entered</extracomment>
-        <translation>Nom du module</translation>
+        <translation type="vanished">Nom du module</translation>
     </message>
     <message>
         <source>Work Object Name</source>
         <extracomment>Name of the work object in the exported robot code
 ----------
 Placeholder for when no object name is entered</extracomment>
-        <translation>Nom de l&apos;objet de travail</translation>
+        <translation type="vanished">Nom de l&apos;objet de travail</translation>
     </message>
     <message>
         <source>External Axis Name</source>
         <extracomment>Name for external axis (rotary table)
 ----------
 Placeholder for when no external axis name is entered</extracomment>
-        <translation>Nom de l&apos;axe externe</translation>
+        <translation type="vanished">Nom de l&apos;axe externe</translation>
     </message>
     <message>
         <source>Number of Main Files</source>
         <extracomment>Referring to number of main.src files when exporting for KUKA robots
 ----------
 Placeholder for when no number is entered</extracomment>
-        <translation>Nombre de fichiers principaux</translation>
+        <translation type="vanished">Nombre de fichiers principaux</translation>
     </message>
     <message>
         <source>Tool Number</source>
         <extracomment>Referring to which tool should be used in the exported robot code
 ----------
 Placeholder for when no tool number is entered</extracomment>
-        <translation>Numéro de l&apos;outil</translation>
+        <translation type="vanished">Numéro de l&apos;outil</translation>
     </message>
     <message>
         <source>User Frame Number</source>
         <extracomment>Referring to which user frame should be used in the exported code
 ----------
 Placeholder for when no user frame number is entered</extracomment>
-        <translation>Numéro du référentiel utilisateur</translation>
+        <translation type="vanished">Numéro du référentiel utilisateur</translation>
     </message>
     <message>
         <source>Center of Gravity X (mm)</source>
         <extracomment>X-position of the tool&apos;s centre of gravity</extracomment>
-        <translation>Centre de gravité X (mm)</translation>
+        <translation type="vanished">Centre de gravité X (mm)</translation>
     </message>
     <message>
         <source>Center of Gravity X</source>
         <extracomment>Placeholder text for when no X centre of gravity is entered</extracomment>
-        <translation>Centre de gravité X</translation>
+        <translation type="vanished">Centre de gravité X</translation>
     </message>
     <message>
         <source>Center of Gravity Y (mm)</source>
         <extracomment>Y-position of the tool&apos;s centre of gravity</extracomment>
-        <translation>Centre de gravité Y (mm)</translation>
+        <translation type="vanished">Centre de gravité Y (mm)</translation>
     </message>
     <message>
         <source>Center of Gravity Y</source>
         <extracomment>Placeholder text for when no Y centre of gravity is entered</extracomment>
-        <translation>Centre de gravité Y</translation>
+        <translation type="vanished">Centre de gravité Y</translation>
     </message>
     <message>
         <source>Center of Gravity Z (mm)</source>
         <extracomment>Z-position of the tool&apos;s centre of gravity</extracomment>
-        <translation>Centre de gravité Z (mm)</translation>
+        <translation type="vanished">Centre de gravité Z (mm)</translation>
     </message>
     <message>
         <source>Center of Gravity Z</source>
         <extracomment>Placeholder text for when no Z centre of gravity is entered</extracomment>
-        <translation>Centre de gravité Z</translation>
+        <translation type="vanished">Centre de gravité Z</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="110"/>
