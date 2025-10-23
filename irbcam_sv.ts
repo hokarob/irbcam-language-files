@@ -7135,31 +7135,31 @@ Högerklicka för att se tillgängliga alternativ för att fylla banan</translat
         <translation>Det gick inte att extrahera arkivet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="646"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="647"/>
         <source>Unsupported file extension</source>
         <extracomment>Error message: Only .qml and .zip files are supported</extracomment>
         <translation>Filtillägget stöds inte</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="656"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="657"/>
         <source>Failed to load files</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att ladda filer</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="687"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="688"/>
         <source>Expected a single QML file in the root directory, but found %1</source>
         <extracomment>Error message: Archive has too many QML files. %1 = number of QML files</extracomment>
         <translation>Förväntade en enda QML-fil i rotkatalogen, men hittade %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="703"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="704"/>
         <source>Expected a single image file in the root directory, but found %1</source>
         <extracomment>Error message: Archive has more than one icon file. %1 = number of icons</extracomment>
         <translation>Förväntade en enda bildfil i rotkatalogen, men hittade %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="796"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="797"/>
         <source>Failed to rename plugin %1</source>
         <extracomment>Error message: %1 = name of plugin</extracomment>
         <translation>Det gick inte att byta namn på plugin %1</translation>

@@ -6045,31 +6045,31 @@ Høyreklikk for å se tilgjengelige alternativer for å fylle ut banen</translat
         <translation>Kunne ikke pakke ut arkiv</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="646"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="647"/>
         <source>Unsupported file extension</source>
         <extracomment>Error message: Only .qml and .zip files are supported</extracomment>
         <translation>Ugyldig filtype</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="656"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="657"/>
         <source>Failed to load files</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke laste filer</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="687"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="688"/>
         <source>Expected a single QML file in the root directory, but found %1</source>
         <extracomment>Error message: Archive has too many QML files. %1 = number of QML files</extracomment>
         <translation>Forventet en enkelt QML-fil i rotmappen, men fant %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="703"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="704"/>
         <source>Expected a single image file in the root directory, but found %1</source>
         <extracomment>Error message: Archive has more than one icon file. %1 = number of icons</extracomment>
         <translation>Forventet en enkelt bildefil i rotmappen, men fant %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="796"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="797"/>
         <source>Failed to rename plugin %1</source>
         <extracomment>Error message: %1 = name of plugin</extracomment>
         <translation>Kunne ikke bytte navn på programtillegg %1</translation>
