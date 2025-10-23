@@ -10359,25 +10359,25 @@ Målet går inte att nå med den aktuella konfigurationen</translation>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="360"/>
         <source>Unlock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lås upp redigering för detta mål</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="364"/>
         <source>Lock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lås redigering för detta mål</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="370"/>
         <source>Unlock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lås upp redigering för alla mål i den här banan</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="374"/>
         <source>Lock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Lås redigering för alla mål i den här banan</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="426"/>
