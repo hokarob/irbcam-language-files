@@ -35,7 +35,7 @@
         <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="94"/>
         <source>Select index to insert target(s)</source>
         <extracomment>Tool tip for index input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izberi indeks za vstavljanje ciljev</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="99"/>
@@ -47,7 +47,7 @@
         <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="101"/>
         <source>Select how many copies to insert</source>
         <extracomment>Tool tip for count input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izberite število kopij za vstavljanje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/AddTargets.qml" line="166"/>
@@ -120,7 +120,7 @@
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="81"/>
         <source>mm</source>
         <extracomment>Unit: millimetres</extracomment>
-        <translation type="unfinished"> mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="141"/>
@@ -237,13 +237,13 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="330"/>
         <source>Show mesh</source>
         <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži mrežo</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="338"/>
         <source>Transparent</source>
         <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Transparenten</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="350"/>
@@ -255,19 +255,19 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="431"/>
         <source>Yaw angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Yaw kot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="441"/>
         <source>Pitch angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kot nagiba</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="451"/>
         <source>Roll angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kot valjanja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="364"/>
@@ -357,13 +357,13 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1193"/>
         <source>Custom geometry upload failed</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nalaganje prilagojene geometrije ni uspelo</translation>
     </message>
     <message>
         <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1198"/>
         <source>Custom geometry %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Geometrija po meri %1 uspešno naložena</translation>
     </message>
     <message>
         <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1241"/>
@@ -393,7 +393,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1621"/>
         <source>Failed to unpack geometry from the cloud</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni uspelo razpakirati geometrije iz oblaka</translation>
     </message>
     <message>
         <source>Could not open folder: %1</source>
@@ -425,7 +425,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="133"/>
         <source>Animation speed</source>
         <extracomment>Tool-tip. Animation speed setting</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hitrost animacije</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="176"/>
@@ -464,13 +464,13 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Controls/AssetItemTreeView.qml" line="156"/>
         <source>Show mesh</source>
         <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži mrežo</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/AssetItemTreeView.qml" line="162"/>
         <source>Transparent</source>
         <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Transparenten</translation>
     </message>
 </context>
 <context>
@@ -557,7 +557,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="107"/>
         <source>Waiting for response</source>
         <extracomment>Network status: Waitong for response from server</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Čakanje na odziv</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="113"/>
@@ -578,73 +578,73 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="47"/>
         <source>Finding solutions</source>
         <extracomment>Popup title text for optimizer</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Iskanje rešitev</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="50"/>
         <source>Solve path</source>
         <extracomment>Popup title text for solve path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Reši pot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="134"/>
         <source>The tool roll mode was changed from %1 to %2 since the last time the path was solved</source>
         <extracomment>Popup content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Način vrtenja orodja je bil spremenjen iz %1 v %2 od zadnjega reševanja poti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="147"/>
         <source>This configuration will overwrite the tool roll angle %1 of all targets when solving the path</source>
         <extracomment>Content for confirmation popup. %1 = RZ2, %2 = &apos;tool roll mode&apos;, %3 = the previous value of tool roll mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ta konfiguracija bo prepisala kot vrtenja orodja %1 vseh ciljev pri reševanju poti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="159"/>
         <source>This operation cannot be undone</source>
         <extracomment>Content for confirmation popup</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ta operacija ne more biti razveljavljena</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="169"/>
         <source>Do you want to continue?</source>
         <extracomment>Popup content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ali želite nadaljevati?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="179"/>
         <source>Path %1 of %2</source>
         <extracomment>Label: Referring to status of paths to solve. %1 = current path number, %2 = total number of paths</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pot %1 od %2</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="186"/>
         <source>Operation %1 of %2</source>
         <extracomment>Label: Referring to status of operations. %1 = current operation number, %2 = total number of operations</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Operacija %1 od %2</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="216"/>
         <source>Elapsed: %1</source>
         <extracomment>Label. %1 = elapsed time since start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Preteklo: %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="223"/>
         <source>Remaining: %1</source>
         <extracomment>Label. %1 = estimated remaining time</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Preostalo: %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="233"/>
         <source>Cancel</source>
         <extracomment>Button text. Abort current operation</extracomment>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="247"/>
         <source>Continue</source>
         <extracomment>Button text. Continue operation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nadaljuj</translation>
     </message>
 </context>
 <context>
@@ -855,13 +855,13 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Controls/BuyMenu.qml" line="21"/>
         <source>Buy or request a 7-day free trial</source>
         <extracomment>This button opens the subscription page</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kupi ali zahtevaj 7-dnevno brezplačno preskusno različico</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/BuyMenu.qml" line="33"/>
         <source>Opens link in new tab</source>
         <extracomment>Tool tip</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Odpre povezavo v novem zavihku</translation>
     </message>
 </context>
 <context>
@@ -888,31 +888,31 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="68"/>
         <source>Project contains unsaved changes</source>
         <extracomment>Confirmation popup title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Projekt vsebuje neshranjene spremembe</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="72"/>
         <source>If you sign out now all unsaved changes will be discarded&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Confirmation popup. %1 = project name Popup text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Če se zdaj odjavite, bodo vse neshranjene spremembe zavržene&lt;br&gt;&lt;br&gt;Ali želite nadaljevati?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="74"/>
         <source>If you sign out now all unsaved changes in project %1 will be discarded&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Če se zdaj odjavite, bodo vsi neshranjeni spremembe v projektu %1 izgubljene&lt;br&gt;&lt;br&gt;Ali želite nadaljevati?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="77"/>
         <source>Sign out anyway</source>
         <extracomment>This button sign out user ignoring any unsaved changes in the project</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vseeno se odjavi</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/CloudMenu.qml" line="79"/>
         <source>Save changes</source>
         <extracomment>This button opens save project popup</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Shrani spremembe</translation>
     </message>
 </context>
 <context>
@@ -932,7 +932,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="188"/>
         <source>Busy</source>
         <extracomment>Tool tip. Application is busy</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zaseden</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="193"/>
@@ -944,7 +944,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="173"/>
         <source>Export robot code</source>
         <extracomment>Button: Open popup to export robot code</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izvozi kodo robota</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathView.qml" line="191"/>
@@ -1357,25 +1357,25 @@ Button text</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="30"/>
         <source>Custom Templates</source>
         <extracomment>Collapsible section: Custom Templates</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prilagojene predloge</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="47"/>
         <source>Enable Custom Templates</source>
         <extracomment>Checkbox: Select to use custom templates when exporting robot code</extracomment>
-        <translation type="unfinished">Omogoči predloge po meri</translation>
+        <translation>Omogoči predloge po meri</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="67"/>
         <source>Header</source>
         <extracomment>Header in the exported robot code</extracomment>
-        <translation type="unfinished">Glava</translation>
+        <translation>Glava</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="74"/>
         <source>Before first move</source>
         <extracomment>Checkbox: Select to include header before the first move when exporting robot code</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pred prvim premikom</translation>
     </message>
     <message>
         <source>Custom Header</source>
@@ -1386,7 +1386,7 @@ Button text</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/CustomTemplates.qml" line="97"/>
         <source>Footer</source>
         <extracomment>Footer in the exported robot code</extracomment>
-        <translation type="unfinished">Noga</translation>
+        <translation>Noga</translation>
     </message>
     <message>
         <source>Custom Footer</source>
@@ -1424,7 +1424,7 @@ Button text</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="65"/>
         <source>Joint type</source>
         <extracomment>Tool tip for dropdown menu to select Denavit-Hartenberg joint type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vrsta sklepa</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="71"/>
@@ -1436,7 +1436,7 @@ Button text</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="73"/>
         <source>Lower limit (° or mm)</source>
         <extracomment>Tool tip for minimum input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Spodnja meja (° ali mm)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="79"/>
@@ -1448,7 +1448,7 @@ Button text</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="81"/>
         <source>Upper limit (° or mm)</source>
         <extracomment>Tool tip for maximum input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zgornja meja (° ali mm)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/DHRowEditor.qml" line="100"/>
@@ -1788,19 +1788,19 @@ Placeholder for when no procedure name is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="150"/>
         <source>Reset Export Options</source>
         <extracomment>Popup title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ponastavi možnosti izvoza</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="152"/>
         <source>Are you sure you want reset export options to default values?</source>
         <extracomment>Popup text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite ponastaviti možnosti izvoza na privzete vrednosti?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="165"/>
         <source>Reset</source>
         <extracomment>Button: Reset</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ponastavi</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="184"/>
@@ -2055,97 +2055,97 @@ Placeholder for when no user frame number is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="25"/>
         <source>General Options</source>
         <extracomment>Collapsible section</extracomment>
-        <translation type="unfinished">Splošne možnosti</translation>
+        <translation>Splošne možnosti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="41"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox. Select to switch off tool under rapid movement</extracomment>
-        <translation type="unfinished">Varilna pištola vključeno/izključeno</translation>
+        <translation>Varilna pištola vključeno/izključeno</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="47"/>
         <source>Switch off tool (gun) under rapid movement</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished">Pri hitrem gibanju izklopi orodje (varilno pištolo).</translation>
+        <translation>Pri hitrem gibanju izklopi orodje (varilno pištolo)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="64"/>
         <source>Fine point before gun on/off</source>
         <extracomment>Checkbox. Select to enable fine point before gun on/off</extracomment>
-        <translation type="unfinished">Natančno pozicioniranje pred Varilna pištola vključeno/izključeno</translation>
+        <translation>Natančno pozicioniranje pred Varilna pištola vključeno/izključeno</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="70"/>
         <source>Enable fine point before gun on/off</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished">Omogoči pozicioniranje pred Varilna pištola vključeno/izključeno</translation>
+        <translation>Omogoči pozicioniranje pred Varilna pištola vključeno/izključeno</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="82"/>
         <source>Set tool number</source>
         <extracomment>Checkbox. Select to enable automatic tool changing in exported code</extracomment>
-        <translation type="unfinished">Nastavite številko orodja</translation>
+        <translation>Nastavite številko orodja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="88"/>
         <source>Automatic tool changing</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished">Samodejna menjava orodja</translation>
+        <translation>Samodejna menjava orodja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="97"/>
         <source>Export spindle speeds</source>
         <extracomment>Checkbox. Select to include spindle speeds in exported robot code</extracomment>
-        <translation type="unfinished">Izvozi hitrosti vretena</translation>
+        <translation>Izvozi hitrosti vretena</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="103"/>
         <source>Include spindle speeds in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished">V izvoženo kodo vključite hitrosti vretena</translation>
+        <translation>V izvoženo kodo vključite hitrosti vretena</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="113"/>
         <source>Override speeds</source>
         <extracomment>Checkbox. Select to override all feed speeds</extracomment>
-        <translation type="unfinished">Preglasi hitrosti</translation>
+        <translation>Preglasi hitrosti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="119"/>
         <source>Override target speeds from path</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished">Preglasi ciljne hitrosti s poti</translation>
+        <translation>Preglasi ciljne hitrosti s poti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="140"/>
         <source>Cutting speed (mm/s)</source>
         <extracomment>Selector for linear cutting speed</extracomment>
-        <translation type="unfinished">Hitrost rezanja (mm/s)</translation>
+        <translation>Hitrost rezanja (mm/s)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="142"/>
         <source>Override targets with speed mode &quot;cutting&quot; and &quot;input&quot;</source>
         <extracomment>Tool tip for dropdown menu. Select override cutting feed speed</extracomment>
-        <translation type="unfinished">Preglasite točke s hitrostnim načinom &quot;rezanje&quot; in &quot;vnos&quot;</translation>
+        <translation>Preglasite točke s hitrostnim načinom &quot;rezanje&quot; in &quot;vnos&quot;</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="181"/>
         <source>Rapid speed (mm/s)</source>
         <extracomment>Selector for linear rapid speed</extracomment>
-        <translation type="unfinished">Visoka hitrost (mm/s)</translation>
+        <translation>Visoka hitrost (mm/s)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="183"/>
         <source>Override targets with speed mode &quot;rapid&quot;</source>
         <extracomment>Tool tip for dropdown menu. Select override rapid feed speed</extracomment>
-        <translation type="unfinished">Preglasite točke s hitrostnim načinom &quot;hitro gibanje&quot;</translation>
+        <translation>Preglasite točke s hitrostnim načinom &quot;hitro gibanje&quot;</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="223"/>
         <source>Split files at linear lift points</source>
         <extracomment>Checkbox: Select to split files at linear lift points</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Razdelite datoteke pri linearnih dvigovalnih točkah</translation>
     </message>
     <message>
         <source>Add lift points</source>
@@ -2189,13 +2189,13 @@ Placeholder for when no user frame number is entered</extracomment>
         <extracomment>Name of the procedure for the robot
 ----------
 Placeholder for when no procedure name is entered</extracomment>
-        <translation type="unfinished">Ime postopka</translation>
+        <translation>Ime postopka</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="236"/>
         <source>Name of the subprocess in exported code</source>
         <extracomment>Tool tip for text field</extracomment>
-        <translation type="unfinished">Ime podprocesa v izvoženi kodi</translation>
+        <translation>Ime podprocesa v izvoženi kodi</translation>
     </message>
 </context>
 <context>
@@ -2204,13 +2204,13 @@ Placeholder for when no procedure name is entered</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/GoToTargetPopup.qml" line="24"/>
         <source>Go to target</source>
         <extracomment>Popup title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pojdi na cilj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/GoToTargetPopup.qml" line="91"/>
         <source>Go</source>
         <extracomment>Button text: click this button to go to target</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pojdi</translation>
     </message>
 </context>
 <context>
@@ -2451,49 +2451,49 @@ Placeholder text where users input scaling multiplier</extracomment>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="40"/>
         <source>This option is not available for %1 files</source>
         <extracomment>Tool tip for disabled checkbox.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ta možnost ni na voljo za %1 datoteke</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="55"/>
         <source>All supported files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vse podprte datoteke</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="57"/>
         <source>APT files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation type="unfinished">APT datoteke</translation>
+        <translation>APT datoteke</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="59"/>
         <source>JSON files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation type="unfinished">JSON datoteke</translation>
+        <translation>JSON datoteke</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="61"/>
         <source>CSV files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation type="unfinished">CSV datoteke</translation>
+        <translation>CSV datoteke</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="63"/>
         <source>GCODE files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Datoteke G-kode</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="65"/>
         <source>SVG files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SVG datoteke</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="67"/>
         <source>Open file</source>
         <extracomment>Name of the file interface window</extracomment>
-        <translation type="unfinished">Odpri datoteko</translation>
+        <translation>Odpri datoteko</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="109"/>
@@ -2510,218 +2510,219 @@ Placeholder text where users input scaling multiplier</extracomment>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="144"/>
         <source>Documentation</source>
         <extracomment>Separator label. This section contains a link to the documentation</extracomment>
-        <translation type="unfinished">Dokumentacija</translation>
+        <translation>Dokumentacija</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="153"/>
         <source>Supported file formats are:</source>
         <extracomment>Label. Supported file formats are listed below this line</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Podprti formati datotek so:</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="166"/>
         <source>Reference documentation for JSON and CSV format is in  %1our forum%2</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Referenčna dokumentacija za formate JSON in CSV je v %1našem forumu%2</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="177"/>
         <source>Select File</source>
         <extracomment>Section separator label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izberi datoteko</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="185"/>
         <source>File name: </source>
         <extracomment>Label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ime datoteke: </translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="194"/>
         <source>No file selected</source>
         <extracomment>Placeholder file name until a file is selected</extracomment>
-        <translation type="unfinished">Nobena datoteka ni izbrana</translation>
+        <translation>Nobena datoteka ni izbrana</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="120"/>
         <source>The active subscription does not provide access to GCODE/APT parser. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aktivna naročnina ne zagotavlja dostopa do razčlenjevalnika GCODE/APT. Kliknite %1tukaj%2 za upravljanje naročnin</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="198"/>
         <source>Invalid file type. Only .apt, .gcode, .nc, .json, .csv, and .svg files are supported</source>
         <extracomment>Tool tip: Invalid file type is selected</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Neveljavna vrsta datoteke. Podprte so samo datoteke .apt, .gcode, .nc, .json, .csv in .svg</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="213"/>
         <source>%1 Import Options</source>
         <extracomment>Additional options when importing file. %1 = APT, GCODE, JSON, CSV or SVG depending on what type of file is selected</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 Možnosti uvoza</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="220"/>
         <source>Minimum distance (mm)</source>
         <extracomment>Description for a text field where the user inputs the minimum distance between targets</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Najmanjša razdalja (mm)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="222"/>
         <source>Minimum distance between targets. Range: 0.1 - 10 (mm). For distances smaller than 1, arc moves are converted to linear</source>
         <extracomment>Tool tip: Displayed when hovering over minimum distance label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Najmanjša razdalja med cilji. Obseg: 0.1 - 10 (mm). Za razdalje manjše od 1 se lokovni premiki pretvorijo v linearne</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="251"/>
         <source>Append</source>
         <extracomment>Checkbox: Select to append targets to existing path</extracomment>
-        <translation type="unfinished">Dodaj</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="255"/>
         <source>Add to existing path instead of replacing</source>
         <extracomment>Tool tip for append checkbox.</extracomment>
-        <translation type="unfinished">Dodajte obstoječi poti namesto zamenjave</translation>
+        <translation>Dodajte obstoječi poti namesto zamenjave</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="262"/>
         <source>Reverse INDIRV</source>
         <extracomment>Checkbox: Select to reverse INDIRV (initial direction vector). This is primarily for Catia users</extracomment>
-        <translation type="unfinished">Obrni INDIRV</translation>
+        <translation>Obrni INDIRV</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="266"/>
         <source>Reverse direction of vector (Catia)</source>
         <extracomment>Tool tip for Reverse INDIRV checkbox</extracomment>
-        <translation type="unfinished">Reverse direction of vector (Catia)</translation>
+        <translation>Reverse direction of vector (Catia)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="272"/>
         <source>No arcs</source>
         <extracomment>Checkbox: Select to disable arc moves</extracomment>
-        <translation type="unfinished">Brez lokov</translation>
+        <translation>Brez lokov</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="276"/>
         <source>Arcs are split into linear moves</source>
         <extracomment>Tool tip for no arcs checkbox</extracomment>
-        <translation type="unfinished">Loki so razdeljeni na linearne gibe</translation>
+        <translation>Loki so razdeljeni na linearne gibe</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="282"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
-        <translation type="unfinished">Varilna pištola vključeno/izključeno</translation>
+        <translation>Varilna pištola vključeno/izključeno</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="286"/>
         <source>Convert all feed speeds to rapid moves, except for cutting speed. This is useful if selecting &apos;Gun on/off&apos; when exporting</source>
         <extracomment>Tool tip for Gun on/off checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pretvori vse hitrosti dovajanja v hitre premike, razen hitrosti rezanja. To je uporabno, če izberete &apos;Gun on/off&apos; pri izvozu</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="295"/>
         <source>Column separator</source>
         <extracomment>Which character to use for separating CSV columns</extracomment>
-        <translation type="unfinished">Ločilo stolpcev</translation>
+        <translation>Ločilo stolpcev</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="307"/>
         <source>Comma &apos;,&apos;</source>
         <extracomment>Item in dropdown menu. Referring to using a comma character to separate columns in a CSV file</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vejica &apos;,&apos;</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="312"/>
         <source>Space &apos; &apos;</source>
         <extracomment>Item in dropdown menu. Referring to using a space character to separate columns in a CSV file</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Presledek &apos; &apos;</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="322"/>
         <source>Row separator</source>
         <extracomment>Which character to use for separating CSV rows</extracomment>
-        <translation type="unfinished">Ločilo vrstic</translation>
+        <translation>Ločilo vrstic</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="334"/>
         <source>Newline &apos;
 &apos;</source>
         <extracomment>Item in dropdown menu. Referring to a new line in a CSV file</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nova vrstica 
+&apos;</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="339"/>
         <source>Semicolon &apos;;&apos;</source>
         <extracomment>Item in dropdown menu. Referring to the semicolon symbol</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Podpičje &apos;;&apos;</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="353"/>
         <source>Additional Transformations</source>
         <extracomment>Collapsible section title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dodatne transformacije</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="375"/>
         <source>Scaling presets</source>
         <extracomment>Title for drop-down menu where scaling presets may be selected</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Skaliranje prednastavitev</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="390"/>
         <source>User defined</source>
         <extracomment>Drop-down menu item. Refers to user defined position units</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Uporabniško definirano</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="395"/>
         <source>From mm (no scaling)</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Od mm (brez skaliranja)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="400"/>
         <source>From cm</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Od cm</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="405"/>
         <source>From m</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Iz m</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="410"/>
         <source>From inches</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Od palcev</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="415"/>
         <source>From feet</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Od nog</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="441"/>
         <source>Apply rotation to targets</source>
         <extracomment>Checkbox: Refers to applying rotation on individual targets in addition to rotating the whole imported path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Uporabi rotacijo na tarče</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="445"/>
         <source>Apply rotation locally to individual targets</source>
         <extracomment>Tool tip for apply rotation to targets checkbox.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Uporabi rotacijo lokalno na posamezne cilje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="465"/>
         <source>Import</source>
         <extracomment>Import button</extracomment>
-        <translation type="unfinished">Uvozi</translation>
+        <translation>Uvozi</translation>
     </message>
 </context>
 <context>
@@ -2730,21 +2731,21 @@ Placeholder text where users input scaling multiplier</extracomment>
         <location filename="../../../backend/src/importpathinterface.cpp" line="44"/>
         <source>File is empty</source>
         <extracomment>Error message: Attempting to load en empty file</extracomment>
-        <translation type="unfinished">Datoteka je prazna</translation>
+        <translation>Datoteka je prazna</translation>
     </message>
     <message>
         <location filename="../../../backend/src/importpathinterface.cpp" line="51"/>
         <source>File is not a valid UTF-8 file
 Only UTF-8 encoded files are supported</source>
         <extracomment>Error message: The file has invalid encoding</extracomment>
-        <translation type="unfinished">Datoteka ni veljavna datoteka UTF-8
+        <translation>Datoteka ni veljavna datoteka UTF-8
 Podprte so samo datoteke, kodirane z UTF-8</translation>
     </message>
     <message>
         <location filename="../../../backend/src/importpathinterface.cpp" line="65"/>
         <source>Unsupported file type &apos;%1&apos;</source>
         <extracomment>Error message. %1 = file type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nepodprta vrsta datoteke &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -2842,13 +2843,13 @@ Tool tip for text field.</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="21"/>
         <source>Info</source>
         <extracomment>Collapsible section: info about the setup</extracomment>
-        <translation type="unfinished">Informacije</translation>
+        <translation>Informacije</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="36"/>
         <source>Robot</source>
         <extracomment>Which robot is loaded</extracomment>
-        <translation type="unfinished">Robot</translation>
+        <translation>Robot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="40"/>
@@ -2857,25 +2858,25 @@ Tool tip for text field.</extracomment>
         <extracomment>Placeholder for robot name if no robot is loaded
 ----------
 Placeholder for tool name if no tool is loaded</extracomment>
-        <translation type="unfinished">Noben</translation>
+        <translation>Noben</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="46"/>
         <source>Tool</source>
         <extracomment>Which tool is loaded</extracomment>
-        <translation type="unfinished">Orodje</translation>
+        <translation>Orodje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="56"/>
         <source>Number of targets</source>
         <extracomment>How many targets are in the path</extracomment>
-        <translation type="unfinished">Število točk</translation>
+        <translation>Število točk</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="64"/>
         <source>Solution</source>
         <extracomment>Status of the solution</extracomment>
-        <translation type="unfinished">Rešitev</translation>
+        <translation>Rešitev</translation>
     </message>
 </context>
 <context>
@@ -2884,49 +2885,49 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/InterpolationSettings.qml" line="18"/>
         <source>Interpolation</source>
         <extracomment>Section title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Interpolacija</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/InterpolationSettings.qml" line="25"/>
         <source>Verify path</source>
         <extracomment>Checkbox: Select to verify path with interpolated targets</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Preveri pot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/InterpolationSettings.qml" line="37"/>
         <source>This option enables an additional check that verifies that the robot can traverse continously between targets without hitting singularies or out of bounds issues. It is recommended to keep this option on</source>
         <extracomment>Tool tip for configure interpolated checkbox.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ta možnost omogoča dodatno preverjanje, ki preveri, da lahko robot neprekinjeno prehaja med cilji brez udarjanja v singularnosti ali težave zunaj meja. Priporočljivo je, da to možnost pustite vključeno</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/InterpolationSettings.qml" line="53"/>
         <source>Linear threshold</source>
         <extracomment>Label for text field: linear threshold</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Linearni prag</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/InterpolationSettings.qml" line="55"/>
         <source>Maximum linear distance between interpolated targets. Smaller values will be more accurate but have a larger impact on computation time</source>
         <extracomment>Tool tip for text field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Največja linearna razdalja med interpoliranimi cilji. Manjše vrednosti bodo bolj natančne, vendar bodo imele večji vpliv na čas računanja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/InterpolationSettings.qml" line="70"/>
         <source>mm</source>
         <extracomment>Unit millimetre</extracomment>
-        <translation type="unfinished"> mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/InterpolationSettings.qml" line="79"/>
         <source>Angular threshold</source>
         <extracomment>Label for text field: angular threshold</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kotni prag</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/InterpolationSettings.qml" line="81"/>
         <source>Maximum angular distance between interpolated targets. Smaller values will be more accurate but have a larger impact on computation time</source>
         <extracomment>Tool tip for text field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Največja kotna razdalja med interpoliranimi cilji. Manjše vrednosti bodo natančnejše, vendar bodo imele večji vpliv na čas izračuna</translation>
     </message>
 </context>
 <context>
@@ -2935,19 +2936,19 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <location filename="../../IrbcamQml/Irbcam.qml" line="101"/>
         <source>Clear all</source>
         <extracomment>Button. Clear (acknowledge) all acknowledgeable messages</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Počisti vse</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Irbcam.qml" line="349"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
-        <translation type="unfinished">Prepiši %1</translation>
+        <translation>Prepiši %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Irbcam.qml" line="351"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite prepisati projekt %1?&lt;br&gt;&lt;br&gt;Ta projekt je bil prej shranjen z različico %2&lt;br&gt;&lt;br&gt;Če ga boste prepisali, potem morda ne bo več mogoče odpreti z IRBCAM %2&lt;br&gt;&lt;br&gt;Če želite obdržati kopijo, potem lahko shranite projekt z novim imenom</translation>
     </message>
 </context>
 <context>
@@ -3023,7 +3024,7 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <location filename="../../../backend/src/networking.cpp" line="208"/>
         <source>Failed to validate session token</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni uspelo preveriti žetona seje</translation>
     </message>
     <message>
         <location filename="../../../backend/src/networking.cpp" line="275"/>
@@ -3081,13 +3082,13 @@ Prizadete nastavitve so bile nastavljene na privzete vrednosti</translation>
         <location filename="../../../backend/src/networking.cpp" line="904"/>
         <source>Failed to get user details</source>
         <extracomment>Error message.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni uspelo pridobiti podatkov o uporabniku</translation>
     </message>
     <message>
         <location filename="../../../backend/src/networking.cpp" line="1045"/>
         <source>Your session has expired. Please sign in again.</source>
         <extracomment>Error message.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vaša seja je potekla. Ponovno se prijavite.</translation>
     </message>
     <message>
         <location filename="../../../backend/src/networking.cpp" line="1056"/>
@@ -3263,7 +3264,7 @@ Prosimo, da shranite svoje delo in čim prej znova naložite stran</translation>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="230"/>
         <source>Feed speed for rapid movements (mm/s)</source>
         <extracomment>Tool tip for rapid speed input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hitrost podajanja za hitre premike (mm/s)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="252"/>
@@ -3275,31 +3276,31 @@ Prosimo, da shranite svoje delo in čim prej znova naložite stran</translation>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="254"/>
         <source>Feed speed for cutting movement (mm/s)</source>
         <extracomment>Tool tip for cuttin speed input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hitrost dovajanja za rezalno gibanje (mm/s)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="276"/>
         <source>Reorientation speed</source>
         <extracomment>Setting for how fast the robot should rotate the tool of the position is constant</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hitrost reorientacije</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="278"/>
         <source>Angular speed when rotating tool (°/s)</source>
         <extracomment>Tool tip for reorientation speed input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kotna hitrost pri vrtenju orodja (°/s)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="301"/>
         <source>Rotary table speed</source>
         <extracomment>Setting for rotary table speed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hitrost rotacijske mize</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="303"/>
         <source>Angular speed of rotary table (°/s)</source>
         <extracomment>Tool tip for rotary table speed input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kotna hitrost vrtilne mize (°/s)</translation>
     </message>
     <message>
         <source>Reorientation speed (deg/s)</source>
@@ -3412,7 +3413,7 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <location filename="../../IrbcamQml/Views/JointViewer.qml" line="237"/>
         <source>Joint 2/3 Interaction</source>
         <extracomment>Slider: This is specific for the difference between joints 2 and 3</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Interakcija sklepa 2/3</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/JointViewer.qml" line="273"/>
@@ -3430,7 +3431,7 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <location filename="../../IrbcamQml/Views/JointViewer.qml" line="334"/>
         <source>Home</source>
         <extracomment>Button. Send the robot to the home position</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dom</translation>
     </message>
     <message>
         <source>mm</source>
@@ -3447,7 +3448,7 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <location filename="../../IrbcamQml/Views/JointViewer.qml" line="316"/>
         <source>Linear track axis %1</source>
         <extracomment>Slider: Referring to linear track position if it has multiple axes. %1 = axis number</extracomment>
-        <translation type="unfinished">Os linearnega pomika %1</translation>
+        <translation>Os linearnega pomika %1</translation>
     </message>
 </context>
 <context>
@@ -3456,7 +3457,7 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="21"/>
         <source>Linear Lift Points</source>
         <extracomment>Section title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Linearni dvižni točki</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3472,31 +3473,31 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="47"/>
         <source>Add lift points</source>
         <extracomment>Checkbox: Select to add linear lift points</extracomment>
-        <translation type="unfinished">Dodajte točke dviga</translation>
+        <translation>Dodajte točke dviga</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="71"/>
         <source>Lift distance</source>
         <extracomment>Label for text field: linear lift distance</extracomment>
-        <translation type="unfinished">Razdalja dviga</translation>
+        <translation>Razdalja dviga</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="83"/>
         <source>mm</source>
         <extracomment>Unit: millimetres</extracomment>
-        <translation type="unfinished"> mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="97"/>
         <source>Targets between lift points</source>
         <extracomment>Label for text field: number of targets</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cilji med dvigalnimi točkami</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/LinearLiftPoints.qml" line="99"/>
         <source>Preferred number of targets between lift points</source>
         <extracomment>Tooltip for text field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prednostno število ciljev med dvigalnimi točkami</translation>
     </message>
     <message>
         <source>Lift distance (mm)</source>
@@ -3695,7 +3696,7 @@ Enega ali več projektov je treba izbrisati, da lahko ustvarite nove projekte</t
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="34"/>
         <source>No robot selected</source>
         <extracomment>Collapsible section. Only shown when no robot is selected</extracomment>
-        <translation type="unfinished">Izbran ni noben robot</translation>
+        <translation>Izbran ni noben robot</translation>
     </message>
     <message>
         <source>Arc welding</source>
@@ -3716,7 +3717,7 @@ Enega ali več projektov je treba izbrisati, da lahko ustvarite nove projekte</t
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="77"/>
         <source>File Type</source>
         <extracomment>File type selector. Which file type should the exported file(s) have</extracomment>
-        <translation type="unfinished">Vrsta datoteke</translation>
+        <translation>Vrsta datoteke</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="106"/>
@@ -3725,7 +3726,7 @@ Enega ali več projektov je treba izbrisati, da lahko ustvarite nove projekte</t
         <extracomment>ABB specific option. Path to directory
 ----------
 Placeholder for when no path to directory is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pot do imenika</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="133"/>
@@ -3734,7 +3735,7 @@ Placeholder for when no path to directory is entered</extracomment>
         <extracomment>ABB specific option. Name of the module in the robot code
 ----------
 Placeholder for when no module name is entered</extracomment>
-        <translation type="unfinished">Ime modula</translation>
+        <translation>Ime modula</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="157"/>
@@ -3743,19 +3744,19 @@ Placeholder for when no module name is entered</extracomment>
         <extracomment>Name for external axis (rotary table)
 ----------
 Placeholder for when no external axis name is entered</extracomment>
-        <translation type="unfinished">Ime zunanje osi</translation>
+        <translation>Ime zunanje osi</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="181"/>
         <source>Rotary table axis number</source>
         <extracomment>ABB specific option. Which axis number should the rotary table be assigned to</extracomment>
-        <translation type="unfinished">Številka osi rotacijske mize</translation>
+        <translation>Številka osi rotacijske mize</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="206"/>
         <source>Linear track axis number</source>
         <extracomment>ABB specific option. Which axis number should the linear track be assigned to</extracomment>
-        <translation type="unfinished">Linearni pomik številka osi</translation>
+        <translation>Linearni pomik številka osi</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="231"/>
@@ -3764,7 +3765,7 @@ Placeholder for when no external axis name is entered</extracomment>
         <extracomment>Name of the work object in the exported robot code
 ----------
 Placeholder for when no object name is entered</extracomment>
-        <translation type="unfinished">Ime delovnega objekta</translation>
+        <translation>Ime delovnega objekta</translation>
     </message>
     <message>
         <source>Number of Main Files</source>
@@ -3780,7 +3781,7 @@ Placeholder for when no number is entered</extracomment>
         <extracomment>Referring to which tool should be used in the exported robot code
 ----------
 Placeholder for when no tool number is entered</extracomment>
-        <translation type="unfinished">Številka orodja</translation>
+        <translation>Številka orodja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="309"/>
@@ -3789,7 +3790,7 @@ Placeholder for when no tool number is entered</extracomment>
         <extracomment>Referring to which user frame should be used in the exported code
 ----------
 Placeholder for when no user frame number is entered</extracomment>
-        <translation type="unfinished">Številka uporabniškega koordinantnega sistema</translation>
+        <translation>Številka uporabniškega koordinantnega sistema</translation>
     </message>
     <message>
         <source>Dynamic loading of JBI files</source>
@@ -3815,19 +3816,19 @@ Placeholder for when no user frame number is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="49"/>
         <source>Controller</source>
         <extracomment>Controller selector. Which controller should the exported file(s) be compatible with</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Krmilnik</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="66"/>
         <source>Invalid controller</source>
         <extracomment>Combo box item: Invalid controller type, unsupported for this robot manufacturer</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Neveljaven kontroler</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="96"/>
         <source>Invalid file type</source>
         <extracomment>Combo box item: Invalid file type, unsupported for this robot manufacturer</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Neveljaven tip datoteke</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="336"/>
@@ -3836,7 +3837,7 @@ Placeholder for when no user frame number is entered</extracomment>
         <extracomment>Name of the move control group 1 in the exported robot code
 ----------
 Placeholder for when no move control group 1 is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kontrolna skupina 1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="363"/>
@@ -3845,7 +3846,7 @@ Placeholder for when no move control group 1 is entered</extracomment>
         <extracomment>Name of the move control group 2 in the exported robot code
 ----------
 Placeholder for when no move control group 2 is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kontrolna skupina 2</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="387"/>
@@ -3858,7 +3859,7 @@ Placeholder for when no move control group 2 is entered</extracomment>
 Placeholder for when no value is entered
 ----------
 Referring to encoder ticks per one revolution or meter on a rotational or linear axis for Control Group 3</extracomment>
-        <translation type="unfinished">Pulzi na 360 stopinj (ali meter)</translation>
+        <translation>Pulzi na 360 stopinj (ali meter)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="414"/>
@@ -3867,7 +3868,7 @@ Referring to encoder ticks per one revolution or meter on a rotational or linear
         <extracomment>Name of the move control group 3 in the exported robot code
 ----------
 Placeholder for when no move control group 3 is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kontrolna skupina 3</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="506"/>
@@ -3877,7 +3878,7 @@ Placeholder for when no move control group 3 is entered</extracomment>
  &quot;maxLinesPerFile&quot;: 1000
 }</source>
         <extracomment>Placeholder for text field. Do not change the content within the { curly brackets }</extracomment>
-        <translation type="unfinished">Splošne možnosti izvoza v formatu JSON: npr.
+        <translation>Splošne možnosti izvoza v formatu JSON: npr.
 {
  &quot;procedureName&quot;: &quot;main&quot;,
  &quot;maxLinesPerFile&quot;: 1000
@@ -3887,55 +3888,55 @@ Placeholder for when no move control group 3 is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="616"/>
         <source>ABB Options</source>
         <extracomment>Collapsible section: Options specific for ABB robots</extracomment>
-        <translation type="unfinished">AAB možnosti</translation>
+        <translation>AAB možnosti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="664"/>
         <source>KUKA Options</source>
         <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
-        <translation type="unfinished">KUKA.možnosti</translation>
+        <translation>KUKA.možnosti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="680"/>
         <source>FANUC Options</source>
         <extracomment>Collapsible section: Options specific for FANUC robots</extracomment>
-        <translation type="unfinished">FANUC možnosti</translation>
+        <translation>FANUC možnosti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="700"/>
         <source>MOTOMAN Options</source>
         <extracomment>Collapsible section: Options specific for MOTOMAN robots</extracomment>
-        <translation type="unfinished">MOTOMAN možnosti</translation>
+        <translation>MOTOMAN možnosti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="763"/>
         <source>Generic Options</source>
         <extracomment>Collapsible section: Options for generic robots</extracomment>
-        <translation type="unfinished">Generične možnosti</translation>
+        <translation>Generične možnosti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="784"/>
         <source>UR Options</source>
         <extracomment>Collapsible section: Options for UR robots</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>UR Možnosti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="797"/>
         <source>COMAU Options</source>
         <extracomment>Collapsible section: Options for COMAU robots</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>COMAU Možnosti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="810"/>
         <source>DENSO Options</source>
         <extracomment>Collapsible section: Options for DENSO robots</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>DENSO Možnosti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="831"/>
         <source>DOBOT Options</source>
         <extracomment>Collapsible section: Options for DOBOT robots</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>DOBOT Možnosti</translation>
     </message>
 </context>
 <context>
@@ -3944,7 +3945,7 @@ Placeholder for when no move control group 3 is entered</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/MaxDistance.qml" line="45"/>
         <source>Max distance</source>
         <extracomment>Popup title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Največja razdalja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/MaxDistance.qml" line="78"/>
@@ -3959,7 +3960,7 @@ Placeholder for when no move control group 3 is entered</extracomment>
         <extracomment>Tooltip for from-target field
 ----------
 Tooltip for to-target field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vnesite številko cilja ali izberite obseg v seznamu ciljev</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/MaxDistance.qml" line="85"/>
@@ -3977,13 +3978,13 @@ Tooltip for to-target field</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/MaxDistance.qml" line="217"/>
         <source>Maximum distance between adjacent targets (mm). Recommended less than %1</source>
         <extracomment>Tool tip explaining max reorientation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Največja razdalja med sosednjimi cilji (mm). Priporočeno manj kot %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/MaxDistance.qml" line="225"/>
         <source>Maximum angular difference between adjacent targets (°). Recommended less than %1</source>
         <extracomment>Tool tip explaining max reorientation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Največja kotna razlika med sosednjimi cilji (°). Priporočeno manj kot %1</translation>
     </message>
     <message>
         <source>Maximum distance between adjacent targets</source>
@@ -4006,13 +4007,13 @@ Tooltip for to-target field</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/MaxDistance.qml" line="291"/>
         <source>N/A</source>
         <extracomment>Label, not available</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ne velja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/MaxDistance.qml" line="309"/>
         <source>Check</source>
         <extracomment>Button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Preveri</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/MaxDistance.qml" line="327"/>
@@ -4055,7 +4056,7 @@ Do you want to continue?</source>
         <location filename="../../IrbcamQml/Menus.qml" line="78"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ta modul vsebuje neshranjene spremembe</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="106"/>
@@ -4145,7 +4146,7 @@ Do you want to continue?</source>
         <location filename="../../IrbcamQml/Menus.qml" line="274"/>
         <source>&amp;Export Options</source>
         <extracomment>Menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Izvoz Možnosti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="390"/>
@@ -4252,7 +4253,7 @@ Do you want to continue?</source>
         <location filename="../../IrbcamQml/Menus.qml" line="398"/>
         <source>Linear Track</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Linearni tir</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="406"/>
@@ -4388,19 +4389,19 @@ Do you want to continue?</source>
         <location filename="../../IrbcamQml/Popups/Assets/OffsetScalingInput.qml" line="60"/>
         <source>Scaling</source>
         <extracomment>Label in front of number input boxes</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Skaliranje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/OffsetScalingInput.qml" line="102"/>
         <source>Offset (mm)</source>
         <extracomment>Label in front of number input boxes</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Odmik (mm)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/OffsetScalingInput.qml" line="135"/>
         <source>Rotation (deg)</source>
         <extracomment>Label in front of number input boxes</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rotacija (stop.)</translation>
     </message>
 </context>
 <context>
@@ -4431,7 +4432,7 @@ Do you want to continue?</source>
         <extracomment>Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Angle)
 ----------
 Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Način: %1</translation>
     </message>
     <message>
         <source>Allow large reorient</source>
@@ -4694,109 +4695,109 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="257"/>
         <source>Optimizer Plot Controls</source>
         <extracomment>Info card title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Optimizator Grafiko Kontroloj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="260"/>
         <source>Hide controls</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Skrij kontrolnike</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="262"/>
         <source>Show controls</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži kontrole</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="267"/>
         <source>Left click</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Levi klik</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="269"/>
         <source>Select target</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izberi cilj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="273"/>
         <source>Mouse wheel</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Miškino kolesce</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="275"/>
         <source>Zoom in/out inside plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Povečaj/pomanjšaj znotraj grafa</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="278"/>
         <source>If a target is selected it zooms relative to the selected target</source>
         <extracomment>Interaction explanation detail</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Če je cilj izbran, se poveča relativno glede na izbrani cilj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="280"/>
         <source>If no target is selected it zooms relative to the center of the plot</source>
         <extracomment>Interaction explanation detail</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Če ni izbran noben cilj, poveča relativno glede na središče ploskve</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="285"/>
         <source>%1 + wheel</source>
         <extracomment>Interaction type - %1 = ctrl</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 + kolo</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="287"/>
         <source>Change the size of the plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni velikost plota</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="291"/>
         <source>Left click + drag</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Levi klik + povleci</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="293"/>
         <source>Rotate the plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rotiraj grafikon</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="295"/>
         <source>Only available in 3D mode</source>
         <extracomment>Interaction detail</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Samo na voljo v 3D načinu</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="299"/>
         <source>Right click + drag</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Desni klik + povleci</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="301"/>
         <source>Pan inside plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pomakni znotraj grafa</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="305"/>
         <source>Double click</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dvokliknite</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="307"/>
         <source>Reset plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ponastavi grafikon</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="373"/>
@@ -4867,7 +4868,7 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="39"/>
         <source>The current configuration will attempt to solve the path %1 times. This might take a while. Do you want to continue?</source>
         <extracomment>Confirmation popup body. %1 = number of attempted solves</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Trenutna konfiguracija bo poskusila rešiti pot %1-krat. To lahko traja nekaj časa. Ali želite nadaljevati?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="51"/>
@@ -4894,73 +4895,73 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="61"/>
         <source>3D view navigation</source>
         <extracomment>Info card title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D navigacija pogleda</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="64"/>
         <source>Hide 3D view navigation</source>
         <extracomment>Info card tooltip when expanded</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Skrij navigacijo 3D pogleda</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="66"/>
         <source>Show 3D view navigation</source>
         <extracomment>Info card tooltip when collapsed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži navigacijo 3D pogleda</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="70"/>
         <source>Rotate view</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zavrti pogled</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="72"/>
         <source>Left click + drag</source>
         <extracomment>Info card operation: Rotate view</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Levi klik + povleci</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="76"/>
         <source>Pan view</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pan pogled</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="78"/>
         <source>Right click + drag</source>
         <extracomment>Info card operation: Pan view</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Desni klik + povleci</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="82"/>
         <source>Zoom in/out</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Povečaj/pomanjšaj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="84"/>
         <source>Mouse wheel</source>
         <extracomment>Info card operation: Zoom in/out</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mišji kolešček</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="88"/>
         <source>Select target</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izberi cilj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="90"/>
         <source>Left click on target</source>
         <extracomment>Info card operation: Select target</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Levi klik na cilj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="92"/>
         <source>Only available if &apos;Tool Trace&apos; → &apos;Show Targets&apos; is enabled</source>
         <extracomment>Info card detail: Select target</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Na voljo le, če je &apos;Tool Trace&apos; → &apos;Show Targets&apos; omogočen</translation>
     </message>
 </context>
 <context>
@@ -4969,19 +4970,19 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="188"/>
         <source>Add new path</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj novo pot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="163"/>
         <source>Add new</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj novo</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="166"/>
         <source>Path</source>
         <extracomment>Context menu sub-item: Add new -&gt; Path</extracomment>
-        <translation type="unfinished">Pot</translation>
+        <translation>Pot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="100"/>
@@ -4999,7 +5000,7 @@ Context menu sub-item: Add new -&gt; Path -&gt; Before
 Context menu sub-item: Add new target -&gt; Before
 ----------
 Context menu sub-item: Split path -&gt; Before</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pred</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="102"/>
@@ -5017,207 +5018,207 @@ Context menu sub-item: Add new -&gt; Path -&gt; After
 Context menu sub-item: Add new target -&gt; After
 ----------
 Context menu sub-item: Split path -&gt; After</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Po</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="172"/>
         <source>Target</source>
         <extracomment>Context menu sub-item: Add new -&gt; Target</extracomment>
-        <translation type="unfinished">Točka</translation>
+        <translation>Točka</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="54"/>
         <source>Copy path</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj pot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="248"/>
         <source>Delete path</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši pot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="177"/>
         <source>Add new target</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj nov cilj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="67"/>
         <source>Copy target</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj cilj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="129"/>
         <source>Paste targets at the beginning of path</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi cilje na začetku poti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="131"/>
         <source>Paste target at the beginning of path</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi cilj na začetek poti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="210"/>
         <source>Split path after</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Razveji pot po</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="215"/>
         <source>Split path before</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Razdeli pot pred</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="220"/>
         <source>Split path</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Razcep poti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="201"/>
         <source>Combine selected paths</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Združi izbrane poti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="63"/>
         <source>Copy selected targets</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj izbrane cilje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="254"/>
         <source>Delete target</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši cilj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="300"/>
         <source>Open project</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Odpri projekt</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="84"/>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="95"/>
         <source>Paste paths</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi poti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="48"/>
         <source>Copy paths</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj poti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="50"/>
         <source>Copy targets in paths</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj cilje v poti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="56"/>
         <source>Copy targets in path</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj cilje v poti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="88"/>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="97"/>
         <source>Paste path</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi pot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="115"/>
         <source>Paste targets in a new path</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi cilje v novo pot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="117"/>
         <source>Paste target in a new path</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi cilj v novo pot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="139"/>
         <source>Paste targets</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi cilje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="141"/>
         <source>Paste target</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi cilj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="147"/>
         <source>Replace</source>
         <extracomment>Context menu sub-item: Paste target(s) -&gt; Replace</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zamenjaj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="241"/>
         <source>Delete selected</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši izbrane</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="268"/>
         <source>Rename path</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Preimenuj pot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="277"/>
         <source>Close max distance editor</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zapri urejevalnik maksimalne razdalje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="279"/>
         <source>Open max distance editor</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Odpri urejevalnik maksimalne razdalje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="285"/>
         <source>Go to target</source>
         <extracomment>Context menu item. Opens a popup with go to target index</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pojdi na cilj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="294"/>
         <source>Import Path</source>
         <extracomment>Context menu item</extracomment>
-        <translation type="unfinished">Uvozi pot</translation>
+        <translation>Uvozi pot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="314"/>
         <source>Expand all</source>
         <extracomment>Context menu item: Expand all items in list</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Razširi vse</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="316"/>
         <source>Collapse all</source>
         <extracomment>Context menu item: Collapse all items in list</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Strni vse</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="321"/>
         <source>Expand</source>
         <extracomment>Context menu</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Razširi</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="323"/>
@@ -5226,7 +5227,7 @@ Context menu sub-item: Split path -&gt; After</extracomment>
         <extracomment>Context menu sub-item: Expand -&gt; Current
 ----------
 Context menu sub-item: Collapse -&gt; Current</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Trenutni</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="326"/>
@@ -5235,7 +5236,7 @@ Context menu sub-item: Collapse -&gt; Current</extracomment>
         <extracomment>Context menu sub-item: Expand -&gt; Targets
 ----------
 Context menu sub-item: Collapse -&gt; Targets</extracomment>
-        <translation type="unfinished">Točke</translation>
+        <translation>Točke</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="330"/>
@@ -5244,7 +5245,7 @@ Context menu sub-item: Collapse -&gt; Targets</extracomment>
         <extracomment>Context menu sub-item: Expand -&gt; Selection
 ----------
 Context menu sub-item: Collapse -&gt; Selection</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izbor</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="333"/>
@@ -5253,13 +5254,13 @@ Context menu sub-item: Collapse -&gt; Selection</extracomment>
         <extracomment>Context menu sub-item: Expand -&gt; All
 ----------
 Context menu sub-item: Collapse -&gt; All</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vsi</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="336"/>
         <source>Collapse</source>
         <extracomment>Context menu</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Strni</translation>
     </message>
 </context>
 <context>
@@ -5280,145 +5281,145 @@ Context menu sub-item: Collapse -&gt; All</extracomment>
         <source>The path list is empty
 Right click to see available options for populating the path</source>
         <extracomment>Placeholder text for empty path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Seznam poti je prazen Desni klik za ogled razpoložljivih možnosti za zapolnitev poti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="397"/>
         <source>Target list navigation</source>
         <extracomment>Info card title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Navigacija ciljnega seznama</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="400"/>
         <source>Hide navigation info</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Skrij navigacijske informacije</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="402"/>
         <source>Show navigation info</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži navigacijske informacije</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="406"/>
         <source>Selection</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izbor</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="409"/>
         <source>Left click</source>
         <extracomment>Info card operation: Selection</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Levi klik</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="411"/>
         <source>Up/down arrow keys</source>
         <extracomment>Info card operation: Selection</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Puščične tipke gor/dol</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="413"/>
         <source>Modifiers:</source>
         <extracomment>Info card operation: Selection sub category</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Modifikatorji:</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="417"/>
         <source>%1 - Select range</source>
         <extracomment>Info card detail: Modifiers - %1 = shift</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Izberi obseg</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="419"/>
         <source>%1 - Select additional (mouse only)</source>
         <extracomment>Info card detail: Modifiers - %1 = ctrl</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 - Izberi dodatne (samo miška)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="421"/>
         <source>%1 + %2 - Select additional range</source>
         <extracomment>Info card detail: Modifiers - %1 = shift, %2 = ctrl</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 + %2 - Izberi dodatno območje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="426"/>
         <source>Open context menu</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Odpri kontekstni meni</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="428"/>
         <source>Right click</source>
         <extracomment>Info card operation: Open context menu</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Desni klik</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="430"/>
         <source>Content of the context menu will depend on what element is clicked</source>
         <extracomment>Info card detail: Right click</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vsebina kontekstnega menija bo odvisna od tega, kateri element je kliknjen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="434"/>
         <source>Expand/collapse</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Razširi/Zloži</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="437"/>
         <source>Double click</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dvojni klik</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="439"/>
         <source>Right arrow key (expand)</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Desna puščična tipka (razširi)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="441"/>
         <source>Left arrow key (collapse)</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Leva puščična tipka (strni)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="446"/>
         <source>Copy selected</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj izbrano</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="451"/>
         <source>Paste copied</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi kopirano</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="454"/>
         <source>Pastes after the selected element</source>
         <extracomment>Info card detail: Paste copied</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prilepi za izbranim elementom</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="458"/>
         <source>Delete selected</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izbriši izbrane</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="463"/>
         <source>Undo last action</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Razveljavi zadnje dejanje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/PathEditor.qml" line="468"/>
         <source>Redo last action</source>
         <extracomment>Info card action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ponovi zadnje dejanje</translation>
     </message>
     <message>
         <source>Expand/collapse all targets</source>
@@ -5462,55 +5463,55 @@ Right click to see available options for populating the path</source>
         <location filename="../../../backend/src/pathmodel.cpp" line="1465"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
-        <translation type="unfinished">Datoteke CSV ni bilo mogoče uvoziti</translation>
+        <translation>Datoteke CSV ni bilo mogoče uvoziti</translation>
     </message>
     <message>
         <location filename="../../../backend/src/pathmodel.cpp" line="1471"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
-        <translation type="unfinished">Pot, uvožena iz CSV</translation>
+        <translation>Pot, uvožena iz CSV</translation>
     </message>
     <message>
         <location filename="../../../backend/src/pathmodel.cpp" line="1487"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni uspelo razčleniti datoteke JSON</translation>
     </message>
     <message>
         <location filename="../../../backend/src/pathmodel.cpp" line="1512"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished">Nalaganje poti ni uspelo</translation>
+        <translation>Nalaganje poti ni uspelo</translation>
     </message>
     <message>
         <location filename="../../../backend/src/pathmodel.cpp" line="1518"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
-        <translation type="unfinished">Pot je naložena</translation>
+        <translation>Pot je naložena</translation>
     </message>
     <message>
         <location filename="../../../backend/src/pathmodel.cpp" line="2036"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopiran cilj</translation>
     </message>
     <message>
         <location filename="../../../backend/src/pathmodel.cpp" line="2041"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopirano %1 ciljev</translation>
     </message>
     <message>
         <location filename="../../../backend/src/pathmodel.cpp" line="2080"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopirana pot</translation>
     </message>
     <message>
         <location filename="../../../backend/src/pathmodel.cpp" line="2085"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopirano %1 poti</translation>
     </message>
 </context>
 <context>
@@ -5519,7 +5520,7 @@ Right click to see available options for populating the path</source>
         <location filename="../../../backend/src/pathproxymodel.cpp" line="286"/>
         <source>All targets</source>
         <extracomment>Dropdown menu item. Select this to see all targets</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vse tarče</translation>
     </message>
 </context>
 <context>
@@ -5662,7 +5663,7 @@ Placeholder text until an icon has been selected</extracomment>
         <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="95"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip: &apos;module&apos; in this case refers to a particular popup. For example the &apos;Export Robot Code&apos; popup or the &apos;Settings&apos; popup</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ta modul vsebuje neshranjene spremembe</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="131"/>
@@ -5736,31 +5737,31 @@ Placeholder text until an icon has been selected</extracomment>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="114"/>
         <source>mm</source>
         <extracomment>Unit millimetres</extracomment>
-        <translation type="unfinished"> mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="160"/>
         <source>Y offset is not supported!</source>
         <extracomment>tooltip: Y offset is not supported!</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Y odmik ni podprt!</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="206"/>
         <source>Yaw angle</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Yaw kot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="222"/>
         <source>Pitch angle</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kot nagiba</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="238"/>
         <source>Roll angle</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kotalni kot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="252"/>
@@ -5805,55 +5806,55 @@ Placeholder text until an icon has been selected</extracomment>
         <location filename="../../../backend/src/projectlistmodel.cpp" line="84"/>
         <source>User does not have write permission for project %1</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Uporabnik nima pravice za pisanje v projekt %1</translation>
     </message>
     <message>
         <location filename="../../../backend/src/projectlistmodel.cpp" line="178"/>
         <source>Name</source>
         <extracomment>List column header</extracomment>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <location filename="../../../backend/src/projectlistmodel.cpp" line="181"/>
         <source>Version</source>
         <extracomment>List column header</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Različica</translation>
     </message>
     <message>
         <location filename="../../../backend/src/projectlistmodel.cpp" line="184"/>
         <source>Created</source>
         <extracomment>List column header</extracomment>
-        <translation type="unfinished">Ustvarjeno</translation>
+        <translation>Ustvarjeno</translation>
     </message>
     <message>
         <location filename="../../../backend/src/projectlistmodel.cpp" line="187"/>
         <source>Modified</source>
         <extracomment>List column header</extracomment>
-        <translation type="unfinished">Spremenjeno</translation>
+        <translation>Spremenjeno</translation>
     </message>
     <message>
         <location filename="../../../backend/src/projectlistmodel.cpp" line="762"/>
         <source>Failed to parse project info</source>
         <extracomment>Warning message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Napaka pri razčlenjevanju informacij projekta</translation>
     </message>
     <message>
         <location filename="../../../backend/src/projectlistmodel.cpp" line="768"/>
         <source>Failed to parse project info for project %1</source>
         <extracomment>Warning message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni uspelo razčleniti informacij o projektu za projekt %1</translation>
     </message>
     <message>
         <location filename="../../../backend/src/projectlistmodel.cpp" line="791"/>
         <source>autosave</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are autosaves</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>samodejno shranjevanje</translation>
     </message>
     <message>
         <location filename="../../../backend/src/projectlistmodel.cpp" line="799"/>
         <source>Invalid project type for project %1</source>
         <extracomment>Warning message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Neveljavna vrsta projekta za projekt %1</translation>
     </message>
     <message>
         <location filename="../../../backend/src/projectlistmodel.cpp" line="807"/>
@@ -5862,7 +5863,7 @@ Placeholder text until an icon has been selected</extracomment>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are public examples
 ----------
 Contextual postfix to project name in list of recent projects. Appended to names of project that are public examples</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>primer</translation>
     </message>
     <message>
         <location filename="../../../backend/src/projectlistmodel.cpp" line="815"/>
@@ -5871,7 +5872,7 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are shared with user
 ----------
 Contextual postfix to project name in list of recent projects. Appended to names of project that are shared with the user</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>skupen</translation>
     </message>
     <message>
         <location filename="../../../backend/src/projectlistmodel.cpp" line="877"/>
@@ -5883,7 +5884,7 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <location filename="../../../backend/src/projectlistmodel.cpp" line="881"/>
         <source>My projects (%1/%2)</source>
         <extracomment>Collapsible section: Contains user&apos;s projects</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Moji projekti (%1/%2)</translation>
     </message>
     <message>
         <source>My projects</source>
@@ -5930,223 +5931,223 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="165"/>
         <source>Project contains unsaved changes</source>
         <extracomment>Popup title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Projekt vsebuje neshranjene spremembe</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="169"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
-        <translation type="unfinished">Prepiši %1</translation>
+        <translation>Prepiši %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="172"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
-        <translation type="unfinished">Izbriši %1</translation>
+        <translation>Izbriši %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="184"/>
         <source>Opening a new project will discard all unsaved changes&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Popup text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Odpiranje novega projekta bo zavrglo vse neshranjene spremembe&lt;br&gt;&lt;br&gt;Ali želite nadaljevati?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="187"/>
         <source>Opening a new project will discard all unsaved changes in project %1&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Odpiranje novega projekta bo zavrglo vse neshranjene spremembe v projektu %1&lt;br&gt;&lt;br&gt;Ali želite nadaljevati?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="190"/>
         <source>This action will permanently delete project %1 from the cloud</source>
         <extracomment>Popup text. %1 = project name</extracomment>
-        <translation type="unfinished">To dejanje bo za stalno izbrisalo %1 iz oblaka</translation>
+        <translation>To dejanje bo za stalno izbrisalo %1 iz oblaka</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="194"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite prepisati projekt %1?&lt;br&gt;&lt;br&gt;Ta projekt je bil prej shranjen z različico %2&lt;br&gt;&lt;br&gt;Če ga boste prepisali, potem morda ne bo več mogoče odpreti z IRBCAM %2&lt;br&gt;&lt;br&gt;Če želite obdržati kopijo, potem lahko shranite projekt z novim imenom</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="199"/>
         <source>Are you sure you want to overwrite project %1?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
-        <translation type="unfinished">Ali ste prepričani, da želite prepisati %1?</translation>
+        <translation>Ali ste prepričani, da želite prepisati %1?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="241"/>
         <source>Save Project</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Shrani projekt</translation>
+        <translation>Shrani projekt</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="244"/>
         <source>Open Project</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Odpri projekt</translation>
+        <translation>Odpri projekt</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="247"/>
         <source>Share Project</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Skupna raba projekta</translation>
+        <translation>Skupna raba projekta</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="300"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
-        <translation type="unfinished">Neinicializirano</translation>
+        <translation>Neinicializirano</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="303"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
-        <translation type="unfinished">Nedejaven</translation>
+        <translation>Nedejaven</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="306"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
-        <translation type="unfinished">Pridobivanje opisa</translation>
+        <translation>Pridobivanje opisa</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="309"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
-        <translation type="unfinished">Prenašanje</translation>
+        <translation>Prenašanje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="312"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
-        <translation type="unfinished">Razpakiranje</translation>
+        <translation>Razpakiranje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="315"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
-        <translation type="unfinished">Nalaganje</translation>
+        <translation>Nalaganje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="318"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
-        <translation type="unfinished">Brisanje</translation>
+        <translation>Brisanje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="321"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
-        <translation type="unfinished">Nalaganje</translation>
+        <translation>Nalaganje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="324"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
-        <translation type="unfinished">Pridobivanje seznama</translation>
+        <translation>Pridobivanje seznama</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="327"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
-        <translation type="unfinished">Dekodiranje</translation>
+        <translation>Dekodiranje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="330"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
-        <translation type="unfinished">Verifikacija</translation>
+        <translation>Verifikacija</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="333"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
-        <translation type="unfinished">Nalaganje sredstev</translation>
+        <translation>Nalaganje sredstev</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="336"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
-        <translation type="unfinished">Procesiranje</translation>
+        <translation>Procesiranje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="342"/>
         <source>Unknown</source>
         <extracomment>Network status: Unknown state</extracomment>
-        <translation type="unfinished">Neznano</translation>
+        <translation>Neznano</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="572"/>
         <source>Save name</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to save</extracomment>
-        <translation type="unfinished">Shrani ime</translation>
+        <translation>Shrani ime</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="576"/>
         <source>Search</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to search for</extracomment>
-        <translation type="unfinished">Išči</translation>
+        <translation>Išči</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="717"/>
         <source>Overwrite</source>
         <extracomment>Button text: Overwrite project</extracomment>
-        <translation type="unfinished">Prepiši</translation>
+        <translation>Prepiši</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="719"/>
         <source>Save</source>
         <extracomment>Button text: Save project</extracomment>
-        <translation type="unfinished">Shrani</translation>
+        <translation>Shrani</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="722"/>
         <source>Open</source>
         <extracomment>Button text: Open project</extracomment>
-        <translation type="unfinished">Odpri</translation>
+        <translation>Odpri</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="725"/>
         <source>Share</source>
         <extracomment>Button text: Share project</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Deli</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="756"/>
         <source>You do not have write access to this project</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nimate pisnega dostopa do tega projekta</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="761"/>
         <source>You have reached the maximum number of saved projects. A project must be deleted before a new one can be created</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dosegli ste največje število shranjenih projektov. Projekt mora biti izbrisan, preden se lahko ustvari novega</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="765"/>
         <source>The save name is invalid</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
-        <translation type="unfinished">Ime shranjevanja ni veljavno</translation>
+        <translation>Ime shranjevanja ni veljavno</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="768"/>
         <source>Select a project to open</source>
         <extracomment>Tool-tip: Explaining why the open button is disabled</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izberite projekt za odprtje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="771"/>
         <source>Select a project to share</source>
         <extracomment>Tool-tip: Explaining why the share button is disabled</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izberite projekt za deljenje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="790"/>
         <source>No saved projects</source>
         <extracomment>Placeholder text for an empty list</extracomment>
-        <translation type="unfinished">Ni shranjenih projektov</translation>
+        <translation>Ni shranjenih projektov</translation>
     </message>
 </context>
 <context>
@@ -6223,19 +6224,19 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <location filename="../../../backend/src/qmlutilities.cpp" line="402"/>
         <source>seconds</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; seconds</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>sekunde</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="404"/>
         <source>second</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 second</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>sekunda</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="410"/>
         <source>1 second</source>
         <extracomment>Used to format a label. Denotes that a process has one second or less left (or has been active for one second or less)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>1 sekunda</translation>
     </message>
     <message>
         <location filename="../../../backend/src/robotlistmodel.cpp" line="656"/>
@@ -6300,7 +6301,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <location filename="../../../backend/src/robotdatainterface.cpp" line="378"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
-        <translation type="unfinished">%1 je bil aktiviran</translation>
+        <translation>%1 je bil aktiviran</translation>
     </message>
 </context>
 <context>
@@ -6436,56 +6437,56 @@ Column name. Refers to which date the items were modified</extracomment>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RobotSettings.qml" line="15"/>
         <source>Robot</source>
         <extracomment>Separator label, category</extracomment>
-        <translation type="unfinished">Robot</translation>
+        <translation>Robot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RobotSettings.qml" line="36"/>
         <source>Bending backwards</source>
         <extracomment>Checkbox: Select to use solution where robot bends backwards</extracomment>
-        <translation type="unfinished">Upogibanje nazaj</translation>
+        <translation>Upogibanje nazaj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RobotSettings.qml" line="45"/>
         <source>Select solution where robot bends backwards</source>
         <extracomment>Tool tip for bending backwards checkbox.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izberi rešitev, kjer se robot upogne nazaj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RobotSettings.qml" line="54"/>
         <source>Elbow down</source>
         <extracomment>Checkbox: Select to use solution where the robot&apos;s &quot;elbow&quot; points downwards</extracomment>
-        <translation type="unfinished">Komolec navzdol</translation>
+        <translation>Komolec navzdol</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RobotSettings.qml" line="63"/>
         <source>Select solution where robot points &quot;elbow&quot; downwards</source>
         <extracomment>Tool tip for elbow down checkbox.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izberi rešitev, kjer robot usmeri &quot;komolec&quot; navzdol</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RobotSettings.qml" line="72"/>
         <source>Wrist down</source>
         <extracomment>Checkbox: Select to use solution where robot &quot;wrist&quot; points downwards</extracomment>
-        <translation type="unfinished">Zapestje navzdol</translation>
+        <translation>Zapestje navzdol</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RobotSettings.qml" line="81"/>
         <source>Select solution where robot points &quot;wrist&quot; downwards</source>
         <extracomment>Tool tip for wrist down checkbox.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izberi rešitev, kjer robot kaže zapestje navzdol</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RobotSettings.qml" line="95"/>
         <source>Flange offset: </source>
         <extracomment>Label for deopdown menu: Flange offset</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zamik flanše:</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RobotSettings.qml" line="122"/>
         <source>Add or subtract one full revolution on the tool flange (axis 6)
 Useful for avoiding cable twist or similar issues in certain situations</source>
         <extracomment>Tool tip for dropdown menu: Flange offset</extracomment>
-        <translation type="unfinished">Dodajte ali odštejte en polni obrat na prirobnici orodja (os 6)
+        <translation>Dodajte ali odštejte en polni obrat na prirobnici orodja (os 6)
 Uporabno za preprečevanje zvijanja kabla ali podobnih težav v določenih situacijah</translation>
     </message>
 </context>
@@ -6582,13 +6583,13 @@ Podprte so samo datoteke, kodirane z UTF-8</translation>
         <extracomment>Solution progress status
 ----------
 Error status for solving path. In progress (no error)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Reševanje poti</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="722"/>
         <source>Idle</source>
         <extracomment>Solution progress status</extracomment>
-        <translation type="unfinished">Nedejaven</translation>
+        <translation>Nedejaven</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="728"/>
@@ -6597,7 +6598,7 @@ Error status for solving path. In progress (no error)</extracomment>
         <extracomment>Solution progress status
 ----------
 Error status for solving path. In progress (no error)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Preverjanje poti</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="731"/>
@@ -6606,7 +6607,7 @@ Error status for solving path. In progress (no error)</extracomment>
         <extracomment>Solution progress status
 ----------
 Error status for solving path. In progress (no error)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nastavljanje maksimalne razdalje</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="734"/>
@@ -6615,7 +6616,7 @@ Error status for solving path. In progress (no error)</extracomment>
         <extracomment>Solution progress status
 ----------
 Error status for solving path. In progress (no error)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nastavljanje linearnih dvigališčnih točk</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="737"/>
@@ -6624,7 +6625,7 @@ Error status for solving path. In progress (no error)</extracomment>
         <extracomment>Solution progress status
 ----------
 Error status for solving path. In progress (no error)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nastavitev vrtilnih dvigališčnih točk</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="740"/>
@@ -6633,7 +6634,7 @@ Error status for solving path. In progress (no error)</extracomment>
         <extracomment>Solution progress status
 ----------
 Error status for solving path. In progress (no error)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Reševanje vrtilnih dvigališčnih točk</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="790"/>
@@ -6757,31 +6758,31 @@ Error status for solving path. In progress (no error)</extracomment>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="850"/>
         <source>Invalid arc midpoint</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Neveljavna srednja točka loka</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="853"/>
         <source>Start target must be linear</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Začetni cilj mora biti linearen</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="856"/>
         <source>Radius of the arc must be finite and non-zero</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Polmer loka mora biti končen in neničelen</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="859"/>
         <source>Distance between arc start-point and arc mid-point is too small</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Razdalja med začetno točko loka in srednjo točko loka je premajhna</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="862"/>
         <source>Distance between arc start-point and arc end-point is too small</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Razdalja med začetno točko loka in končno točko loka je premajhna</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1130"/>
@@ -6789,76 +6790,81 @@ Error status for solving path. In progress (no error)</extracomment>
 No new targets were added
 </source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni uspelo konfigurirati največje razdalje pri indeksu %1
+Ni bilo dodanih novih ciljev
+</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1179"/>
         <source>Failed to find max distance</source>
         <extracomment>Error message from find max distance</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni uspelo najti največje razdalje</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1197"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Operacija prekinjena s strani uporabnika
+Najdenih %1 možnih rešitev znotraj določenih parametrov</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1203"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Optimizator je naletel na težavo</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1212"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Optimizator dokončan
+Ni najdenih rešitev z navedenimi parametri</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1218"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Optimizator končan
+Najdeno %1 možnih rešitev znotraj določenih parametrov</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="868"/>
         <source>Distance between two targets is too small</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Razdalja med dvema ciljema je premajhna</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="844"/>
         <source>Target should not be at the rotation axis of the rotary table</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cilj ne sme biti na osi vrtenja rotacijske mize</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="847"/>
         <source>Z-axis of the target should not be aligned with the rotation axis of the rotary table</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Z-os cilja ne sme biti poravnana z rotacijsko osjo rotacijske mize</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="871"/>
         <source>Angle between two targets is too small</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kot med dvema ciljema je preveč majhen</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="964"/>
         <source>Distance between targets %1 and %2 (%3 mm) exceeds recommended maximum (%4 mm)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = distance between targets, %4 = recommended maximum distance</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Razdalja med cilji %1 in %2 (%3 mm) presega priporočeni maksimum (%4 mm)</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="985"/>
         <source>Reorientation between targets %1 and %2 (%3°) exceeds recommended maximum (%4°)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = reorientation between targets, %4 = recommended maximum reorientation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Preusmeritev med cilji %1 in %2 (%3°) presega priporočeni maksimum (%4°)</translation>
     </message>
     <message>
         <source>Path imported from CSV</source>
@@ -6869,80 +6875,80 @@ Found %1 possible solutions within the specified parameters</source>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="865"/>
         <source>Arc angle is to small</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kot loka je premajhen</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="874"/>
         <source>Lift target must be linear</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cilj dviga mora biti linearen</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="877"/>
         <source>Rotary table step angle is out of range</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kot koraka rotacijske mize je zunaj obsega</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="880"/>
         <source>Lift distance is too small</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Razdalja dviga je premajhna</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="883"/>
         <source>Length of lift direction vector is too small</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dolžina vektorja smeri dviga je premajhna</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="886"/>
         <source>Invalid indexed solution</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Neveljavna indeksirana rešitev</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="889"/>
         <source>Invalid rotary lift point</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Neveljavna vrtilna točka dviga</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="892"/>
         <source>Lift point must be configured after all other targets are configured</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Točka dviga mora biti konfigurirana po tem, ko so konfigurirane vse druge tarče</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="895"/>
         <source>Two consecutive targets are not reachable with same turntable step angle</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dva zaporedna cilja nista dosegljiva z istim kotom koraka vrtljive plošče</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="898"/>
         <source>Wrist alignment singularity</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Singularnost poravnave zapestja</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="901"/>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1123"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Operacija prekinjena s strani uporabnika</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1062"/>
         <source>%1 Rotary lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 rotacijske dvigalne točke so bile dodane</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1068"/>
         <source>%1 Linear lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 Linearne točke dviga so bile dodane</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1079"/>
@@ -6957,7 +6963,7 @@ Brez točk</translation>
         <source>Operation aborted by user
 Solved %1 of %2 targets</source>
         <extracomment>Warning message. %1 = first failed index, %2 = total number of targets</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Operacija prekinjena s strani uporabnika Rešeno %1 od %2 ciljev</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1093"/>
@@ -6978,21 +6984,24 @@ Izračunan %1 od %2 ciljev</translation>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalna razdalja uspešno konfigurirana
+1 nova tarča dodana</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1155"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalna razdalja uspešno konfigurirana
+%1 novih ciljev dodanih</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1161"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalna razdalja uspešno konfigurirana
+Nove tarče niso bile dodane</translation>
     </message>
     <message>
         <source>Path imported from JSON</source>
@@ -7043,25 +7052,25 @@ Collapsible list section. This section contains all rotary tables</extracomment>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="19"/>
         <source>Rotary Table</source>
         <extracomment>Category separator text</extracomment>
-        <translation type="unfinished">&amp;Rotacijska miza </translation>
+        <translation>Rotacijska miza</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="26"/>
         <source>This configuration will delete all rotary lift points. However, you can add them again by re-enabling this option and running solve path again. Are you sure you want to proceed?</source>
         <extracomment>Content for confirmation popup.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ta konfiguracija bo izbrisala vse rotacijske dvigalne točke. Vendar jih lahko znova dodate tako, da ponovno omogočite to možnost in znova zaženete reševanje poti. Ali ste prepričani, da želite nadaljevati?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="29"/>
         <source>Cancel</source>
         <extracomment>Cancel button for confirmation popup</extracomment>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="31"/>
         <source>Ok</source>
         <extracomment>Acknowledge button for confirmation popup</extracomment>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Fixed Angle</source>
@@ -7082,25 +7091,25 @@ Collapsible list section. This section contains all rotary tables</extracomment>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="70"/>
         <source>Select motion mode for rotary table</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
-        <translation type="unfinished">Izberi način gibanja za Rotacijsko mizo</translation>
+        <translation>Izberi način gibanja za Rotacijsko mizo</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="78"/>
         <source>Initial angle</source>
         <extracomment>Label for text field: Starting angle for rotary table</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Začetni kot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="80"/>
         <source>Initial angle for rotary table</source>
         <extracomment>Tool tip for text field</extracomment>
-        <translation type="unfinished">Začetni kot za Rotacijsko mizo</translation>
+        <translation>Začetni kot za Rotacijsko mizo</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="112"/>
         <source>Enable indexed mode</source>
         <extracomment>Checkbox: Select to enable indexed mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Omogoči indeksni način</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="56"/>
@@ -7109,73 +7118,73 @@ Collapsible list section. This section contains all rotary tables</extracomment>
         <extracomment>Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed angle)
 ----------
 Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Način: %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="158"/>
         <source>No Group</source>
         <extracomment>Dropdown menu item: Select indexing mode for indexed rotary table</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Brez skupine</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="161"/>
         <source>No lift points between paths.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni dvigalnih točk med potmi.</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="165"/>
         <source>Fixed Group</source>
         <extracomment>Dropdown menu item: Select indexing mode for indexed rotary table</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fiksna skupina</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="168"/>
         <source>Rotary table angle is fixed for targets within a group.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kot rotacijske mize je fiksiran za cilje znotraj skupine.</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="172"/>
         <source>Dynamic Group</source>
         <extracomment>Dropdown menu item: Select indexing mode for indexed rotary table</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dinamična skupina</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="175"/>
         <source>Rotary table angle is dynamic for targets within a group.</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kot vrtilne mize je dinamičen za cilje v skupini.</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="182"/>
         <source>Select indexing mode for indexed rotary table</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izberite način indeksiranja za indeksirano rotacijsko mizo</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="188"/>
         <source>Step size</source>
         <extracomment>Label for text field: Referring to size of step in turntable indexed mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Velikost koraka</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="190"/>
         <source>Size of step angle (1° - 360°)</source>
         <extracomment>Tool tip for text field.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Velikost koraka kota (1° - 360°)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="210"/>
         <source>Lift distance</source>
         <extracomment>Label for text field: Referring to lift distance in turntable indexed mode</extracomment>
-        <translation type="unfinished">Razdalja dviga</translation>
+        <translation>Razdalja dviga</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/RotaryTableSettings.qml" line="225"/>
         <source>mm</source>
         <extracomment>Unit millimietres</extracomment>
-        <translation type="unfinished"> mm</translation>
+        <translation>mm</translation>
     </message>
 </context>
 <context>
@@ -7189,85 +7198,85 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="625"/>
         <source>2D Plot Controls</source>
         <extracomment>Info card title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>2D Kontrole grafa</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="628"/>
         <source>Hide controls</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Skrij kontrolnike</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="630"/>
         <source>Show controls</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži kontrole</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="635"/>
         <source>Left click</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Levi klik</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="637"/>
         <source>Select target</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izberi cilj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="641"/>
         <source>Mouse wheel</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Miškino kolesce</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="643"/>
         <source>Zoom in/out inside plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Povečaj/zmanjšaj znotraj grafa</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="646"/>
         <source>Zooms relative to the current cursor position</source>
         <extracomment>Interaction explanation detail</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Poveča glede na trenutni položaj kazalca</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="651"/>
         <source>Left click + drag</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Levi klik + povleci</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="653"/>
         <source>Zoom in to region</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Povečaj na območje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="657"/>
         <source>Right click + drag</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Desni klik + povleci</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="659"/>
         <source>Pan inside plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pan znotraj plota</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="663"/>
         <source>Double click</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dvojni klik</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="665"/>
         <source>Reset plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ponastavi grafikon</translation>
     </message>
 </context>
 <context>
@@ -7276,103 +7285,103 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="251"/>
         <source>3D Plot Controls</source>
         <extracomment>Info card title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>3D Nadzori plota</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="254"/>
         <source>Hide controls</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Skrij kontrolnike</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="256"/>
         <source>Show controls</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži kontrole</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="261"/>
         <source>Left click</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Levi klik</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="263"/>
         <source>Select target</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Izberi cilj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="267"/>
         <source>Mouse wheel</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Miškino kolesce</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="269"/>
         <source>Zoom in/out inside plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Povečaj/zmanjšaj znotraj grafa</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="272"/>
         <source>If a target is selected it zooms relative to the selected target</source>
         <extracomment>Interaction explanation detail</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Če je cilj izbran, se poveča glede na izbrani cilj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="274"/>
         <source>If no target is selected it zooms relative to the center of the plot</source>
         <extracomment>Interaction explanation detail</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Če ni izbran noben cilj, zoomira relativno glede na središče diagrama</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="279"/>
         <source>%1 + wheel</source>
         <extracomment>Interaction type - %1 = ctrl</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 + kolo</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="281"/>
         <source>Change the size of the plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni velikost grafa</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="285"/>
         <source>Left click + drag</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Levi klik + povleci</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="287"/>
         <source>Rotate the plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zavrti grafikon</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="291"/>
         <source>Right click + drag</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Desni klik + povleci</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="293"/>
         <source>Pan inside plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pomakni znotraj grafa</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="297"/>
         <source>Double click</source>
         <extracomment>Interaction type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dvokliknite</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="299"/>
         <source>Reset plot</source>
         <extracomment>Interaction explanation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ponastavi graf</translation>
     </message>
 </context>
 <context>
@@ -7473,7 +7482,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="152"/>
         <source>Share with</source>
         <extracomment>label, share project with</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Deli z</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="162"/>
@@ -7481,20 +7490,20 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="177"/>
         <source>IRBCAM Support</source>
         <extracomment>combobox item, share project with IRBCAM Support</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Podpora IRBCAM</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="164"/>
         <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="173"/>
         <source>Internal</source>
         <extracomment>combobox item, share project with users with in the organization</extracomment>
-        <translation type="unfinished">Interno</translation>
+        <translation>Interno</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="166"/>
         <source>External</source>
         <extracomment>combobox item, share project with users outside the organization</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zunanji</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ShareStation.qml" line="227"/>
@@ -7521,7 +7530,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <location filename="../../IrbcamQml/Sidebar/SidebarItem.qml" line="130"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip: &apos;module&apos; in this case refers to a particular sidebar. For example the &apos;Targets&apos; sidebar or the &apos;Robot&apos; sidebar</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ta modul vsebuje neshranjene spremembe</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/SidebarItem.qml" line="194"/>
@@ -7569,49 +7578,49 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <location filename="../../../backend/src/standardkeytexts.cpp" line="24"/>
         <source>Ctrl</source>
         <extracomment>Ctrl key</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="30"/>
         <source>Alt</source>
         <extracomment>Alt key</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="36"/>
         <source>Shift</source>
         <extracomment>Shift key</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Premik</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="42"/>
         <source>Del</source>
         <extracomment>Delete key</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Del</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="48"/>
         <source>Left Arrow</source>
         <extracomment>Left arrow key</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Leva puščica</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="54"/>
         <source>Right Arrow</source>
         <extracomment>Right arrow key</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Desna puščica</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="60"/>
         <source>Up Arrow</source>
         <extracomment>Up arrow key</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Puščica navzgor</translation>
     </message>
     <message>
         <location filename="../../../backend/src/standardkeytexts.cpp" line="66"/>
         <source>Down Arrow</source>
         <extracomment>Down arrow key</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Puščica navzdol</translation>
     </message>
 </context>
 <context>
@@ -7649,7 +7658,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="62"/>
         <source>Save version</source>
         <extracomment>The currently loaded project was last saved with version</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Shrani različico</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="97"/>
@@ -7988,25 +7997,25 @@ To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
         <location filename="../../../backend/src/stationinterface.cpp" line="1466"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni uspelo pridobiti podatkov uporabniškega okvirja</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1484"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni uspelo naložiti podatkov uporabniškega okvirja</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1494"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni uspelo pridobiti podatkov o okvirju objekta</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1503"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni uspelo naložiti podatkov o okvirju objekta</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1571"/>
@@ -8078,26 +8087,26 @@ To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
         <location filename="../../../backend/src/stationinterface.cpp" line="415"/>
         <source>No changes detected in project</source>
         <extracomment>Notification message that is displayed if the user attempst to save project, but the project has not changed since last save</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>V projektu ni zaznanih sprememb</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1536"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Manjkajoče ali poškodovane informacije o poti iz shranjenega projekta</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1555"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>uvoz poti</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1706"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="1713"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>DH tabela</translation>
     </message>
 </context>
 <context>
@@ -8106,32 +8115,32 @@ To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
         <location filename="../../../backend/src/stationviewer.cpp" line="540"/>
         <source>Inverse kinematics could not be solved with this value (x=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Inverzne kinematike ni bilo mogoče rešiti s to vrednostjo (x=%1 mm)</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="557"/>
         <location filename="../../../backend/src/stationviewer.cpp" line="574"/>
         <source>Inverse kinematics could not be solved with this value (y=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Inverzne kinematike ni bilo mogoče rešiti s to vrednostjo (y=%1 mm)</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="592"/>
         <source>Inverse kinematics could not be solved with this value (rz1=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Inverzne kinematike ni bilo mogoče rešiti s to vrednostjo (rz1=%1°)</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="611"/>
         <source>Inverse kinematics could not be solved with this value (ry=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Inverzne kinematike ni bilo mogoče rešiti s to vrednostjo (ry=%1°)</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="633"/>
         <source>Inverse kinematics could not be solved with this value (rz2=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Inverzne kinematike ni bilo mogoče rešiti s to vrednostjo (rz2=%1°)</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="960"/>
@@ -8154,7 +8163,7 @@ Cilj pri indeksu %1 ima ničelno hitrost</translation>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Animacija prekinjena Cilj pri indeksu %1 ni rešen</translation>
     </message>
     <message>
         <source>Animation aborted
@@ -8204,7 +8213,7 @@ Cilj je nedosegljiv s trenutno konfiguracijo</translation>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="275"/>
         <source>Feed speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in linear velocity (feed speed)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sprememba hitrosti posuva</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="286"/>
@@ -8222,49 +8231,49 @@ Cilj je nedosegljiv s trenutno konfiguracijo</translation>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="327"/>
         <source>Target is successfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cilj je uspešno rešen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="329"/>
         <source>Path is succesfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pot je uspešno rešen</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="332"/>
         <source>Target failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cilj ni uspel rešiti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="334"/>
         <source>Path failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pot ni uspelo rešiti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="360"/>
         <source>Unlock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Odkleni urejanje za ta cilj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="364"/>
         <source>Lock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zakleni urejanje za ta cilj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="370"/>
         <source>Unlock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Odkleni urejanje za vse cilje na tej poti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="374"/>
         <source>Lock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zakleni urejanje za vse cilje v tej poti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="426"/>
@@ -8273,73 +8282,73 @@ Cilj je nedosegljiv s trenutno konfiguracijo</translation>
         <extracomment>Unit millimetres
 ----------
 Unit millimetres. Part of a fraction mm/s</extracomment>
-        <translation type="unfinished"> mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="443"/>
         <source>s</source>
         <extracomment>Unit seconds. Part of a fraction mm/s</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>s</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="517"/>
         <source>Speed</source>
         <extracomment>Label over input field</extracomment>
-        <translation type="unfinished">Hitrost</translation>
+        <translation>Hitrost</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="522"/>
         <source>Tool</source>
         <extracomment>Label over input field</extracomment>
-        <translation type="unfinished">Orodje</translation>
+        <translation>Orodje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="527"/>
         <source>Spindle</source>
         <extracomment>Label over input field</extracomment>
-        <translation type="unfinished">Vreteno</translation>
+        <translation>Vreteno</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="540"/>
         <source>Input</source>
         <extracomment>Dropdown menu item. Speed mode: input</extracomment>
-        <translation type="unfinished">Vhod</translation>
+        <translation>Vhod</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="545"/>
         <source>Cutting</source>
         <extracomment>Dropdown menu item. Speed mode: cutting</extracomment>
-        <translation type="unfinished">Rezanje</translation>
+        <translation>Rezanje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="550"/>
         <source>Rapid</source>
         <extracomment>Dropdown menu item. Speed mode: rapid</extracomment>
-        <translation type="unfinished">Hitro</translation>
+        <translation>Hitro</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="578"/>
         <source>rpm</source>
         <extracomment>Unit: revolutions per minute</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>obr/min</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="587"/>
         <source>V</source>
         <extracomment>Input field prefix. Denotes velocity</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>V</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="594"/>
         <source>Motion type: </source>
         <extracomment>Droptown menu text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vrsta gibanja: </translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="615"/>
         <source>Linear</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
-        <translation type="unfinished">Linearno</translation>
+        <translation>Linearno</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="266"/>
@@ -8348,13 +8357,13 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <extracomment>Tooltip text
 ----------
 Droptown menu text, motion type for target</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sredina loka</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="209"/>
         <source>Undefined</source>
         <extracomment>Placeholder text for missing name</extracomment>
-        <translation type="unfinished">Nedefinirano</translation>
+        <translation>Nedefinirano</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="264"/>
@@ -8363,7 +8372,7 @@ Droptown menu text, motion type for target</extracomment>
         <extracomment>Tooltip text
 ----------
 Droptown menu text, motion type for target</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rotacijska dvigovna točka</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="261"/>
@@ -8372,7 +8381,7 @@ Droptown menu text, motion type for target</extracomment>
         <extracomment>Tooltip text
 ----------
 Droptown menu text, motion type for target</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Linearna dvigovna točka</translation>
     </message>
 </context>
 <context>
@@ -8439,79 +8448,79 @@ Droptown menu text, motion type for target</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="34"/>
         <source>Tool Data</source>
         <extracomment>Collapsible section: Set data related the tool</extracomment>
-        <translation type="unfinished">Podatki Orodja</translation>
+        <translation>Podatki Orodja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="53"/>
         <source>Tool Name</source>
         <extracomment>Name of the selected tool</extracomment>
-        <translation type="unfinished">Ime orodja</translation>
+        <translation>Ime orodja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="61"/>
         <source>No tool selected</source>
         <extracomment>Only shown if the user has not selected a tool</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni izbranega orodja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="69"/>
         <source>Export Name</source>
         <extracomment>Name of the tool in the exported code</extracomment>
-        <translation type="unfinished">Ime izvoza</translation>
+        <translation>Ime izvoza</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="78"/>
         <source>Tool Export Name</source>
         <extracomment>Placeholder for when no tool export name has been entered</extracomment>
-        <translation type="unfinished">Ime izvoza orodja</translation>
+        <translation>Ime izvoza orodja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="92"/>
         <source>Weight (kg)</source>
         <extracomment>Tool weight</extracomment>
-        <translation type="unfinished">Teža (kg): </translation>
+        <translation>Teža (kg)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="102"/>
         <source>Tool Weight</source>
         <extracomment>Placeholder for when no tool weight has been entered</extracomment>
-        <translation type="unfinished">Teža orodja</translation>
+        <translation>Teža orodja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="124"/>
         <source>Center of Gravity X (mm)</source>
         <extracomment>X-position of the tool&apos;s centre of gravity</extracomment>
-        <translation type="unfinished">Težišče X (mm)</translation>
+        <translation>Težišče X (mm)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="132"/>
         <source>Center of Gravity X</source>
         <extracomment>Placeholder text for when no X centre of gravity is entered</extracomment>
-        <translation type="unfinished">Težišče X</translation>
+        <translation>Težišče X</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="158"/>
         <source>Center of Gravity Y (mm)</source>
         <extracomment>Y-position of the tool&apos;s centre of gravity</extracomment>
-        <translation type="unfinished">Težišče Y (mm)</translation>
+        <translation>Težišče Y (mm)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="166"/>
         <source>Center of Gravity Y</source>
         <extracomment>Placeholder text for when no Y centre of gravity is entered</extracomment>
-        <translation type="unfinished">Težišče Y</translation>
+        <translation>Težišče Y</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="192"/>
         <source>Center of Gravity Z (mm)</source>
         <extracomment>Z-position of the tool&apos;s centre of gravity</extracomment>
-        <translation type="unfinished">Težišče Z (mm)</translation>
+        <translation>Težišče Z (mm)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="200"/>
         <source>Center of Gravity Z</source>
         <extracomment>Placeholder text for when no Z centre of gravity is entered</extracomment>
-        <translation type="unfinished">Težišče Z</translation>
+        <translation>Težišče Z</translation>
     </message>
 </context>
 <context>
@@ -8529,7 +8538,7 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="49"/>
         <source>mm</source>
         <extracomment>Unit millimetres</extracomment>
-        <translation type="unfinished"> mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="90"/>
@@ -8553,13 +8562,13 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="147"/>
         <source>Show mesh</source>
         <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži mrežo</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="154"/>
         <source>Transparent</source>
         <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Transparenten</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="165"/>
@@ -8576,7 +8585,7 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="167"/>
         <source>Stationary tool is incompatible with %1</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Stacionarno orodje ni združljivo z %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="169"/>
@@ -8726,103 +8735,103 @@ Button. Import custom tool</extracomment>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="24"/>
         <source>Tool-point</source>
         <extracomment>Title. This is the top left drawer in the station view, where the user can see the tool-point</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Orodna točka</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="26"/>
         <source>No tool-point to show</source>
         <extracomment>Label. Only visible if tool-point is available</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni točke orodja za prikaz</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="56"/>
         <source> mm</source>
         <extracomment>postfix after a number (millimeters)</extracomment>
-        <translation type="unfinished"> mm</translation>
+        <translation> mm</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="237"/>
         <source>Press ctrl + c to copy to clipboard</source>
         <extracomment>label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pritisnite ctrl + c za kopiranje v odložišče</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="409"/>
         <source>Insert</source>
         <extracomment>Button: Insert target</extracomment>
-        <translation type="unfinished">Vstavi</translation>
+        <translation>Vstavi</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="411"/>
         <source>Insert Before</source>
         <extracomment>Button: Insert target before selected target in the list</extracomment>
-        <translation type="unfinished">Vstavi pred</translation>
+        <translation>Vstavi pred</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="471"/>
         <source>Relative to</source>
         <extracomment>label next to a drop-down menu</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Glede na</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="480"/>
         <source>Global origin</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Globalni izvor</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="482"/>
         <source>Robot base</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
-        <translation type="unfinished">Baza robota</translation>
+        <translation>Baza robota</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="484"/>
         <source>User frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
-        <translation type="unfinished">Uporabniški Koordinantni Sistem</translation>
+        <translation>Uporabniški Koordinantni Sistem</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="486"/>
         <source>Object frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
-        <translation type="unfinished">Koordinatni sistem predmeta</translation>
+        <translation>Koordinatni sistem predmeta</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="595"/>
         <source>Copy</source>
         <extracomment>Button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kopiraj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="205"/>
         <source>Current tool-point</source>
         <extracomment>Label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Trenutna točka orodja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="217"/>
         <source>Relative to object frame</source>
         <extracomment>Tool-tip</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Relativno glede na objektni okvir</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="251"/>
         <source>Targets</source>
         <extracomment>Label</extracomment>
-        <translation type="unfinished">Točke</translation>
+        <translation>Točke</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="400"/>
         <source>Replace</source>
         <extracomment>Button: Replace selected target</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zamenjaj</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="442"/>
         <source>Insert after</source>
         <extracomment>Button: Insert after selected target</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vstavi za</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="183"/>
@@ -8832,13 +8841,17 @@ Translation (mm)
 Rotation (rad)
 [z1, y, z2]: [%5, %6, %7]</source>
         <extracomment>Clipboard text, %1 = text (reference frame), %2-4 = number (position), %5-7 = number (rotation)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Referenčni okvir: %1
+Translacija (mm)
+[x, y, z]: [%2, %3, %4]
+Rotacija (rad)
+[z1, y, z2]: [%5, %6, %7]</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="195"/>
         <source>Relative pose copied to clipboard</source>
         <extracomment>Notification message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Relativna poza kopirana v odložišče</translation>
     </message>
 </context>
 <context>
@@ -8865,7 +8878,7 @@ Rotation (rad)
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="19"/>
         <source>Tool Roll</source>
         <extracomment>Category separator text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Orodje Valj</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -8901,37 +8914,37 @@ Rotation (rad)
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="35"/>
         <source>Mode: %1</source>
         <extracomment>Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Angle)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Način: %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="64"/>
         <source>Overwrite tool roll angle %1 values of all targets with the selected method</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path. %1 = RZ2</extracomment>
-        <translation type="unfinished">Prepiši vrednosti kota nagiba orodja %1 vseh tarč z izbrano metodo</translation>
+        <translation>Prepiši vrednosti kota nagiba orodja %1 vseh tarč z izbrano metodo</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="83"/>
         <source>Initial angle</source>
         <extracomment>Label for text field: Referring to rotation about the tool Z-axis</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Začetni kot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="85"/>
         <source>Set initial tool roll angle</source>
         <extracomment>Tool tip for slider.</extracomment>
-        <translation type="unfinished">Nastavi začetni kot nagiba orodja</translation>
+        <translation>Nastavi začetni kot nagiba orodja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="104"/>
         <source>Max angle difference</source>
         <extracomment>Label for text field: Referring to maximum angular difference between adjacent targets</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Največja razlika kota</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/ToolRollSettings.qml" line="106"/>
         <source>Maximum angular difference between adjacent targets</source>
         <extracomment>Tool tip for input</extracomment>
-        <translation type="unfinished">Največja kotna razlika med sosednjimi točkami</translation>
+        <translation>Največja kotna razlika med sosednjimi točkami</translation>
     </message>
 </context>
 <context>
@@ -9066,7 +9079,7 @@ Rotation (rad)
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="18"/>
         <source>Linear Track</source>
         <extracomment>Category separator text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Linearni tir</translation>
     </message>
     <message>
         <source>Fixed Position</source>
@@ -9097,50 +9110,50 @@ Rotation (rad)
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="30"/>
         <source>Mode: %1</source>
         <extracomment>Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Način: %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="45"/>
         <source>Select motion mode for linear track</source>
         <extracomment>Tool tip for dropdown menu. Explains that selecting from this menu will overwrite RZ2 angles in the path</extracomment>
-        <translation type="unfinished">Izberi način gibanja za linearni pomik</translation>
+        <translation>Izberi način gibanja za linearni pomik</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="66"/>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="105"/>
         <source>mm</source>
         <extracomment>Unit: millimetres</extracomment>
-        <translation type="unfinished"> mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="70"/>
         <source>Initial position of linear track</source>
         <extracomment>Tool tip for label.</extracomment>
-        <translation type="unfinished">Začetna pozicija linearnega pomika</translation>
+        <translation>Začetna pozicija linearnega pomika</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="73"/>
         <source>Initial value axis %1</source>
         <extracomment>Label for slider. Referring to linear track position if it is a multi axis linear track. %1 = axis number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Začetna vrednost osi %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="75"/>
         <source>Initial value</source>
         <extracomment>Label for slider. Referring to linear track position</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Začetna vrednost</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="93"/>
         <source>Batch size</source>
         <extracomment>Label for text field: Referring to size of batches in linear track motion</extracomment>
-        <translation type="unfinished">Velikost serije</translation>
+        <translation>Velikost serije</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/ConfigurePathSettings/TrackSettings.qml" line="95"/>
         <source>Size of batch window</source>
         <extracomment>Tool tip for text field.</extracomment>
-        <translation type="unfinished">Velikost okna serije</translation>
+        <translation>Velikost okna serije</translation>
     </message>
 </context>
 <context>
@@ -9204,7 +9217,7 @@ Rotation (rad)
         <location filename="../../IrbcamQml/Popups/Assets/UiSettings.qml" line="282"/>
         <source>Scene background color</source>
         <extracomment>Label: Background color for station 3d view</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Barva ozadja scene</translation>
     </message>
     <message>
         <source>Station color</source>
@@ -9224,13 +9237,13 @@ Rotation (rad)
         <location filename="../../IrbcamQml/Controls/UndoButtons.qml" line="37"/>
         <source>Undo last action (%1)</source>
         <extracomment>Undo button tooltip, %1 = key combination</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Razveljavi zadnje dejanje (%1)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/UndoButtons.qml" line="52"/>
         <source>Redo last action (%1)</source>
         <extracomment>Redo button tooltip, %1 = key combination</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ponovi zadnjo akcijo (%1)</translation>
     </message>
 </context>
 <context>
@@ -9305,49 +9318,49 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../../backend/src/qmlutilities.cpp" line="427"/>
         <source>Dynamic Angle</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dinamičen kot</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="430"/>
         <source>Fixed Angle + Deviation</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fiksni kot + Odstopanje</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="436"/>
         <source>Roller Mode</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
-        <translation type="unfinished">Način valjarja</translation>
+        <translation>Način valjarja</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="452"/>
         <source>RZ2 is equal to the tool roll angle with corrections to account for singularities</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>RZ2 je enako kotu vrtenja orodja s popravki za upoštevanje singularitet</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="455"/>
         <source>RZ2 is set to the tool roll angle for the first target. For all other targets, it is dynamically adjusted by increasing and decreasing in 1-degree steps up to the maximum deviation from the starting tool roll angle</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>RZ2 je nastavljen na kot vrtenja orodja za prvi cilj. Za vse druge cilje se dinamično prilagaja s povečevanjem in zmanjševanjem v korakih po 1 stopinji do največje odstopanja od začetnega kota vrtenja orodja</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="462"/>
         <source>RZ2 follows the fixed angle but is also dynamically adjusted by increasing and decreasing in 1-degree steps up to the maximum deviation from the starting tool roll angle</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>RZ2 sledi fiksnemu kotu, vendar se tudi dinamično prilagaja z večanjem in zmanjševanjem v korakih po 1 stopinji do največjega odstopanja od začetnega kota vrtenja orodja</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="468"/>
         <source>RZ2 is unchanged</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>RZ2 je nespremenjen</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="471"/>
         <source>RZ2 is calculated such that the roller direction is along the path</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>RZ2 se izračuna tako, da je smer valja vzdolž poti</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="485"/>
@@ -9383,31 +9396,31 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../../backend/src/qmlutilities.cpp" line="518"/>
         <source>Rotation Compensation</source>
         <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kompenzacija rotacije</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="521"/>
         <source>Position Compensation</source>
         <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kompenzacija položaja</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="539"/>
         <source>Rotary table angle is fixed</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kot rotacijske mize je fiksiran</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="542"/>
         <source>Rotary table angle is dynamically computed to compensate for rotational changes between the targets</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kot rotacijske mize se dinamično izračuna, da kompenzira rotacijske spremembe med cilji</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="545"/>
         <source>Rotary table angle is dynamically computed to compensate for positional changes between the targets</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kot rotacijske mize se dinamično izračuna, da kompenzira položajne spremembe med cilji</translation>
     </message>
 </context>
 <context>
@@ -9469,109 +9482,109 @@ Ste našli napako ali imate odlično idejo za novo funkcijo? Uporabite obrazec z
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="230"/>
         <source>Helpful Hints</source>
         <extracomment>Title. This card contains info on shortkeys and other hints</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Koristni nasveti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="246"/>
         <source>Some shortcuts are global, no matter where you are in the application they will perform the following actions</source>
         <extracomment>Label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nekatere bližnjice so globalne, ne glede na to, kje ste v aplikaciji, izvedle bodo naslednja dejanja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="253"/>
         <source>New project</source>
         <extracomment>Shortkey action: Create a new project</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nov projekt</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="262"/>
         <source>Open project</source>
         <extracomment>Shortkey action: Open existing project</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Odpri projekt</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="271"/>
         <source>Save project</source>
         <extracomment>Shortkey action: Save current project</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Shrani projekt</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="282"/>
         <source>Many windows are resizable. The mouse cursor changes to indicate this when the margin of a resizable window is hovered</source>
         <extracomment>Label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mnoga okna so velikostno prilagodljiva. Kazalec miške se spremeni, da to označi, ko se miška premakne nad rob prilagodljivega okna</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="289"/>
         <source>Resize window</source>
         <extracomment>Navigation action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Spremeni velikost okna</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="293"/>
         <source>Left click + drag on the window margin</source>
         <extracomment>Navigation operation: Resize window</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Levi klik + povleci na rob okna</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="299"/>
         <source>Reset to default</source>
         <extracomment>Navigation action</extracomment>
-        <translation type="unfinished">Ponastavi na privzeto</translation>
+        <translation>Ponastavi na privzeto</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="303"/>
         <source>Double click on the window margin</source>
         <extracomment>Navigation operation: Reset to default</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dvokliknite na rob okna</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="311"/>
         <source>Most user input elements have undo/redo functionality</source>
         <extracomment>Label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Večina elementov uporabniškega vnosa ima funkcionalnost razveljavi/ponovi</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="318"/>
         <source>Undo</source>
         <extracomment>Shortkey action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Razveljavi</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="327"/>
         <source>Redo</source>
         <extracomment>Shortkey action</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ponovi</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="342"/>
         <source>IRBCAM has contextual help cards scattered around in the application. These cards contain helpful information such as shortkeys and navigation hints in the respective context</source>
         <extracomment>Label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>IRBCAM ima kontekstualne kartice pomoči, raztresene po aplikaciji. Te kartice vsebujejo koristne informacije, kot so bližnjice in namigi za navigacijo v ustreznem kontekstu</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="354"/>
         <source>Look for this icon to find them</source>
         <extracomment>Label - Next to an icon</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Poiščite to ikono, da jih najdete</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="363"/>
         <source>Ready to dive in?</source>
         <extracomment>Title. This is the last page of the welcome popup</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pripravljen za potop?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="370"/>
         <source>Jump in and start exploring IRBCAM. We can&apos;t wait to see what you&apos;ll create!</source>
         <extracomment>Label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Skoči noter in začni raziskovati IRBCAM. Ne moremo čakati, da vidimo, kaj boste ustvarili!</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Welcome.qml" line="378"/>
         <source>Don&apos;t know where to start? No problem! Check out the tutorials in [our forum](%1) or open one of the tutorial projects here in IRBCAM.</source>
         <extracomment>Label. This text is written in Markdown format. This is the link format: [text](url). %1: url to tutorials in our forum</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ne veste, kje začeti? Ni problema! Preverite vaje v [našem forumu](%1) ali odprite enega od projektov vaj tukaj v IRBCAM.</translation>
     </message>
     <message>
         <source>Jump in and start exploring the new and improved IRBCAM. We can&apos;t wait to see what you&apos;ll create!</source>
