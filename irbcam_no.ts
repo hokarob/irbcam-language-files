@@ -5278,7 +5278,7 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="373"/>
         <source>Copy to project</source>
         <extracomment>Button. Transfer optimised values to project</extracomment>
-        <translation>Koper til prosjekt</translation>
+        <translation>Kopier til prosjekt</translation>
     </message>
 </context>
 <context>
@@ -5603,7 +5603,7 @@ Context menu sub-item: Split path -&gt; After</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="56"/>
         <source>Copy targets in path</source>
         <extracomment>Context menu item</extracomment>
-        <translation>Koper mål i bane</translation>
+        <translation>Kopier mål i bane</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/PathContextMenu.qml" line="88"/>
