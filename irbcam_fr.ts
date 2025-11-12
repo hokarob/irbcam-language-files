@@ -7971,13 +7971,13 @@ Des longs chemins peuvent être importés en les découpant en plus petits fichi
         <translation>Échec de la récupération du code pour le robot depuis le serveur</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1397"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1410"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Échec de la récupération du projet sauvegardé</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1409"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1422"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -7985,56 +7985,56 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Cela peut arriver si la sauvegarde vient d&apos;une version d&apos;IRBCAM plus ancienne</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1435"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1448"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Il manque des informations dans le projet récupéré depuis le serveur</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1466"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1479"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Échec de l&apos;obtention des données du repère utilisateur</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1484"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1497"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Échec du chargement des données de cadre utilisateur</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1494"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1507"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Échec de l&apos;obtention des données du cadre de l&apos;objet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1503"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1516"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Échec du chargement des données du repère de l&apos;objet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1536"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1549"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Informations de chemin manquantes ou corrompues dans le projet sauvegardé</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1555"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1568"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>import de chemin</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1706"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1713"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1719"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1726"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>Tableau DH</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1417"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1430"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -8042,25 +8042,25 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Cela peut arriver si la sauvegarde vient d&apos;une version d&apos;IRBCAM plus ancienne</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1571"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1579"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1589"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1584"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1592"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1602"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1603"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1611"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1641"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1616"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1624"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1654"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>outil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1655"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1663"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1673"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1668"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1676"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1686"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>table rotative</translation>
@@ -8073,7 +8073,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Cela peut arriver si la sauvegarde vient d&apos;une version d&apos;IRBCAM plus ancienne</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1456"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1469"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Échec du chargement des données du projet</translation>
@@ -8089,14 +8089,14 @@ Cela peut arriver si la sauvegarde vient d&apos;une version d&apos;IRBCAM plus a
         <translation type="vanished">Les informations sur la table DH ne sont pas présentes dans la sauvegarde du projet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1760"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1773"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projet %1 chargé</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1685"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1693"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1698"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1706"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>rail linéaire</translation>
