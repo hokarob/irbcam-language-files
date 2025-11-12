@@ -529,6 +529,15 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
     </message>
 </context>
 <context>
+    <name>AssetTreeDelegate</name>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeDelegate.qml" line="251"/>
+        <source>See details (Open external window)</source>
+        <extracomment>Tool tip: Shown when hovering above the external link button on assets</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>AssetTreeView</name>
     <message>
         <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="68"/>
@@ -4287,6 +4296,15 @@ Collapsible item in tree view. This is the root item, indicating that the list c
     </message>
 </context>
 <context>
+    <name>LoadProjectDelegate</name>
+    <message>
+        <location filename="../../IrbcamQml/Popups/Assets/LoadProjectDelegate.qml" line="128"/>
+        <source>See details (Open external window)</source>
+        <extracomment>Tool tip: Shown when hovering above the external link button on projects</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LoadProjectFromFile</name>
     <message>
         <source>Load Project From File</source>
@@ -7581,7 +7599,7 @@ Placeholder text until an icon has been selected</extracomment>
         <translation type="vanished">Det gick inte att hämta sparade projekt från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="877"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="893"/>
         <source>Recent</source>
         <extracomment>Collapsible section: Contains recent projects</extracomment>
         <translation>Senaste</translation>
@@ -7592,13 +7610,13 @@ Placeholder text until an icon has been selected</extracomment>
         <translation type="vanished">Mina projekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="885"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="901"/>
         <source>Examples</source>
         <extracomment>Collapsible section: Contains demo projects</extracomment>
         <translation>Exempel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="883"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="899"/>
         <source>Shared with me</source>
         <extracomment>Collapsible section: Contains shared projects</extracomment>
         <translation>Delade med mig</translation>
@@ -7634,32 +7652,32 @@ Placeholder text until an icon has been selected</extracomment>
         <translation>Modifierad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="762"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="778"/>
         <source>Failed to parse project info</source>
         <extracomment>Warning message</extracomment>
         <translation>Misslyckades med att tolka projektinformation</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="768"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="784"/>
         <source>Failed to parse project info for project %1</source>
         <extracomment>Warning message</extracomment>
         <translation>Misslyckades med att tolka projektinformation för projekt %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="791"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="807"/>
         <source>autosave</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are autosaves</extracomment>
         <translation>autospara</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="799"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="815"/>
         <source>Invalid project type for project %1</source>
         <extracomment>Warning message</extracomment>
         <translation>Ogiltig projekttyp för projekt %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="807"/>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="873"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="823"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="889"/>
         <source>example</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are public examples
 ----------
@@ -7667,8 +7685,8 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>exempel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="815"/>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="869"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="831"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="885"/>
         <source>shared</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are shared with user
 ----------
@@ -7676,13 +7694,13 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>delad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="881"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="897"/>
         <source>My projects (%1/%2)</source>
         <extracomment>Collapsible section: Contains user&apos;s projects</extracomment>
         <translation>Mina projekt (%1/%2)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="887"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="903"/>
         <source>Autosave</source>
         <extracomment>Collapsible section: Contains auto-saved projects</extracomment>
         <translation>Autospara</translation>
