@@ -475,7 +475,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>AssetTreeDelegate</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeDelegate.qml" line="251"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeDelegate.qml" line="257"/>
         <source>See details (Open external window)</source>
         <extracomment>Tool tip: Shown when hovering above the external link button on assets</extracomment>
         <translation type="unfinished"></translation>
@@ -3103,7 +3103,7 @@ code: %2</source>
 code : %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1167"/>
+        <location filename="../../../backend/src/networking.cpp" line="1172"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
@@ -3111,7 +3111,7 @@ Save your work and reload page to get the newest features</source>
 Enregistrez votre travail et rechargez la page pour bénéficier des dernières fonctionnalités</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1173"/>
+        <location filename="../../../backend/src/networking.cpp" line="1178"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -3127,7 +3127,7 @@ Veuillez enregistrer votre travail et recharger la page dès que possible</trans
         <translation>Une erreur réseau est survenue</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1193"/>
+        <location filename="../../../backend/src/networking.cpp" line="1198"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Échec de la récupération de l&apos;état du processus cloud</translation>
@@ -3543,7 +3543,7 @@ Collapsible item in tree view. This is the root item, indicating that the list c
 <context>
     <name>LoadProjectDelegate</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/LoadProjectDelegate.qml" line="128"/>
+        <location filename="../../IrbcamQml/Popups/Assets/LoadProjectDelegate.qml" line="133"/>
         <source>See details (Open external window)</source>
         <extracomment>Tool tip: Shown when hovering above the external link button on projects</extracomment>
         <translation type="unfinished"></translation>
