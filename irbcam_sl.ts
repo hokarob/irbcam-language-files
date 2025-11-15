@@ -2061,104 +2061,104 @@ Placeholder for when no user frame number is entered</extracomment>
 <context>
     <name>General</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="84"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="85"/>
         <source>General Options</source>
         <extracomment>Collapsible section</extracomment>
         <translation>Splošne možnosti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="100"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="101"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox. Select to switch off tool under rapid movement</extracomment>
         <translation>Varilna pištola vključeno/izključeno</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="106"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="107"/>
         <source>Switch off tool (gun) under rapid movement</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Pri hitrem gibanju izklopi orodje (varilno pištolo)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="123"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="124"/>
         <source>Fine point before gun on/off</source>
         <extracomment>Checkbox. Select to enable fine point before gun on/off</extracomment>
         <translation>Natančno pozicioniranje pred Varilna pištola vključeno/izključeno</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="129"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="130"/>
         <source>Enable fine point before gun on/off</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Omogoči pozicioniranje pred Varilna pištola vključeno/izključeno</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="141"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="142"/>
         <source>Set tool number</source>
         <extracomment>Checkbox. Select to enable automatic tool changing in exported code</extracomment>
         <translation>Nastavite številko orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="147"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="148"/>
         <source>Automatic tool changing</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Samodejna menjava orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="156"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="157"/>
         <source>Export spindle speeds</source>
         <extracomment>Checkbox. Select to include spindle speeds in exported robot code</extracomment>
         <translation>Izvozi hitrosti vretena</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="162"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="163"/>
         <source>Include spindle speeds in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>V izvoženo kodo vključite hitrosti vretena</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="172"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="173"/>
         <source>Override speeds</source>
         <extracomment>Checkbox. Select to override all feed speeds</extracomment>
         <translation>Preglasi hitrosti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="178"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="179"/>
         <source>Override target speeds from path</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Preglasi ciljne hitrosti s poti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="199"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="200"/>
         <source>Cutting speed (mm/s)</source>
         <extracomment>Selector for linear cutting speed</extracomment>
         <translation>Hitrost rezanja (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="201"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="202"/>
         <source>Override targets with speed mode &quot;cutting&quot; and &quot;input&quot;</source>
         <extracomment>Tool tip for dropdown menu. Select override cutting feed speed</extracomment>
         <translation>Preglasite točke s hitrostnim načinom &quot;rezanje&quot; in &quot;vnos&quot;</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="240"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="241"/>
         <source>Rapid speed (mm/s)</source>
         <extracomment>Selector for linear rapid speed</extracomment>
         <translation>Visoka hitrost (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="242"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="243"/>
         <source>Override targets with speed mode &quot;rapid&quot;</source>
         <extracomment>Tool tip for dropdown menu. Select override rapid feed speed</extracomment>
         <translation>Preglasite točke s hitrostnim načinom &quot;hitro gibanje&quot;</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="282"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="283"/>
         <source>Split files at linear lift points</source>
         <extracomment>Checkbox: Select to split files at linear lift points</extracomment>
         <translation>Razdelite datoteke pri linearnih dvigovalnih točkah</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="325"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="336"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="326"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="337"/>
         <source>Up Number</source>
         <extracomment>User procedure number for the robot
 ----------
@@ -2166,7 +2166,7 @@ Placeholder for when no up number is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="327"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="328"/>
         <source>User procedure number in exported code [1 - 999]</source>
         <extracomment>Tool tip for text field</extracomment>
         <translation type="unfinished"></translation>
@@ -2207,8 +2207,8 @@ Placeholder for when no up number is entered</extracomment>
         <translation type="obsolete">Največ vrstic</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="293"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="312"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="294"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="313"/>
         <source>Procedure name</source>
         <extracomment>Name of the procedure for the robot
 ----------
@@ -2216,7 +2216,7 @@ Placeholder for when no procedure name is entered</extracomment>
         <translation>Ime postopka</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="295"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="296"/>
         <source>Name of the subprocess in exported code</source>
         <extracomment>Tool tip for text field</extracomment>
         <translation>Ime podprocesa v izvoženi kodi</translation>
