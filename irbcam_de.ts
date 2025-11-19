@@ -697,73 +697,73 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>AsyncLoading</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="47"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="61"/>
         <source>Finding solutions</source>
         <extracomment>Popup title text for optimizer</extracomment>
         <translation>Lösungen finden</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="50"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="64"/>
         <source>Solve path</source>
         <extracomment>Popup title text for solve path</extracomment>
         <translation>Pfad lösen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="134"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="147"/>
         <source>The tool roll mode was changed from %1 to %2 since the last time the path was solved</source>
         <extracomment>Popup content</extracomment>
         <translation>Der Werkzeugrollenmodus wurde seit der letzten Lösung des Pfads von %1 auf %2 geändert.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="147"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="160"/>
         <source>This configuration will overwrite the tool roll angle %1 of all targets when solving the path</source>
         <extracomment>Content for confirmation popup. %1 = RZ2, %2 = &apos;tool roll mode&apos;, %3 = the previous value of tool roll mode</extracomment>
         <translation>Diese Konfiguration überschreibt den Werkzeugrollwinkel %1 aller Ziele beim Lösen des Pfades</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="159"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="172"/>
         <source>This operation cannot be undone</source>
         <extracomment>Content for confirmation popup</extracomment>
         <translation>Dieser Vorgang kann nicht rückgängig gemacht werden</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="169"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="182"/>
         <source>Do you want to continue?</source>
         <extracomment>Popup content</extracomment>
         <translation>Möchten Sie fortfahren?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="179"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="192"/>
         <source>Path %1 of %2</source>
         <extracomment>Label: Referring to status of paths to solve. %1 = current path number, %2 = total number of paths</extracomment>
         <translation>Pfad %1 von %2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="186"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="199"/>
         <source>Operation %1 of %2</source>
         <extracomment>Label: Referring to status of operations. %1 = current operation number, %2 = total number of operations</extracomment>
         <translation>Operation %1 von %2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="216"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="229"/>
         <source>Elapsed: %1</source>
         <extracomment>Label. %1 = elapsed time since start</extracomment>
         <translation>Vergangen: %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="223"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="236"/>
         <source>Remaining: %1</source>
         <extracomment>Label. %1 = estimated remaining time</extracomment>
         <translation>Verbleibend: %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="233"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="246"/>
         <source>Cancel</source>
         <extracomment>Button text. Abort current operation</extracomment>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="247"/>
+        <location filename="../../IrbcamQml/Popups/AsyncLoading.qml" line="260"/>
         <source>Continue</source>
         <extracomment>Button text. Continue operation</extracomment>
         <translation>Weitermachen</translation>
@@ -4716,37 +4716,37 @@ Placeholder text until an icon has been selected</extracomment>
 <context>
     <name>PopupItem</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="95"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="97"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip: &apos;module&apos; in this case refers to a particular popup. For example the &apos;Export Robot Code&apos; popup or the &apos;Settings&apos; popup</extracomment>
         <translation>Dieses Modul enthält nicht gespeicherte Änderungen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="131"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="133"/>
         <source>Cancel</source>
         <extracomment>Button text: Cancel operation</extracomment>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="133"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="135"/>
         <source>Back</source>
         <extracomment>Button text: Go back to previous page</extracomment>
         <translation>Zurück</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="149"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="151"/>
         <source>Finish</source>
         <extracomment>Button text: Finish operation</extracomment>
         <translation>Fertig</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="151"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="153"/>
         <source>Next</source>
         <extracomment>Button text: Go to next page</extracomment>
         <translation>Weiter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="153"/>
+        <location filename="../../IrbcamQml/Popups/PopupItem.qml" line="155"/>
         <source>Ok</source>
         <extracomment>Button text</extracomment>
         <translation>Ok</translation>
@@ -5481,8 +5481,8 @@ Nützlich, um Kabelverdrillungen oder ähnliche Probleme in bestimmten Situation
 <context>
     <name>RoboticsInterface</name>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="725"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="772"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="622"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="669"/>
         <source>Solving path</source>
         <extracomment>Solution progress status
 ----------
@@ -5490,14 +5490,14 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Pfad lösen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="722"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="619"/>
         <source>Idle</source>
         <extracomment>Solution progress status</extracomment>
         <translation>Bereit</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="728"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="775"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="625"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="672"/>
         <source>Verifying path</source>
         <extracomment>Solution progress status
 ----------
@@ -5505,8 +5505,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Pfad überprüfen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="731"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="778"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="628"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="675"/>
         <source>Configuring max distance</source>
         <extracomment>Solution progress status
 ----------
@@ -5514,8 +5514,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Maximale Entfernung konfigurieren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="734"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="781"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="631"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="678"/>
         <source>Setting up linear lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -5523,8 +5523,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Lineare Hebepunkte einrichten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="737"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="784"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="634"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="681"/>
         <source>Setting up rotary lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -5532,8 +5532,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Drehbare Hebepunkte einrichten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="740"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="787"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="637"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="684"/>
         <source>Solving rotary lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -5541,278 +5541,287 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Drehbare Hebepunkte lösen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="763"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="660"/>
         <source>No error</source>
         <extracomment>Error status for solving path. Success (no error)</extracomment>
         <translation>Kein Fehler</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="766"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="663"/>
         <source>Path not solved</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pfad nicht gelöst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="769"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="666"/>
         <source>Path solved successfully</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pfad erfolgreich gelöst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="790"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="687"/>
         <source>No solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Keine Lösung</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="793"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="690"/>
         <source>Axis limit violation</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Verletzung der Achsengrenze</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="796"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="693"/>
         <source>Solution is outside of workspace limits</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Lösung liegt außerhalb der Arbeitsbereichsgrenzen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="799"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="696"/>
         <source>This robot cannot bend backwards</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Dieser Roboter kann nicht rückwärts gebeugt werden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="802"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="699"/>
         <source>Invalid kinematic parameters</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ungültige kinematische Parameter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="805"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="702"/>
         <source>Undefined kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Undefinierter kinematischer Typ</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="808"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="705"/>
         <source>Invalid kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ungültiger kinematischer Typ</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="811"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="708"/>
         <source>Invalid joint setpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ungültiger Gelenksollwert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="814"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="711"/>
         <source>Invalid number of degrees of freedom</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ungültige Anzahl an Freiheitsgraden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="817"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="714"/>
         <source>Division by zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Division durch Null</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="820"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="717"/>
         <source>Input is null pointer</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Eingabe ist Nullzeiger</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="823"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="720"/>
         <source>Robot not loaded</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Roboter nicht geladen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="826"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="723"/>
         <source>Invalid path size</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ungültige Pfadgröße</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="829"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="726"/>
         <source>Discontinuous step</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Unstetiger Schritt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="832"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="484"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="729"/>
         <source>No targets</source>
-        <extracomment>Error status for solving path</extracomment>
+        <extracomment>Notification: Cannot configure max distance because there are no targets
+----------
+Error status for solving path</extracomment>
         <translation>Keine Ziele</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="835"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="501"/>
+        <source>Failed to configure max distance: No valid targets found in the requested range</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="732"/>
         <source>Dynamic angle out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Dynamischer Winkel außerhalb des Bereichs</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="838"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="735"/>
         <source>Index out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Index außerhalb des Bereichs</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="841"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="738"/>
         <source>One or more targets have invalid speed</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ein oder mehrere Ziele haben ungültige Geschwindigkeit</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="844"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="741"/>
         <source>Target should not be at the rotation axis of the rotary table</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ziel sollte nicht auf der Rotationsachse des Drehtisches liegen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="847"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="744"/>
         <source>Z-axis of the target should not be aligned with the rotation axis of the rotary table</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Z-Achse des Ziels sollte nicht mit der Rotationsachse des Drehtisches ausgerichtet sein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="850"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="747"/>
         <source>Invalid arc midpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ungültiger Bogenmittelpunkt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="853"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="750"/>
         <source>Start target must be linear</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Startziel muss linear sein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="856"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="753"/>
         <source>Radius of the arc must be finite and non-zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Radius des Bogens muss endlich und ungleich Null sein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="859"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="756"/>
         <source>Distance between arc start-point and arc mid-point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Abstand zwischen Bogenstartpunkt und Bogenmittelpunkt ist zu klein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="862"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="759"/>
         <source>Distance between arc start-point and arc end-point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Abstand zwischen Bogenstartpunkt und Bogenendpunkt ist zu klein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="865"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="762"/>
         <source>Arc angle is to small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Bogenwinkel ist zu klein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="868"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="765"/>
         <source>Distance between two targets is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Abstand zwischen zwei Zielen ist zu klein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="871"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="768"/>
         <source>Angle between two targets is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Winkel zwischen zwei Zielen ist zu klein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="874"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="771"/>
         <source>Lift target must be linear</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Hebepunkt muss linear sein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="877"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="774"/>
         <source>Rotary table step angle is out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Schrittwinkel des Drehtisches ist außerhalb des Bereichs</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="880"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="777"/>
         <source>Lift distance is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Hubabstand ist zu klein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="883"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="780"/>
         <source>Length of lift direction vector is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Länge des Hubrichtungsvektors ist zu klein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="886"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="783"/>
         <source>Invalid indexed solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ungültige indexierte Lösung</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="889"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="786"/>
         <source>Invalid rotary lift point</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ungültiger drehbarer Hebepunkt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="892"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="789"/>
         <source>Lift point must be configured after all other targets are configured</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Hebepunkt muss nach der Konfiguration aller anderen Ziele konfiguriert werden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="895"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="792"/>
         <source>Two consecutive targets are not reachable with same turntable step angle</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Zwei aufeinanderfolgende Ziele sind mit demselben Drehtisch-Schrittwinkel nicht erreichbar</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="898"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="795"/>
         <source>Wrist alignment singularity</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Singularität der Handgelenkausrichtung</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="901"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1123"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="798"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1020"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Vorgang vom Benutzer abgebrochen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="964"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="861"/>
         <source>Distance between targets %1 and %2 (%3 mm) exceeds recommended maximum (%4 mm)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = distance between targets, %4 = recommended maximum distance</extracomment>
         <translation>Abstand zwischen den Zielen %1 und %2 (%3 mm) überschreitet das empfohlene Maximum (%4 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="985"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="882"/>
         <source>Reorientation between targets %1 and %2 (%3°) exceeds recommended maximum (%4°)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = reorientation between targets, %4 = recommended maximum reorientation</extracomment>
         <translation>Neuausrichtung zwischen den Zielen %1 und %2 (%3°) überschreitet das empfohlene Maximum (%4°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1062"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="959"/>
         <source>%1 Rotary lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation>%1 drehbare Hebepunkte wurden hinzugefügt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1068"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="965"/>
         <source>%1 Linear lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation>%1 lineare Hebepunkte wurden hinzugefügt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1079"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="976"/>
         <source>Failed to solve path
 No targets</source>
         <extracomment>Error message. This means that there is no path to solve</extracomment>
@@ -5820,7 +5829,7 @@ No targets</source>
 Keine Ziele</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1085"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="982"/>
         <source>Operation aborted by user
 Solved %1 of %2 targets</source>
         <extracomment>Warning message. %1 = first failed index, %2 = total number of targets</extracomment>
@@ -5828,7 +5837,7 @@ Solved %1 of %2 targets</source>
 %1 von %2 Zielen gelöst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1093"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="990"/>
         <source>Failed to solve path
 Solved %1 of %2 targets</source>
         <extracomment>Error message. %1 = first failed index, %2 = total number of targets</extracomment>
@@ -5836,13 +5845,13 @@ Solved %1 of %2 targets</source>
 %1 von %2 Zielen gelöst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1106"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1003"/>
         <source>Path solved successfully in %1 ms</source>
         <extracomment>Status message. %1 = time in milliseconds</extracomment>
         <translation>Pfad erfolgreich in %1 ms gelöst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1130"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1027"/>
         <source>Failed to configure max distance at index %1
 No new targets were added
 </source>
@@ -5852,7 +5861,7 @@ Keine neuen Ziele wurden hinzugefügt
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1146"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1043"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
@@ -5860,7 +5869,7 @@ Keine neuen Ziele wurden hinzugefügt
 1 neues Ziel wurde hinzugefügt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1155"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1052"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
@@ -5868,7 +5877,7 @@ Keine neuen Ziele wurden hinzugefügt
 %1 neue Ziele wurden hinzugefügt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1161"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1058"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
@@ -5876,13 +5885,13 @@ No new targets were added</source>
 Keine neuen Ziele wurden hinzugefügt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1179"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1076"/>
         <source>Failed to find max distance</source>
         <extracomment>Error message from find max distance</extracomment>
         <translation>Maximale Entfernung konnte nicht gefunden werden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1197"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1094"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
@@ -5890,13 +5899,13 @@ Found %1 possible solutions within the specified parameters</source>
 %1 mögliche Lösungen innerhalb der angegebenen Parameter gefunden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1203"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1100"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation>Optimierer ist auf ein Problem gestoßen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1212"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1109"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
@@ -5904,7 +5913,7 @@ No solutions found with the specified parameters</source>
 Keine Lösungen mit den angegebenen Parametern gefunden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1218"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1115"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
