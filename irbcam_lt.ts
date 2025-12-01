@@ -2023,104 +2023,96 @@ Placeholder for when no external axis name is entered</extracomment>
 <context>
     <name>General</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="84"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="47"/>
         <source>General Options</source>
         <extracomment>Collapsible section</extracomment>
         <translation>Bendrosios parinktys</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="100"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox. Select to switch off tool under rapid movement</extracomment>
-        <translation>Ginklas įjungtas/išjungtas</translation>
+        <translation type="vanished">Ginklas įjungtas/išjungtas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="106"/>
         <source>Switch off tool (gun) under rapid movement</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation>Išjungti įrankį (ginklą) greito judėjimo metu</translation>
+        <translation type="vanished">Išjungti įrankį (ginklą) greito judėjimo metu</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="123"/>
         <source>Fine point before gun on/off</source>
         <extracomment>Checkbox. Select to enable fine point before gun on/off</extracomment>
-        <translation>Smulkus taškas prieš ginklą įjungti/išjungti</translation>
+        <translation type="vanished">Smulkus taškas prieš ginklą įjungti/išjungti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="129"/>
         <source>Enable fine point before gun on/off</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation>Įgalinti tikslų tašką prieš įjungiant pistoletą arba išjungiant</translation>
+        <translation type="vanished">Įgalinti tikslų tašką prieš įjungiant pistoletą arba išjungiant</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="141"/>
         <source>Set tool number</source>
         <extracomment>Checkbox. Select to enable automatic tool changing in exported code</extracomment>
-        <translation>Nustatyti įrankio numerį</translation>
+        <translation type="vanished">Nustatyti įrankio numerį</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="147"/>
         <source>Automatic tool changing</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation>Automatinis įrankių keitimas</translation>
+        <translation type="vanished">Automatinis įrankių keitimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="156"/>
         <source>Export spindle speeds</source>
         <extracomment>Checkbox. Select to include spindle speeds in exported robot code</extracomment>
-        <translation>Eksportuoti spindelio greičius</translation>
+        <translation type="vanished">Eksportuoti spindelio greičius</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="162"/>
         <source>Include spindle speeds in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation>Įtraukti spindelio greičius į eksportuotą kodą</translation>
+        <translation type="vanished">Įtraukti spindelio greičius į eksportuotą kodą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="172"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="63"/>
         <source>Override speeds</source>
         <extracomment>Checkbox. Select to override all feed speeds</extracomment>
         <translation>Perrašyti greičius</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="178"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="69"/>
         <source>Override target speeds from path</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Perrašyti tikslinius greičius iš kelio</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="199"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="90"/>
         <source>Cutting speed (mm/s)</source>
         <extracomment>Selector for linear cutting speed</extracomment>
         <translation>Pjovimo greitis (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="201"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="92"/>
         <source>Override targets with speed mode &quot;cutting&quot; and &quot;input&quot;</source>
         <extracomment>Tool tip for dropdown menu. Select override cutting feed speed</extracomment>
         <translation>Perrašyti tikslus greičio režimu „cutting“ ir „input“</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="240"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="131"/>
         <source>Rapid speed (mm/s)</source>
         <extracomment>Selector for linear rapid speed</extracomment>
         <translation>Greitas greitis (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="242"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="133"/>
         <source>Override targets with speed mode &quot;rapid&quot;</source>
         <extracomment>Tool tip for dropdown menu. Select override rapid feed speed</extracomment>
         <translation>Perrašyti tikslus greičio režimu „rapid“</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="282"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="173"/>
         <source>Split files at linear lift points</source>
         <extracomment>Checkbox: Select to split files at linear lift points</extracomment>
         <translation>Skaidyti failus ties linijiniais kėlimo taškais</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="293"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="312"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="184"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="203"/>
         <source>Procedure name</source>
         <extracomment>Name of the procedure for the robot
 ----------
@@ -2128,14 +2120,14 @@ Placeholder for when no procedure name is entered</extracomment>
         <translation>Procedūros pavadinimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="295"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="186"/>
         <source>Name of the subprocess in exported code</source>
         <extracomment>Tool tip for text field</extracomment>
         <translation>Subprocesas pavadinimas eksportuotame kode</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="325"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="336"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="216"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="227"/>
         <source>Up Number</source>
         <extracomment>User procedure number for the robot
 ----------
@@ -2143,7 +2135,7 @@ Placeholder for when no up number is entered</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="327"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="218"/>
         <source>User procedure number in exported code [1 - 999]</source>
         <extracomment>Tool tip for text field</extracomment>
         <translation type="unfinished"></translation>
@@ -5920,55 +5912,55 @@ Dešiniuoju pelės mygtuku spustelėkite, kad pamatytumėte galimas parinktis ke
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1465"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1496"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>Nepavyko importuoti CSV failo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1471"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1502"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Kelias importuotas iš CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1487"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1518"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko išanalizuoti JSON failo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1512"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1543"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti kelio</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1518"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1549"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Kelias įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2036"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2067"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Nukopijuotas taikinys</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2041"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2072"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Nukopijuota %1 taikinių</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2080"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2111"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Nukopijuotas kelias</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2085"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2116"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Nukopijuota %1 kelių</translation>
@@ -7952,7 +7944,7 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="454"/>
+        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="573"/>
         <source>IRBCAM Trial Version</source>
         <extracomment>Text on the floor tiles for trial version</extracomment>
         <translation>IRBCAM bandomoji versija</translation>
@@ -8819,38 +8811,38 @@ Tai gali būti dėl to, kad išsaugota versija yra senesnė</translation>
 <context>
     <name>StationViewer</name>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="540"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="551"/>
         <source>Inverse kinematics could not be solved with this value (x=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation>Atvirkštinė kinematika negalėjo būti išspręsta su šia reikšme (x=%1 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="557"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="574"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="568"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="585"/>
         <source>Inverse kinematics could not be solved with this value (y=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation>Atvirkštinė kinematika negalėjo būti išspręsta su šia reikšme (y=%1 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="592"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="603"/>
         <source>Inverse kinematics could not be solved with this value (rz1=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Atvirkštinė kinematika negalėjo būti išspręsta šia reikšme (rz1=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="611"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="622"/>
         <source>Inverse kinematics could not be solved with this value (ry=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Atvirkštinės kinematikos nepavyko išspręsti su šia reikšme (ry=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="633"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="644"/>
         <source>Inverse kinematics could not be solved with this value (rz2=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Atvirkštinės kinematikos nepavyko išspręsti su šia reikšme (rz2=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="960"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="971"/>
         <source>Animation aborted
 Target at 0 is unreachable</source>
         <extracomment>Warning message</extracomment>
@@ -8858,7 +8850,7 @@ Target at 0 is unreachable</source>
 Tikslas ties 0 yra nepasiekiamas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1092"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1103"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -8866,7 +8858,7 @@ Target at index %1 has zero velocity</source>
 Taikinys ties indeksu %1 turi nulio greitį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1200"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1211"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -8874,7 +8866,7 @@ Target at index %1 is not solved</source>
 Tikslas indekse %1 nėra išspręstas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1428"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1474"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
@@ -8923,74 +8915,86 @@ Tikslas nepasiekiamas su dabartine konfigūracija</translation>
 <context>
     <name>TargetDelegate</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="275"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="277"/>
         <source>Feed speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in linear velocity (feed speed)</extracomment>
         <translation>Padavimo greičio keitimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="286"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="288"/>
         <source>Tool change</source>
         <extracomment>Tool tip. Explains that this icon indicates a tool change</extracomment>
         <translation>Įrankio keitimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="296"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="298"/>
         <source>Spindle speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in spindle speed</extracomment>
         <translation>Spindelio greičio keitimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="327"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="308"/>
+        <source>Gun On change</source>
+        <extracomment>Tool tip. Explains that this icon indicates a change in gun on</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="318"/>
+        <source>Gun Off change</source>
+        <extracomment>Tool tip. Explains that this icon indicates a change in gun on</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="349"/>
         <source>Target is successfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Tikslas sėkmingai išspręstas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="329"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="351"/>
         <source>Path is succesfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Kelias sėkmingai išspręstas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="332"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="354"/>
         <source>Target failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Tikslas nepavyko išspręsti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="334"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="356"/>
         <source>Path failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Kelias nepavyko išspręsti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="360"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="382"/>
         <source>Unlock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Atrakinti redagavimą šiam tikslui</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="364"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="386"/>
         <source>Lock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Užrakinti redagavimą šiam tikslui</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="370"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="392"/>
         <source>Unlock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Atrakinti redagavimą visiems taikiniams šiame kelyje</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="374"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="396"/>
         <source>Lock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Užrakinti redagavimą visiems taikiniams šiame kelyje</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="426"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="441"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="448"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="463"/>
         <source>mm</source>
         <extracomment>Unit millimetres
 ----------
@@ -8998,74 +9002,80 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="443"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="465"/>
         <source>s</source>
         <extracomment>Unit seconds. Part of a fraction mm/s</extracomment>
         <translation>s</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="517"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="539"/>
         <source>Speed</source>
         <extracomment>Label over input field</extracomment>
         <translation>Greitis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="522"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="544"/>
         <source>Tool</source>
         <extracomment>Label over input field</extracomment>
         <translation>Įrankis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="527"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="550"/>
         <source>Spindle</source>
         <extracomment>Label over input field</extracomment>
         <translation>Spindelis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="540"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="556"/>
+        <source>Gun On/Off</source>
+        <extracomment>Label over input field</extracomment>
+        <translation type="unfinished">Šautuvas įjungtas/išjungtas</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="569"/>
         <source>Input</source>
         <extracomment>Dropdown menu item. Speed mode: input</extracomment>
         <translation>Įvestis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="545"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="574"/>
         <source>Cutting</source>
         <extracomment>Dropdown menu item. Speed mode: cutting</extracomment>
         <translation>Pjaustymas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="550"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="579"/>
         <source>Rapid</source>
         <extracomment>Dropdown menu item. Speed mode: rapid</extracomment>
         <translation>Greitas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="578"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="608"/>
         <source>rpm</source>
         <extracomment>Unit: revolutions per minute</extracomment>
         <translation>aps./min.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="587"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="627"/>
         <source>V</source>
         <extracomment>Input field prefix. Denotes velocity</extracomment>
         <translation>Versija</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="594"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="634"/>
         <source>Motion type: </source>
         <extracomment>Droptown menu text</extracomment>
         <translation>Judėjimo tipas: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="615"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="655"/>
         <source>Linear</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation>Linijinis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="266"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="617"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="268"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="657"/>
         <source>Arc midpoint</source>
         <extracomment>Tooltip text
 ----------
@@ -9073,14 +9083,14 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Lanko vidurio taškas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="209"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="211"/>
         <source>Undefined</source>
         <extracomment>Placeholder text for missing name</extracomment>
         <translation>Neapibrėžtas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="264"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="602"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="266"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="642"/>
         <source>Rotary lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -9088,8 +9098,8 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Rotacinis kėlimo taškas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="261"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="598"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="263"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="638"/>
         <source>Linear lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -9122,82 +9132,130 @@ Droptown menu text, motion type for target</extracomment>
 <context>
     <name>ToolData</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="34"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="90"/>
         <source>Tool Data</source>
         <extracomment>Collapsible section: Set data related the tool</extracomment>
         <translation>Įrankio duomenys</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="53"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="109"/>
         <source>Tool Name</source>
         <extracomment>Name of the selected tool</extracomment>
         <translation>Įrankio pavadinimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="61"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="117"/>
         <source>No tool selected</source>
         <extracomment>Only shown if the user has not selected a tool</extracomment>
         <translation>Nėra pasirinkto įrankio</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="69"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="125"/>
         <source>Export Name</source>
         <extracomment>Name of the tool in the exported code</extracomment>
         <translation>Eksporto pavadinimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="78"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="134"/>
         <source>Tool Export Name</source>
         <extracomment>Placeholder for when no tool export name has been entered</extracomment>
         <translation>Įrankio eksporto pavadinimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="92"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="148"/>
         <source>Weight (kg)</source>
         <extracomment>Tool weight</extracomment>
         <translation>Svoris (kg)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="102"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="158"/>
         <source>Tool Weight</source>
         <extracomment>Placeholder for when no tool weight has been entered</extracomment>
         <translation>Įrankio svoris</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="124"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="180"/>
         <source>Center of Gravity X (mm)</source>
         <extracomment>X-position of the tool&apos;s centre of gravity</extracomment>
         <translation>Centro gravitacijos X (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="132"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="188"/>
         <source>Center of Gravity X</source>
         <extracomment>Placeholder text for when no X centre of gravity is entered</extracomment>
         <translation>Sunkio centro X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="158"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="214"/>
         <source>Center of Gravity Y (mm)</source>
         <extracomment>Y-position of the tool&apos;s centre of gravity</extracomment>
         <translation>Centro gravitacijos Y (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="166"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="222"/>
         <source>Center of Gravity Y</source>
         <extracomment>Placeholder text for when no Y centre of gravity is entered</extracomment>
         <translation>Sunkio centro Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="192"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="248"/>
         <source>Center of Gravity Z (mm)</source>
         <extracomment>Z-position of the tool&apos;s centre of gravity</extracomment>
         <translation>Sunkio centras Z (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="200"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="256"/>
         <source>Center of Gravity Z</source>
         <extracomment>Placeholder text for when no Z centre of gravity is entered</extracomment>
         <translation>Sunkio centro Z</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="283"/>
+        <source>Gun on/off</source>
+        <extracomment>Checkbox. Select to switch off tool under rapid movement</extracomment>
+        <translation type="unfinished">Ginklas įjungtas/išjungtas</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="289"/>
+        <source>Switch off tool (gun) under rapid movement</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished">Išjungti įrankį (ginklą) greito judėjimo metu</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="306"/>
+        <source>Fine point before gun on/off</source>
+        <extracomment>Checkbox. Select to enable fine point before gun on/off</extracomment>
+        <translation type="unfinished">Smulkus taškas prieš ginklą įjungti/išjungti</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="312"/>
+        <source>Enable fine point before gun on/off</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished">Įgalinti tikslų tašką prieš įjungiant pistoletą arba išjungiant</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="324"/>
+        <source>Set tool number</source>
+        <extracomment>Checkbox. Select to enable automatic tool changing in exported code</extracomment>
+        <translation type="unfinished">Nustatyti įrankio numerį</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="330"/>
+        <source>Automatic tool changing</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished">Automatinis įrankių keitimas</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="341"/>
+        <source>Export spindle speeds</source>
+        <extracomment>Checkbox. Select to include spindle speeds in exported robot code</extracomment>
+        <translation type="unfinished">Eksportuoti spindelio greičius</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="347"/>
+        <source>Include spindle speeds in exported code</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished">Įtraukti spindelio greičius į eksportuotą kodą</translation>
     </message>
 </context>
 <context>
@@ -9251,25 +9309,25 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <translation>Ar tikrai norite perrašyti %1?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="165"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="203"/>
         <source>Stationary tool is incompatible with rotary tables and linear tracks</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if both rotary table and linear track is selected</extracomment>
         <translation>Stacionarus įrankis nesuderinamas su sukamaisiais stalais ir tiesiniais takais</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="169"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="207"/>
         <source>rotary tables</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
         <translation>sukimo stalai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="171"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="209"/>
         <source>linear tracks</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
         <translation>tiesiniai bėgiai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="478"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="516"/>
         <source>Overwrite</source>
         <extracomment>Button. Import and overwrite existing custom tool</extracomment>
         <translation>Perrašyti</translation>
@@ -9288,73 +9346,97 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="147"/>
+        <source>Tool Type</source>
+        <extracomment>Label over input field</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="159"/>
+        <source>Invalid type</source>
+        <extracomment>Dropdown menu display text showing invalid selection.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="164"/>
+        <source>Weldgun</source>
+        <extracomment>Dropdown menu item.</extracomment>
+        <translation type="unfinished">Suvirinimo pistoletas</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="169"/>
+        <source>Spindle</source>
+        <extracomment>Dropdown menu item.</extracomment>
+        <translation type="unfinished">Spindelis</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="185"/>
         <source>Show mesh</source>
         <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
         <translation>Rodyti tinklelį</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="154"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="192"/>
         <source>Transparent</source>
         <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
         <translation>Skaidrus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="167"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="205"/>
         <source>Stationary tool is incompatible with %1</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
         <translation>Stacionarus įrankis nesuderinamas su %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="180"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="218"/>
         <source>Stationary Tool</source>
         <extracomment>Checkbox. Select if robot should hold work object instead of tool</extracomment>
         <translation>Stacionarus įrankis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="202"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="240"/>
         <source>Move tooltip</source>
         <extracomment>Dropdown menu item. Select which reference to move</extracomment>
         <translation>Perkelti tooltipą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="206"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="244"/>
         <source>Move base</source>
         <extracomment>Dropdown menu item. Select which reference to move</extracomment>
         <translation>Perkelti bazę</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="234"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="272"/>
         <source>Generic Tool</source>
         <extracomment>Collapsible section. Contains options for generic tool</extracomment>
         <translation>Universalus įrankis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="253"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="291"/>
         <source>Diameter</source>
         <extracomment>Label for text field. Adjust generic tool diameter</extracomment>
         <translation>Skersmuo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="258"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="296"/>
         <source>Cone length</source>
         <extracomment>Label for text field. Adjust cone length on the generic tool</extracomment>
         <translation>Kūgio ilgis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="263"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="301"/>
         <source>Color</source>
         <extracomment>Label for button. Adjust generic tool colour</extracomment>
         <translation>Spalva</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="303"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="341"/>
         <source>Select color</source>
         <extracomment>Title for colour picker dialog box</extracomment>
         <translation>Pasirinkite spalvą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="325"/>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="480"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="363"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="518"/>
         <source>Import</source>
         <extracomment>Collapsible section. Contains tools to import custom tool
 ----------
@@ -9362,61 +9444,61 @@ Button. Import custom tool</extracomment>
         <translation>Importuoti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="339"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="377"/>
         <source>The active subscription does not provide access to custom assets. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation>Aktyvus prenumeratos planas nesuteikia prieigos prie pasirinktinių išteklių. Spustelėkite %1čia%2, kad valdytumėte prenumeratas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="351"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="389"/>
         <source>Weight</source>
         <extracomment>Label for text field. Set tool weight</extracomment>
         <translation>Svoris</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="369"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="407"/>
         <source>CoG</source>
         <extracomment>Label: Centre of Gravity</extracomment>
         <translation>Masės centras</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="414"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="452"/>
         <source>Open file</source>
         <extracomment>Title for file browser</extracomment>
         <translation>Atidaryti failą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="416"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="454"/>
         <source>Asset files</source>
         <extracomment>File type filter in file browser. Displayed like this: Asset files (*.zip *.obj *.dae *.fbx *.stl *.gltf *.glb *.wrl)</extracomment>
         <translation>Išteklių failai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="426"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="464"/>
         <source>File</source>
         <extracomment>Label. Refers to file path</extracomment>
         <translation>Failas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="433"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="471"/>
         <source>No file selected</source>
         <extracomment>Placeholder. Used instead of file path when no file is selected</extracomment>
         <translation>Failas nepasirinktas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="451"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="489"/>
         <source>Name</source>
         <extracomment>Label for text field. Input name for custom tool</extracomment>
         <translation>Vardas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="466"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="504"/>
         <source>Name of the custom tool</source>
         <extracomment>Placeholder. Used for tool name until a name is entered</extracomment>
         <translation>Pasirinktinio įrankio pavadinimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="494"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="532"/>
         <source>Cannot overwrite to read only asset.</source>
         <extracomment>Tool tip text. Cannot overwrite</extracomment>
         <translation>Negalima perrašyti tik skaitymo turto.</translation>
@@ -9604,73 +9686,73 @@ Sukimas (rad)
 <context>
     <name>ToolTraceSettings</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="36"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="37"/>
         <source>Tool Trace Settings</source>
         <extracomment>Title</extracomment>
         <translation>Įrankio Sekimo Nustatymai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="43"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="44"/>
         <source>Trace Color</source>
         <extracomment>Label for dropdown menu. Select colour for tool trace line</extracomment>
         <translation>Sekimo spalva</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="52"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="53"/>
         <source>Custom</source>
         <extracomment>Dropdown menu item. Select colour for tool trace line</extracomment>
         <translation>Pasirinktinis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="54"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="55"/>
         <source>LightGray</source>
         <extracomment>Dropdown menu item. Select colour for tool trace line</extracomment>
         <translation>Šviesiai pilka</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="56"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="57"/>
         <source>Red</source>
         <extracomment>Dropdown menu item. Select colour for tool trace line</extracomment>
         <translation>Raudona</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="58"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="59"/>
         <source>Green</source>
         <extracomment>Dropdown menu item. Select colour for tool trace line</extracomment>
         <translation>Žalias</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="60"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="61"/>
         <source>Blue</source>
         <extracomment>Dropdown menu item. Select colour for tool trace line</extracomment>
         <translation>Mėlynas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="88"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="89"/>
         <source>Color</source>
         <extracomment>Placeholder for text field. Shown when no colour value is entered</extracomment>
         <translation>Spalva</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="91"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="92"/>
         <source>Any valid SVG color name (eg. &apos;blue&apos;) or hex rgb triplet (eg. &apos;#808080&apos;)</source>
         <extracomment>Tool tip for text field. Explains valid inputs. SVG colour names are not translatable</extracomment>
         <translation>Bet koks tinkamas SVG spalvos pavadinimas (pvz., &apos;blue&apos;) arba šešioliktainis rgb trispalvis (pvz., &apos;#808080&apos;)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="115"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="116"/>
         <source>Select color</source>
         <extracomment>Title for colour picker dialog box</extracomment>
         <translation>Pasirinkite spalvą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="132"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="133"/>
         <source>Trace Width</source>
         <extracomment>Label for text field. Enter width of tool trace line</extracomment>
         <translation>Traso plotis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="153"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="154"/>
         <source>Trace Length</source>
         <extracomment>Label for text field. Enter length of tool trace line in millimetres</extracomment>
         <translation>Trasos ilgis</translation>
@@ -9683,12 +9765,18 @@ Sukimas (rad)
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="181"/>
+        <source>Enable Tool Animation</source>
+        <extracomment>Checkbox. Select to enable tool animation</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="189"/>
         <source>Show Targets</source>
         <extracomment>Checkbox. Select to show targets in station viewer (3D scene)</extracomment>
         <translation>Rodyti taikinius</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="196"/>
+        <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="204"/>
         <source>Target Size</source>
         <extracomment>Label for text field. Enter size of target indicators.</extracomment>
         <translation>Taikinio dydis</translation>
