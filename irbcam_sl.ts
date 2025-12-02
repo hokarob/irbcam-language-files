@@ -7433,7 +7433,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <translation></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="573"/>
+        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="623"/>
         <source>IRBCAM Trial Version</source>
         <extracomment>Text on the floor tiles for trial version</extracomment>
         <translation>Preizkusna različica IRBCAM</translation>
