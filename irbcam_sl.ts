@@ -2949,19 +2949,19 @@ Placeholder for tool name if no tool is loaded</extracomment>
 <context>
     <name>Irbcam</name>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="101"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="100"/>
         <source>Clear all</source>
         <extracomment>Button. Clear (acknowledge) all acknowledgeable messages</extracomment>
         <translation>Počisti vse</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="349"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="348"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Prepiši %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="351"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="350"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Ali ste prepričani, da želite prepisati projekt %1?&lt;br&gt;&lt;br&gt;Ta projekt je bil prej shranjen z različico %2&lt;br&gt;&lt;br&gt;Če ga boste prepisali, potem morda ne bo več mogoče odpreti z IRBCAM %2&lt;br&gt;&lt;br&gt;Če želite obdržati kopijo, potem lahko shranite projekt z novim imenom</translation>
@@ -4547,66 +4547,72 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
     </message>
 </context>
 <context>
+    <name>OptimizationInModel</name>
+    <message>
+        <location filename="../../../backend/src/optimizationinmodel.cpp" line="397"/>
+        <source>mm</source>
+        <extracomment>Unit: millimeters</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptimizationInParamsEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="47"/>
         <source>Object frame X</source>
         <extracomment>Collapsible section: Optimization options for object frame position x-axis</extracomment>
-        <translation>Koordinatni sistem objekta X</translation>
+        <translation type="vanished">Koordinatni sistem objekta X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="49"/>
         <source>Object frame Y</source>
         <extracomment>Collapsible section: Optimization options for object frame position y-axis</extracomment>
-        <translation>Koordinatni sistem objekta Y</translation>
+        <translation type="vanished">Koordinatni sistem objekta Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="51"/>
         <source>Object frame RotZ</source>
         <extracomment>Collapsible section: Optimization options for object frame rotation z-axis</extracomment>
-        <translation>Koordinatni sistem objekta RotZ</translation>
+        <translation type="vanished">Koordinatni sistem objekta RotZ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="53"/>
         <source>Tool roll angle</source>
         <extracomment>Collapsible section: Optimization options for tool roll angle</extracomment>
-        <translation>Kot nagiba orodja</translation>
+        <translation type="vanished">Kot nagiba orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="55"/>
         <source>Rotary table angle</source>
         <extracomment>Collapsible section: Optimization options for rotary axis angle</extracomment>
-        <translation>Kot rotacijske mize</translation>
+        <translation type="vanished">Kot rotacijske mize</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="57"/>
         <source>Linear track offset</source>
         <extracomment>Collapsible section: Optimization options for linear track offset</extracomment>
-        <translation>Odmik linearnega pomika</translation>
+        <translation type="vanished">Odmik linearnega pomika</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="71"/>
         <source>Min-max (°)</source>
         <extracomment>Label for a number input field</extracomment>
-        <translation>Min-maks (°)</translation>
+        <translation type="vanished">Min-maks (°)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="73"/>
         <source>Min-max (mm)</source>
         <extracomment>Label for a number input field</extracomment>
-        <translation>Min-maks (mm)</translation>
+        <translation type="vanished">Min-maks (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="120"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="54"/>
+        <source>Min-max</source>
+        <extracomment>Label for a number input field</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="83"/>
         <source>Steps</source>
         <extracomment>Label for text field. Type in number of steps the optimiser should divide the job into</extracomment>
         <translation>Koraki</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="144"/>
         <source>%1mm</source>
         <extracomment>shorthand for millimeters. %1 = a number</extracomment>
-        <translation>%1mm</translation>
+        <translation type="vanished">%1mm</translation>
     </message>
 </context>
 <context>
@@ -4637,199 +4643,247 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="vanished">Uspešno optimizirano</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/optimizationinterface.cpp" line="263"/>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="165"/>
         <source>Values copied to project</source>
         <extracomment>Info message. Means that the values in the optimiser has been transferred to the project</extracomment>
         <translation>Vrednosti so kopirane v projekt</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="174"/>
+        <source>Object Frame X</source>
+        <extracomment>Optimizer parameter</extracomment>
+        <translation type="unfinished">Koordinatni sistem objekta X</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="177"/>
+        <source>Object Frame Y</source>
+        <extracomment>Optimizer parameter</extracomment>
+        <translation type="unfinished">Koordinatni sistem objekta Y</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="180"/>
+        <source>Object Frame RotZ</source>
+        <extracomment>Optimizer parameter</extracomment>
+        <translation type="unfinished">Koordinatni sistem objekta RotZ</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="183"/>
+        <source>Tool Roll Angle</source>
+        <extracomment>Optimizer parameter</extracomment>
+        <translation type="unfinished">Kot nagiba orodja</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="186"/>
+        <source>Rotary Table Angle</source>
+        <extracomment>Optimizer parameter</extracomment>
+        <translation type="unfinished">Kot rotacijske mize</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="189"/>
+        <source>Linear Track Offset</source>
+        <extracomment>Optimizer parameter</extracomment>
+        <translation type="unfinished">Odmik linearnega pomika</translation>
     </message>
 </context>
 <context>
     <name>OptimizationResults</name>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="44"/>
         <source>Object Frame X</source>
         <extracomment>Axis label for plotting</extracomment>
-        <translation>Koordinatni sistem objekta X</translation>
+        <translation type="vanished">Koordinatni sistem objekta X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="48"/>
         <source>Object Frame Y</source>
         <extracomment>Axis label for plotting</extracomment>
-        <translation>Koordinatni sistem objekta Y</translation>
+        <translation type="vanished">Koordinatni sistem objekta Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="52"/>
         <source>Object Frame RotZ</source>
         <extracomment>Axis label for plotting</extracomment>
-        <translation>Koordinatni sistem objekta RotZ</translation>
+        <translation type="vanished">Koordinatni sistem objekta RotZ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="56"/>
         <source>Tool Roll Angle</source>
         <extracomment>Axis label for plotting</extracomment>
-        <translation>Kot nagiba orodja</translation>
+        <translation type="vanished">Kot nagiba orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="60"/>
         <source>Rotary Table Angle</source>
         <extracomment>Axis label for plotting</extracomment>
-        <translation>Kot rotacijske mize</translation>
+        <translation type="vanished">Kot rotacijske mize</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="64"/>
         <source>Linear Track Offset</source>
         <extracomment>Axis label for plotting</extracomment>
-        <translation>Odmik linearnega pomika</translation>
+        <translation type="vanished">Odmik linearnega pomika</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="76"/>
         <source>OFX</source>
         <extracomment>Shorthand for: Object Frame X</extracomment>
         <translatorcomment>Okrajšava za: Koordinatni sistem objekta X</translatorcomment>
-        <translation>KSOX</translation>
+        <translation type="vanished">KSOX</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="80"/>
         <source>OFY</source>
         <extracomment>Shorthand for: Object Frame Y</extracomment>
         <translatorcomment>Okrajšava za: Koordinatni sistem objekta Y</translatorcomment>
-        <translation>KSOY</translation>
+        <translation type="vanished">KSOY</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="84"/>
         <source>OFRZ</source>
         <extracomment>Shorthand for: Object Frame RotZ</extracomment>
         <translatorcomment>Okrajšava za: Koordinatni sistem objekta RotZ</translatorcomment>
-        <translation>KSORZ</translation>
+        <translation type="vanished">KSORZ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="88"/>
         <source>TRA</source>
         <extracomment>Shorthand for: Tool Roll Angle</extracomment>
         <translatorcomment>Okrajšava za: Kot nagiba orodja</translatorcomment>
-        <translation>KNO</translation>
+        <translation type="vanished">KNO</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="92"/>
         <source>RAA</source>
         <extracomment>Shorthand for: Rotary Axis Angle</extracomment>
         <translatorcomment>Okrajšava za: Kot rotacijske mize</translatorcomment>
-        <translation>KRM</translation>
+        <translation type="vanished">KRM</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="96"/>
         <source>LTO</source>
         <extracomment>Shorthand for: Linear Track Offset</extracomment>
         <translatorcomment>Okrajšava za: Odmik linearnega pomika</translatorcomment>
-        <translation>OLP</translation>
+        <translation type="vanished">OLP</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="257"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="227"/>
         <source>Optimizer Plot Controls</source>
         <extracomment>Info card title</extracomment>
         <translation>Optimizator Grafiko Kontroloj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="260"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="230"/>
         <source>Hide controls</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
         <translation>Skrij kontrolnike</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="262"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="232"/>
         <source>Show controls</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
         <translation>Prikaži kontrole</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="267"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="237"/>
         <source>Left click</source>
         <extracomment>Interaction type</extracomment>
         <translation>Levi klik</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="269"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="239"/>
         <source>Select target</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Izberi cilj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="273"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="243"/>
         <source>Mouse wheel</source>
         <extracomment>Interaction type</extracomment>
         <translation>Miškino kolesce</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="275"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="245"/>
         <source>Zoom in/out inside plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Povečaj/pomanjšaj znotraj grafa</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="278"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="248"/>
         <source>If a target is selected it zooms relative to the selected target</source>
         <extracomment>Interaction explanation detail</extracomment>
         <translation>Če je cilj izbran, se poveča relativno glede na izbrani cilj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="280"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="250"/>
         <source>If no target is selected it zooms relative to the center of the plot</source>
         <extracomment>Interaction explanation detail</extracomment>
         <translation>Če ni izbran noben cilj, poveča relativno glede na središče ploskve</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="285"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="255"/>
         <source>%1 + wheel</source>
         <extracomment>Interaction type - %1 = ctrl</extracomment>
         <translation>%1 + kolo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="287"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="257"/>
         <source>Change the size of the plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Spremeni velikost plota</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="291"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="261"/>
         <source>Left click + drag</source>
         <extracomment>Interaction type</extracomment>
         <translation>Levi klik + povleci</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="293"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="263"/>
         <source>Rotate the plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Rotiraj grafikon</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="295"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="265"/>
         <source>Only available in 3D mode</source>
         <extracomment>Interaction detail</extracomment>
         <translation>Samo na voljo v 3D načinu</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="299"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="269"/>
         <source>Right click + drag</source>
         <extracomment>Interaction type</extracomment>
         <translation>Desni klik + povleci</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="301"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="271"/>
         <source>Pan inside plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Pomakni znotraj grafa</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="305"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="275"/>
         <source>Double click</source>
         <extracomment>Interaction type</extracomment>
         <translation>Dvokliknite</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="307"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="277"/>
         <source>Reset plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Ponastavi grafikon</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="336"/>
+        <source>Status</source>
+        <extracomment>Label: Referring to solved status of a path configuretion</extracomment>
+        <translation type="unfinished">Status: </translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="341"/>
+        <source>Solved</source>
+        <extracomment>Status: Path configuretion solved</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="347"/>
+        <source>Failed at index</source>
+        <extracomment>Label: The index at which this path configuration failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="359"/>
+        <source>Reachable targets</source>
+        <extracomment>Label: The number of targets that can be reached with this path configuration</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="373"/>
@@ -4841,52 +4895,46 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
 <context>
     <name>OptimizationTypeSelector</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="25"/>
         <source>Object frame X</source>
         <extracomment>Checkbox. Select to optimise this parameter</extracomment>
-        <translation>Koordinatni sistem objekta X</translation>
+        <translation type="vanished">Koordinatni sistem objekta X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="36"/>
         <source>Object frame Y</source>
         <extracomment>Checkbox. Select to optimise this parameter</extracomment>
-        <translation>Koordinatni sistem objekta Y</translation>
+        <translation type="vanished">Koordinatni sistem objekta Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="47"/>
         <source>Object frame RotZ</source>
         <extracomment>Checkbox. Select to optimise this parameter</extracomment>
-        <translation>Koordinatni sistem objekta RotZ</translation>
+        <translation type="vanished">Koordinatni sistem objekta RotZ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="61"/>
         <source>Tool roll angle</source>
         <extracomment>Checkbox. Select to optimise this parameter</extracomment>
-        <translation>Kot nagiba orodja</translation>
+        <translation type="vanished">Kot nagiba orodja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="73"/>
         <source>Rotary table angle</source>
         <extracomment>Checkbox. Select to optimise this parameter</extracomment>
-        <translation>Kot rotacijske mize</translation>
+        <translation type="vanished">Kot rotacijske mize</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="85"/>
         <source>Linear track offset</source>
         <extracomment>Checkbox. Select to optimise this parameter</extracomment>
-        <translation>Odmik linearnega pomika</translation>
+        <translation type="vanished">Odmik linearnega pomika</translation>
     </message>
 </context>
 <context>
     <name>Optimizer</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="27"/>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="22"/>
         <source>Parameter Optimizer</source>
         <extracomment>Title</extracomment>
         <translation>Optimizator parametrov</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="37"/>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="32"/>
         <source>Warning</source>
         <extracomment>Confirmation popup title</extracomment>
         <translation>Opozorilo</translation>
@@ -4897,28 +4945,70 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="vanished">Trenutna konfiguracija bo %1-krat poskušala rešiti pot. To lahko traja nekaj časa in uporabniški vmesnik se med izvajanjem optimizacije ne bo odzival. Želite nadaljevati?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="39"/>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="34"/>
         <source>The current configuration will attempt to solve the path %1 times. This might take a while. Do you want to continue?</source>
         <extracomment>Confirmation popup body. %1 = number of attempted solves</extracomment>
         <translation>Trenutna konfiguracija bo poskusila rešiti pot %1-krat. To lahko traja nekaj časa. Ali želite nadaljevati?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="51"/>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="46"/>
         <source>Optimization Parameters (max 3)</source>
         <extracomment>Section title. Section contains a number of checkboxes for different parameters</extracomment>
         <translation>Optimizacijski parametri (maks 3)</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="87"/>
+        <source>Optimization Options</source>
+        <extracomment>Section title. Section contains a number of checkboxes for different parameters</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="93"/>
+        <source>Reachability Check</source>
+        <extracomment>Checkbox: Optimization option</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="100"/>
+        <source>If this option is enabled the optimizer will check all targets for reachability if the path fails to solve normally</source>
+        <extracomment>Tooltip text related to &quot;Reachablility Check&quot; checkbox</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="107"/>
         <source>Optimization Constraints</source>
         <extracomment>Section title. Section contains a number of checkboxes for different parameters</extracomment>
         <translation>Optimizacijske omejitve</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="112"/>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="126"/>
         <source>Optimize</source>
         <extracomment>Button. Starts the optimizer</extracomment>
         <translation>Optimiziraj</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="148"/>
+        <source>No targets in path</source>
+        <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="156"/>
+        <source>No robot loaded</source>
+        <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="164"/>
+        <source>No optimization parameters selected</source>
+        <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="172"/>
+        <source>Another operation is currently in progress</source>
+        <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6591,26 +6681,26 @@ Podprte so samo datoteke, kodirane z UTF-8</translation>
         <translation type="vanished">Datoteke APT ni bilo mogoče razčleniti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="660"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="665"/>
         <source>No error</source>
         <extracomment>Error status for solving path. Success (no error)</extracomment>
         <translation>Brez napake</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="663"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="668"/>
         <source>Path not solved</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pot ni izračunana</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="666"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="671"/>
         <source>Path solved successfully</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pot uspešno izračunana</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="622"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="669"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="674"/>
         <source>Solving path</source>
         <extracomment>Solution progress status
 ----------
@@ -6631,7 +6721,7 @@ Error status for solving path. In progress (no error)</extracomment>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="625"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="672"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="677"/>
         <source>Verifying path</source>
         <extracomment>Solution progress status
 ----------
@@ -6640,7 +6730,7 @@ Error status for solving path. In progress (no error)</extracomment>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="628"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="675"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="680"/>
         <source>Configuring max distance</source>
         <extracomment>Solution progress status
 ----------
@@ -6649,7 +6739,7 @@ Error status for solving path. In progress (no error)</extracomment>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="631"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="678"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="683"/>
         <source>Setting up linear lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -6658,7 +6748,7 @@ Error status for solving path. In progress (no error)</extracomment>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="634"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="681"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="686"/>
         <source>Setting up rotary lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -6667,7 +6757,7 @@ Error status for solving path. In progress (no error)</extracomment>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="637"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="684"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="689"/>
         <source>Solving rotary lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -6675,92 +6765,92 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Reševanje vrtilnih dvigališčnih točk</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="687"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="692"/>
         <source>No solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Brez rešitve</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="690"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="695"/>
         <source>Axis limit violation</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Kršitev meje osi</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="693"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="698"/>
         <source>Solution is outside of workspace limits</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Rešitev je zunaj omejitev delovnega prostora</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="696"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="701"/>
         <source>This robot cannot bend backwards</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ta robot se ne more upogniti nazaj</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="699"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="704"/>
         <source>Invalid kinematic parameters</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neveljavni kinematični parametri</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="702"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="707"/>
         <source>Undefined kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Nedefiniran kinematični tip</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="705"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="710"/>
         <source>Invalid kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neveljaven kinematični tip</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="708"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="713"/>
         <source>Invalid joint setpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neveljavna nastavitev sklepa</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="711"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="716"/>
         <source>Invalid number of degrees of freedom</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neveljavno število prostostnih stopinj</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="714"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="719"/>
         <source>Division by zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Deljenje z ničlo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="717"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="722"/>
         <source>Input is null pointer</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Vnos je ničelni pointer</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="720"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="725"/>
         <source>Robot not loaded</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Robot ni naložen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="723"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="728"/>
         <source>Invalid path size</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neveljavna velikost poti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="726"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="731"/>
         <source>Discontinuous step</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Prekinjen korak</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="484"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="729"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="734"/>
         <source>No targets</source>
         <extracomment>Notification: Cannot configure max distance because there are no targets
 ----------
@@ -6768,19 +6858,19 @@ Error status for solving path</extracomment>
         <translation>Brez točk</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="732"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="737"/>
         <source>Dynamic angle out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Dinamični kot izven območja</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="735"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="740"/>
         <source>Index out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Indeks izven obsega</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="738"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="743"/>
         <source>One or more targets have invalid speed</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ena ali več točk ima neveljavno hitrost</translation>
@@ -6796,37 +6886,37 @@ Error status for solving path</extracomment>
         <translation type="vanished">Kotna omejitev na rotacijski mizi je preplitka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="747"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="752"/>
         <source>Invalid arc midpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neveljavna srednja točka loka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="750"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="755"/>
         <source>Start target must be linear</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Začetni cilj mora biti linearen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="753"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="758"/>
         <source>Radius of the arc must be finite and non-zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Polmer loka mora biti končen in neničelen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="756"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="761"/>
         <source>Distance between arc start-point and arc mid-point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Razdalja med začetno točko loka in srednjo točko loka je premajhna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="759"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="764"/>
         <source>Distance between arc start-point and arc end-point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Razdalja med začetno točko loka in končno točko loka je premajhna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1027"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1032"/>
         <source>Failed to configure max distance at index %1
 No new targets were added
 </source>
@@ -6836,13 +6926,13 @@ Ni bilo dodanih novih ciljev
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1076"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1081"/>
         <source>Failed to find max distance</source>
         <extracomment>Error message from find max distance</extracomment>
         <translation>Ni uspelo najti največje razdalje</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1094"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1101"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
@@ -6850,13 +6940,13 @@ Found %1 possible solutions within the specified parameters</source>
 Najdenih %1 možnih rešitev znotraj določenih parametrov</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1100"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1107"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation>Optimizator je naletel na težavo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1109"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1116"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
@@ -6864,7 +6954,7 @@ No solutions found with the specified parameters</source>
 Ni najdenih rešitev z navedenimi parametri</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1115"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1122"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
@@ -6872,37 +6962,37 @@ Found %1 possible solutions within the specified parameters</source>
 Najdeno %1 možnih rešitev znotraj določenih parametrov</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="765"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="770"/>
         <source>Distance between two targets is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Razdalja med dvema ciljema je premajhna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="741"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="746"/>
         <source>Target should not be at the rotation axis of the rotary table</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Cilj ne sme biti na osi vrtenja rotacijske mize</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="744"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="749"/>
         <source>Z-axis of the target should not be aligned with the rotation axis of the rotary table</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Z-os cilja ne sme biti poravnana z rotacijsko osjo rotacijske mize</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="768"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="773"/>
         <source>Angle between two targets is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Kot med dvema ciljema je preveč majhen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="861"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="866"/>
         <source>Distance between targets %1 and %2 (%3 mm) exceeds recommended maximum (%4 mm)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = distance between targets, %4 = recommended maximum distance</extracomment>
         <translation>Razdalja med cilji %1 in %2 (%3 mm) presega priporočeni maksimum (%4 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="882"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="887"/>
         <source>Reorientation between targets %1 and %2 (%3°) exceeds recommended maximum (%4°)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = reorientation between targets, %4 = recommended maximum reorientation</extracomment>
         <translation>Preusmeritev med cilji %1 in %2 (%3°) presega priporočeni maksimum (%4°)</translation>
@@ -6913,86 +7003,86 @@ Najdeno %1 možnih rešitev znotraj določenih parametrov</translation>
         <translation type="vanished">Pot, uvožena iz CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="762"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="767"/>
         <source>Arc angle is to small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Kot loka je premajhen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="771"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="776"/>
         <source>Lift target must be linear</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Cilj dviga mora biti linearen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="774"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="779"/>
         <source>Rotary table step angle is out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Kot koraka rotacijske mize je zunaj obsega</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="777"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="782"/>
         <source>Lift distance is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Razdalja dviga je premajhna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="780"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="785"/>
         <source>Length of lift direction vector is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Dolžina vektorja smeri dviga je premajhna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="783"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="788"/>
         <source>Invalid indexed solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neveljavna indeksirana rešitev</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="786"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="791"/>
         <source>Invalid rotary lift point</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neveljavna vrtilna točka dviga</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="789"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="794"/>
         <source>Lift point must be configured after all other targets are configured</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Točka dviga mora biti konfigurirana po tem, ko so konfigurirane vse druge tarče</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="792"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="797"/>
         <source>Two consecutive targets are not reachable with same turntable step angle</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Dva zaporedna cilja nista dosegljiva z istim kotom koraka vrtljive plošče</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="795"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="800"/>
         <source>Wrist alignment singularity</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Singularnost poravnave zapestja</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="798"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1020"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="803"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1025"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Operacija prekinjena s strani uporabnika</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="959"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="964"/>
         <source>%1 Rotary lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation>%1 rotacijske dvigalne točke so bile dodane</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="965"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="970"/>
         <source>%1 Linear lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation>%1 Linearne točke dviga so bile dodane</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="976"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="981"/>
         <source>Failed to solve path
 No targets</source>
         <extracomment>Error message. This means that there is no path to solve</extracomment>
@@ -7000,14 +7090,14 @@ No targets</source>
 Brez točk</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="982"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="987"/>
         <source>Operation aborted by user
 Solved %1 of %2 targets</source>
         <extracomment>Warning message. %1 = first failed index, %2 = total number of targets</extracomment>
         <translation>Operacija prekinjena s strani uporabnika Rešeno %1 od %2 ciljev</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="990"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="995"/>
         <source>Failed to solve path
 Solved %1 of %2 targets</source>
         <extracomment>Error message. %1 = first failed index, %2 = total number of targets</extracomment>
@@ -7015,13 +7105,13 @@ Solved %1 of %2 targets</source>
 Izračunan %1 od %2 ciljev</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1003"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1008"/>
         <source>Path solved successfully in %1 ms</source>
         <extracomment>Status message. %1 = time in milliseconds</extracomment>
         <translation>Pot je bila uspešno izračunana v %1 ms</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1043"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1048"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
@@ -7029,7 +7119,7 @@ Izračunan %1 od %2 ciljev</translation>
 1 nova tarča dodana</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1052"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1057"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
@@ -7037,7 +7127,7 @@ Izračunan %1 od %2 ciljev</translation>
 %1 novih ciljev dodanih</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1058"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1063"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>

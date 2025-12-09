@@ -2771,19 +2771,19 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <translation type="obsolete">Ok</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="101"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="100"/>
         <source>Clear all</source>
         <extracomment>Button. Clear (acknowledge) all acknowledgeable messages</extracomment>
         <translation>Išvalyti viską</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="349"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="348"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Perrašyti %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="351"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="350"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Ar tikrai norite perrašyti projektą %1?&lt;br&gt;&lt;br&gt;Šis projektas buvo anksčiau išsaugotas su versija %2&lt;br&gt;&lt;br&gt;Jei jį perrašysite, tada gali būti neįmanoma jį vėl atidaryti su IRBCAM %2&lt;br&gt;&lt;br&gt;Jei norite išsaugoti kopiją, tada galite išsaugoti projektą su nauju pavadinimu</translation>
@@ -4934,6 +4934,15 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
     </message>
 </context>
 <context>
+    <name>OptimizationInModel</name>
+    <message>
+        <location filename="../../../backend/src/optimizationinmodel.cpp" line="397"/>
+        <source>mm</source>
+        <extracomment>Unit: millimeters</extracomment>
+        <translation type="unfinished">mm</translation>
+    </message>
+</context>
+<context>
     <name>OptimizationInParamsEditor</name>
     <message>
         <source>Tool Roll Angle</source>
@@ -4941,256 +4950,301 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <translation type="obsolete">Įrankio šoninio posvyrio kampas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="47"/>
         <source>Object frame X</source>
         <extracomment>Collapsible section: Optimization options for object frame position x-axis</extracomment>
-        <translation>Objekto rėmas X</translation>
+        <translation type="vanished">Objekto rėmas X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="49"/>
         <source>Object frame Y</source>
         <extracomment>Collapsible section: Optimization options for object frame position y-axis</extracomment>
-        <translation>Objekto rėmas Y</translation>
+        <translation type="vanished">Objekto rėmas Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="51"/>
         <source>Object frame RotZ</source>
         <extracomment>Collapsible section: Optimization options for object frame rotation z-axis</extracomment>
-        <translation>Objekto rėmas RotZ</translation>
+        <translation type="vanished">Objekto rėmas RotZ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="53"/>
         <source>Tool roll angle</source>
         <extracomment>Collapsible section: Optimization options for tool roll angle</extracomment>
-        <translation>Įrankio ritimo kampas</translation>
+        <translation type="vanished">Įrankio ritimo kampas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="55"/>
         <source>Rotary table angle</source>
         <extracomment>Collapsible section: Optimization options for rotary axis angle</extracomment>
-        <translation>Sukamojo stalo kampas</translation>
+        <translation type="vanished">Sukamojo stalo kampas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="57"/>
         <source>Linear track offset</source>
         <extracomment>Collapsible section: Optimization options for linear track offset</extracomment>
-        <translation>Linijinio tako poslinkis</translation>
+        <translation type="vanished">Linijinio tako poslinkis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="71"/>
         <source>Min-max (°)</source>
         <extracomment>Label for a number input field</extracomment>
-        <translation>Min-maks (°)</translation>
+        <translation type="vanished">Min-maks (°)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="73"/>
         <source>Min-max (mm)</source>
         <extracomment>Label for a number input field</extracomment>
-        <translation>Min-maks (mm)</translation>
+        <translation type="vanished">Min-maks (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="120"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="54"/>
+        <source>Min-max</source>
+        <extracomment>Label for a number input field</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="83"/>
         <source>Steps</source>
         <extracomment>Label for text field. Type in number of steps the optimiser should divide the job into</extracomment>
         <translation>Žingsniai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="144"/>
         <source>%1mm</source>
         <extracomment>shorthand for millimeters. %1 = a number</extracomment>
-        <translation>%1 mm</translation>
+        <translation type="vanished">%1 mm</translation>
     </message>
 </context>
 <context>
     <name>OptimizationInterface</name>
     <message>
-        <location filename="../../../backend/src/optimizationinterface.cpp" line="263"/>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="165"/>
         <source>Values copied to project</source>
         <extracomment>Info message. Means that the values in the optimiser has been transferred to the project</extracomment>
         <translation>Reikšmės nukopijuotos į projektą</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="174"/>
+        <source>Object Frame X</source>
+        <extracomment>Optimizer parameter</extracomment>
+        <translation type="unfinished">Objekto rėmas X</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="177"/>
+        <source>Object Frame Y</source>
+        <extracomment>Optimizer parameter</extracomment>
+        <translation type="unfinished">Objekto rėmas Y</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="180"/>
+        <source>Object Frame RotZ</source>
+        <extracomment>Optimizer parameter</extracomment>
+        <translation type="unfinished">Objekto rėmas RotZ</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="183"/>
+        <source>Tool Roll Angle</source>
+        <extracomment>Optimizer parameter</extracomment>
+        <translation type="unfinished">Įrankio šoninio posvyrio kampas</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="186"/>
+        <source>Rotary Table Angle</source>
+        <extracomment>Optimizer parameter</extracomment>
+        <translation type="unfinished">Sukamojo stalo kampas</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="189"/>
+        <source>Linear Track Offset</source>
+        <extracomment>Optimizer parameter</extracomment>
+        <translation type="unfinished">Tiesinis Tako Poslinkis</translation>
     </message>
 </context>
 <context>
     <name>OptimizationResults</name>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="44"/>
         <source>Object Frame X</source>
         <extracomment>Axis label for plotting</extracomment>
-        <translation>Objekto rėmas X</translation>
+        <translation type="vanished">Objekto rėmas X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="48"/>
         <source>Object Frame Y</source>
         <extracomment>Axis label for plotting</extracomment>
-        <translation>Objekto rėmas Y</translation>
+        <translation type="vanished">Objekto rėmas Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="52"/>
         <source>Object Frame RotZ</source>
         <extracomment>Axis label for plotting</extracomment>
-        <translation>Objekto rėmas RotZ</translation>
+        <translation type="vanished">Objekto rėmas RotZ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="56"/>
         <source>Tool Roll Angle</source>
         <extracomment>Axis label for plotting</extracomment>
-        <translation>Įrankio šoninio posvyrio kampas</translation>
+        <translation type="vanished">Įrankio šoninio posvyrio kampas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="60"/>
         <source>Rotary Table Angle</source>
         <extracomment>Axis label for plotting</extracomment>
-        <translation>Sukamojo stalo kampas</translation>
+        <translation type="vanished">Sukamojo stalo kampas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="64"/>
         <source>Linear Track Offset</source>
         <extracomment>Axis label for plotting</extracomment>
-        <translation>Tiesinis Tako Poslinkis</translation>
+        <translation type="vanished">Tiesinis Tako Poslinkis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="76"/>
         <source>OFX</source>
         <extracomment>Shorthand for: Object Frame X</extracomment>
-        <translation>OFX</translation>
+        <translation type="vanished">OFX</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="80"/>
         <source>OFY</source>
         <extracomment>Shorthand for: Object Frame Y</extracomment>
-        <translation>OFY</translation>
+        <translation type="vanished">OFY</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="84"/>
         <source>OFRZ</source>
         <extracomment>Shorthand for: Object Frame RotZ</extracomment>
-        <translation>OFRZ</translation>
+        <translation type="vanished">OFRZ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="88"/>
         <source>TRA</source>
         <extracomment>Shorthand for: Tool Roll Angle</extracomment>
-        <translation>TRA</translation>
+        <translation type="vanished">TRA</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="92"/>
         <source>RAA</source>
         <extracomment>Shorthand for: Rotary Axis Angle</extracomment>
-        <translation>RAA</translation>
+        <translation type="vanished">RAA</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="96"/>
         <source>LTO</source>
         <extracomment>Shorthand for: Linear Track Offset</extracomment>
-        <translation>LTO</translation>
+        <translation type="vanished">LTO</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="257"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="227"/>
         <source>Optimizer Plot Controls</source>
         <extracomment>Info card title</extracomment>
         <translation>Optimizatoriaus grafiko valdikliai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="260"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="230"/>
         <source>Hide controls</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
         <translation>Slėpti valdiklius</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="262"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="232"/>
         <source>Show controls</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
         <translation>Rodyti valdiklius</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="267"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="237"/>
         <source>Left click</source>
         <extracomment>Interaction type</extracomment>
         <translation>Kairysis spustelėjimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="269"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="239"/>
         <source>Select target</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Pasirinkti taikinį</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="273"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="243"/>
         <source>Mouse wheel</source>
         <extracomment>Interaction type</extracomment>
         <translation>Pelės ratukas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="275"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="245"/>
         <source>Zoom in/out inside plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Priartinti/atitolinti grafike</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="278"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="248"/>
         <source>If a target is selected it zooms relative to the selected target</source>
         <extracomment>Interaction explanation detail</extracomment>
         <translation>Jei pasirenkamas tikslas, jis priartėja santykinai su pasirinktu tikslu</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="280"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="250"/>
         <source>If no target is selected it zooms relative to the center of the plot</source>
         <extracomment>Interaction explanation detail</extracomment>
         <translation>Jei nėra pasirinkto taikinio, jis priartina santykinai ploto centrui</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="285"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="255"/>
         <source>%1 + wheel</source>
         <extracomment>Interaction type - %1 = ctrl</extracomment>
         <translation>%1 + ratas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="287"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="257"/>
         <source>Change the size of the plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Pakeisti grafiko dydį</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="291"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="261"/>
         <source>Left click + drag</source>
         <extracomment>Interaction type</extracomment>
         <translation>Kairysis spustelėjimas + vilkimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="293"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="263"/>
         <source>Rotate the plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Pasukti grafiką</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="295"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="265"/>
         <source>Only available in 3D mode</source>
         <extracomment>Interaction detail</extracomment>
         <translation>Prieinama tik 3D režimu</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="299"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="269"/>
         <source>Right click + drag</source>
         <extracomment>Interaction type</extracomment>
         <translation>Dešinysis spustelėjimas + vilkimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="301"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="271"/>
         <source>Pan inside plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Pan viduje grafiko</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="305"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="275"/>
         <source>Double click</source>
         <extracomment>Interaction type</extracomment>
         <translation>Dvigubas spustelėjimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="307"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="277"/>
         <source>Reset plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Atstatyti grafiką</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="336"/>
+        <source>Status</source>
+        <extracomment>Label: Referring to solved status of a path configuretion</extracomment>
+        <translation type="unfinished">Būsena</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="341"/>
+        <source>Solved</source>
+        <extracomment>Status: Path configuretion solved</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="347"/>
+        <source>Failed at index</source>
+        <extracomment>Label: The index at which this path configuration failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="359"/>
+        <source>Reachable targets</source>
+        <extracomment>Label: The number of targets that can be reached with this path configuration</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="373"/>
@@ -5202,79 +5256,115 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
 <context>
     <name>OptimizationTypeSelector</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="25"/>
         <source>Object frame X</source>
         <extracomment>Checkbox. Select to optimise this parameter</extracomment>
-        <translation>Objekto rėmas X</translation>
+        <translation type="vanished">Objekto rėmas X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="36"/>
         <source>Object frame Y</source>
         <extracomment>Checkbox. Select to optimise this parameter</extracomment>
-        <translation>Objekto rėmas Y</translation>
+        <translation type="vanished">Objekto rėmas Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="47"/>
         <source>Object frame RotZ</source>
         <extracomment>Checkbox. Select to optimise this parameter</extracomment>
-        <translation>Objekto rėmas RotZ</translation>
+        <translation type="vanished">Objekto rėmas RotZ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="61"/>
         <source>Tool roll angle</source>
         <extracomment>Checkbox. Select to optimise this parameter</extracomment>
-        <translation>Įrankio rulono kampas</translation>
+        <translation type="vanished">Įrankio rulono kampas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="73"/>
         <source>Rotary table angle</source>
         <extracomment>Checkbox. Select to optimise this parameter</extracomment>
-        <translation>Sukamojo stalo kampas</translation>
+        <translation type="vanished">Sukamojo stalo kampas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationTypeSelector.qml" line="85"/>
         <source>Linear track offset</source>
         <extracomment>Checkbox. Select to optimise this parameter</extracomment>
-        <translation>Tiesinės trasos poslinkis</translation>
+        <translation type="vanished">Tiesinės trasos poslinkis</translation>
     </message>
 </context>
 <context>
     <name>Optimizer</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="27"/>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="22"/>
         <source>Parameter Optimizer</source>
         <extracomment>Title</extracomment>
         <translation>Parametrų optimizatorius</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="37"/>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="32"/>
         <source>Warning</source>
         <extracomment>Confirmation popup title</extracomment>
         <translation>Įspėjimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="39"/>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="34"/>
         <source>The current configuration will attempt to solve the path %1 times. This might take a while. Do you want to continue?</source>
         <extracomment>Confirmation popup body. %1 = number of attempted solves</extracomment>
         <translation>Dabartinė konfigūracija bandys išspręsti kelią %1 kartų. Tai gali užtrukti. Ar norite tęsti?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="51"/>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="46"/>
         <source>Optimization Parameters (max 3)</source>
         <extracomment>Section title. Section contains a number of checkboxes for different parameters</extracomment>
         <translation>Optimizavimo parametrai (maks. 3)</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="87"/>
+        <source>Optimization Options</source>
+        <extracomment>Section title. Section contains a number of checkboxes for different parameters</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="93"/>
+        <source>Reachability Check</source>
+        <extracomment>Checkbox: Optimization option</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="100"/>
+        <source>If this option is enabled the optimizer will check all targets for reachability if the path fails to solve normally</source>
+        <extracomment>Tooltip text related to &quot;Reachablility Check&quot; checkbox</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="107"/>
         <source>Optimization Constraints</source>
         <extracomment>Section title. Section contains a number of checkboxes for different parameters</extracomment>
         <translation>Optimizavimo apribojimai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="112"/>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="126"/>
         <source>Optimize</source>
         <extracomment>Button. Starts the optimizer</extracomment>
         <translation>Optimizuoti</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="148"/>
+        <source>No targets in path</source>
+        <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="156"/>
+        <source>No robot loaded</source>
+        <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="164"/>
+        <source>No optimization parameters selected</source>
+        <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="172"/>
+        <source>Another operation is currently in progress</source>
+        <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7096,7 +7186,7 @@ Naudinga siekiant išvengti kabelio susisukimo arba panašių problemų tam tikr
         <translation type="obsolete">Kelias sėkmingai sukonfigūruotas per </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="990"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="995"/>
         <source>Failed to solve path
 Solved %1 of %2 targets</source>
         <extracomment>Error message. %1 = first failed index, %2 = total number of targets</extracomment>
@@ -7104,7 +7194,7 @@ Solved %1 of %2 targets</source>
 Išspręsta %1 iš %2 tikslų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1003"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1008"/>
         <source>Path solved successfully in %1 ms</source>
         <extracomment>Status message. %1 = time in milliseconds</extracomment>
         <translation>Kelias sėkmingai išspręstas per %1 ms</translation>
@@ -7135,26 +7225,26 @@ Išspręsta %1 iš %2 tikslų</translation>
         <translation type="obsolete">Maksimalus atstumas sėkmingai sukonfigūruotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="660"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="665"/>
         <source>No error</source>
         <extracomment>Error status for solving path. Success (no error)</extracomment>
         <translation>Nėra klaidos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="663"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="668"/>
         <source>Path not solved</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Kelias neišspręstas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="666"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="671"/>
         <source>Path solved successfully</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Kelias sėkmingai išspręstas</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="622"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="669"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="674"/>
         <source>Solving path</source>
         <extracomment>Solution progress status
 ----------
@@ -7175,7 +7265,7 @@ Error status for solving path. In progress (no error)</extracomment>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="625"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="672"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="677"/>
         <source>Verifying path</source>
         <extracomment>Solution progress status
 ----------
@@ -7184,7 +7274,7 @@ Error status for solving path. In progress (no error)</extracomment>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="628"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="675"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="680"/>
         <source>Configuring max distance</source>
         <extracomment>Solution progress status
 ----------
@@ -7193,7 +7283,7 @@ Error status for solving path. In progress (no error)</extracomment>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="631"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="678"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="683"/>
         <source>Setting up linear lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -7202,7 +7292,7 @@ Error status for solving path. In progress (no error)</extracomment>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="634"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="681"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="686"/>
         <source>Setting up rotary lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -7211,7 +7301,7 @@ Error status for solving path. In progress (no error)</extracomment>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="637"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="684"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="689"/>
         <source>Solving rotary lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -7219,92 +7309,92 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Sukamųjų kėlimo taškų sprendimas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="687"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="692"/>
         <source>No solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Nėra sprendimo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="690"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="695"/>
         <source>Axis limit violation</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ašies ribos pažeidimas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="693"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="698"/>
         <source>Solution is outside of workspace limits</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Sprendimas yra už darbo erdvės ribų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="696"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="701"/>
         <source>This robot cannot bend backwards</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Šis robotas negali lenktis atgal</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="699"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="704"/>
         <source>Invalid kinematic parameters</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Netinkami kinematikos parametrai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="702"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="707"/>
         <source>Undefined kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neapibrėžtas kinematikos tipas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="705"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="710"/>
         <source>Invalid kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neteisingas kinematikos tipas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="708"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="713"/>
         <source>Invalid joint setpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Netinkamas jungties nustatymas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="711"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="716"/>
         <source>Invalid number of degrees of freedom</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Netinkamas laisvės laipsnių skaičius</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="714"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="719"/>
         <source>Division by zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Dalyba iš nulio</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="717"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="722"/>
         <source>Input is null pointer</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Įvestis yra nulio rodyklė</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="720"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="725"/>
         <source>Robot not loaded</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Robotas neįkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="723"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="728"/>
         <source>Invalid path size</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Netinkamas kelio dydis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="726"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="731"/>
         <source>Discontinuous step</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Diskontinuus žingsnis</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="484"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="729"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="734"/>
         <source>No targets</source>
         <extracomment>Notification: Cannot configure max distance because there are no targets
 ----------
@@ -7312,55 +7402,55 @@ Error status for solving path</extracomment>
         <translation>Nėra taikinių</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="732"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="737"/>
         <source>Dynamic angle out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Dinaminis kampas už ribų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="735"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="740"/>
         <source>Index out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Indeksas už ribų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="738"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="743"/>
         <source>One or more targets have invalid speed</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Vienas arba daugiau taikinių turi neteisingą greitį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="747"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="752"/>
         <source>Invalid arc midpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Netinkamas lanko vidurio taškas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="750"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="755"/>
         <source>Start target must be linear</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pradinis taikinys turi būti tiesinis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="753"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="758"/>
         <source>Radius of the arc must be finite and non-zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Lanko spindulys turi būti baigtinis ir nenulinis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="756"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="761"/>
         <source>Distance between arc start-point and arc mid-point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Atstumas tarp lanko pradžios taško ir lanko vidurio taško yra per mažas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="759"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="764"/>
         <source>Distance between arc start-point and arc end-point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Atstumas tarp lanko pradžios taško ir lanko pabaigos taško yra per mažas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1027"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1032"/>
         <source>Failed to configure max distance at index %1
 No new targets were added
 </source>
@@ -7370,13 +7460,13 @@ Nepridėta naujų taikinių
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1076"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1081"/>
         <source>Failed to find max distance</source>
         <extracomment>Error message from find max distance</extracomment>
         <translation>Nepavyko rasti maksimalaus atstumo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1094"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1101"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
@@ -7384,13 +7474,13 @@ Found %1 possible solutions within the specified parameters</source>
 Rasta %1 galimų sprendimų pagal nurodytus parametrus</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1100"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1107"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation>Optimizatorius susidūrė su problema</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1109"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1116"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
@@ -7398,7 +7488,7 @@ No solutions found with the specified parameters</source>
 Sprendimų nerasta su nurodytais parametrais</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1115"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1122"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
@@ -7406,43 +7496,43 @@ Found %1 possible solutions within the specified parameters</source>
 Rasta %1 galimų sprendimų pagal nurodytus parametrus</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="765"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="770"/>
         <source>Distance between two targets is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Atstumas tarp dviejų taikinių yra per mažas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="768"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="773"/>
         <source>Angle between two targets is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Kampas tarp dviejų taikinių per mažas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="861"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="866"/>
         <source>Distance between targets %1 and %2 (%3 mm) exceeds recommended maximum (%4 mm)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = distance between targets, %4 = recommended maximum distance</extracomment>
         <translation>Atstumas tarp taikinių %1 ir %2 (%3 mm) viršija rekomenduojamą maksimumą (%4 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="882"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="887"/>
         <source>Reorientation between targets %1 and %2 (%3°) exceeds recommended maximum (%4°)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = reorientation between targets, %4 = recommended maximum reorientation</extracomment>
         <translation>Orientavimo pokytis tarp taikinių %1 ir %2 (%3°) viršija rekomenduojamą maksimumą (%4°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="959"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="964"/>
         <source>%1 Rotary lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation>Buvo pridėti %1 sukamieji kėlimo taškai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="965"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="970"/>
         <source>%1 Linear lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation>%1 Tiesiniai kėlimo taškai buvo pridėti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="976"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="981"/>
         <source>Failed to solve path
 No targets</source>
         <extracomment>Error message. This means that there is no path to solve</extracomment>
@@ -7450,93 +7540,93 @@ No targets</source>
 Nėra tikslų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="762"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="767"/>
         <source>Arc angle is to small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Lanko kampas yra per mažas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="741"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="746"/>
         <source>Target should not be at the rotation axis of the rotary table</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Taikinys neturėtų būti ties sukimosi ašimi sukamojo stalo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="744"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="749"/>
         <source>Z-axis of the target should not be aligned with the rotation axis of the rotary table</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Taikinio Z-ašis neturėtų būti lygiagreti su sukimosi stalo sukimosi ašimi</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="771"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="776"/>
         <source>Lift target must be linear</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pakėlimo taikinys turi būti tiesinis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="774"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="779"/>
         <source>Rotary table step angle is out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Sukamojo stalo žingsnio kampas yra už ribų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="777"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="782"/>
         <source>Lift distance is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pakėlimo atstumas yra per mažas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="780"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="785"/>
         <source>Length of lift direction vector is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Kėlimo krypties vektoriaus ilgis yra per mažas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="783"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="788"/>
         <source>Invalid indexed solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Netinkamas indeksuotas sprendinys</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="786"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="791"/>
         <source>Invalid rotary lift point</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neteisingas sukamojo kėlimo taškas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="789"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="794"/>
         <source>Lift point must be configured after all other targets are configured</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pakėlimo taškas turi būti sukonfigūruotas po to, kai visi kiti taikiniai yra sukonfigūruoti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="792"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="797"/>
         <source>Two consecutive targets are not reachable with same turntable step angle</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Du iš eilės einantys taikiniai nėra pasiekiami su tuo pačiu turntable žingsnio kampu</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="795"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="800"/>
         <source>Wrist alignment singularity</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Riešo lygiavimo singularumas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="798"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1020"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="803"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1025"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Operacija nutraukta vartotojo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="982"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="987"/>
         <source>Operation aborted by user
 Solved %1 of %2 targets</source>
         <extracomment>Warning message. %1 = first failed index, %2 = total number of targets</extracomment>
         <translation>Operacija nutraukta naudotojo Išspręsta %1 iš %2 tikslų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1043"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1048"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
@@ -7544,7 +7634,7 @@ Solved %1 of %2 targets</source>
 1 naujas tikslas buvo pridėtas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1052"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1057"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
@@ -7552,7 +7642,7 @@ Solved %1 of %2 targets</source>
 %1 naujų taikinių buvo pridėti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1058"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1063"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
