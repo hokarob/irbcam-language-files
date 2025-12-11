@@ -475,7 +475,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Controls/AssetTreeDelegate.qml" line="257"/>
         <source>See details (Open external window)</source>
         <extracomment>Tool tip: Shown when hovering above the external link button on assets</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ver detalhes (Abrir janela externa)</translation>
     </message>
 </context>
 <context>
@@ -2047,13 +2047,13 @@ Placeholder for when no procedure name is entered</extracomment>
         <extracomment>User procedure number for the robot
 ----------
 Placeholder for when no up number is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Número Up</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="218"/>
         <source>User procedure number in exported code [1 - 999]</source>
         <extracomment>Tool tip for text field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Número do procedimento do usuário no código exportado [1 - 999]</translation>
     </message>
 </context>
 <context>
@@ -3331,7 +3331,7 @@ Collapsible item in tree view. This is the root item, indicating that the list c
         <location filename="../../IrbcamQml/Popups/Assets/LoadProjectDelegate.qml" line="133"/>
         <source>See details (Open external window)</source>
         <extracomment>Tool tip: Shown when hovering above the external link button on projects</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ver detalhes (Abrir janela externa)</translation>
     </message>
 </context>
 <context>
@@ -3853,7 +3853,7 @@ Placeholder for when no external axis name is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="254"/>
         <source>Invalid axis number</source>
         <extracomment>Combo box item: Invalid axis number for this robot type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Número de eixo inválido</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="235"/>
@@ -4844,7 +4844,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../../backend/src/optimizationinmodel.cpp" line="397"/>
         <source>mm</source>
         <extracomment>Unit: millimeters</extracomment>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
 </context>
 <context>
@@ -4898,7 +4898,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="54"/>
         <source>Min-max</source>
         <extracomment>Label for a number input field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mínimo-máximo</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="83"/>
@@ -4924,37 +4924,37 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../../backend/src/optimizationinterface.cpp" line="174"/>
         <source>Object Frame X</source>
         <extracomment>Optimizer parameter</extracomment>
-        <translation type="unfinished">Quadro do Objeto X</translation>
+        <translation>Quadro do Objeto X</translation>
     </message>
     <message>
         <location filename="../../../backend/src/optimizationinterface.cpp" line="177"/>
         <source>Object Frame Y</source>
         <extracomment>Optimizer parameter</extracomment>
-        <translation type="unfinished">Quadro do Objeto Y</translation>
+        <translation>Quadro do Objeto Y</translation>
     </message>
     <message>
         <location filename="../../../backend/src/optimizationinterface.cpp" line="180"/>
         <source>Object Frame RotZ</source>
         <extracomment>Optimizer parameter</extracomment>
-        <translation type="unfinished">Quadro do Objeto RotZ</translation>
+        <translation>Quadro do Objeto RotZ</translation>
     </message>
     <message>
         <location filename="../../../backend/src/optimizationinterface.cpp" line="183"/>
         <source>Tool Roll Angle</source>
         <extracomment>Optimizer parameter</extracomment>
-        <translation type="unfinished">Ângulo Roll da Ferramenta</translation>
+        <translation>Ângulo Roll da Ferramenta</translation>
     </message>
     <message>
         <location filename="../../../backend/src/optimizationinterface.cpp" line="186"/>
         <source>Rotary Table Angle</source>
         <extracomment>Optimizer parameter</extracomment>
-        <translation type="unfinished">Ângulo da Mesa Rotativa</translation>
+        <translation>Ângulo da Mesa Rotativa</translation>
     </message>
     <message>
         <location filename="../../../backend/src/optimizationinterface.cpp" line="189"/>
         <source>Linear Track Offset</source>
         <extracomment>Optimizer parameter</extracomment>
-        <translation type="unfinished">Deslocamento do Trilho Linear</translation>
+        <translation>Deslocamento do Trilho Linear</translation>
     </message>
 </context>
 <context>
@@ -5131,25 +5131,25 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="336"/>
         <source>Status</source>
         <extracomment>Label: Referring to solved status of a path configuretion</extracomment>
-        <translation type="unfinished">Estado</translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="341"/>
         <source>Solved</source>
         <extracomment>Status: Path configuretion solved</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Resolvido</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="347"/>
         <source>Failed at index</source>
         <extracomment>Label: The index at which this path configuration failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Falhou no índice</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="359"/>
         <source>Reachable targets</source>
         <extracomment>Label: The number of targets that can be reached with this path configuration</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Alvos alcançáveis</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="373"/>
@@ -5221,19 +5221,19 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="87"/>
         <source>Optimization Options</source>
         <extracomment>Section title. Section contains a number of checkboxes for different parameters</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Opções de Otimização</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="93"/>
         <source>Reachability Check</source>
         <extracomment>Checkbox: Optimization option</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Verificação de Alcance</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="100"/>
         <source>If this option is enabled the optimizer will check all targets for reachability if the path fails to solve normally</source>
         <extracomment>Tooltip text related to &quot;Reachablility Check&quot; checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Se esta opção estiver ativada, o otimizador verificará todos os alvos quanto à acessibilidade se o caminho falhar em resolver normalmente</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="107"/>
@@ -5251,25 +5251,25 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="148"/>
         <source>No targets in path</source>
         <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum alvo no caminho</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="156"/>
         <source>No robot loaded</source>
         <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum robô carregado</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="164"/>
         <source>No optimization parameters selected</source>
         <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum parâmetro de otimização selecionado</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="172"/>
         <source>Another operation is currently in progress</source>
         <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Outra operação está atualmente em andamento</translation>
     </message>
 </context>
 <context>
@@ -7155,7 +7155,7 @@ Error status for solving path. In progress (no error)</extracomment>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="501"/>
         <source>Failed to configure max distance: No valid targets found in the requested range</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao configurar a distância máxima: Nenhum alvo válido encontrado no intervalo solicitado</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="619"/>
@@ -8920,13 +8920,13 @@ O alvo é inacessível com a configuração atual</translation>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="308"/>
         <source>Gun On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun on</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Gun Ligado mudança</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="318"/>
         <source>Gun Off change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun on</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Alterar Arma Desligada</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="349"/>
@@ -9013,7 +9013,7 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="556"/>
         <source>Gun On/Off</source>
         <extracomment>Label over input field</extracomment>
-        <translation type="unfinished">Arma Ligada/Desligada</translation>
+        <translation>Arma Ligada/Desligada</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="569"/>
@@ -9197,49 +9197,49 @@ Droptown menu text, motion type for target</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="283"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox. Select to switch off tool under rapid movement</extracomment>
-        <translation type="unfinished">Arma ligada/desligada</translation>
+        <translation>Arma ligada/desligada</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="289"/>
         <source>Switch off tool (gun) under rapid movement</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished">Desligar ferramenta (arma) sob movimento rápido</translation>
+        <translation>Desligar ferramenta (arma) sob movimento rápido</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="306"/>
         <source>Fine point before gun on/off</source>
         <extracomment>Checkbox. Select to enable fine point before gun on/off</extracomment>
-        <translation type="unfinished">Ponto fino antes de pistola on/off</translation>
+        <translation>Ponto fino antes de pistola on/off</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="312"/>
         <source>Enable fine point before gun on/off</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished">Habilitar ponto fino antes de ligar/desligar arma</translation>
+        <translation>Habilitar ponto fino antes de ligar/desligar arma</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="324"/>
         <source>Set tool number</source>
         <extracomment>Checkbox. Select to enable automatic tool changing in exported code</extracomment>
-        <translation type="unfinished">Definir número da ferramenta</translation>
+        <translation>Definir número da ferramenta</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="330"/>
         <source>Automatic tool changing</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished">Troca automática de ferramentas</translation>
+        <translation>Troca automática de ferramentas</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="341"/>
         <source>Export spindle speeds</source>
         <extracomment>Checkbox. Select to include spindle speeds in exported robot code</extracomment>
-        <translation type="unfinished">Exportar velocidades do fuso</translation>
+        <translation>Exportar velocidades do fuso</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="347"/>
         <source>Include spindle speeds in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished">Incluir velocidades do fuso no código exportado</translation>
+        <translation>Incluir velocidades do fuso no código exportado</translation>
     </message>
 </context>
 <context>
@@ -9332,25 +9332,25 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="147"/>
         <source>Tool Type</source>
         <extracomment>Label over input field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de Ferramenta</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="159"/>
         <source>Invalid type</source>
         <extracomment>Dropdown menu display text showing invalid selection.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tipo inválido</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="164"/>
         <source>Weldgun</source>
         <extracomment>Dropdown menu item.</extracomment>
-        <translation type="unfinished">Pistola de solda</translation>
+        <translation>Pistola de solda</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="169"/>
         <source>Spindle</source>
         <extracomment>Dropdown menu item.</extracomment>
-        <translation type="unfinished">Fuso</translation>
+        <translation>Fuso</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="185"/>
@@ -9746,7 +9746,7 @@ Rotação (rad)
         <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="181"/>
         <source>Enable Tool Animation</source>
         <extracomment>Checkbox. Select to enable tool animation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ativar Animação da Ferramenta</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="189"/>
