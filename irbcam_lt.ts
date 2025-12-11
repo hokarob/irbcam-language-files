@@ -499,7 +499,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Controls/AssetTreeDelegate.qml" line="257"/>
         <source>See details (Open external window)</source>
         <extracomment>Tool tip: Shown when hovering above the external link button on assets</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Žiūrėti detales (Atidaryti išoriniame lange)</translation>
     </message>
 </context>
 <context>
@@ -2132,13 +2132,13 @@ Placeholder for when no procedure name is entered</extracomment>
         <extracomment>User procedure number for the robot
 ----------
 Placeholder for when no up number is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Up Skaičius</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/General.qml" line="218"/>
         <source>User procedure number in exported code [1 - 999]</source>
         <extracomment>Tool tip for text field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Naudotojo procedūros numeris eksportuotame kode [1 - 999]</translation>
     </message>
 </context>
 <context>
@@ -3432,7 +3432,7 @@ Collapsible item in tree view. This is the root item, indicating that the list c
         <location filename="../../IrbcamQml/Popups/Assets/LoadProjectDelegate.qml" line="133"/>
         <source>See details (Open external window)</source>
         <extracomment>Tool tip: Shown when hovering above the external link button on projects</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Žiūrėti detales (Atidaryti išoriniame lange)</translation>
     </message>
 </context>
 <context>
@@ -3955,7 +3955,7 @@ Placeholder for when no external axis name is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="254"/>
         <source>Invalid axis number</source>
         <extracomment>Combo box item: Invalid axis number for this robot type</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Neteisingas ašies numeris</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="235"/>
@@ -4939,7 +4939,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../../backend/src/optimizationinmodel.cpp" line="397"/>
         <source>mm</source>
         <extracomment>Unit: millimeters</extracomment>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
 </context>
 <context>
@@ -4993,7 +4993,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="54"/>
         <source>Min-max</source>
         <extracomment>Label for a number input field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Min-maks</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationInParamsEditor.qml" line="83"/>
@@ -5019,37 +5019,37 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../../backend/src/optimizationinterface.cpp" line="174"/>
         <source>Object Frame X</source>
         <extracomment>Optimizer parameter</extracomment>
-        <translation type="unfinished">Objekto rėmas X</translation>
+        <translation>Objekto rėmas X</translation>
     </message>
     <message>
         <location filename="../../../backend/src/optimizationinterface.cpp" line="177"/>
         <source>Object Frame Y</source>
         <extracomment>Optimizer parameter</extracomment>
-        <translation type="unfinished">Objekto rėmas Y</translation>
+        <translation>Objekto rėmas Y</translation>
     </message>
     <message>
         <location filename="../../../backend/src/optimizationinterface.cpp" line="180"/>
         <source>Object Frame RotZ</source>
         <extracomment>Optimizer parameter</extracomment>
-        <translation type="unfinished">Objekto rėmas RotZ</translation>
+        <translation>Objekto rėmas RotZ</translation>
     </message>
     <message>
         <location filename="../../../backend/src/optimizationinterface.cpp" line="183"/>
         <source>Tool Roll Angle</source>
         <extracomment>Optimizer parameter</extracomment>
-        <translation type="unfinished">Įrankio šoninio posvyrio kampas</translation>
+        <translation>Įrankio šoninio posvyrio kampas</translation>
     </message>
     <message>
         <location filename="../../../backend/src/optimizationinterface.cpp" line="186"/>
         <source>Rotary Table Angle</source>
         <extracomment>Optimizer parameter</extracomment>
-        <translation type="unfinished">Sukamojo stalo kampas</translation>
+        <translation>Sukamojo stalo kampas</translation>
     </message>
     <message>
         <location filename="../../../backend/src/optimizationinterface.cpp" line="189"/>
         <source>Linear Track Offset</source>
         <extracomment>Optimizer parameter</extracomment>
-        <translation type="unfinished">Tiesinis Tako Poslinkis</translation>
+        <translation>Tiesinis Tako Poslinkis</translation>
     </message>
 </context>
 <context>
@@ -5226,25 +5226,25 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="336"/>
         <source>Status</source>
         <extracomment>Label: Referring to solved status of a path configuretion</extracomment>
-        <translation type="unfinished">Būsena</translation>
+        <translation>Būsena</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="341"/>
         <source>Solved</source>
         <extracomment>Status: Path configuretion solved</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Išspręsta</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="347"/>
         <source>Failed at index</source>
         <extracomment>Label: The index at which this path configuration failed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko ties indeksu</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="359"/>
         <source>Reachable targets</source>
         <extracomment>Label: The number of targets that can be reached with this path configuration</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pasiekiami taikiniai</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="373"/>
@@ -5316,19 +5316,19 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="87"/>
         <source>Optimization Options</source>
         <extracomment>Section title. Section contains a number of checkboxes for different parameters</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Optimizavimo parinktys</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="93"/>
         <source>Reachability Check</source>
         <extracomment>Checkbox: Optimization option</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pasiekiamumo patikrinimas</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="100"/>
         <source>If this option is enabled the optimizer will check all targets for reachability if the path fails to solve normally</source>
         <extracomment>Tooltip text related to &quot;Reachablility Check&quot; checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Jei ši parinktis įjungta, optimizatorius patikrins visus taikinius dėl pasiekiamumo, jei kelias nepavyksta išspręsti įprastai</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="107"/>
@@ -5346,25 +5346,25 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="148"/>
         <source>No targets in path</source>
         <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nėra taikinių kelyje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="156"/>
         <source>No robot loaded</source>
         <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Robotas neįkeltas</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="164"/>
         <source>No optimization parameters selected</source>
         <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nėra pasirinktų optimizavimo parametrų</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="172"/>
         <source>Another operation is currently in progress</source>
         <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kita operacija šiuo metu vyksta</translation>
     </message>
 </context>
 <context>
@@ -7255,7 +7255,7 @@ Error status for solving path. In progress (no error)</extracomment>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="501"/>
         <source>Failed to configure max distance: No valid targets found in the requested range</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko sukonfigūruoti maksimalaus atstumo: Nerasta galiojančių taikinių prašomame diapazone</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="619"/>
@@ -9026,13 +9026,13 @@ Tikslas nepasiekiamas su dabartine konfigūracija</translation>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="308"/>
         <source>Gun On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun on</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pistoletas įjungtas keitimas</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="318"/>
         <source>Gun Off change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun on</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pistoletas išjungtas keisti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="349"/>
@@ -9119,7 +9119,7 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="556"/>
         <source>Gun On/Off</source>
         <extracomment>Label over input field</extracomment>
-        <translation type="unfinished">Šautuvas įjungtas/išjungtas</translation>
+        <translation>Šautuvas įjungtas/išjungtas</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="569"/>
@@ -9303,49 +9303,49 @@ Droptown menu text, motion type for target</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="283"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox. Select to switch off tool under rapid movement</extracomment>
-        <translation type="unfinished">Ginklas įjungtas/išjungtas</translation>
+        <translation>Ginklas įjungtas/išjungtas</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="289"/>
         <source>Switch off tool (gun) under rapid movement</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished">Išjungti įrankį (ginklą) greito judėjimo metu</translation>
+        <translation>Išjungti įrankį (ginklą) greito judėjimo metu</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="306"/>
         <source>Fine point before gun on/off</source>
         <extracomment>Checkbox. Select to enable fine point before gun on/off</extracomment>
-        <translation type="unfinished">Smulkus taškas prieš ginklą įjungti/išjungti</translation>
+        <translation>Smulkus taškas prieš ginklą įjungti/išjungti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="312"/>
         <source>Enable fine point before gun on/off</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished">Įgalinti tikslų tašką prieš įjungiant pistoletą arba išjungiant</translation>
+        <translation>Įgalinti tikslų tašką prieš įjungiant pistoletą arba išjungiant</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="324"/>
         <source>Set tool number</source>
         <extracomment>Checkbox. Select to enable automatic tool changing in exported code</extracomment>
-        <translation type="unfinished">Nustatyti įrankio numerį</translation>
+        <translation>Nustatyti įrankio numerį</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="330"/>
         <source>Automatic tool changing</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished">Automatinis įrankių keitimas</translation>
+        <translation>Automatinis įrankių keitimas</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="341"/>
         <source>Export spindle speeds</source>
         <extracomment>Checkbox. Select to include spindle speeds in exported robot code</extracomment>
-        <translation type="unfinished">Eksportuoti spindelio greičius</translation>
+        <translation>Eksportuoti spindelio greičius</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="347"/>
         <source>Include spindle speeds in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished">Įtraukti spindelio greičius į eksportuotą kodą</translation>
+        <translation>Įtraukti spindelio greičius į eksportuotą kodą</translation>
     </message>
 </context>
 <context>
@@ -9438,25 +9438,25 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="147"/>
         <source>Tool Type</source>
         <extracomment>Label over input field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Įrankio tipas</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="159"/>
         <source>Invalid type</source>
         <extracomment>Dropdown menu display text showing invalid selection.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Neteisingas tipas</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="164"/>
         <source>Weldgun</source>
         <extracomment>Dropdown menu item.</extracomment>
-        <translation type="unfinished">Suvirinimo pistoletas</translation>
+        <translation>Suvirinimo pistoletas</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="169"/>
         <source>Spindle</source>
         <extracomment>Dropdown menu item.</extracomment>
-        <translation type="unfinished">Spindelis</translation>
+        <translation>Spindelis</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="185"/>
@@ -9857,7 +9857,7 @@ Sukimas (rad)
         <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="181"/>
         <source>Enable Tool Animation</source>
         <extracomment>Checkbox. Select to enable tool animation</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Įjungti įrankio animaciją</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolTraceSettings.qml" line="189"/>
