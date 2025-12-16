@@ -5873,6 +5873,21 @@ Vill du fortsätta?</translation>
     </message>
 </context>
 <context>
+    <name>OptimizationConfigModel</name>
+    <message>
+        <location filename="../../../backend/src/optimizationconfigmodel.cpp" line="137"/>
+        <source>Solved</source>
+        <extracomment>Legend entry: Path is successfuly solved</extracomment>
+        <translation type="unfinished">Löst</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/optimizationconfigmodel.cpp" line="139"/>
+        <source>All targets solved successfully</source>
+        <extracomment>Legend entry tool-tip: Path is successfuly solved</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>OptimizationConstraints</name>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/OptimizationConstraints.qml" line="34"/>
@@ -6257,139 +6272,139 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="vanished">LBO</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="227"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="266"/>
         <source>Optimizer Plot Controls</source>
         <extracomment>Info card title</extracomment>
         <translation>Optimeringsdiagramkontroller</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="230"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="269"/>
         <source>Hide controls</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
         <translation>Dölj kontroller</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="232"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="271"/>
         <source>Show controls</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
         <translation>Visa kontroller</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="237"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="276"/>
         <source>Left click</source>
         <extracomment>Interaction type</extracomment>
         <translation>Vänsterklick</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="239"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="278"/>
         <source>Select target</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Välj mål</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="243"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="282"/>
         <source>Mouse wheel</source>
         <extracomment>Interaction type</extracomment>
         <translation>Mushjul</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="245"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="284"/>
         <source>Zoom in/out inside plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Zooma in/ut inuti diagrammet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="248"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="287"/>
         <source>If a target is selected it zooms relative to the selected target</source>
         <extracomment>Interaction explanation detail</extracomment>
         <translation>Om en punkt är vald zoomas det relativt till den valda punkten</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="250"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="289"/>
         <source>If no target is selected it zooms relative to the center of the plot</source>
         <extracomment>Interaction explanation detail</extracomment>
         <translation>Om ingen punkt är vald zoomas det relativt till diagrammets centrum</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="255"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="294"/>
         <source>%1 + wheel</source>
         <extracomment>Interaction type - %1 = ctrl</extracomment>
         <translation>%1 + hjul</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="257"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="296"/>
         <source>Change the size of the plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Ändra storleken på diagrammet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="261"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="300"/>
         <source>Left click + drag</source>
         <extracomment>Interaction type</extracomment>
         <translation>Vänsterklick + dra</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="263"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="302"/>
         <source>Rotate the plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Rotera diagrammet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="265"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="304"/>
         <source>Only available in 3D mode</source>
         <extracomment>Interaction detail</extracomment>
         <translation>Endast tillgänglig i 3D-läge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="269"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="308"/>
         <source>Right click + drag</source>
         <extracomment>Interaction type</extracomment>
         <translation>Högerklick + dra</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="271"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="310"/>
         <source>Pan inside plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Pan inne i diagrammet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="275"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="314"/>
         <source>Double click</source>
         <extracomment>Interaction type</extracomment>
         <translation>Dubbelklick</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="277"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="316"/>
         <source>Reset plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Återställ handling</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="336"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="375"/>
         <source>Status</source>
         <extracomment>Label: Referring to solved status of a path configuretion</extracomment>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="341"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="380"/>
         <source>Solved</source>
         <extracomment>Status: Path configuretion solved</extracomment>
         <translation>Löst</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="347"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="386"/>
         <source>Failed at index</source>
         <extracomment>Label: The index at which this path configuration failed</extracomment>
         <translation>Misslyckades vid index</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="359"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="399"/>
         <source>Reachable targets</source>
         <extracomment>Label: The number of targets that can be reached with this path configuration</extracomment>
         <translation>Nåbara mål</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="373"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="413"/>
         <source>Copy to project</source>
         <extracomment>Button. Transfer optimised values to project</extracomment>
         <translation>Kopiera till projekt</translation>
@@ -6479,36 +6494,48 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="107"/>
+        <source>Output Threshold</source>
+        <extracomment>Label next to input field</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="128"/>
+        <source>Set the minimum percentage of targets that must be solved/reachable for a configuration to be included in the optimization output</source>
+        <extracomment>Tooltip text related to &quot;Output Threashold&quot; input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="136"/>
         <source>Optimization Constraints</source>
         <extracomment>Section title. Section contains a number of checkboxes for different parameters</extracomment>
         <translation>Optimeringsbegränsningar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="126"/>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="155"/>
         <source>Optimize</source>
         <extracomment>Button. Starts the optimizer</extracomment>
         <translation>Optimera</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="148"/>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="177"/>
         <source>No targets in path</source>
         <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
         <translation>Inga mål i banan</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="156"/>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="185"/>
         <source>No robot loaded</source>
         <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
         <translation>Ingen robot laddad</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="164"/>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="193"/>
         <source>No optimization parameters selected</source>
         <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
         <translation>Inga optimeringsparametrar valda</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="172"/>
+        <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="201"/>
         <source>Another operation is currently in progress</source>
         <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
         <translation>En annan operation pågår för närvarande</translation>
