@@ -4404,13 +4404,13 @@ Voulez-vous continuer ?</translation>
 <context>
     <name>OptimizationConfigModel</name>
     <message>
-        <location filename="../../../backend/src/optimizationconfigmodel.cpp" line="137"/>
+        <location filename="../../../backend/src/optimizationconfigmodel.cpp" line="135"/>
         <source>Solved</source>
         <extracomment>Legend entry: Path is successfuly solved</extracomment>
         <translation>Résolu</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/optimizationconfigmodel.cpp" line="139"/>
+        <location filename="../../../backend/src/optimizationconfigmodel.cpp" line="137"/>
         <source>All targets solved successfully</source>
         <extracomment>Legend entry tool-tip: Path is successfuly solved</extracomment>
         <translation>Toutes les cibles résolues avec succès</translation>
