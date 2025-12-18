@@ -4796,13 +4796,13 @@ Denne handlingen vil permanent slette %1 fra skyen</translation>
         <location filename="../../../backend/src/optimizationconfigmodel.cpp" line="137"/>
         <source>Solved</source>
         <extracomment>Legend entry: Path is successfuly solved</extracomment>
-        <translation type="unfinished">Løst</translation>
+        <translation>Løst</translation>
     </message>
     <message>
         <location filename="../../../backend/src/optimizationconfigmodel.cpp" line="139"/>
         <source>All targets solved successfully</source>
         <extracomment>Legend entry tool-tip: Path is successfuly solved</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Alle mål løst vellykket</translation>
     </message>
 </context>
 <context>
@@ -5469,13 +5469,13 @@ uresponsivt imens optimeringen kjører. Vil du fortsette?</translation>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="107"/>
         <source>Output Threshold</source>
         <extracomment>Label next to input field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Utgangsterskel</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="128"/>
         <source>Set the minimum percentage of targets that must be solved/reachable for a configuration to be included in the optimization output</source>
         <extracomment>Tooltip text related to &quot;Output Threashold&quot; input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sett minimumsprosenten av mål som må løses/nås for at en konfigurasjon skal inkluderes i optimaliseringsutdataene</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="136"/>
