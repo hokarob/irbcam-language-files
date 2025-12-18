@@ -4890,13 +4890,13 @@ Ar norite tęsti?</translation>
         <location filename="../../../backend/src/optimizationconfigmodel.cpp" line="137"/>
         <source>Solved</source>
         <extracomment>Legend entry: Path is successfuly solved</extracomment>
-        <translation type="unfinished">Išspręsta</translation>
+        <translation>Išspręsta</translation>
     </message>
     <message>
         <location filename="../../../backend/src/optimizationconfigmodel.cpp" line="139"/>
         <source>All targets solved successfully</source>
         <extracomment>Legend entry tool-tip: Path is successfuly solved</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Visi tikslai išspręsti sėkmingai</translation>
     </message>
 </context>
 <context>
@@ -5349,13 +5349,13 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="107"/>
         <source>Output Threshold</source>
         <extracomment>Label next to input field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Išvesties slenkstis</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="128"/>
         <source>Set the minimum percentage of targets that must be solved/reachable for a configuration to be included in the optimization output</source>
         <extracomment>Tooltip text related to &quot;Output Threashold&quot; input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nustatyti minimalų tikslų procentą, kurie turi būti išspręsti arba pasiekiami, kad konfigūracija būtų įtraukta į optimizavimo išvestį</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="136"/>
