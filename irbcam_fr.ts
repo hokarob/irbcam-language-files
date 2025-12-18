@@ -4407,13 +4407,13 @@ Voulez-vous continuer ?</translation>
         <location filename="../../../backend/src/optimizationconfigmodel.cpp" line="137"/>
         <source>Solved</source>
         <extracomment>Legend entry: Path is successfuly solved</extracomment>
-        <translation type="unfinished">Résolu</translation>
+        <translation>Résolu</translation>
     </message>
     <message>
         <location filename="../../../backend/src/optimizationconfigmodel.cpp" line="139"/>
         <source>All targets solved successfully</source>
         <extracomment>Legend entry tool-tip: Path is successfuly solved</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Toutes les cibles résolues avec succès</translation>
     </message>
 </context>
 <context>
@@ -4952,13 +4952,13 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="107"/>
         <source>Output Threshold</source>
         <extracomment>Label next to input field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Seuil de Sortie</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="128"/>
         <source>Set the minimum percentage of targets that must be solved/reachable for a configuration to be included in the optimization output</source>
         <extracomment>Tooltip text related to &quot;Output Threashold&quot; input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Définir le pourcentage minimum de cibles qui doivent être résolues/accessibles pour qu&apos;une configuration soit incluse dans la sortie d&apos;optimisation</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="136"/>
