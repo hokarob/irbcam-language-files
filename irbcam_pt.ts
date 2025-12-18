@@ -4795,13 +4795,13 @@ Deseja continuar?</translation>
         <location filename="../../../backend/src/optimizationconfigmodel.cpp" line="137"/>
         <source>Solved</source>
         <extracomment>Legend entry: Path is successfuly solved</extracomment>
-        <translation type="unfinished">Resolvido</translation>
+        <translation>Resolvido</translation>
     </message>
     <message>
         <location filename="../../../backend/src/optimizationconfigmodel.cpp" line="139"/>
         <source>All targets solved successfully</source>
         <extracomment>Legend entry tool-tip: Path is successfuly solved</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Todos os alvos resolvidos com sucesso</translation>
     </message>
 </context>
 <context>
@@ -5254,13 +5254,13 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="107"/>
         <source>Output Threshold</source>
         <extracomment>Label next to input field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Limiar de Saída</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="128"/>
         <source>Set the minimum percentage of targets that must be solved/reachable for a configuration to be included in the optimization output</source>
         <extracomment>Tooltip text related to &quot;Output Threashold&quot; input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Definir a porcentagem mínima de alvos que devem ser resolvidos ou alcançáveis para uma configuração ser incluída na saída da otimização</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Optimizer.qml" line="136"/>
