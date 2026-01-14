@@ -425,31 +425,31 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>AnimationBar</name>
     <message>
-        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="92"/>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="162"/>
         <source>End of path</source>
         <extracomment>Tool tip for play button</extracomment>
         <translation>Kelias baigtas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="94"/>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="164"/>
         <source>Path must be solved before it can be animated</source>
         <extracomment>Tool tip for play button</extracomment>
         <translation>Kelias turi būti išspręstas prieš jį galima animuoti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="96"/>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="166"/>
         <source>Path must contain at least two points to animate</source>
         <extracomment>Tool tip for play button</extracomment>
         <translation>Kelias turi turėti bent du taškus, kad būtų galima animuoti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="133"/>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="203"/>
         <source>Animation speed</source>
         <extracomment>Tool-tip. Animation speed setting</extracomment>
         <translation>Animacijos greitis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="176"/>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="246"/>
         <source>Tool Trace</source>
         <extracomment>Button: Open tool trace settings</extracomment>
         <translation>Įrankio sekimas</translation>
@@ -8967,7 +8967,7 @@ Target at 0 is unreachable</source>
 Tikslas ties 0 yra nepasiekiamas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1103"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1112"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -8975,7 +8975,7 @@ Target at index %1 has zero velocity</source>
 Taikinys ties indeksu %1 turi nulio greitį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1211"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1220"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -8983,7 +8983,7 @@ Target at index %1 is not solved</source>
 Tikslas indekse %1 nėra išspręstas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1474"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1486"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
