@@ -2647,18 +2647,14 @@ Csak UTF-8 kódolású fájlok támogatottak</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="40"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="51"/>
         <source>None</source>
-        <extracomment>Placeholder for robot name if no robot is loaded
-----------
-Placeholder for tool name if no tool is loaded</extracomment>
+        <extracomment>Placeholder for robot name if no robot is loaded</extracomment>
         <translation>Semmi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="46"/>
         <source>Tool</source>
         <extracomment>Which tool is loaded</extracomment>
-        <translation>Kiválasztás</translation>
+        <translation type="vanished">Kiválasztás</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Info.qml" line="56"/>
@@ -2773,16 +2769,14 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <translation>Objektum keret frissítve a nyilvános API-ból</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="188"/>
         <source>Tooltip Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the tooltip frame. In this context, tooltip means the tip of the tool (not UI element)</extracomment>
-        <translation>A Tooltip keret frissült a nyilvános API-ból</translation>
+        <translation type="vanished">A Tooltip keret frissült a nyilvános API-ból</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="194"/>
         <source>Stationary Tool Base Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the base frame of the tool</extracomment>
-        <translation>Az állandó eszközalap-keret frissítve a nyilvános API-ból</translation>
+        <translation type="vanished">Az állandó eszközalap-keret frissítve a nyilvános API-ból</translation>
     </message>
     <message>
         <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="206"/>
@@ -4205,55 +4199,55 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Kilépés (CTRL+Q)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="201"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="202"/>
         <source>&amp;Edit</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Szerkesztés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="206"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="207"/>
         <source>&amp;User Frame</source>
         <extracomment>Menu item</extracomment>
         <translation>Felhasználói keret</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="214"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="215"/>
         <source>&amp;Object Frame</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Objektum keret</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="222"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="223"/>
         <source>&amp;Robot</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="238"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="247"/>
         <source>&amp;Linear Track</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Lineáris pálya</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="254"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="263"/>
         <source>&amp;Additional Objects</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;További objektumok</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="263"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="272"/>
         <source>Tar&amp;gets</source>
         <extracomment>Menu item</extracomment>
         <translation>Célok</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="358"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="367"/>
         <source>User Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Felhasználói rendszer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="366"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="375"/>
         <source>Object Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Munkadarab rendszer</translation>
@@ -4267,7 +4261,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Mechanizmus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="374"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="383"/>
         <source>Robot</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Robot</translation>
@@ -4281,7 +4275,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Robot kiválasztás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="398"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="414"/>
         <source>Linear Track</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Lineáris egység</translation>
@@ -4323,10 +4317,9 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Válassza lineáris asztal</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="382"/>
         <source>Tool</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
-        <translation>Kiválasztás</translation>
+        <translation type="vanished">Kiválasztás</translation>
     </message>
     <message>
         <source>Tool Base</source>
@@ -4421,7 +4414,7 @@ Tooltip for to-target field</extracomment>
         <translation type="vanished">R&amp;obot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="230"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="239"/>
         <source>&amp;Tool</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Eszköz</translation>
@@ -4536,85 +4529,91 @@ Folytatja?</translation>
         <translation>Projekt és &amp;Info</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="246"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="255"/>
         <source>Rotary Ta&amp;ble</source>
         <extracomment>Menu item</extracomment>
         <translation>Forgóasztal</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="274"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="283"/>
         <source>&amp;Export Options</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Exportálási beállítások</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="291"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="300"/>
         <source>&amp;Analyze</source>
         <extracomment>Menu title</extracomment>
         <translation>Elemzés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="294"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="303"/>
         <source>&amp;Optimizer</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Optimalizáló</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="313"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="322"/>
         <source>&amp;View</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Nézet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="316"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="325"/>
         <source>Station</source>
         <extracomment>Menu item</extracomment>
         <translation>Állomás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="328"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="337"/>
         <source>2D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation>2D ábra</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="334"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="343"/>
         <source>3D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation>3D ábra</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="350"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="359"/>
         <source>Global</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Globális</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="390"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="398"/>
+        <source>Tool Settings: Active Tool</source>
+        <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="406"/>
         <source>Rotary Table</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Forgóasztal</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="406"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="422"/>
         <source>Target</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Cél</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="417"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="433"/>
         <source>No plugins are enabled</source>
         <extracomment>Tool tip to explain why plugins are greyed out</extracomment>
         <translation>Egyetlen bővítmény sincs engedélyezve</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="445"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="461"/>
         <source>This plugin does not have valid source content</source>
         <extracomment>Tool tip to explain why button is greyed out</extracomment>
         <translation>Ez a bővítmény nem rendelkezik érvényes forrás tartalommal</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="504"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="520"/>
         <source>Feedback</source>
         <extracomment>Menu item</extracomment>
         <translation>Visszajelzés</translation>
@@ -4628,7 +4627,7 @@ Folytatja?</translation>
         <translation type="obsolete">Ortogonális Megtekintés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="322"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="331"/>
         <source>Combination View</source>
         <extracomment>Menu item</extracomment>
         <translation>Többszörös nézet</translation>
@@ -4650,7 +4649,7 @@ Folytatja?</translation>
         <translation type="obsolete">Lejátszás hátra</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="424"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="440"/>
         <source>&amp;Plugins</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Beépülő modulok</translation>
@@ -4664,7 +4663,7 @@ Folytatja?</translation>
         <translation type="vanished">Ez a bővítmény nem érhető el: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="487"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="503"/>
         <source>Forum</source>
         <extracomment>Menu item</extracomment>
         <translation>Fórum</translation>
@@ -4702,7 +4701,7 @@ Folytatja?</translation>
         <translation type="vanished">Bővítmény beállítások</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="474"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="490"/>
         <source>&amp;Help</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Segítség</translation>
@@ -4712,7 +4711,7 @@ Folytatja?</translation>
         <translation type="obsolete">3D mozgatás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="345"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="354"/>
         <source>Coordinate Systems</source>
         <extracomment>Menu title</extracomment>
         <translation>Koordináta rendszerek</translation>
@@ -4726,7 +4725,7 @@ Folytatja?</translation>
         <translation type="obsolete">Nyelv / Egységek</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="498"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="514"/>
         <source>About IRBCAM</source>
         <extracomment>Menu item</extracomment>
         <translation>Az IRBCAM-ról</translation>
@@ -6044,55 +6043,55 @@ Right click to see available options for populating the path</source>
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1530"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1567"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>A CSV fájl importálása nem sikerült</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1536"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1573"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Útvonal importálva CSV-ből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1552"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1589"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült elemezni a JSON fájlt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1577"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1614"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült betölteni az útvonalat</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1583"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1620"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Útvonal betöltve</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2101"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2138"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Másolt cél</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2106"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2143"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Másolva %1 célpont</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2145"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2182"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Útvonal másolva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2150"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2187"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Másolva %1 útvonal</translation>
@@ -6631,223 +6630,223 @@ Contextual postfix to project name in list of recent projects. Appended to names
 <context>
     <name>ProjectManager</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="165"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="169"/>
         <source>Project contains unsaved changes</source>
         <extracomment>Popup title</extracomment>
         <translation>A projekt nem mentett módosításokat tartalmaz.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="169"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="173"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Felülírás %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="172"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="176"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Törlés %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="184"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="188"/>
         <source>Opening a new project will discard all unsaved changes&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Popup text</extracomment>
         <translation>Egy új projekt megnyitása elveti az összes nem mentett változást&lt;br&gt;&lt;br&gt;Folytatja?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="187"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="191"/>
         <source>Opening a new project will discard all unsaved changes in project %1&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation>Egy új projekt megnyitása elveti a(z) %1 projekt összes nem mentett módosítását.&lt;br&gt;&lt;br&gt;Folytatja?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="190"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="194"/>
         <source>This action will permanently delete project %1 from the cloud</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation>Ez a művelet véglegesen törli a(z) %1 projektet a felhőből</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="194"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="198"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Biztosan felül szeretné írni a(z) %1 projektet?&lt;br&gt;&lt;br&gt;Ezt a projektet korábban a %2 verzióval mentették.&lt;br&gt;&lt;br&gt;Ha felülírja, akkor előfordulhat, hogy nem lehet újra megnyitni az IRBCAM %2 segítségével.&lt;br&gt;&lt;br&gt;Ha szeretne egy másolatot megtartani, akkor mentse a projektet új névvel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="199"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="203"/>
         <source>Are you sure you want to overwrite project %1?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation>Biztos benne, hogy felülírja a(z) %1 projektet?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="241"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="245"/>
         <source>Save Project</source>
         <extracomment>Title</extracomment>
         <translation>Projekt mentése</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="244"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="248"/>
         <source>Open Project</source>
         <extracomment>Title</extracomment>
         <translation>Projekt megnyitása</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="247"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="251"/>
         <source>Share Project</source>
         <extracomment>Title</extracomment>
         <translation>Projekt megosztása</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="300"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="304"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation>Nem inicializált</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="303"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="307"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation>Tétlen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="306"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="310"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation>Leírás lekérése</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="309"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="313"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation>Letöltés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="312"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="316"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation>Kicsomagolás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="315"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="319"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation>Betöltés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="318"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="322"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation>Törlés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="321"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="325"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation>Feltöltés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="324"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="328"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation>Lista lekérése</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="327"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="331"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation>Dekódolás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="330"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="334"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation>Ellenőrzés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="333"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="337"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation>Eszközök betöltése</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="336"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="340"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation>Feldolgozás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="342"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="346"/>
         <source>Unknown</source>
         <extracomment>Network status: Unknown state</extracomment>
         <translation>Ismeretlen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="572"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="576"/>
         <source>Save name</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to save</extracomment>
         <translation>Név mentése</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="576"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="580"/>
         <source>Search</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to search for</extracomment>
         <translation>Keresés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="717"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="721"/>
         <source>Overwrite</source>
         <extracomment>Button text: Overwrite project</extracomment>
         <translation>Felülírás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="719"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="723"/>
         <source>Save</source>
         <extracomment>Button text: Save project</extracomment>
         <translation>Mentés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="722"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="726"/>
         <source>Open</source>
         <extracomment>Button text: Open project</extracomment>
         <translation>Megnyitás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="725"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="729"/>
         <source>Share</source>
         <extracomment>Button text: Share project</extracomment>
         <translation>Megosztás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="756"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="760"/>
         <source>You do not have write access to this project</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Önnek nincs írási hozzáférése ehhez a projekthez</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="761"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="765"/>
         <source>You have reached the maximum number of saved projects. A project must be deleted before a new one can be created</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Elérte a mentett projektek maximális számát. Új projekt létrehozásához előbb töröljön egyet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="765"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="769"/>
         <source>The save name is invalid</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>A mentés neve érvénytelen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="768"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="772"/>
         <source>Select a project to open</source>
         <extracomment>Tool-tip: Explaining why the open button is disabled</extracomment>
         <translation>Válassza ki a megnyitandó projektet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="771"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="775"/>
         <source>Select a project to share</source>
         <extracomment>Tool-tip: Explaining why the share button is disabled</extracomment>
         <translation>Válasszon egy projektet a megosztáshoz</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="790"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="794"/>
         <source>No saved projects</source>
         <extracomment>Placeholder text for an empty list</extracomment>
         <translation>Nincsenek mentett projektek</translation>
@@ -7240,7 +7239,7 @@ Hasznos a kábelcsavarodás vagy hasonló problémák elkerülésére bizonyos h
         <translation type="vanished">Útvonal sikeresen konfigurálva itt: </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="995"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="998"/>
         <source>Failed to solve path
 Solved %1 of %2 targets</source>
         <extracomment>Error message. %1 = first failed index, %2 = total number of targets</extracomment>
@@ -7248,7 +7247,7 @@ Solved %1 of %2 targets</source>
 Megoldva %1 / %2 célpont</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1008"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1011"/>
         <source>Path solved successfully in %1 ms</source>
         <extracomment>Status message. %1 = time in milliseconds</extracomment>
         <translation>Az útvonal sikeresen megoldódott %1 ms alatt.</translation>
@@ -7504,7 +7503,7 @@ Error status for solving path</extracomment>
         <translation>Az ív kezdőpontja és végpontja közötti távolság túl kicsi</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1032"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1035"/>
         <source>Failed to configure max distance at index %1
 No new targets were added
 </source>
@@ -7514,13 +7513,13 @@ Nem kerültek hozzáadásra új célpontok
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1081"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1084"/>
         <source>Failed to find max distance</source>
         <extracomment>Error message from find max distance</extracomment>
         <translation>Nem sikerült megtalálni a maximális távolságot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1101"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1104"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
@@ -7528,20 +7527,20 @@ Found %1 possible solutions within the specified parameters</source>
 Talált %1 lehetséges megoldást a megadott paramétereken belül</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1107"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1110"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation>Az optimalizáló problémát észlelt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1116"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1119"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
         <translation>Optimalizáló befejeződött. Nem található megoldás a megadott paraméterekkel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1122"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1125"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
@@ -7561,31 +7560,31 @@ Found %1 possible solutions within the specified parameters</source>
         <translation>A két célpont közötti szög túl kicsi</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="866"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="869"/>
         <source>Distance between targets %1 and %2 (%3 mm) exceeds recommended maximum (%4 mm)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = distance between targets, %4 = recommended maximum distance</extracomment>
         <translation>A %1 és %2 célpontok közötti távolság (%3 mm) meghaladja az ajánlott maximumot (%4 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="887"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="890"/>
         <source>Reorientation between targets %1 and %2 (%3°) exceeds recommended maximum (%4°)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = reorientation between targets, %4 = recommended maximum reorientation</extracomment>
         <translation>A %1 és %2 célpont közötti újratájolás (%3°) meghaladja az ajánlott maximumot (%4°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="964"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="967"/>
         <source>%1 Rotary lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation>%1 forgó emelő pont hozzáadva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="970"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="973"/>
         <source>%1 Linear lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation>%1 lineáris emelőpont hozzáadva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="981"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="984"/>
         <source>Failed to solve path
 No targets</source>
         <extracomment>Error message. This means that there is no path to solve</extracomment>
@@ -7666,13 +7665,19 @@ Nincsenek célpontok</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="803"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1025"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1028"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>A műveletet a felhasználó megszakította</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="987"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="806"/>
+        <source>Tool not found</source>
+        <extracomment>Error status for solving path</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="990"/>
         <source>Operation aborted by user
 Solved %1 of %2 targets</source>
         <extracomment>Warning message. %1 = first failed index, %2 = total number of targets</extracomment>
@@ -7680,7 +7685,7 @@ Solved %1 of %2 targets</source>
 Megoldva %1 / %2 célból</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1048"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1051"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
@@ -7688,7 +7693,7 @@ Megoldva %1 / %2 célból</translation>
 1 új cél hozzáadva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1057"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1060"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
@@ -7696,7 +7701,7 @@ Megoldva %1 / %2 célból</translation>
 %1 új cél hozzáadva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1063"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1066"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
@@ -8110,7 +8115,7 @@ Kattintson újra a felülíráshoz</translation>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="623"/>
+        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="632"/>
         <source>IRBCAM Trial Version</source>
         <extracomment>Text on the floor tiles for trial version</extracomment>
         <translation>IRBCAM Próbaverzió</translation>
@@ -8713,67 +8718,67 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation type="obsolete">Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="491"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="499"/>
         <source>Project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Projekt %1 elmentve</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="832"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="842"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Projekt jóváhagyva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="446"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="454"/>
         <source>Failed to confirm that the project was saved to the cloud (the project may or may not have been saved)</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült megerősíteni a projekt felhőbe mentését (a projekt mentve lehet vagy nem)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="415"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="423"/>
         <source>No changes detected in project</source>
         <extracomment>Notification message that is displayed if the user attempst to save project, but the project has not changed since last save</extracomment>
         <translation>Nincs változás észlelve a projektben</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="485"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="493"/>
         <source>Autosave for project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>A(z) %1 projekt automatikus mentése megtörtént</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="628"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="637"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült letölteni a projektet a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="872"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="882"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült megerősíteni a projekt felhőből való törlését (a projekt törölve lehet vagy sem)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="898"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="908"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>A(z) %1 projekt törölve lett a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="976"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="986"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült megerősíteni, hogy a projekt meg lett osztva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1000"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1010"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>A %1 projektet megosztották %2-vel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1037"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1047"/>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -8781,50 +8786,50 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Nagyobb útvonalak importálhatók az APT fájl kisebb fájlokra való felosztásával és a „hozzáfűzés” opció használatával</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1060"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1070"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Nem sikerült elindítani a felhő feladatot %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1090"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1100"/>
         <source>Failed to get parsed APT %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Nem sikerült lekérni a feldolgozott APT %1-et a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1135"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1145"/>
         <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>Az APT fájlban használt tizedesjegyek száma %1 esetében %2 (alacsony numerikus pontosság).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1153"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1163"/>
         <source>Failed to import APT file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Nem sikerült importálni az APT fájlt: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1160"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1170"/>
         <source>Path imported from APT %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation>Pálya importálva az APT %1-ből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1222"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1254"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1232"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1264"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült lekérni a robot kódját a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1410"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1420"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült helyreállítani a mentett projektet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1422"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1432"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -8832,56 +8837,56 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Ez lehet, hogy azért van, mert a mentés egy régebbi IRBCAM verzióból származik</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1448"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1458"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Hiányzó információ a felhőből lekért projektben</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1479"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1489"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült lekérni a felhasználói keret adatokat</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1497"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1507"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült betölteni a felhasználói keretadatokat</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1507"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1517"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Az objektum keret adatainak lekérése sikertelen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1516"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1526"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült betölteni az objektum keret adatait</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1549"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1559"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Hiányzó vagy sérült útvonal-információ a mentett projektből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1568"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1578"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>Útvonal importálása</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1719"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1726"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1739"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1746"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH-táblázat</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1430"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1440"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -8889,44 +8894,44 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Ez lehetséges, hogy a mentés egy régebbi IRBCAM-verzióból származik</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1584"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1592"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1594"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="1602"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1612"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1616"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1624"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1654"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1621"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1789"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1795"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>eszköz</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1668"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1676"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1686"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1688"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1696"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1706"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>forgóasztal</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1469"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1479"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült betölteni a projekt adatokat</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1773"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1825"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projekt %1 betöltve</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1698"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1706"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1718"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1726"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>Lineáris sín</translation>
@@ -8977,38 +8982,38 @@ Ez azért lehet, mert a mentés egy régebbi verzióból származik</translation
 <context>
     <name>StationViewer</name>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="551"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="557"/>
         <source>Inverse kinematics could not be solved with this value (x=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation>Az inverz kinematikát nem sikerült megoldani ezzel az értékkel (x=%1 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="568"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="585"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="574"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="591"/>
         <source>Inverse kinematics could not be solved with this value (y=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation>Az inverz kinematikát nem sikerült megoldani ezzel az értékkel (y=%1 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="603"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="609"/>
         <source>Inverse kinematics could not be solved with this value (rz1=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Az inverz kinematika nem oldható meg ezzel az értékkel (rz1=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="622"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="628"/>
         <source>Inverse kinematics could not be solved with this value (ry=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Az inverz kinematikát nem sikerült megoldani ezzel az értékkel (ry=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="644"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="650"/>
         <source>Inverse kinematics could not be solved with this value (rz2=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Az inverz kinematikát nem sikerült megoldani ezzel az értékkel (rz2=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="971"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="976"/>
         <source>Animation aborted
 Target at 0 is unreachable</source>
         <extracomment>Warning message</extracomment>
@@ -9016,7 +9021,7 @@ Target at 0 is unreachable</source>
 A 0. cél elérhetetlen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1112"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1117"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -9024,7 +9029,7 @@ Target at index %1 has zero velocity</source>
 A(z) %1 indexű cél sebessége nulla</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1220"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1225"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -9032,7 +9037,7 @@ Target at index %1 is not solved</source>
 A(z) %1 indexű cél nincs megoldva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1486"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1497"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
@@ -9298,127 +9303,115 @@ Droptown menu text, motion type for target</extracomment>
 <context>
     <name>ToolData</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="90"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="91"/>
         <source>Tool Data</source>
         <extracomment>Collapsible section: Set data related the tool</extracomment>
         <translation>Szerszám adat</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="109"/>
         <source>Tool Name</source>
         <extracomment>Name of the selected tool</extracomment>
-        <translation>Eszköz neve</translation>
+        <translation type="vanished">Eszköz neve</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="117"/>
         <source>No tool selected</source>
         <extracomment>Only shown if the user has not selected a tool</extracomment>
-        <translation>Nincs kiválasztott eszköz</translation>
+        <translation type="vanished">Nincs kiválasztott eszköz</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="125"/>
         <source>Export Name</source>
         <extracomment>Name of the tool in the exported code</extracomment>
-        <translation>Export név</translation>
+        <translation type="vanished">Export név</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="134"/>
         <source>Tool Export Name</source>
         <extracomment>Placeholder for when no tool export name has been entered</extracomment>
-        <translation>Eszköz export neve</translation>
+        <translation type="vanished">Eszköz export neve</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="148"/>
         <source>Weight (kg)</source>
         <extracomment>Tool weight</extracomment>
-        <translation>Súly (kg)</translation>
+        <translation type="vanished">Súly (kg)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="158"/>
         <source>Tool Weight</source>
         <extracomment>Placeholder for when no tool weight has been entered</extracomment>
-        <translation>Eszköz súlya</translation>
+        <translation type="vanished">Eszköz súlya</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="180"/>
         <source>Center of Gravity X (mm)</source>
         <extracomment>X-position of the tool&apos;s centre of gravity</extracomment>
-        <translation>Súlypont X (mm)</translation>
+        <translation type="vanished">Súlypont X (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="188"/>
         <source>Center of Gravity X</source>
         <extracomment>Placeholder text for when no X centre of gravity is entered</extracomment>
-        <translation>Nehézségközpont X</translation>
+        <translation type="vanished">Nehézségközpont X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="214"/>
         <source>Center of Gravity Y (mm)</source>
         <extracomment>Y-position of the tool&apos;s centre of gravity</extracomment>
-        <translation>Súlypont Y (mm)</translation>
+        <translation type="vanished">Súlypont Y (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="222"/>
         <source>Center of Gravity Y</source>
         <extracomment>Placeholder text for when no Y centre of gravity is entered</extracomment>
-        <translation>Tömegközéppont Y</translation>
+        <translation type="vanished">Tömegközéppont Y</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="248"/>
         <source>Center of Gravity Z (mm)</source>
         <extracomment>Z-position of the tool&apos;s centre of gravity</extracomment>
-        <translation>Súlypont Z (mm)</translation>
+        <translation type="vanished">Súlypont Z (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="256"/>
         <source>Center of Gravity Z</source>
         <extracomment>Placeholder text for when no Z centre of gravity is entered</extracomment>
-        <translation>Nehézségi középpont Z</translation>
+        <translation type="vanished">Nehézségi középpont Z</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="283"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="284"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox. Select to switch off tool under rapid movement</extracomment>
         <translation>Fegyver be/ki</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="289"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="290"/>
         <source>Switch off tool (gun) under rapid movement</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Kapcsolja ki az eszközt (fegyvert) gyors mozgás alatt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="306"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="307"/>
         <source>Fine point before gun on/off</source>
         <extracomment>Checkbox. Select to enable fine point before gun on/off</extracomment>
         <translation>Finom pont a pisztoly ki/be előtt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="312"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="313"/>
         <source>Enable fine point before gun on/off</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Engedélyezze a finom pontot a pisztoly be/ki előtt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="324"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="325"/>
         <source>Set tool number</source>
         <extracomment>Checkbox. Select to enable automatic tool changing in exported code</extracomment>
         <translation>Szerszám számának beállítása</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="330"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="331"/>
         <source>Automatic tool changing</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Automatikus szerszámcsere</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="341"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="342"/>
         <source>Export spindle speeds</source>
         <extracomment>Checkbox. Select to include spindle speeds in exported robot code</extracomment>
         <translation>Orsósebességek exportálása</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="347"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="348"/>
         <source>Include spindle speeds in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Tartalmazza az orsó fordulatszámokat az exportált kódban</translation>
@@ -9675,6 +9668,439 @@ Button. Import custom tool</extracomment>
     </message>
 </context>
 <context>
+    <name>ToolEditorDelegate</name>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="96"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="104"/>
+        <source>mm</source>
+        <extracomment>Unit: millimetres</extracomment>
+        <translation type="unfinished">mm</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="144"/>
+        <source>Tool</source>
+        <extracomment>prefix for text</extracomment>
+        <translation type="unfinished">Kiválasztás</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="253"/>
+        <source>Name</source>
+        <extracomment>Label for a text field: Lets the user name their additional object</extracomment>
+        <translation type="unfinished">Név</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="260"/>
+        <source>No tool selected</source>
+        <extracomment>Placeholder text for when no tool is entered</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="283"/>
+        <source>Number</source>
+        <extracomment>Label for text fields</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="302"/>
+        <source>Tool number</source>
+        <extracomment>Tool tip</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="311"/>
+        <source>Source</source>
+        <extracomment>Label for a button</extracomment>
+        <translation type="unfinished">Forrás</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="322"/>
+        <source>No source selected</source>
+        <extracomment>Button: Shown when no source geometry is selected for this object</extracomment>
+        <translation type="unfinished">Nincs forrás kiválasztva</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="333"/>
+        <source>TCP Position</source>
+        <extracomment>Collapsible section: In this section the user will adjust position and scale of the object</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="367"/>
+        <source>TCP Rotation</source>
+        <extracomment>Collapsible section: In this section the user will adjust the rotation of the object</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="384"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="581"/>
+        <source>Yaw angle</source>
+        <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
+        <translation type="unfinished">Yaw-szög</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="394"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="590"/>
+        <source>Pitch angle</source>
+        <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
+        <translation type="unfinished">Dőlésszög</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="404"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="599"/>
+        <source>Roll angle</source>
+        <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
+        <translation type="unfinished">Gurulási szög</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="413"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="608"/>
+        <source>Normalize</source>
+        <extracomment>Button: Normalise the rotation quaternion</extracomment>
+        <translation type="unfinished">Normalizálás</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="423"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="618"/>
+        <source>Normalize quaternion</source>
+        <extracomment>Tool tip for normalize button</extracomment>
+        <translation type="unfinished">Kvaternió normalizálása</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="430"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="624"/>
+        <source>Quaternion scalar</source>
+        <extracomment>Tool tip: Referring to a quaternion component</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="440"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="633"/>
+        <source>Quaternion i</source>
+        <extracomment>Tool tip: Referring to a quaternion component</extracomment>
+        <translation type="unfinished">Kvaternió i</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="450"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="642"/>
+        <source>Quaternion j</source>
+        <extracomment>Tool tip: Referring to a quaternion component</extracomment>
+        <translation type="unfinished">Kvaternió j</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="460"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="651"/>
+        <source>Quaternion k</source>
+        <extracomment>Tool tip: Referring to a quaternion component</extracomment>
+        <translation type="unfinished">Kvaternió k</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="473"/>
+        <source>Tool Type</source>
+        <extracomment>Label over input field</extracomment>
+        <translation type="unfinished">Eszköz típusa</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="485"/>
+        <source>Invalid type</source>
+        <extracomment>Dropdown menu display text showing invalid selection.</extracomment>
+        <translation type="unfinished">Érvénytelen típus</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="490"/>
+        <source>Weldgun</source>
+        <extracomment>Dropdown menu item.</extracomment>
+        <translation type="unfinished">Hegesztőpisztoly</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="495"/>
+        <source>Spindle</source>
+        <extracomment>Dropdown menu item.</extracomment>
+        <translation type="unfinished">Orsó</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="512"/>
+        <source>Show mesh</source>
+        <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
+        <translation type="unfinished">Háló megjelenítése</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="518"/>
+        <source>Transparent</source>
+        <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
+        <translation type="unfinished">Átlátszó</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="529"/>
+        <source>Base Position</source>
+        <extracomment>Collapsible section: In this section the user will adjust position and scale of the object</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="565"/>
+        <source>Base Rotation</source>
+        <extracomment>Collapsible section: In this section the user will adjust the rotation of the object</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="667"/>
+        <source>Generic Tool</source>
+        <extracomment>Collapsible section. Contains options for generic tool</extracomment>
+        <translation type="unfinished">Általános eszköz</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="686"/>
+        <source>Diameter</source>
+        <extracomment>Label for text field. Adjust generic tool diameter</extracomment>
+        <translation type="unfinished">Átmérő</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="691"/>
+        <source>Cone length</source>
+        <extracomment>Label for text field. Adjust cone length on the generic tool</extracomment>
+        <translation type="unfinished">Kúp hossza</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="696"/>
+        <source>Color</source>
+        <extracomment>Label for button. Adjust generic tool colour</extracomment>
+        <translation type="unfinished">Szín</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="736"/>
+        <source>Select color</source>
+        <extracomment>Title for colour picker dialog box</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="758"/>
+        <source>Export Data</source>
+        <extracomment>Collapsible section. Contains options for export data</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="779"/>
+        <source>Export Name</source>
+        <extracomment>Label for text field. weight</extracomment>
+        <translation type="unfinished">Export név</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="788"/>
+        <source>Tool Export Name</source>
+        <extracomment>Placeholder for when no tool export name has been entered</extracomment>
+        <translation type="unfinished">Eszköz export neve</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="802"/>
+        <source>Weight</source>
+        <extracomment>Label for text field. weight</extracomment>
+        <translation type="unfinished">Súly</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="813"/>
+        <source>kg</source>
+        <extracomment>Unit: millimetres</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="823"/>
+        <source>cogX</source>
+        <extracomment>Label for text field. COG</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="828"/>
+        <source>cogY</source>
+        <extracomment>Label for button. COG</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="833"/>
+        <source>cogZ</source>
+        <extracomment>Label for button. COG</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ToolList</name>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="30"/>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="101"/>
+        <source>Tools</source>
+        <extracomment>Title
+----------
+List category separator</extracomment>
+        <translation type="unfinished">Eszközök</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="142"/>
+        <source>Select</source>
+        <extracomment>Button text: Select item</extracomment>
+        <translation type="unfinished">Kiválaszt</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="153"/>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="242"/>
+        <source>Upload</source>
+        <extracomment>Collapsible button title: Open/close upload section
+----------
+Button text</extracomment>
+        <translation type="unfinished">Feltöltés</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="174"/>
+        <source>The active subscription does not provide access to custom assets. Click %1here%2 to manage subscriptions</source>
+        <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="187"/>
+        <source>Name</source>
+        <extracomment>Title for a textfield</extracomment>
+        <translation type="unfinished">Név</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="195"/>
+        <source>Tool name</source>
+        <extracomment>Placeholder text for an empty textfield</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="221"/>
+        <source>File</source>
+        <extracomment>Title for a textfield</extracomment>
+        <translation type="unfinished">Fájl</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="226"/>
+        <source>No file selected</source>
+        <extracomment>This will be shown as a file name if no file is selected</extracomment>
+        <translation type="unfinished">Nincs fájl kiválasztva</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="240"/>
+        <source>Overwrite</source>
+        <extracomment>Button text</extracomment>
+        <translation type="unfinished">Felülírás</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="255"/>
+        <source>Asset files</source>
+        <extracomment>This will be seen in the file type filter in the file interface</extracomment>
+        <translation type="unfinished">Eszközfájlok</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="263"/>
+        <source>Overwrite %1</source>
+        <extracomment>Popup title: %1 = name of tool</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="265"/>
+        <source>Are you sure you want to overwrite user tool %1?</source>
+        <extracomment>Popup content text: %1 = name of tool</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="277"/>
+        <source>Ok</source>
+        <extracomment>Popup text.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="280"/>
+        <source>You cannot overwrite to the readonly asset %1.</source>
+        <extracomment>Popup content text: %1 = name of tool</extracomment>
+        <translation type="unfinished">Nem lehet felülírni a(z) %1 csak olvasható eszközt.</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="303"/>
+        <source>Delete %1</source>
+        <extracomment>Popup title. %1 = name of tool</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ToolList.qml" line="305"/>
+        <source>Are you sure you want to delete user tool %1?</source>
+        <extracomment>Popup content text. %1 = name of geometry</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ToolModel</name>
+    <message>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1667"/>
+        <source>Custom tool upload failed</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1672"/>
+        <source>Custom tool %1 uploaded successfully</source>
+        <extracomment>Notification message. %1 = name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1707"/>
+        <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
+        <extracomment>Error message. %1 = name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1737"/>
+        <source>%1 was deleted from the cloud</source>
+        <extracomment>Status message: %1 = name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2124"/>
+        <source>Cannot get tool number %1 there is no tool with this number</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2281"/>
+        <source>Failed to download tool from cloud</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2396"/>
+        <source>Failed to download tool from the cloud</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2431"/>
+        <source>Failed to unpack tool from the cloud</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2512"/>
+        <source>Mesh doesn&apos;t exist for tool %1</source>
+        <extracomment>Error message: %1 = item name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2520"/>
+        <source>Tool %1 loaded</source>
+        <extracomment>Status message: %1 = name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2604"/>
+        <source>Failed to load %1 mesh</source>
+        <extracomment>Error message: %1 = item name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2666"/>
+        <source>Tool %1 mesh loaded from %2</source>
+        <extracomment>Status message: %1 = name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ToolPointViewer</name>
     <message>
         <location filename="../../IrbcamQml/Views/ToolPointViewer.qml" line="24"/>
@@ -9852,6 +10278,63 @@ Forgatás (rad)
         <source>Maximum angular difference between adjacent targets</source>
         <extracomment>Tool tip for input</extracomment>
         <translation>Szomszédos célpontok közötti legnagyobb szögkülönbség</translation>
+    </message>
+</context>
+<context>
+    <name>ToolSettingEditor</name>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="28"/>
+        <source>Tools</source>
+        <extracomment>Title: Referring to user-imported 3D objects</extracomment>
+        <translation type="unfinished">Eszközök</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="47"/>
+        <source>Stationary tool is incompatible with rotary tables and linear tracks</source>
+        <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if both rotary table and linear track is selected</extracomment>
+        <translation type="unfinished">Az álló eszköz nem kompatibilis a forgóasztalokkal és a lineáris pályákkal</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="49"/>
+        <source>Stationary tool is incompatible with %1</source>
+        <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
+        <translation type="unfinished">A mozdulatlan eszköz nem kompatibilis a %1-gyel</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="51"/>
+        <source>rotary tables</source>
+        <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
+        <translation type="unfinished">forgóasztalok</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="53"/>
+        <source>linear tracks</source>
+        <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
+        <translation type="unfinished">lineáris sínek</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="61"/>
+        <source>Stationary Tool</source>
+        <extracomment>Checkbox. Select if robot should hold work object instead of tool</extracomment>
+        <translation type="unfinished">Állandó eszköz</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="77"/>
+        <source>Add</source>
+        <extracomment>Button: Add additional object</extracomment>
+        <translation type="unfinished">Hozzáadása</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="87"/>
+        <source>Tool Number</source>
+        <extracomment>Label for text fields</extracomment>
+        <translation type="unfinished">Szerszám száma</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="105"/>
+        <source>Tool number</source>
+        <extracomment>Tool tip</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
