@@ -719,19 +719,19 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/bugreportdata.cpp" line="29"/>
+        <location filename="../../../backend/src/bugreportdata.cpp" line="26"/>
         <source>Failed to send report</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko išsiųsti ataskaitos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/bugreportdata.cpp" line="40"/>
+        <location filename="../../../backend/src/bugreportdata.cpp" line="37"/>
         <source>Attachment should be less than %1 MB</source>
         <extracomment>Error message. %1 = size in MB</extracomment>
         <translation>Priedas turėtų būti mažiau nei %1 MB</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/bugreportdata.cpp" line="83"/>
+        <location filename="../../../backend/src/bugreportdata.cpp" line="82"/>
         <source>Report sent</source>
         <extracomment>Status message: Referring to sending a feedback report</extracomment>
         <translation>Ataskaita išsiųsta</translation>
@@ -1717,7 +1717,7 @@ Button text</extracomment>
 <context>
     <name>DHTableModel</name>
     <message>
-        <location filename="../../../backend/src/dhtablemodel.cpp" line="252"/>
+        <location filename="../../../backend/src/dhtablemodel.cpp" line="248"/>
         <source>Failed to upload %1</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Nepavyko įkelti %1</translation>
@@ -4950,7 +4950,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
 <context>
     <name>OptimizationInModel</name>
     <message>
-        <location filename="../../../backend/src/optimizationinmodel.cpp" line="439"/>
+        <location filename="../../../backend/src/optimizationinmodel.cpp" line="445"/>
         <source>mm</source>
         <extracomment>Unit: millimeters</extracomment>
         <translation>mm</translation>
@@ -6028,55 +6028,55 @@ Dešiniuoju pelės mygtuku spustelėkite, kad pamatytumėte galimas parinktis ke
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1567"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1566"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>Nepavyko importuoti CSV failo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1573"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1572"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Kelias importuotas iš CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1589"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1588"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko išanalizuoti JSON failo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1614"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1613"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti kelio</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1620"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1619"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Kelias įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2138"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2137"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Nukopijuotas taikinys</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2143"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2142"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Nukopijuota %1 taikinių</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2182"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2181"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Nukopijuotas kelias</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2187"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2186"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Nukopijuota %1 kelių</translation>
@@ -6918,7 +6918,7 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>1 sekundė</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="656"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="654"/>
         <location filename="../../../backend/src/simplelistmodel.cpp" line="34"/>
         <source>Name</source>
         <extracomment>List column
@@ -6927,7 +6927,7 @@ Column name.</extracomment>
         <translation>Vardas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="659"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="657"/>
         <location filename="../../../backend/src/simplelistmodel.cpp" line="37"/>
         <source>Modified</source>
         <extracomment>List column
@@ -6936,13 +6936,13 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation>Modifikuotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="403"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="401"/>
         <source>Activated Robots</source>
         <extracomment>Collapsible section in list. Contains robots which are activated</extracomment>
         <translation>Aktyvuoti robotai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="704"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="702"/>
         <source>%1 (user created)</source>
         <extracomment>Appended to robot name in search results if it is imported by the user. %1=robot name. Example: My Robot (user created)</extracomment>
         <translation>%1 (vartotojo sukurtas)</translation>
@@ -7106,37 +7106,37 @@ Column name. Refers to which date the items were modified</extracomment>
 <context>
     <name>RobotListModel</name>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="263"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="254"/>
         <source>Robots</source>
         <extracomment>Main collapsible section in list. This section contains all the robots</extracomment>
         <translation>Robotai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="265"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="256"/>
         <source>User Created</source>
         <extracomment>Collapsible section in list. Contains robots created by this user</extracomment>
         <translation>Vartotojo sukurtas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="267"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="258"/>
         <source>Shared</source>
         <extracomment>Collapsible section in list. Contains robots shared with this user</extracomment>
         <translation>Bendras</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="308"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="306"/>
         <source>An error occurred when fetching robot list</source>
         <extracomment>Error message</extracomment>
         <translation>Įvyko klaida gaunant robotų sąrašą</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="874"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="872"/>
         <source>%1 has been deactivated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 buvo deaktyvuotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="933"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="931"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 buvo aktyvuotas</translation>
@@ -8774,13 +8774,13 @@ Didesni keliai gali būti importuoti padalijant APT failą į mažesnius failus 
         <translation>Nepavyko gauti roboto kodo iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1420"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1421"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko atkurti išsaugoto projekto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1432"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1433"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -8788,56 +8788,56 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Tai gali būti dėl to, kad išsaugojimas yra iš senesnės IRBCAM versijos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1458"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1459"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Trūkstama informacija projekte, gautame iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1489"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1490"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko gauti vartotojo rėmo duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1507"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1508"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti vartotojo rėmo duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1517"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1518"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko gauti objekto rėmo duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1526"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1527"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti objekto kadro duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1559"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1560"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Trūksta arba sugadinta kelio informacija iš išsaugoto projekto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1578"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1579"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>kelio importas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1739"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1746"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1740"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1747"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH lentelė</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1440"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1441"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -8845,44 +8845,44 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Tai gali būti dėl to, kad išsaugojimas yra iš senesnės IRBCAM versijos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1594"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1602"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1612"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1595"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1603"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1613"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1621"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1789"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1795"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1622"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1790"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1796"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>įrankis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1688"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1696"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1706"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1689"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1697"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1707"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>sukimo stalas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1479"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1480"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti projekto duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1825"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1826"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projektas %1 įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1718"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1726"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1719"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1727"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>tiesinis bėgis</translation>
@@ -8972,7 +8972,7 @@ Target at 0 is unreachable</source>
 Tikslas ties 0 yra nepasiekiamas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1117"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1116"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -8980,7 +8980,7 @@ Target at index %1 has zero velocity</source>
 Taikinys ties indeksu %1 turi nulio greitį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1225"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1224"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -8988,7 +8988,7 @@ Target at index %1 is not solved</source>
 Tikslas indekse %1 nėra išspręstas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1497"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1496"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
@@ -10003,49 +10003,49 @@ Button text</extracomment>
         <translation type="unfinished">%1 buvo ištrintas iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2124"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2123"/>
         <source>Cannot get tool number %1 there is no tool with this number</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2281"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2280"/>
         <source>Failed to download tool from cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2396"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2395"/>
         <source>Failed to download tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2431"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2430"/>
         <source>Failed to unpack tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2512"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2511"/>
         <source>Mesh doesn&apos;t exist for tool %1</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2520"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2519"/>
         <source>Tool %1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2604"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2603"/>
         <source>Failed to load %1 mesh</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2666"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2665"/>
         <source>Tool %1 mesh loaded from %2</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation type="unfinished"></translation>
