@@ -9803,55 +9803,55 @@ Klicka igen för att skriva över</translation>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="27"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="26"/>
         <source>Project Info</source>
         <extracomment>Title of a popup: Information about current project</extracomment>
         <translation>Projektinfo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="38"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="37"/>
         <source>Project</source>
         <extracomment>Collapsible section: Project information</extracomment>
         <translation>Projekt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="52"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="51"/>
         <source>Name</source>
         <extracomment>Project name</extracomment>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="57"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="56"/>
         <source>(Unsaved project)</source>
         <extracomment>Label. Placeholder project name before it has been saved</extracomment>
         <translation>(Osparat projekt)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="62"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="61"/>
         <source>Save version</source>
         <extracomment>The currently loaded project was last saved with version</extracomment>
         <translation>Spara version</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="75"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="74"/>
         <source>Station</source>
         <extracomment>Collapsible section: Station information</extracomment>
         <translation>Station</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="97"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="96"/>
         <source>Robot</source>
         <extracomment>Robot name</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="101"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="100"/>
         <source>No robot selected</source>
         <extracomment>Placeholder text instead of name for when no robot is loaded</extracomment>
         <translation>Ingen robot har valts</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="106"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="105"/>
         <source>Tool</source>
         <extracomment>Tool name</extracomment>
         <translation>Verktyg</translation>
@@ -9867,111 +9867,111 @@ Klicka igen för att skriva över</translation>
         <translation type="vanished">%1 (Roboten håller verktyget)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="112"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="111"/>
         <source>Stationary tool</source>
         <extracomment>Additional info for user to know that stationary tool is selected.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="114"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="113"/>
         <source>Robot holds the tool</source>
         <extracomment>Additional info for user to know that The robot holds the tool.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="116"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="115"/>
         <source>No tool selected</source>
         <extracomment>Placeholder text instead of name for when no tool is loaded</extracomment>
         <translation>Inget verktyg valt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="121"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="120"/>
         <source>Geometries</source>
         <extracomment>Label. Refers to a list of the geometries in the project. This is shown if there are multiple geometries</extracomment>
         <translation>Geometrier</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="123"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="122"/>
         <source>Geometry</source>
         <extracomment>Label. Refers to a list of the geometries in the project. This is shown if there is a singular geometry</extracomment>
         <translation>Geometri</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="130"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="129"/>
         <source>No geometry selected</source>
         <extracomment>Placeholder name. Used when no geometry is selected</extracomment>
         <translation>Ingen geometri har valts</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="145"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="144"/>
         <source>Linear track</source>
         <extracomment>Label: Refers to which linear track is selected</extracomment>
         <translation>Linjärbana</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="149"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="148"/>
         <source>No linear track selected</source>
         <extracomment>Placeholder name for when no linear track is selected</extracomment>
         <translation>Ingen linjärbana har valts</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="154"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="153"/>
         <source>Rotary table</source>
         <extracomment>Label: Refers to which linear track is selected</extracomment>
         <translation>Rotationsbord</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="158"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="157"/>
         <source>No rotary table selected</source>
         <extracomment>Placeholder name for when no rotary table is selected</extracomment>
         <translation>Inget roterande bord valt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="168"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="167"/>
         <source>Path</source>
         <extracomment>Collapsible section: Path information</extracomment>
         <translation>Bana</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="181"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="180"/>
         <source>APT/CSV/JSON</source>
         <extracomment>Label: Refers to file name of imported path</extracomment>
         <translation>APT/CSV/JSON</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="185"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="184"/>
         <source>No path imported</source>
         <extracomment>Placeholder file name for when no path is imported</extracomment>
         <translation>Ingen bana importerad</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="190"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="189"/>
         <source>Targets</source>
         <extracomment>Label: Refers to the number of targets in the path</extracomment>
         <translation>Punkter</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="201"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="200"/>
         <source>Solution</source>
         <extracomment>Collapsible section: Contains info about the solution of the path</extracomment>
         <translation>Lösning</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="215"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="214"/>
         <source>Status</source>
         <extracomment>Label: Status of the solution</extracomment>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="223"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="222"/>
         <source>Bending backwards</source>
         <extracomment>Label: Does the solution use a bending-backwards configuration</extracomment>
         <translation>Böjer sig bakåt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="227"/>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="238"/>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="249"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="226"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="237"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="248"/>
         <source>Yes</source>
         <extracomment>Label: Does the solution use a bending-backwards configuration
 ----------
@@ -9981,9 +9981,9 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation>Ja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="229"/>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="240"/>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="251"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="228"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="239"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="250"/>
         <source>No</source>
         <extracomment>Label: Does the solution use a bending-backwards configuration
 ----------
@@ -9993,55 +9993,55 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation>Nej</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="234"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="233"/>
         <source>Elbow down</source>
         <extracomment>Label: Does the solution use an elbow-down configuration</extracomment>
         <translation>Armbågen ner</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="245"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="244"/>
         <source>Wrist down</source>
         <extracomment>Label: Does the solution use a wrist-down configuration</extracomment>
         <translation>Handled ner</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="256"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="255"/>
         <source>Tool roll mode</source>
         <extracomment>Label: Which rotation mode does the tool use in the solution</extracomment>
         <translation>Verktygsrulleläge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="265"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="264"/>
         <source>Tool roll angle</source>
         <extracomment>Label: Only shown if tool roll is static. Which roll angle is set on the tool</extracomment>
         <translation>Verktygsrullvinkel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="275"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="274"/>
         <source>Rotatry table mode</source>
         <extracomment>Label: Which rotation mode does the rotary table use in the solution</extracomment>
         <translation>Rotationsbordläge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="285"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="284"/>
         <source>Rotatry table angle</source>
         <extracomment>Label: Which angle is set on the rotary table</extracomment>
         <translation>Roterande bordsvinkel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="295"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="294"/>
         <source>Linear track mode</source>
         <extracomment>Label: Which motion mode does the linear track use in the solution</extracomment>
         <translation>Linjärbanaläge</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="305"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="304"/>
         <source>Linear track offset</source>
         <extracomment>Label: Refers to an offset in millimetres</extracomment>
         <translation>Linjärbana offset</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="316"/>
+        <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="315"/>
         <source>mm</source>
         <extracomment>Postfix: mm - millimeters</extracomment>
         <translation>mm</translation>
@@ -10373,38 +10373,38 @@ Detta kan bero på att lagringen kommer från en äldre version av IRBCAM</trans
 <context>
     <name>StationViewer</name>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="548"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="556"/>
         <source>Inverse kinematics could not be solved with this value (x=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation>Invers kinematik kunde inte lösas med detta värde (x=%1 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="565"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="582"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="573"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="590"/>
         <source>Inverse kinematics could not be solved with this value (y=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation>Invers kinematik kunde inte lösas med detta värde (y=%1 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="600"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="608"/>
         <source>Inverse kinematics could not be solved with this value (rz1=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Invers kinematik kunde inte lösas med detta värde (rz1=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="619"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="627"/>
         <source>Inverse kinematics could not be solved with this value (ry=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Invers kinematik kunde inte lösas med detta värde (ry=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="641"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="649"/>
         <source>Inverse kinematics could not be solved with this value (rz2=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Invers kinematik kunde inte lösas med detta värde (rz2=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="974"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="982"/>
         <source>Animation aborted
 Target at 0 is unreachable</source>
         <extracomment>Warning message</extracomment>
@@ -10412,7 +10412,7 @@ Target at 0 is unreachable</source>
 Målet på 0 går inte att nå</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1114"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1122"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -10420,7 +10420,7 @@ Target at index %1 has zero velocity</source>
 Mål vid index %1 har noll hastighet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1222"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1230"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -10428,7 +10428,7 @@ Target at index %1 is not solved</source>
 Målet för index %1 är inte löst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1490"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1495"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
