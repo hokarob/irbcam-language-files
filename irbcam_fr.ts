@@ -1723,13 +1723,13 @@ Placeholder for when no procedure name is entered</extracomment>
         <translation type="vanished">Sélectionner si le robot a un contrôleur XRC</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="137"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="150"/>
         <source>You cannot generate robot code in the trial version of IRBCAM. You can end the trial version and subscribe to the paid version before generating robot code %1 here %2</source>
         <extracomment>Warns the user that the selected robot must be activated before exporting robot code</extracomment>
         <translation>Vous ne pouvez pas générer de code pour le robot dans la version d&apos;essai d&apos;IRBCAM. Vous pouvez vous abonner %1 ici %2 afin de pouvoir générer le code pour le robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="206"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="219"/>
         <source>Generating robot code</source>
         <extracomment>Status message. Shown while waiting for robot code</extracomment>
         <translation>Génération du code pour le robot</translation>
@@ -1872,25 +1872,25 @@ Placeholder for when no value is entered</extracomment>
         <translation type="vanished">Options génériques</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="184"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="197"/>
         <source>Open robot list</source>
         <extracomment>Button: This is shown instead of &quot;Export&quot; if the user has to activate the selected robot</extracomment>
         <translation>Ouvrir la liste des robots</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="208"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="221"/>
         <source>Robot code received. Save to file?</source>
         <extracomment>This question is displayed in a popup after robot code is generated</extracomment>
         <translation>Le code pour le robot a été reçu. Le sauvegarder dans un fichier ?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="228"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="241"/>
         <source>Cancel</source>
         <extracomment>Cancel button</extracomment>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="237"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="250"/>
         <source>Save</source>
         <extracomment>Save button</extracomment>
         <translation>Enregistrer</translation>
@@ -2006,25 +2006,31 @@ Placeholder for when no user frame number is entered</extracomment>
         <translation>Il faut que le robot soit activé pour pouvoir exporter du code pour ce robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="150"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="138"/>
+        <source>The active subscription does not allow exporting robot code for KUKA VKRC4 controller. You can contact us to upgrade your subscription %1here%2</source>
+        <extracomment>Warns the user that the selected robot must be activated before exporting robot code</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="163"/>
         <source>Reset Export Options</source>
         <extracomment>Popup title</extracomment>
         <translation>Réinitialiser les options d&apos;export</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="152"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="165"/>
         <source>Are you sure you want reset export options to default values?</source>
         <extracomment>Popup text</extracomment>
         <translation>Êtes-vous sûr de vouloir réinitialiser les options d&apos;export aux valeurs par défaut ?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="165"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="178"/>
         <source>Reset</source>
         <extracomment>Button: Reset</extracomment>
         <translation>Réinitialiser</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="186"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="199"/>
         <source>Export</source>
         <extracomment>Button: Click here to export robot code</extracomment>
         <translation>Exporter</translation>
@@ -3095,7 +3101,7 @@ code: %2</source>
 code : %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1172"/>
+        <location filename="../../../backend/src/networking.cpp" line="1177"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
@@ -3103,7 +3109,7 @@ Save your work and reload page to get the newest features</source>
 Enregistrez votre travail et rechargez la page pour bénéficier des dernières fonctionnalités</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1178"/>
+        <location filename="../../../backend/src/networking.cpp" line="1183"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -3119,7 +3125,7 @@ Veuillez enregistrer votre travail et recharger la page dès que possible</trans
         <translation>Une erreur réseau est survenue</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1198"/>
+        <location filename="../../../backend/src/networking.cpp" line="1203"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Échec de la récupération de l&apos;état du processus cloud</translation>

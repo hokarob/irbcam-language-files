@@ -2359,61 +2359,67 @@ Placeholder for when no procedure name is entered</extracomment>
         <translation>Roboten måste aktiveras innan robotkod genereras</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="137"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="138"/>
+        <source>The active subscription does not allow exporting robot code for KUKA VKRC4 controller. You can contact us to upgrade your subscription %1here%2</source>
+        <extracomment>Warns the user that the selected robot must be activated before exporting robot code</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="150"/>
         <source>You cannot generate robot code in the trial version of IRBCAM. You can end the trial version and subscribe to the paid version before generating robot code %1 here %2</source>
         <extracomment>Warns the user that the selected robot must be activated before exporting robot code</extracomment>
         <translation>Du kan inte generera robotkod i testversionen av IRBCAM. Du kan avsluta testversionen och prenumerera på den betalda versionen innan du genererar robotkoden %1 här %2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="150"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="163"/>
         <source>Reset Export Options</source>
         <extracomment>Popup title</extracomment>
         <translation>Återställ exportalternativ</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="152"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="165"/>
         <source>Are you sure you want reset export options to default values?</source>
         <extracomment>Popup text</extracomment>
         <translation>Är du säker på att du vill återställa exportalternativen till standardvärden?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="165"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="178"/>
         <source>Reset</source>
         <extracomment>Button: Reset</extracomment>
         <translation>Återställa</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="184"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="197"/>
         <source>Open robot list</source>
         <extracomment>Button: This is shown instead of &quot;Export&quot; if the user has to activate the selected robot</extracomment>
         <translation>Öppna robotlistan</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="186"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="199"/>
         <source>Export</source>
         <extracomment>Button: Click here to export robot code</extracomment>
         <translation>Exportera</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="206"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="219"/>
         <source>Generating robot code</source>
         <extracomment>Status message. Shown while waiting for robot code</extracomment>
         <translation>Genererar robotkod</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="208"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="221"/>
         <source>Robot code received. Save to file?</source>
         <extracomment>This question is displayed in a popup after robot code is generated</extracomment>
         <translation>Robotkod mottagen. Spara till fil?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="228"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="241"/>
         <source>Cancel</source>
         <extracomment>Cancel button</extracomment>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="237"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="250"/>
         <source>Save</source>
         <extracomment>Save button</extracomment>
         <translation>Spara</translation>
@@ -3773,7 +3779,7 @@ code: %2</source>
 kod: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1172"/>
+        <location filename="../../../backend/src/networking.cpp" line="1177"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
@@ -3781,7 +3787,7 @@ Save your work and reload page to get the newest features</source>
 Spara ditt arbete och ladda om sidan för att få de senaste funktionerna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1178"/>
+        <location filename="../../../backend/src/networking.cpp" line="1183"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -3791,7 +3797,7 @@ Vissa funktioner kan vara otillgängliga förrän sidan laddas om.
 Spara ditt arbete och ladda om sidan så snart som möjligt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1198"/>
+        <location filename="../../../backend/src/networking.cpp" line="1203"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att få molnjobbstatus</translation>
