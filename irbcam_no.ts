@@ -4156,58 +4156,64 @@ Placeholder for when no move control group 3 is entered</extracomment>
 }</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="657"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="665"/>
         <source>ABB Options</source>
         <extracomment>Collapsible section: Options specific for ABB robots</extracomment>
         <translation>Alternativer for ABB</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="705"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="713"/>
         <source>KUKA Options</source>
         <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
         <translation>Alternativer for KUKA</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="748"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="756"/>
         <source>FANUC Options</source>
         <extracomment>Collapsible section: Options specific for FANUC robots</extracomment>
         <translation>Alternativer for FANUC</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="768"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="776"/>
         <source>MOTOMAN Options</source>
         <extracomment>Collapsible section: Options specific for MOTOMAN robots</extracomment>
         <translation>Alternativer for MOTOMAN</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="831"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="839"/>
         <source>Generic Options</source>
         <extracomment>Collapsible section: Options for generic robots</extracomment>
         <translation>Generiske alternativer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="852"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="860"/>
         <source>UR Options</source>
         <extracomment>Collapsible section: Options for UR robots</extracomment>
         <translation>UR Alternativer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="865"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="873"/>
         <source>COMAU Options</source>
         <extracomment>Collapsible section: Options for COMAU robots</extracomment>
         <translation>COMAU Alternativer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="878"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="886"/>
         <source>DENSO Options</source>
         <extracomment>Collapsible section: Options for DENSO robots</extracomment>
         <translation>DENSO-opsjoner</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="899"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="907"/>
         <source>DOBOT Options</source>
         <extracomment>Collapsible section: Options for DOBOT robots</extracomment>
         <translation>DOBOT-alternativer</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="923"/>
+        <source>KAWASAKI Options</source>
+        <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Universal Robots</source>
