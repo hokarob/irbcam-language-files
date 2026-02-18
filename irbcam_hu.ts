@@ -3130,6 +3130,36 @@ Kérjük, mentse el munkáját, és töltse újra az oldalt a lehető leghamarab
         <translation>Ízület %1 (°)</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="457"/>
+        <source>Max Joint Step</source>
+        <extracomment>Collapsible setcion within station settings: Max Joint Step</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="465"/>
+        <source>To Cartesian target</source>
+        <extracomment>Setting for maximum joint step to Cartesian target</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="467"/>
+        <source>Maximum joint step to Cartesian target (deg)</source>
+        <extracomment>Tool tip for maximum joint step to Cartesian target input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="490"/>
+        <source>To joint target</source>
+        <extracomment>Setting for maximum joint step to Joint target</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="492"/>
+        <source>Maximum joint step to joint target, should be greater than or equal to maximum joint step to Cartesian target (deg)</source>
+        <extracomment>Tool tip for maximum joint step to Joint target input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="228"/>
         <source>Rapid speed</source>
         <extracomment>Setting for rapid movement speed</extracomment>
@@ -4154,7 +4184,7 @@ Tooltip for to-target field</extracomment>
 <context>
     <name>Menus</name>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="103"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="126"/>
         <source>&amp;File</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Fájl</translation>
@@ -4217,55 +4247,55 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Kilépés (CTRL+Q)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="201"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="211"/>
         <source>&amp;Edit</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Szerkesztés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="206"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="216"/>
         <source>&amp;User Frame</source>
         <extracomment>Menu item</extracomment>
         <translation>Felhasználói keret</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="214"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="224"/>
         <source>&amp;Object Frame</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Objektum keret</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="222"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="232"/>
         <source>&amp;Robot</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="238"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="248"/>
         <source>&amp;Linear Track</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Lineáris pálya</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="254"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="264"/>
         <source>&amp;Additional Objects</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;További objektumok</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="263"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="273"/>
         <source>Tar&amp;gets</source>
         <extracomment>Menu item</extracomment>
         <translation>Célok</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="358"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="368"/>
         <source>User Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Felhasználói rendszer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="366"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="376"/>
         <source>Object Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Munkadarab rendszer</translation>
@@ -4279,7 +4309,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Mechanizmus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="374"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="384"/>
         <source>Robot</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Robot</translation>
@@ -4293,7 +4323,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Robot kiválasztás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="398"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="408"/>
         <source>Linear Track</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Lineáris egység</translation>
@@ -4335,7 +4365,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Válassza lineáris asztal</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="382"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="392"/>
         <source>Tool</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Kiválasztás</translation>
@@ -4433,7 +4463,7 @@ Tooltip for to-target field</extracomment>
         <translation type="vanished">R&amp;obot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="230"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="240"/>
         <source>&amp;Tool</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Eszköz</translation>
@@ -4447,7 +4477,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Optimalizáló</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="149"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="172"/>
         <source>&amp;Import Path</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Importálás útvonala</translation>
@@ -4465,7 +4495,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Maximális távolság</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="106"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="129"/>
         <source>&amp;New</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Új</translation>
@@ -4500,31 +4530,31 @@ Do you want to continue?</source>
 Folytatja?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="111"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="134"/>
         <source>&amp;Empty Project</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Üres projekt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="126"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="149"/>
         <source>&amp;Open Project</source>
         <extracomment>Menu item</extracomment>
         <translation>Pr&amp;ojekt megnyitása</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="134"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="157"/>
         <source>&amp;Save Project</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Projekt mentése</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="143"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="166"/>
         <source>Save Project &amp;As ...</source>
         <extracomment>Menu item</extracomment>
         <translation>Projekt mentése másként...</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="119"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="142"/>
         <source>&amp;Project Wizard</source>
         <extracomment>Menu item</extracomment>
         <translation>Projekt varázsló</translation>
@@ -4536,97 +4566,97 @@ Folytatja?</translation>
         <translation>Ez a modul nem mentett módosításokat tartalmaz</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="156"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="181"/>
         <source>S&amp;ettings</source>
         <extracomment>Menu item</extracomment>
         <translation>B&amp;eállítások</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="163"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="188"/>
         <source>Project &amp;Info</source>
         <extracomment>Menu item</extracomment>
         <translation>Projekt és &amp;Info</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="246"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="256"/>
         <source>Rotary Ta&amp;ble</source>
         <extracomment>Menu item</extracomment>
         <translation>Forgóasztal</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="274"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="284"/>
         <source>&amp;Export Options</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Exportálási beállítások</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="291"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="301"/>
         <source>&amp;Analyze</source>
         <extracomment>Menu title</extracomment>
         <translation>Elemzés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="294"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="304"/>
         <source>&amp;Optimizer</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Optimalizáló</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="313"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="323"/>
         <source>&amp;View</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Nézet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="316"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="326"/>
         <source>Station</source>
         <extracomment>Menu item</extracomment>
         <translation>Állomás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="328"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="338"/>
         <source>2D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation>2D ábra</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="334"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="344"/>
         <source>3D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation>3D ábra</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="350"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="360"/>
         <source>Global</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Globális</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="390"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="400"/>
         <source>Rotary Table</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Forgóasztal</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="406"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="416"/>
         <source>Target</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Cél</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="417"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="427"/>
         <source>No plugins are enabled</source>
         <extracomment>Tool tip to explain why plugins are greyed out</extracomment>
         <translation>Egyetlen bővítmény sincs engedélyezve</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="445"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="455"/>
         <source>This plugin does not have valid source content</source>
         <extracomment>Tool tip to explain why button is greyed out</extracomment>
         <translation>Ez a bővítmény nem rendelkezik érvényes forrás tartalommal</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="504"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="514"/>
         <source>Feedback</source>
         <extracomment>Menu item</extracomment>
         <translation>Visszajelzés</translation>
@@ -4640,7 +4670,7 @@ Folytatja?</translation>
         <translation type="obsolete">Ortogonális Megtekintés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="322"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="332"/>
         <source>Combination View</source>
         <extracomment>Menu item</extracomment>
         <translation>Többszörös nézet</translation>
@@ -4662,7 +4692,7 @@ Folytatja?</translation>
         <translation type="obsolete">Lejátszás hátra</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="424"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="434"/>
         <source>&amp;Plugins</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Beépülő modulok</translation>
@@ -4676,7 +4706,7 @@ Folytatja?</translation>
         <translation type="vanished">Ez a bővítmény nem érhető el: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="487"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="497"/>
         <source>Forum</source>
         <extracomment>Menu item</extracomment>
         <translation>Fórum</translation>
@@ -4714,7 +4744,7 @@ Folytatja?</translation>
         <translation type="vanished">Bővítmény beállítások</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="474"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="484"/>
         <source>&amp;Help</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Segítség</translation>
@@ -4724,7 +4754,7 @@ Folytatja?</translation>
         <translation type="obsolete">3D mozgatás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="345"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="355"/>
         <source>Coordinate Systems</source>
         <extracomment>Menu title</extracomment>
         <translation>Koordináta rendszerek</translation>
@@ -4738,7 +4768,7 @@ Folytatja?</translation>
         <translation type="obsolete">Nyelv / Egységek</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="498"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="508"/>
         <source>About IRBCAM</source>
         <extracomment>Menu item</extracomment>
         <translation>Az IRBCAM-ról</translation>
@@ -9093,86 +9123,92 @@ A cél nem érhető el a jelenlegi konfigurációval</translation>
 <context>
     <name>TargetDelegate</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="277"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="271"/>
+        <source>Joint target</source>
+        <extracomment>Tooltip text</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="282"/>
         <source>Feed speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in linear velocity (feed speed)</extracomment>
         <translation>Előtolási sebesség módosítása</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="288"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="293"/>
         <source>Tool change</source>
         <extracomment>Tool tip. Explains that this icon indicates a tool change</extracomment>
         <translation>Szerszámcsere</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="298"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="303"/>
         <source>Spindle speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in spindle speed</extracomment>
         <translation>Főorsó sebesség változása</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="308"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="313"/>
         <source>Gun On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun on</extracomment>
         <translation>Gun Bekapcsolva változás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="318"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="323"/>
         <source>Gun Off change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun on</extracomment>
         <translation>Fegyver Ki változtatás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="349"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="354"/>
         <source>Target is successfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>A cél sikeresen megoldva</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="351"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="356"/>
         <source>Path is succesfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Az útvonal sikeresen megoldódott</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="354"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="359"/>
         <source>Target failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>A cél megoldása sikertelen volt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="356"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="361"/>
         <source>Path failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Az útvonal megoldása sikertelen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="382"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="387"/>
         <source>Unlock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Szerkesztés feloldása ehhez a célponthoz</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="386"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="391"/>
         <source>Lock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Zárolja ennek a célnak a szerkesztését</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="392"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="397"/>
         <source>Unlock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Szerkesztés feloldása minden célpontnál ebben az útvonalban</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="396"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="401"/>
         <source>Lock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Zárolja a szerkesztést minden célpont esetében ebben az útvonalban</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="448"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="463"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="453"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="468"/>
         <source>mm</source>
         <extracomment>Unit millimetres
 ----------
@@ -9180,80 +9216,86 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="465"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="470"/>
         <source>s</source>
         <extracomment>Unit seconds. Part of a fraction mm/s</extracomment>
         <translation>s</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="539"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="544"/>
         <source>Speed</source>
         <extracomment>Label over input field</extracomment>
         <translation>Sebesség</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="544"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="549"/>
         <source>Tool</source>
         <extracomment>Label over input field</extracomment>
         <translation>Kiválasztás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="550"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="555"/>
         <source>Spindle</source>
         <extracomment>Label over input field</extracomment>
         <translation>Orsó</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="556"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="561"/>
         <source>Gun On/Off</source>
         <extracomment>Label over input field</extracomment>
         <translation>Pisztoly be/ki</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="569"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="574"/>
         <source>Input</source>
         <extracomment>Dropdown menu item. Speed mode: input</extracomment>
         <translation>Bemenet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="574"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="579"/>
         <source>Cutting</source>
         <extracomment>Dropdown menu item. Speed mode: cutting</extracomment>
         <translation>Vágás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="579"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="584"/>
         <source>Rapid</source>
         <extracomment>Dropdown menu item. Speed mode: rapid</extracomment>
         <translation>Gyors</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="608"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="613"/>
         <source>rpm</source>
         <extracomment>Unit: revolutions per minute</extracomment>
         <translation>fordulatszám</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="627"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="632"/>
         <source>V</source>
         <extracomment>Input field prefix. Denotes velocity</extracomment>
         <translation>V</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="634"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="639"/>
         <source>Motion type: </source>
         <extracomment>Droptown menu text</extracomment>
         <translation>Mozgás típusa:</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="655"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="660"/>
         <source>Linear</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation>Lineáris</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="268"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="657"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="664"/>
+        <source>Joint</source>
+        <extracomment>Droptown menu text, motion type for target</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="273"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="662"/>
         <source>Arc midpoint</source>
         <extracomment>Tooltip text
 ----------
@@ -9267,8 +9309,8 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Nem definiált</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="266"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="642"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="268"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="647"/>
         <source>Rotary lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -9276,8 +9318,8 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Forgó emelőpont</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="263"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="638"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="265"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="643"/>
         <source>Linear lift point</source>
         <extracomment>Tooltip text
 ----------
