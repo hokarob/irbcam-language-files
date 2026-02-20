@@ -5976,55 +5976,55 @@ Clique com o botão direito para ver as opções disponíveis para preencher o c
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1530"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1552"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>Falha ao importar arquivo CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1536"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1558"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Caminho importado do CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1552"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1574"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao analisar arquivo JSON</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1577"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1599"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao carregar caminho</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1583"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1605"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Caminho carregado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2101"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2123"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Alvo copiado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2106"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2128"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Copiados %1 alvos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2145"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2167"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Caminho copiado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2150"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2172"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Copiados %1 caminhos</translation>
@@ -8902,7 +8902,7 @@ Isso pode ser devido ao salvamento vindo de uma versão mais antiga</translation
         <translation>A cinemática inversa não pôde ser resolvida com este valor (rz2=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="971"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="995"/>
         <source>Animation aborted
 Target at 0 is unreachable</source>
         <extracomment>Warning message</extracomment>
@@ -8910,7 +8910,7 @@ Target at 0 is unreachable</source>
 Alvo em 0 é inalcançável</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1103"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1127"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -8918,7 +8918,7 @@ Target at index %1 has zero velocity</source>
 O alvo no índice %1 tem velocidade zero</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1211"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1235"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -8926,7 +8926,7 @@ Target at index %1 is not solved</source>
 Alvo no índice %1 não está resolvido</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1474"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1498"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>

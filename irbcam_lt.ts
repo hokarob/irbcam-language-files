@@ -6071,55 +6071,55 @@ Dešiniuoju pelės mygtuku spustelėkite, kad pamatytumėte galimas parinktis ke
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1530"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1552"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>Nepavyko importuoti CSV failo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1536"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1558"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Kelias importuotas iš CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1552"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1574"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko išanalizuoti JSON failo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1577"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1599"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti kelio</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1583"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1605"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Kelias įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2101"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2123"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Nukopijuotas taikinys</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2106"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2128"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Nukopijuota %1 taikinių</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2145"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2167"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Nukopijuotas kelias</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2150"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2172"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Nukopijuota %1 kelių</translation>
@@ -9001,7 +9001,7 @@ Tai gali būti dėl to, kad išsaugota versija yra senesnė</translation>
         <translation>Atvirkštinės kinematikos nepavyko išspręsti su šia reikšme (rz2=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="971"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="995"/>
         <source>Animation aborted
 Target at 0 is unreachable</source>
         <extracomment>Warning message</extracomment>
@@ -9009,7 +9009,7 @@ Target at 0 is unreachable</source>
 Tikslas ties 0 yra nepasiekiamas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1103"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1127"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -9017,7 +9017,7 @@ Target at index %1 has zero velocity</source>
 Taikinys ties indeksu %1 turi nulio greitį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1211"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1235"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -9025,7 +9025,7 @@ Target at index %1 is not solved</source>
 Tikslas indekse %1 nėra išspręstas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1474"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1498"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>

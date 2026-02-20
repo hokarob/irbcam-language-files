@@ -7248,55 +7248,55 @@ Högerklicka för att se tillgängliga alternativ för att fylla banan</translat
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1530"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1552"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>Det gick inte att importera CSV-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1536"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1558"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Banan importerad från CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1552"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1574"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att tolka JSON-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1577"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1599"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att läsa in banan</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1583"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1605"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Verktygsbana laddad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2101"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2123"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopierad punkt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2106"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2128"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Kopierade %1 punkter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2145"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2167"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopierad bana</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2150"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2172"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Kopierade %1 banor</translation>
@@ -10436,7 +10436,7 @@ Detta kan bero på att lagringen kommer från en äldre version av IRBCAM</trans
         <translation>Invers kinematik kunde inte lösas med detta värde (rz2=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="971"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="995"/>
         <source>Animation aborted
 Target at 0 is unreachable</source>
         <extracomment>Warning message</extracomment>
@@ -10444,7 +10444,7 @@ Target at 0 is unreachable</source>
 Målet på 0 går inte att nå</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1103"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1127"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -10452,7 +10452,7 @@ Target at index %1 has zero velocity</source>
 Mål vid index %1 har noll hastighet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1211"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1235"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -10460,7 +10460,7 @@ Target at index %1 is not solved</source>
 Målet för index %1 är inte löst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1474"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1498"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>

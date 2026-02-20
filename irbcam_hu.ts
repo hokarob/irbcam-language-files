@@ -6086,55 +6086,55 @@ Right click to see available options for populating the path</source>
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1530"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1552"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>A CSV fájl importálása nem sikerült</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1536"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1558"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Útvonal importálva CSV-ből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1552"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1574"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült elemezni a JSON fájlt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1577"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1599"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült betölteni az útvonalat</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1583"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1605"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Útvonal betöltve</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2101"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2123"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Másolt cél</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2106"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2128"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Másolva %1 célpont</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2145"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2167"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Útvonal másolva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2150"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2172"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Másolva %1 útvonal</translation>
@@ -9050,7 +9050,7 @@ Ez azért lehet, mert a mentés egy régebbi verzióból származik</translation
         <translation>Az inverz kinematikát nem sikerült megoldani ezzel az értékkel (rz2=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="971"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="995"/>
         <source>Animation aborted
 Target at 0 is unreachable</source>
         <extracomment>Warning message</extracomment>
@@ -9058,7 +9058,7 @@ Target at 0 is unreachable</source>
 A 0. cél elérhetetlen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1103"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1127"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -9066,7 +9066,7 @@ Target at index %1 has zero velocity</source>
 A(z) %1 indexű cél sebessége nulla</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1211"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1235"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -9074,7 +9074,7 @@ Target at index %1 is not solved</source>
 A(z) %1 indexű cél nincs megoldva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1474"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1498"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
