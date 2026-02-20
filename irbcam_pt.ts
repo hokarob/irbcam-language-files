@@ -7163,7 +7163,7 @@ Solved %1 of %2 targets</source>
 Resolvidos %1 de %2 alvos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1008"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1012"/>
         <source>Path solved successfully in %1 ms</source>
         <extracomment>Status message. %1 = time in milliseconds</extracomment>
         <translation>Caminho resolvido com sucesso em %1 ms</translation>
@@ -7419,7 +7419,7 @@ Error status for solving path</extracomment>
         <translation>A distância entre o ponto inicial do arco e o ponto final do arco é muito pequena</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1032"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1036"/>
         <source>Failed to configure max distance at index %1
 No new targets were added
 </source>
@@ -7429,13 +7429,13 @@ Não foram adicionados novos alvos
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1081"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1085"/>
         <source>Failed to find max distance</source>
         <extracomment>Error message from find max distance</extracomment>
         <translation>Falha ao encontrar a distância máxima</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1101"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1105"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
@@ -7443,13 +7443,13 @@ Found %1 possible solutions within the specified parameters</source>
 Encontradas %1 soluções possíveis dentro dos parâmetros especificados</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1107"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1111"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation>Otimizador encontrou um problema</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1116"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1120"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
@@ -7457,7 +7457,7 @@ No solutions found with the specified parameters</source>
 Nenhuma solução encontrada com os parâmetros especificados</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1122"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1126"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
@@ -7582,7 +7582,7 @@ Nenhum alvo</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="803"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1025"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1029"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Operação abortada pelo usuário</translation>
@@ -7596,7 +7596,7 @@ Solved %1 of %2 targets</source>
 Resolvidos %1 de %2 alvos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1048"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1052"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
@@ -7604,7 +7604,7 @@ Resolvidos %1 de %2 alvos</translation>
 1 novo alvo foi adicionado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1057"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1061"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
@@ -7612,7 +7612,7 @@ Resolvidos %1 de %2 alvos</translation>
 %1 novos alvos foram adicionados</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1063"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1067"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
