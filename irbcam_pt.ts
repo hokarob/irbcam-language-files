@@ -3369,7 +3369,7 @@ Collapsible item in tree view. This is the root item, indicating that the list c
 <context>
     <name>LoadProjectDelegate</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/LoadProjectDelegate.qml" line="133"/>
+        <location filename="../../IrbcamQml/Popups/Assets/LoadProjectDelegate.qml" line="131"/>
         <source>See details (Open external window)</source>
         <extracomment>Tool tip: Shown when hovering above the external link button on projects</extracomment>
         <translation>Ver detalhes (Abrir janela externa)</translation>
@@ -6451,19 +6451,19 @@ Placeholder text until an icon has been selected</extracomment>
 <context>
     <name>ProjectListModel</name>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="893"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="995"/>
         <source>Recent</source>
         <extracomment>Collapsible section: Contains recent projects</extracomment>
         <translation>Recente</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="901"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1003"/>
         <source>Examples</source>
         <extracomment>Collapsible section: Contains demo projects</extracomment>
         <translation>Exemplos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="899"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1001"/>
         <source>Shared with me</source>
         <extracomment>Collapsible section: Contains shared projects</extracomment>
         <translation>Compartilhado comigo</translation>
@@ -6475,56 +6475,56 @@ Placeholder text until an icon has been selected</extracomment>
         <translation>O usuário não tem permissão de escrita para o projeto %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="178"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="194"/>
         <source>Name</source>
         <extracomment>List column header</extracomment>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="181"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="197"/>
         <source>Version</source>
         <extracomment>List column header</extracomment>
         <translation>Versão</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="184"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="200"/>
         <source>Created</source>
         <extracomment>List column header</extracomment>
         <translation>Criado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="187"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="203"/>
         <source>Modified</source>
         <extracomment>List column header</extracomment>
         <translation>Modificado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="778"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="872"/>
         <source>Failed to parse project info</source>
         <extracomment>Warning message</extracomment>
         <translation>Falha ao analisar informações do projeto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="784"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="878"/>
         <source>Failed to parse project info for project %1</source>
         <extracomment>Warning message</extracomment>
         <translation>Falha ao analisar informações do projeto para o projeto %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="807"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="901"/>
         <source>autosave</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are autosaves</extracomment>
         <translation>salvamento automático</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="815"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="909"/>
         <source>Invalid project type for project %1</source>
         <extracomment>Warning message</extracomment>
         <translation>Tipo de projeto inválido para o projeto %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="823"/>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="889"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="917"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="991"/>
         <source>example</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are public examples
 ----------
@@ -6532,8 +6532,8 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>exemplo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="831"/>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="885"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="925"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="986"/>
         <source>shared</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are shared with user
 ----------
@@ -6541,13 +6541,13 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>compartilhado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="897"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="999"/>
         <source>My projects (%1/%2)</source>
         <extracomment>Collapsible section: Contains user&apos;s projects</extracomment>
         <translation>Meus projetos (%1/%2)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="903"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1005"/>
         <source>Autosave</source>
         <extracomment>Collapsible section: Contains auto-saved projects</extracomment>
         <translation>Salvamento automático</translation>
@@ -6706,73 +6706,73 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>Desconhecido</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="572"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="577"/>
         <source>Save name</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to save</extracomment>
         <translation>Salvar nome</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="576"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="581"/>
         <source>Search</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to search for</extracomment>
         <translation>Pesquisar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="717"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="722"/>
         <source>Overwrite</source>
         <extracomment>Button text: Overwrite project</extracomment>
         <translation>Sobrescrever</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="719"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="724"/>
         <source>Save</source>
         <extracomment>Button text: Save project</extracomment>
         <translation>Salvar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="722"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="727"/>
         <source>Open</source>
         <extracomment>Button text: Open project</extracomment>
         <translation>Abrir</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="725"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="730"/>
         <source>Share</source>
         <extracomment>Button text: Share project</extracomment>
         <translation>Compartilhar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="756"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="761"/>
         <source>You do not have write access to this project</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Você não tem acesso de escrita a este projeto</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="761"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="766"/>
         <source>You have reached the maximum number of saved projects. A project must be deleted before a new one can be created</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Você atingiu o número máximo de projetos salvos. Um projeto deve ser excluído antes que um novo possa ser criado</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="765"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="770"/>
         <source>The save name is invalid</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>O nome do save é inválido</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="768"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="773"/>
         <source>Select a project to open</source>
         <extracomment>Tool-tip: Explaining why the open button is disabled</extracomment>
         <translation>Selecionar um projeto para abrir</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="771"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="776"/>
         <source>Select a project to share</source>
         <extracomment>Tool-tip: Explaining why the share button is disabled</extracomment>
         <translation>Selecionar um projeto para compartilhar</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="790"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="795"/>
         <source>No saved projects</source>
         <extracomment>Placeholder text for an empty list</extracomment>
         <translation>Nenhum projeto salvo</translation>
