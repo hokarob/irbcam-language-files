@@ -425,31 +425,31 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>AnimationBar</name>
     <message>
-        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="92"/>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="132"/>
         <source>End of path</source>
         <extracomment>Tool tip for play button</extracomment>
         <translation>Kelias baigtas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="94"/>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="134"/>
         <source>Path must be solved before it can be animated</source>
         <extracomment>Tool tip for play button</extracomment>
         <translation>Kelias turi būti išspręstas prieš jį galima animuoti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="96"/>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="136"/>
         <source>Path must contain at least two points to animate</source>
         <extracomment>Tool tip for play button</extracomment>
         <translation>Kelias turi turėti bent du taškus, kad būtų galima animuoti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="133"/>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="173"/>
         <source>Animation speed</source>
         <extracomment>Tool-tip. Animation speed setting</extracomment>
         <translation>Animacijos greitis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="176"/>
+        <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="216"/>
         <source>Tool Trace</source>
         <extracomment>Button: Open tool trace settings</extracomment>
         <translation>Įrankio sekimas</translation>
@@ -8711,67 +8711,67 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation type="obsolete">Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="491"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="497"/>
         <source>Project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Projektas %1 išsaugotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="832"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="838"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Projektas išvalytas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="446"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="452"/>
         <source>Failed to confirm that the project was saved to the cloud (the project may or may not have been saved)</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko patvirtinti, kad projektas buvo išsaugotas debesyje (projektas gali būti išsaugotas arba ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="415"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="421"/>
         <source>No changes detected in project</source>
         <extracomment>Notification message that is displayed if the user attempst to save project, but the project has not changed since last save</extracomment>
         <translation>Projekte nepastebėta jokių pakeitimų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="485"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="491"/>
         <source>Autosave for project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Automatinis išsaugojimas projektui %1 išsaugotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="628"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="634"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko atsisiųsti projekto iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="872"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="878"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko patvirtinti, kad projektas buvo ištrintas iš debesies (projektas gali būti ištrintas arba ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="898"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="904"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projektas %1 buvo ištrintas iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="976"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="982"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko patvirtinti, kad projektas buvo pasidalintas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1000"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1006"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projektas %1 buvo pasidalintas su %2.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1037"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1043"/>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -8779,50 +8779,50 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Didesni keliai gali būti importuoti padalijant APT failą į mažesnius failus ir naudojant „papildymo“ parinktį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1060"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1066"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Nepavyko pradėti debesų užduoties %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1090"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1096"/>
         <source>Failed to get parsed APT %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Nepavyko gauti išanalizuoto APT %1 iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1135"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1141"/>
         <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>APT faile %1 naudojamų dešimtainių skaitmenų skaičius yra %2 (žemas skaitinis tikslumas).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1153"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1159"/>
         <source>Failed to import APT file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Nepavyko importuoti APT failo %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1160"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1166"/>
         <source>Path imported from APT %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation>Kelias importuotas iš APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1222"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1254"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1228"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1260"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko gauti roboto kodo iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1410"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1416"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko atkurti išsaugoto projekto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1422"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1428"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -8830,56 +8830,56 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Tai gali būti dėl to, kad išsaugojimas yra iš senesnės IRBCAM versijos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1448"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1454"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Trūkstama informacija projekte, gautame iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1479"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1485"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko gauti vartotojo rėmo duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1497"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1503"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti vartotojo rėmo duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1507"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1513"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko gauti objekto rėmo duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1516"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1522"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti objekto kadro duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1549"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1555"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Trūksta arba sugadinta kelio informacija iš išsaugoto projekto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1568"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1574"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>kelio importas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1719"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1726"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1725"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1732"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH lentelė</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1430"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1436"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -8887,44 +8887,44 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Tai gali būti dėl to, kad išsaugojimas yra iš senesnės IRBCAM versijos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1584"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1592"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1602"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1590"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1598"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1608"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1616"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1624"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1654"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1622"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1630"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1660"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>įrankis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1668"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1676"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1686"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1674"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1682"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1692"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>sukimo stalas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1469"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1475"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti projekto duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1773"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1779"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projektas %1 įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1698"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1706"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1704"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1712"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>tiesinis bėgis</translation>
@@ -9014,7 +9014,7 @@ Target at 0 is unreachable</source>
 Tikslas ties 0 yra nepasiekiamas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1127"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1143"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -9022,7 +9022,7 @@ Target at index %1 has zero velocity</source>
 Taikinys ties indeksu %1 turi nulio greitį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1235"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1251"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -9030,7 +9030,7 @@ Target at index %1 is not solved</source>
 Tikslas indekse %1 nėra išspręstas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1498"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1517"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
