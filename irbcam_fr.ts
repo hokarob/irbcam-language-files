@@ -2990,9 +2990,14 @@ Placeholder for tool name if no tool is loaded</extracomment>
     </message>
     <message>
         <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="194"/>
+        <source>Tool Base Frame updated from the Public API</source>
+        <extracomment>Status message: Shown when a plugin has changed the base frame of the tool</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Stationary Tool Base Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the base frame of the tool</extracomment>
-        <translation>Référentiel de base de l&apos;outil stationnaire mis à jour depuis l&apos;API publique</translation>
+        <translation type="vanished">Référentiel de base de l&apos;outil stationnaire mis à jour depuis l&apos;API publique</translation>
     </message>
     <message>
         <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="206"/>
@@ -4228,7 +4233,7 @@ Voulez-vous continuer ?</translation>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="392"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="400"/>
         <source>Tool</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Outil</translation>
@@ -4288,37 +4293,49 @@ Voulez-vous continuer ?</translation>
         <translation>Globaux</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="400"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="392"/>
+        <source>Robot Flange</source>
+        <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="408"/>
+        <source>Stationary Tool Base</source>
+        <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="424"/>
         <source>Rotary Table</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Table rotative</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="408"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="432"/>
         <source>Linear Track</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Rail linéaire</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="416"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="440"/>
         <source>Target</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Cible</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="427"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="451"/>
         <source>No plugins are enabled</source>
         <extracomment>Tool tip to explain why plugins are greyed out</extracomment>
         <translation>Aucun plugin n&apos;est activé</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="455"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="479"/>
         <source>This plugin does not have valid source content</source>
         <extracomment>Tool tip to explain why button is greyed out</extracomment>
         <translation>Ce plugin n&apos;a pas de contenu source valide</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="514"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="538"/>
         <source>Feedback</source>
         <extracomment>Menu item</extracomment>
         <translation>Retour d&apos;expérience</translation>
@@ -4330,19 +4347,19 @@ Voulez-vous continuer ?</translation>
         <translation>Vue combinée</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="434"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="458"/>
         <source>&amp;Plugins</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Plugins</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="497"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="521"/>
         <source>Forum</source>
         <extracomment>Menu item</extracomment>
         <translation>Forum</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="484"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="508"/>
         <source>&amp;Help</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Aide</translation>
@@ -4354,7 +4371,7 @@ Voulez-vous continuer ?</translation>
         <translation>Systèmes de coordonnées</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="508"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="532"/>
         <source>About IRBCAM</source>
         <extracomment>Menu item</extracomment>
         <translation>À propos d&apos;IRBCAM</translation>
@@ -5862,13 +5879,13 @@ Placeholder text until an icon has been selected</extracomment>
 <context>
     <name>PoseEditor</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="91"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="157"/>
         <source>Position</source>
         <extracomment>Physical position of an object</extracomment>
         <translation>Position</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="186"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="252"/>
         <source>Rotation</source>
         <extracomment>Physical rotation of an object</extracomment>
         <translation>Rotation</translation>
@@ -5889,67 +5906,145 @@ Placeholder text until an icon has been selected</extracomment>
         <translation type="vanished">Roulis</translation>
     </message>
     <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="92"/>
+        <source>Relative to</source>
+        <extracomment>label next to a drop-down menu</extracomment>
+        <translation type="unfinished">Par rapport à</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="102"/>
+        <source>Invalid frame</source>
+        <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="104"/>
+        <source>Global origin</source>
+        <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
+        <translation type="unfinished">Origine globale</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="106"/>
+        <source>Robot base</source>
+        <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
+        <translation type="unfinished">Base du robot</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="108"/>
+        <source>User frame</source>
+        <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
+        <translation type="unfinished">Référentiel utilisateur</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="110"/>
+        <source>Object frame</source>
+        <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
+        <translation type="unfinished">Référentiel objet</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="112"/>
+        <source>Tool frame</source>
+        <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
+        <translation type="unfinished">Référentiel outil</translation>
+    </message>
+    <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="114"/>
+        <source>Rotary table frame</source>
+        <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="116"/>
+        <source>Linear track frame</source>
+        <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="118"/>
+        <source>Robot flange frame</source>
+        <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="120"/>
+        <source>Stationary tool base frame</source>
+        <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="137"/>
+        <source>Reset</source>
+        <extracomment>Referring to resetting pose</extracomment>
+        <translation type="unfinished">Réinitialiser</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="144"/>
+        <source>Reset pose</source>
+        <extracomment>Tool tip explaining that a button is to reset the pose</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="180"/>
         <source>mm</source>
         <extracomment>Unit millimetres</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="160"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="226"/>
         <source>Y offset is not supported!</source>
         <extracomment>tooltip: Y offset is not supported!</extracomment>
         <translation>Le décalage Y n&apos;est pas pris en charge !</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="206"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="272"/>
         <source>Yaw angle</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
         <translation>Angle de lacet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="222"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="288"/>
         <source>Pitch angle</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
         <translation>Angle de tangage</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="238"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="304"/>
         <source>Roll angle</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
         <translation>Angle de roulis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="252"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="318"/>
         <source>Normalize</source>
         <extracomment>Referring to normalising a quaternion</extracomment>
         <translation>Normaliser</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="259"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="325"/>
         <source>Normalize quaternions</source>
         <extracomment>Tool tip explaining that a button is to normalise quaternions</extracomment>
         <translation>Normaliser les quaternions</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="272"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="338"/>
         <source>Quaternion scalar</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Scalaire quaternion</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="288"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="354"/>
         <source>Quaternion i</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Quaternion i</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="304"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="370"/>
         <source>Quaternion j</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Quaternion j</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="320"/>
+        <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="386"/>
         <source>Quaternion k</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Quaternion k</translation>
@@ -6453,7 +6548,7 @@ Column name. Refers to which date the items were modified</extracomment>
 <context>
     <name>RobotDataInterface</name>
     <message>
-        <location filename="../../../backend/src/robotdatainterface.cpp" line="378"/>
+        <location filename="../../../backend/src/robotdatainterface.cpp" line="388"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 a été activé</translation>
@@ -7557,7 +7652,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <translation></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="623"/>
+        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="589"/>
         <source>IRBCAM Trial Version</source>
         <extracomment>Text on the floor tiles for trial version</extracomment>
         <translation>Version d&apos;essai IRBCAM</translation>
@@ -8277,38 +8372,38 @@ Cela peut arriver si la sauvegarde vient d&apos;une version d&apos;IRBCAM plus a
 <context>
     <name>StationViewer</name>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="551"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="560"/>
         <source>Inverse kinematics could not be solved with this value (x=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation>Impossible de résoudre la cinématique inverse avec cette valeur (x=%1 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="568"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="585"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="577"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="594"/>
         <source>Inverse kinematics could not be solved with this value (y=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation>La cinématique inverse n&apos;a pas pu être résolue avec cette valeur (y=%1 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="603"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="612"/>
         <source>Inverse kinematics could not be solved with this value (rz1=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>La cinématique inverse n&apos;a pas pu être résolue avec cette valeur (rz1=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="622"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="631"/>
         <source>Inverse kinematics could not be solved with this value (ry=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>La cinématique inverse n&apos;a pas pu être résolue avec cette valeur (ry=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="644"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="653"/>
         <source>Inverse kinematics could not be solved with this value (rz2=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>La cinématique inverse n&apos;a pas pu être résolue avec cette valeur (rz2=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="995"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1004"/>
         <source>Animation aborted
 Target at 0 is unreachable</source>
         <extracomment>Warning message</extracomment>
@@ -8316,7 +8411,7 @@ Target at 0 is unreachable</source>
 La cible à 0 est inatteignable</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1143"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1161"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -8324,7 +8419,7 @@ Target at index %1 has zero velocity</source>
 La cible àl&apos;indice %1 a une vitesse nulle</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1251"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1291"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -8339,7 +8434,7 @@ Target at index %1 is unreachable</source>
 La cible à l&apos;indice %1 est inatteignable</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1517"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1540"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
@@ -8400,68 +8495,86 @@ La cible est inatteignable avec la configuration actuelle</translation>
         <translation>Changement de la vitesse de la broche</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="313"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="305"/>
+        <source>Tool command change</source>
+        <extracomment>Tool tip. Explains that this icon indicates a change in tool command</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="315"/>
         <source>Gun On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun on</extracomment>
         <translation>Pistolet activé changement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="323"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="317"/>
+        <source>Tool On change</source>
+        <extracomment>Tool tip. Explains that this icon indicates a change in tool on</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="328"/>
         <source>Gun Off change</source>
-        <extracomment>Tool tip. Explains that this icon indicates a change in gun on</extracomment>
+        <extracomment>Tool tip. Explains that this icon indicates a change in gun off</extracomment>
         <translation>Éteignez le pistolet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="354"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="330"/>
+        <source>Tool Off change</source>
+        <extracomment>Tool tip. Explains that this icon indicates a change in tool off</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="363"/>
         <source>Target is successfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>La cible a été résolue avec succès</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="356"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="365"/>
         <source>Path is succesfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Le chemin est résolu avec succès</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="359"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="368"/>
         <source>Target failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>La cible n&apos;a pas été résolue</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="361"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="370"/>
         <source>Path failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Échec de résolution du chemin</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="387"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="396"/>
         <source>Unlock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Déverrouiller l&apos;édition pour cette cible</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="391"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="400"/>
         <source>Lock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Verrouiller l&apos;édition pour cette cible</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="397"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="406"/>
         <source>Unlock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Déverrouiller l&apos;édition pour toutes les cibles dans ce chemin</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="401"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="410"/>
         <source>Lock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Verrouiller l&apos;édition de toutes les cibles sur ce chemin</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="453"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="468"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="462"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="477"/>
         <source>mm</source>
         <extracomment>Unit millimetres
 ----------
@@ -8469,86 +8582,98 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="470"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="479"/>
         <source>s</source>
         <extracomment>Unit seconds. Part of a fraction mm/s</extracomment>
         <translation>s</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="544"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="553"/>
         <source>Speed</source>
         <extracomment>Label over input field</extracomment>
         <translation>Vitesse</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="549"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="558"/>
         <source>Tool</source>
         <extracomment>Label over input field</extracomment>
         <translation>Outil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="555"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="564"/>
         <source>Spindle</source>
         <extracomment>Label over input field</extracomment>
         <translation>Broche</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="561"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="570"/>
+        <source>Tool CMD</source>
+        <extracomment>Label over input field</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="576"/>
         <source>Gun On/Off</source>
         <extracomment>Label over input field</extracomment>
         <translation>Pistolet Marche/Arrêt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="574"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="582"/>
+        <source>Tool On/Off</source>
+        <extracomment>Label over input field</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="595"/>
         <source>Input</source>
         <extracomment>Dropdown menu item. Speed mode: input</extracomment>
         <translation>Manuel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="579"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="600"/>
         <source>Cutting</source>
         <extracomment>Dropdown menu item. Speed mode: cutting</extracomment>
         <translation>Coupe</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="584"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="605"/>
         <source>Rapid</source>
         <extracomment>Dropdown menu item. Speed mode: rapid</extracomment>
         <translation>Déplacement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="613"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="634"/>
         <source>rpm</source>
         <extracomment>Unit: revolutions per minute</extracomment>
         <translation>tr/min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="632"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="654"/>
         <source>V</source>
         <extracomment>Input field prefix. Denotes velocity</extracomment>
         <translation>V</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="639"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="661"/>
         <source>Motion type: </source>
         <extracomment>Droptown menu text</extracomment>
         <translation>Type de mouvement: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="660"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="682"/>
         <source>Linear</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation>Linéaire</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="664"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="686"/>
         <source>Joint</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation type="unfinished">Articulation</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="273"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="662"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="684"/>
         <source>Arc midpoint</source>
         <extracomment>Tooltip text
 ----------
@@ -8563,7 +8688,7 @@ Droptown menu text, motion type for target</extracomment>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="268"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="647"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="669"/>
         <source>Rotary lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -8572,7 +8697,7 @@ Droptown menu text, motion type for target</extracomment>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="265"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="643"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="665"/>
         <source>Linear lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -8641,127 +8766,189 @@ Droptown menu text, motion type for target</extracomment>
 <context>
     <name>ToolData</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="90"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="96"/>
         <source>Tool Data</source>
         <extracomment>Collapsible section: Set data related the tool</extracomment>
         <translation>Données de l&apos;outil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="109"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="115"/>
         <source>Tool Name</source>
         <extracomment>Name of the selected tool</extracomment>
         <translation>Nom de l&apos;outil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="117"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="123"/>
         <source>No tool selected</source>
         <extracomment>Only shown if the user has not selected a tool</extracomment>
         <translation>Aucun outil sélectionné</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="125"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="131"/>
         <source>Export Name</source>
         <extracomment>Name of the tool in the exported code</extracomment>
         <translation>Nom de l&apos;export</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="134"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="140"/>
         <source>Tool Export Name</source>
         <extracomment>Placeholder for when no tool export name has been entered</extracomment>
         <translation>Nom de l&apos;outil dans l&apos;export</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="148"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="154"/>
         <source>Weight (kg)</source>
         <extracomment>Tool weight</extracomment>
         <translation>Poids (kg)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="158"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="164"/>
         <source>Tool Weight</source>
         <extracomment>Placeholder for when no tool weight has been entered</extracomment>
         <translation>Poids de l&apos;outil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="180"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="186"/>
         <source>Center of Gravity X (mm)</source>
         <extracomment>X-position of the tool&apos;s centre of gravity</extracomment>
         <translation>Centre de gravité X (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="188"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="194"/>
         <source>Center of Gravity X</source>
         <extracomment>Placeholder text for when no X centre of gravity is entered</extracomment>
         <translation>Centre de gravité X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="214"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="220"/>
         <source>Center of Gravity Y (mm)</source>
         <extracomment>Y-position of the tool&apos;s centre of gravity</extracomment>
         <translation>Centre de gravité Y (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="222"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="228"/>
         <source>Center of Gravity Y</source>
         <extracomment>Placeholder text for when no Y centre of gravity is entered</extracomment>
         <translation>Centre de gravité X</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="248"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="254"/>
         <source>Center of Gravity Z (mm)</source>
         <extracomment>Z-position of the tool&apos;s centre of gravity</extracomment>
         <translation>Centre de gravité Z (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="256"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="262"/>
         <source>Center of Gravity Z</source>
         <extracomment>Placeholder text for when no Z centre of gravity is entered</extracomment>
         <translation>Centre de gravité Z</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="283"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="314"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="403"/>
+        <source>Function name</source>
+        <extracomment>Name of the function that handles automatic tool chaning in the exported code
+----------
+Name of the tool in the exported code</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="326"/>
+        <source>LoadTool</source>
+        <extracomment>Placeholder for when no function name has been entered</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="350"/>
         <source>Gun on/off</source>
-        <extracomment>Checkbox. Select to switch off tool under rapid movement</extracomment>
+        <extracomment>Checkbox. Select to export gun on/off</extracomment>
         <translation>Outil on/off</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="289"/>
-        <source>Switch off tool (gun) under rapid movement</source>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="381"/>
+        <source>Include tool commands in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation>Éteindre l&apos;outil (pistolet) lors de mouvements rapides</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="306"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="414"/>
+        <source>SetToolCommand</source>
+        <extracomment>Placeholder for when no tool export name has been entered</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="444"/>
+        <source>Enable fine point before tool on/off</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch off tool (gun) under rapid movement</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="vanished">Éteindre l&apos;outil (pistolet) lors de mouvements rapides</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="433"/>
         <source>Fine point before gun on/off</source>
         <extracomment>Checkbox. Select to enable fine point before gun on/off</extracomment>
         <translation>Point précis avant activation/désactivation de l&apos;outil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="312"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="435"/>
+        <source>Fine point before tool on/off</source>
+        <extracomment>Checkbox. Select to enable fine point before tool on/off</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="442"/>
         <source>Enable fine point before gun on/off</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Activer un point précis avant l&apos;activation/désactivation de l&apos;outil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="324"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="287"/>
         <source>Set tool number</source>
         <extracomment>Checkbox. Select to enable automatic tool changing in exported code</extracomment>
         <translation>Utiliser les numéros des outils</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="330"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="293"/>
         <source>Automatic tool changing</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Changement d&apos;outil automatique</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="341"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="352"/>
+        <source>Tool on/off</source>
+        <extracomment>Checkbox. Select to switch off tool under rapid movement</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="358"/>
+        <source>Include gun on/off in exported code</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="360"/>
+        <source>Include tool on/off in exported code</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="371"/>
         <source>Export spindle speeds</source>
         <extracomment>Checkbox. Select to include spindle speeds in exported robot code</extracomment>
         <translation>Exporter les vitesses de broche</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="347"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="373"/>
+        <source>Export tool commands</source>
+        <extracomment>Checkbox. Select to include tool commands in exported robot code</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="379"/>
         <source>Include spindle speeds in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Inclure les vitesses de broche dans le code exporté</translation>
@@ -8791,25 +8978,25 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <translation>Êtes vous sûrs de vouloir écraser %1 ?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="203"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="213"/>
         <source>Stationary tool is incompatible with rotary tables and linear tracks</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if both rotary table and linear track is selected</extracomment>
         <translation>Un outil stationnaire n&apos;est pas compatible avec les tables rotatives et les axes linéaires</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="207"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="217"/>
         <source>rotary tables</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
         <translation>les tables rotatives</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="209"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="219"/>
         <source>linear tracks</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
         <translation>les axes linéaires</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="516"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="527"/>
         <source>Overwrite</source>
         <extracomment>Button. Import and overwrite existing custom tool</extracomment>
         <translation>Écraser</translation>
@@ -8839,7 +9026,7 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <translation>Type invalide</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="164"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="174"/>
         <source>Weldgun</source>
         <extracomment>Dropdown menu item.</extracomment>
         <translation>Pistolet à souder</translation>
@@ -8851,74 +9038,86 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <translation>Broche</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="185"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="164"/>
+        <source>Generic/Analog</source>
+        <extracomment>Dropdown menu item.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="179"/>
+        <source>On/Off</source>
+        <extracomment>Dropdown menu item.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="195"/>
         <source>Show mesh</source>
         <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
         <translation>Afficher le maillage</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="192"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="202"/>
         <source>Transparent</source>
         <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
         <translation>Transparent</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="205"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="215"/>
         <source>Stationary tool is incompatible with %1</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
         <translation>Un outil stationnaire n&apos;est pas compatible avec %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="218"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="228"/>
         <source>Stationary Tool</source>
         <extracomment>Checkbox. Select if robot should hold work object instead of tool</extracomment>
         <translation>Outil stationnaire</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="240"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="250"/>
         <source>Move tooltip</source>
         <extracomment>Dropdown menu item. Select which reference to move</extracomment>
         <translation>Bouger le bout de l&apos;outil</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="244"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="254"/>
         <source>Move base</source>
         <extracomment>Dropdown menu item. Select which reference to move</extracomment>
         <translation>Bouger la base</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="272"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="283"/>
         <source>Generic Tool</source>
         <extracomment>Collapsible section. Contains options for generic tool</extracomment>
         <translation>Outil générique</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="291"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="302"/>
         <source>Diameter</source>
         <extracomment>Label for text field. Adjust generic tool diameter</extracomment>
         <translation>Diamètre</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="296"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="307"/>
         <source>Cone length</source>
         <extracomment>Label for text field. Adjust cone length on the generic tool</extracomment>
         <translation>Longueur du cône</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="301"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="312"/>
         <source>Color</source>
         <extracomment>Label for button. Adjust generic tool colour</extracomment>
         <translation>Couleur</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="341"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="352"/>
         <source>Select color</source>
         <extracomment>Title for colour picker dialog box</extracomment>
         <translation>Sélectionner la couleur</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="363"/>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="518"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="374"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="529"/>
         <source>Import</source>
         <extracomment>Collapsible section. Contains tools to import custom tool
 ----------
@@ -8926,61 +9125,61 @@ Button. Import custom tool</extracomment>
         <translation>Importer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="377"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="388"/>
         <source>The active subscription does not provide access to custom assets. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation>L&apos;abonnement actuel ne permet pas d&apos;utiliser des ressources personnalisées&lt;br&gt;Cliquez %1ici%2 pour gérer les abonnements</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="389"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="400"/>
         <source>Weight</source>
         <extracomment>Label for text field. Set tool weight</extracomment>
         <translation>Poids</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="407"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="418"/>
         <source>CoG</source>
         <extracomment>Label: Centre of Gravity</extracomment>
         <translation>CdG</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="452"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="463"/>
         <source>Open file</source>
         <extracomment>Title for file browser</extracomment>
         <translation>Ouvrir un fichier</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="454"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="465"/>
         <source>Asset files</source>
         <extracomment>File type filter in file browser. Displayed like this: Asset files (*.zip *.obj *.dae *.fbx *.stl *.gltf *.glb *.wrl)</extracomment>
         <translation>Fichiers de ressources</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="464"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="475"/>
         <source>File</source>
         <extracomment>Label. Refers to file path</extracomment>
         <translation>Fichier</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="471"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="482"/>
         <source>No file selected</source>
         <extracomment>Placeholder. Used instead of file path when no file is selected</extracomment>
         <translation>Aucun fichier sélectionné</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="489"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="500"/>
         <source>Name</source>
         <extracomment>Label for text field. Input name for custom tool</extracomment>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="504"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="515"/>
         <source>Name of the custom tool</source>
         <extracomment>Placeholder. Used for tool name until a name is entered</extracomment>
         <translation>Nom de l&apos;outil personnalisé</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="532"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="543"/>
         <source>Cannot overwrite to read only asset.</source>
         <extracomment>Tool tip text. Cannot overwrite</extracomment>
         <translation>Impossible de modifier une ressource en lecture seule.</translation>
