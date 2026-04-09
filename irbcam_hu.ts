@@ -3116,55 +3116,67 @@ Kérjük, mentse el munkáját, és töltse újra az oldalt a lehető leghamarab
         <translation>Forgóasztal szögsebessége (°/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="355"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="325"/>
+        <source>Linear track speed</source>
+        <extracomment>Setting for linear track speed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="327"/>
+        <source>Speed of linear track (mm/s)</source>
+        <extracomment>Tool tip for linear track speed input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="379"/>
         <source>Set all revolute joints (deg)</source>
         <extracomment>Referring to setting all limit values at once</extracomment>
         <translation>Állítsa be az összes revolút ízületet (fok)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="384"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="408"/>
         <source>Set all linear joints (mm)</source>
         <extracomment>Referring to setting all limit values at once</extracomment>
         <translation>Állítsa be az összes lineáris ízületet (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="420"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="444"/>
         <source>Joint %1 (mm)</source>
         <extracomment>Label for text field. %1 = joint number</extracomment>
         <translation>Ízület %1 (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="422"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="446"/>
         <source>Joint %1 (°)</source>
         <extracomment>Label for text field. %1 = joint number</extracomment>
         <translation>Ízület %1 (°)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="457"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="481"/>
         <source>Max Joint Step</source>
         <extracomment>Collapsible setcion within station settings: Max Joint Step</extracomment>
         <translation type="unfinished">Maximális ízület lépés</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="465"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="489"/>
         <source>To Cartesian target</source>
         <extracomment>Setting for maximum joint step to Cartesian target</extracomment>
         <translation type="unfinished">Kartéziánus célponthoz</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="467"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="491"/>
         <source>Maximum joint step to Cartesian target (deg)</source>
         <extracomment>Tool tip for maximum joint step to Cartesian target input</extracomment>
         <translation type="unfinished">Maximális ízületi lépés a kartézi célpont felé (fok)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="490"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="514"/>
         <source>To joint target</source>
         <extracomment>Setting for maximum joint step to Joint target</extracomment>
         <translation type="unfinished">Az ízület céljához</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="492"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="516"/>
         <source>Maximum joint step to joint target, should be greater than or equal to maximum joint step to Cartesian target (deg)</source>
         <extracomment>Tool tip for maximum joint step to Joint target input</extracomment>
         <translation type="unfinished">A közös célhoz vezető maximális közös lépésnek nagyobbnak vagy egyenlőnek kell lennie, mint a Descartes-célhoz vezető maximális közös lépésnek (fok)</translation>
@@ -3194,21 +3206,21 @@ Kérjük, mentse el munkáját, és töltse újra az oldalt a lehető leghamarab
         <translation>Vágási sebesség</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="327"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="351"/>
         <source>Distance to Joint Limits</source>
         <extracomment>Collapsible setcion within station settings: Reduction of allowed joint space</extracomment>
         <translation>Távolság az ízületi korlátokig</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="364"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="393"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="388"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="417"/>
         <source>Value</source>
         <extracomment>Placeholder for when no value is entered</extracomment>
         <translation>Érték</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="375"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="404"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="399"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="428"/>
         <source>Set</source>
         <extracomment>Button to set values</extracomment>
         <translation>Beállít</translation>
@@ -9158,7 +9170,7 @@ Target at 0 is unreachable</source>
 A 0. cél elérhetetlen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1161"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1153"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -9166,7 +9178,7 @@ Target at index %1 has zero velocity</source>
 A(z) %1 indexű cél sebessége nulla</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1291"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1269"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -9174,7 +9186,7 @@ Target at index %1 is not solved</source>
 A(z) %1 indexű cél nincs megoldva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1540"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1518"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
