@@ -484,100 +484,116 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>AssetTreeView</name>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="68"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="77"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation>Non initialisé</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="71"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="80"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation>En attente</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="74"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="83"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation>Récupération de la description</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="77"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="86"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation>Téléchargement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="80"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="89"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation>Décompression</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="83"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="92"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation>Chargement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="86"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="95"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation>Suppression</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="89"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="98"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation>Téléversement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="92"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="101"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation>Récupération de la liste</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="95"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="104"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation>Décodage</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="98"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="107"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation>Vérification</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="101"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="110"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation>Chargement des ressources</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="104"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="113"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation>Traitement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="107"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="116"/>
         <source>Waiting for response</source>
         <extracomment>Network status: Waitong for response from server</extracomment>
         <translation>En attente de réponse</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="113"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="122"/>
         <source>Unknown</source>
         <extracomment>Network status: Unknown state</extracomment>
         <translation>Inconnu</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="290"/>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="301"/>
+        <source>A network error was encountered while getting asset data
+
+Please make sure you are connected to the internet and try again</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="303"/>
         <source>No items in list</source>
         <extracomment>Placeholder for empty list</extracomment>
         <translation>Aucun élément dans la liste</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="305"/>
+        <source>You are not signed in
+
+Please sign in to see the list</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2941,19 +2957,43 @@ Placeholder for tool name if no tool is loaded</extracomment>
 <context>
     <name>Irbcam</name>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="100"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="102"/>
+        <source>Untitled</source>
+        <extracomment>Header. Placeholder if the project has no name (it is not saved yet)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="109"/>
+        <source>No project loaded</source>
+        <extracomment>Tool tip text</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="111"/>
+        <source>Currenly loded project</source>
+        <extracomment>Tool tip text</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="113"/>
+        <source>Contains unsaved changes</source>
+        <extracomment>Tool tip text</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="146"/>
         <source>Clear all</source>
         <extracomment>Button. Clear (acknowledge) all acknowledgeable messages</extracomment>
         <translation>Effacer tout</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="348"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="394"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Écraser %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="350"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="396"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Êtes-vous sûr de vouloir écraser le projet %1 ?&lt;br&gt;&lt;br&gt;Ce projet a été précédemment enregistré avec la version %2&lt;br&gt;&lt;br&gt;Si vous l&apos;écrasez, il se peut qu&apos;il ne soit plus possible de l&apos;ouvrir avec IRBCAM %2&lt;br&gt;&lt;br&gt;Si vous souhaitez conserver une copie, vous pouvez enregistrer le projet avec un nouveau nom</translation>
@@ -3021,49 +3061,49 @@ Placeholder for tool name if no tool is loaded</extracomment>
 <context>
     <name>IrbcamNetwork</name>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="82"/>
+        <location filename="../../../backend/src/networking.cpp" line="83"/>
         <source>Failed to sign in user %1</source>
         <extracomment>Error message. %1 = user name</extracomment>
         <translation>Échec de la connexion de l&apos;utilisateur %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="157"/>
+        <location filename="../../../backend/src/networking.cpp" line="158"/>
         <source>Goodbye %1</source>
         <extracomment>Status message shown on logout. %1 = full name</extracomment>
         <translation>Au revoir %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="208"/>
+        <location filename="../../../backend/src/networking.cpp" line="230"/>
         <source>Failed to validate session token</source>
         <extracomment>Error message</extracomment>
         <translation>Échec de la validation du jeton de session</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="275"/>
+        <location filename="../../../backend/src/networking.cpp" line="270"/>
         <source>Failed to get admin details</source>
         <extracomment>Error message</extracomment>
         <translation>Échec de la récupération des détails administrateur</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="513"/>
+        <location filename="../../../backend/src/networking.cpp" line="508"/>
         <source>Failed to check for updates</source>
         <extracomment>Warning message: Shown if the client is unable to check for updates</extracomment>
         <translation>Impossible de vérifier les mises à jour</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="796"/>
+        <location filename="../../../backend/src/networking.cpp" line="803"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>utilisateur inconnu</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="805"/>
+        <location filename="../../../backend/src/networking.cpp" line="812"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>nom d&apos;utilisateur inconnu</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="856"/>
+        <location filename="../../../backend/src/networking.cpp" line="861"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -3073,37 +3113,49 @@ Certains paramètres n&apos;étaient pas disponibles dans le cloud. Cela est pro
 Les paramètres affectés ont été réinitialisés à leurs valeurs par défaut</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="884"/>
+        <location filename="../../../backend/src/networking.cpp" line="889"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation>Bienvenue %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="866"/>
+        <location filename="../../../backend/src/networking.cpp" line="871"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation>Échec du chargement des paramètres pour %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="874"/>
+        <location filename="../../../backend/src/networking.cpp" line="879"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation>Paramètres chargés pour %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="904"/>
+        <location filename="../../../backend/src/networking.cpp" line="911"/>
         <source>Failed to get user details</source>
         <extracomment>Error message.</extracomment>
         <translation>Échec de la récupération des détails de l&apos;utilisateur</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1045"/>
+        <location filename="../../../backend/src/networking.cpp" line="1021"/>
+        <source>Network error: The response contained no data</source>
+        <extracomment>Error message.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/networking.cpp" line="1040"/>
+        <source>Network error: Failed to parse response</source>
+        <extracomment>Error message.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/networking.cpp" line="1081"/>
         <source>Your session has expired. Please sign in again.</source>
         <extracomment>Error message.</extracomment>
         <translation>Votre session a expiré. Veuillez vous reconnecter.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1056"/>
+        <location filename="../../../backend/src/networking.cpp" line="1092"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
@@ -3111,7 +3163,20 @@ code: %2</source>
 code : %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1177"/>
+        <location filename="../../../backend/src/networking.cpp" line="1106"/>
+        <source>Network error: %1</source>
+        <extracomment>Error message: %1 = message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/networking.cpp" line="1113"/>
+        <source>Network error: %1
+code: %2</source>
+        <extracomment>Error message: %1 = message, %2 = code</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/networking.cpp" line="1237"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
@@ -3119,7 +3184,7 @@ Save your work and reload page to get the newest features</source>
 Enregistrez votre travail et rechargez la page pour bénéficier des dernières fonctionnalités</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1183"/>
+        <location filename="../../../backend/src/networking.cpp" line="1243"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -3129,13 +3194,12 @@ Certaines fonctionnalités peuvent être indisponibles jusqu&apos;au rechargemen
 Veuillez enregistrer votre travail et recharger la page dès que possible</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1023"/>
         <source>A network error occurred</source>
         <extracomment>Error message</extracomment>
-        <translation>Une erreur réseau est survenue</translation>
+        <translation type="vanished">Une erreur réseau est survenue</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1203"/>
+        <location filename="../../../backend/src/networking.cpp" line="1263"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Échec de la récupération de l&apos;état du processus cloud</translation>
@@ -6070,7 +6134,7 @@ Placeholder text until an icon has been selected</extracomment>
         <translation type="vanished">Impossible de récupérer la liste des projets depuis le serveur</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="995"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1003"/>
         <source>Recent</source>
         <extracomment>Collapsible section: Contains recent projects</extracomment>
         <translation>Récents</translation>
@@ -6081,74 +6145,74 @@ Placeholder text until an icon has been selected</extracomment>
         <translation type="vanished">Mes projets</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1003"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1011"/>
         <source>Examples</source>
         <extracomment>Collapsible section: Contains demo projects</extracomment>
         <translation>Exemples</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1001"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1009"/>
         <source>Shared with me</source>
         <extracomment>Collapsible section: Contains shared projects</extracomment>
         <translation>Partagés avec moi</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="84"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="88"/>
         <source>User does not have write permission for project %1</source>
         <extracomment>Error message</extracomment>
         <translation>L&apos;utilisateur n&apos;a pas les droits d&apos;écriture pour le projet %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="194"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="198"/>
         <source>Name</source>
         <extracomment>List column header</extracomment>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="197"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="201"/>
         <source>Version</source>
         <extracomment>List column header</extracomment>
         <translation>Version</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="200"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="204"/>
         <source>Created</source>
         <extracomment>List column header</extracomment>
         <translation>Créé</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="203"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="207"/>
         <source>Modified</source>
         <extracomment>List column header</extracomment>
         <translation>Modifié</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="872"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="880"/>
         <source>Failed to parse project info</source>
         <extracomment>Warning message</extracomment>
         <translation>Échec de l&apos;analyse des informations du projet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="878"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="886"/>
         <source>Failed to parse project info for project %1</source>
         <extracomment>Warning message</extracomment>
         <translation>Échec de l&apos;analyse des informations du projet pour le projet %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="901"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="909"/>
         <source>autosave</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are autosaves</extracomment>
         <translation>sauvegarde automatique</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="909"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="917"/>
         <source>Invalid project type for project %1</source>
         <extracomment>Warning message</extracomment>
         <translation>Type de projet invalide pour le projet %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="917"/>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="991"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="925"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="999"/>
         <source>example</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are public examples
 ----------
@@ -6156,8 +6220,8 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>exemple</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="925"/>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="986"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="933"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="994"/>
         <source>shared</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are shared with user
 ----------
@@ -6165,13 +6229,13 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>partagé</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="999"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1007"/>
         <source>My projects (%1/%2)</source>
         <extracomment>Collapsible section: Contains user&apos;s projects</extracomment>
         <translation>Mes projets (%1/%2)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1005"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1013"/>
         <source>Autosave</source>
         <extracomment>Collapsible section: Contains auto-saved projects</extracomment>
         <translation>Sauvegardés automatiquement</translation>
@@ -6256,157 +6320,165 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>Partager le projet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="300"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="301"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation>Non initialisé</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="303"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="304"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation>En attente</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="306"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="307"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation>Récupération de la description</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="309"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="310"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation>Téléchargement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="312"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="313"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation>Décompression</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="315"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="316"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation>Chargement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="318"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="319"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation>Suppression</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="321"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="322"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation>Téléversement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="324"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="325"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation>Récupération de la liste</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="327"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="328"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation>Décodage</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="330"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="331"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation>Vérification</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="333"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="334"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation>Chargement des ressources</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="336"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="337"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation>Traitement</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="342"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="343"/>
         <source>Unknown</source>
         <extracomment>Network status: Unknown state</extracomment>
         <translation>Inconnu</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="577"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="578"/>
         <source>Save name</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to save</extracomment>
         <translation>Nom de la station</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="581"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="582"/>
         <source>Search</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to search for</extracomment>
         <translation>Rechercher</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="722"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="723"/>
         <source>Overwrite</source>
         <extracomment>Button text: Overwrite project</extracomment>
         <translation>Écraser</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="724"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="725"/>
         <source>Save</source>
         <extracomment>Button text: Save project</extracomment>
         <translation>Enregistrer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="727"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="728"/>
         <source>Open</source>
         <extracomment>Button text: Open project</extracomment>
         <translation>Ouvrir</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="730"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="731"/>
         <source>Share</source>
         <extracomment>Button text: Share project</extracomment>
         <translation>Partager</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="761"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="762"/>
         <source>You do not have write access to this project</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Vous n&apos;avez pas d&apos;accès en écriture à ce projet</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="766"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="767"/>
         <source>You have reached the maximum number of saved projects. A project must be deleted before a new one can be created</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Vous avez atteint le nombre maximum de projets sauvegardés. Un projet doit être supprimé avant qu&apos;un nouveau puisse être créé</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="770"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="771"/>
         <source>The save name is invalid</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>le nom de la sauvegarde est invalide</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="773"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="774"/>
         <source>Select a project to open</source>
         <extracomment>Tool-tip: Explaining why the open button is disabled</extracomment>
         <translation>Sélectionnez un projet à ouvrir</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="776"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="777"/>
         <source>Select a project to share</source>
         <extracomment>Tool-tip: Explaining why the share button is disabled</extracomment>
         <translation>Sélectionnez un projet à partager</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="795"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="797"/>
+        <source>A network error was encountered while getting project info
+
+Please make sure you are connected to the internet and try again</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="799"/>
         <source>No saved projects</source>
         <extracomment>Placeholder text for an empty list</extracomment>
         <translation>Aucun projet sauvegardé</translation>
