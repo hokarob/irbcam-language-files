@@ -7481,14 +7481,14 @@ Ziel ist mit der aktuellen Konfiguration nicht erreichbar</translation>
 <context>
     <name>TargetDelegate</name>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="211"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="214"/>
         <source>Undefined</source>
         <extracomment>Placeholder text for missing name</extracomment>
         <translation>Undefiniert</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="265"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="665"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="268"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="668"/>
         <source>Linear lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -7496,8 +7496,8 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Linearer Hebepunkt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="268"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="669"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="271"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="672"/>
         <source>Rotary lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -7505,14 +7505,14 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Drehbarer Hebepunkt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="271"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="274"/>
         <source>Joint target</source>
         <extracomment>Tooltip text</extracomment>
         <translation type="unfinished">Gelenkziel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="273"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="684"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="276"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="687"/>
         <source>Arc midpoint</source>
         <extracomment>Tooltip text
 ----------
@@ -7520,104 +7520,104 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Bogenmittelpunkt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="282"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="285"/>
         <source>Feed speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in linear velocity (feed speed)</extracomment>
         <translation>Vorschubgeschwindigkeitsänderung</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="293"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="296"/>
         <source>Tool change</source>
         <extracomment>Tool tip. Explains that this icon indicates a tool change</extracomment>
         <translation>Werkzeugwechsel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="303"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="306"/>
         <source>Spindle speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in spindle speed</extracomment>
         <translation>Spindelgeschwindigkeitsänderung</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="305"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="308"/>
         <source>Tool command change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool command</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="315"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="318"/>
         <source>Gun On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun on</extracomment>
         <translation>Pistole Ein Änderung</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="317"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="320"/>
         <source>Tool On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool on</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="328"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="331"/>
         <source>Gun Off change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun off</extracomment>
         <translation>Pistole Aus Änderung</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="330"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="333"/>
         <source>Tool Off change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool off</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="363"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="366"/>
         <source>Target is successfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Ziel wurde erfolgreich gelöst</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="365"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="368"/>
         <source>Path is succesfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Pfad wurde erfolgreich gelöst</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="368"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="371"/>
         <source>Target failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Ziel konnte nicht gelöst werden</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="370"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="373"/>
         <source>Path failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Pfad konnte nicht gelöst werden</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="396"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="399"/>
         <source>Unlock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Bearbeitung für dieses Ziel freischalten</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="400"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="403"/>
         <source>Lock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Bearbeitung für dieses Ziel sperren</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="406"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="409"/>
         <source>Unlock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Schalten Sie die Bearbeitung für alle Ziele in diesem Pfad frei</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="410"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="413"/>
         <source>Lock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Bearbeitung für alle Ziele in diesem Pfad sperren</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="462"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="477"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="465"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="480"/>
         <source>mm</source>
         <extracomment>Unit millimetres
 ----------
@@ -7625,91 +7625,91 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="479"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="482"/>
         <source>s</source>
         <extracomment>Unit seconds. Part of a fraction mm/s</extracomment>
         <translation>s</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="553"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="556"/>
         <source>Speed</source>
         <extracomment>Label over input field</extracomment>
         <translation>Geschwindigkeit</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="558"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="561"/>
         <source>Tool</source>
         <extracomment>Label over input field</extracomment>
         <translation>Werkzeug</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="564"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="567"/>
         <source>Spindle</source>
         <extracomment>Label over input field</extracomment>
         <translation>Spindel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="570"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="573"/>
         <source>Tool CMD</source>
         <extracomment>Label over input field</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="576"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="579"/>
         <source>Gun On/Off</source>
         <extracomment>Label over input field</extracomment>
         <translation>Gun Ein/Aus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="582"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="585"/>
         <source>Tool On/Off</source>
         <extracomment>Label over input field</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="595"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="598"/>
         <source>Input</source>
         <extracomment>Dropdown menu item. Speed mode: input</extracomment>
         <translation>Eingabe</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="600"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="603"/>
         <source>Cutting</source>
         <extracomment>Dropdown menu item. Speed mode: cutting</extracomment>
         <translation>Schneiden</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="605"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="608"/>
         <source>Rapid</source>
         <extracomment>Dropdown menu item. Speed mode: rapid</extracomment>
         <translation>Schnell</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="634"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="637"/>
         <source>rpm</source>
         <extracomment>Unit: revolutions per minute</extracomment>
         <translation>U/min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="654"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="657"/>
         <source>V</source>
         <extracomment>Input field prefix. Denotes velocity</extracomment>
         <translation>V</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="661"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="664"/>
         <source>Motion type: </source>
         <extracomment>Droptown menu text</extracomment>
         <translation>Bewegungsart: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="682"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="685"/>
         <source>Linear</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation>Linear</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="686"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="689"/>
         <source>Joint</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation type="unfinished">Gelenk</translation>
