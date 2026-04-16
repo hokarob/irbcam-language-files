@@ -4272,61 +4272,61 @@ Placeholder for when no move control group 3 is entered</extracomment>
 }</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="703"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="735"/>
         <source>ABB Options</source>
         <extracomment>Collapsible section: Options specific for ABB robots</extracomment>
         <translation>Alternativer for ABB</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="751"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="783"/>
         <source>KUKA Options</source>
         <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
         <translation>Alternativer for KUKA</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="794"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="826"/>
         <source>FANUC Options</source>
         <extracomment>Collapsible section: Options specific for FANUC robots</extracomment>
         <translation>Alternativer for FANUC</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="814"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="846"/>
         <source>MOTOMAN Options</source>
         <extracomment>Collapsible section: Options specific for MOTOMAN robots</extracomment>
         <translation>Alternativer for MOTOMAN</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="877"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="909"/>
         <source>Generic Options</source>
         <extracomment>Collapsible section: Options for generic robots</extracomment>
         <translation>Generiske alternativer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="898"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="930"/>
         <source>UR Options</source>
         <extracomment>Collapsible section: Options for UR robots</extracomment>
         <translation>UR Alternativer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="911"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="943"/>
         <source>COMAU Options</source>
         <extracomment>Collapsible section: Options for COMAU robots</extracomment>
         <translation>COMAU Alternativer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="924"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="956"/>
         <source>DENSO Options</source>
         <extracomment>Collapsible section: Options for DENSO robots</extracomment>
         <translation>DENSO-opsjoner</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="945"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="977"/>
         <source>DOBOT Options</source>
         <extracomment>Collapsible section: Options for DOBOT robots</extracomment>
         <translation>DOBOT-alternativer</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="961"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="993"/>
         <source>KAWASAKI Options</source>
         <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
         <translation type="unfinished">KAWASAKI-alternativer</translation>
