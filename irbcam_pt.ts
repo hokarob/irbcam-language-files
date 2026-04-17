@@ -6104,25 +6104,25 @@ Clique com o botão direito para ver as opções disponíveis para preencher o c
         <translation>Caminho carregado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2123"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2136"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Alvo copiado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2128"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2141"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Copiados %1 alvos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2167"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2182"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Caminho copiado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2172"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2187"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Copiados %1 caminhos</translation>

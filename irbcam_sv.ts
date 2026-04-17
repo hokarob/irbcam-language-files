@@ -7376,25 +7376,25 @@ Högerklicka för att se tillgängliga alternativ för att fylla banan</translat
         <translation>Verktygsbana laddad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2123"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2136"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopierad punkt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2128"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2141"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Kopierade %1 punkter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2167"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2182"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopierad bana</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2172"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2187"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Kopierade %1 banor</translation>

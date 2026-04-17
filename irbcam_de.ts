@@ -4790,25 +4790,25 @@ Rechtsklicken, um verfügbare Optionen zum Füllen des Pfades anzuzeigen</transl
         <translation>Pfad geladen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2123"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2136"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Ziel kopiert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2128"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2141"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>%1 Ziele kopiert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2167"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2182"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopierter Pfad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2172"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2187"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>%1 Pfade kopiert</translation>

@@ -5779,25 +5779,25 @@ Right click to see available options for populating the path</source>
         <translation>Pot je naložena</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2123"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2136"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopiran cilj</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2128"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2141"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Kopirano %1 ciljev</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2167"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2182"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopirana pot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2172"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2187"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Kopirano %1 poti</translation>

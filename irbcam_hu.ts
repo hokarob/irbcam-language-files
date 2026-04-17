@@ -6214,25 +6214,25 @@ Right click to see available options for populating the path</source>
         <translation>Útvonal betöltve</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2123"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2136"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Másolt cél</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2128"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2141"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Másolva %1 célpont</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2167"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2182"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Útvonal másolva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2172"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2187"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Másolva %1 útvonal</translation>
