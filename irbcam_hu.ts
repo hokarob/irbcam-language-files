@@ -3033,37 +3033,37 @@ Kérjük, mentse el munkáját, és töltse újra az oldalt a lehető leghamarab
 <context>
     <name>IrbcamQmlEnums</name>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="564"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="592"/>
         <source>Undefined</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Meghatározatlan</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="567"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="595"/>
         <source>Generic</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Generikus</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="570"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="598"/>
         <source>Spindle</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Orsó</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="573"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="601"/>
         <source>Weldgun</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Hegesztőpisztoly</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="576"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="604"/>
         <source>Roller</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Görgő</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="582"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="610"/>
         <source>Unknown (%1)</source>
         <extracomment>Collapsible list section. %1 = number</extracomment>
         <translation>Ismeretlen (%1)</translation>

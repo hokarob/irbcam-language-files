@@ -3228,37 +3228,37 @@ Prosimo, da shranite svoje delo in čim prej znova naložite stran</translation>
 <context>
     <name>IrbcamQmlEnums</name>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="564"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="592"/>
         <source>Undefined</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Nedefinirano</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="567"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="595"/>
         <source>Generic</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Generično</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="570"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="598"/>
         <source>Spindle</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Vreteno</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="573"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="601"/>
         <source>Weldgun</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Varilna pištola</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="576"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="604"/>
         <source>Roller</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
         <translation>Valjar</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="582"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="610"/>
         <source>Unknown (%1)</source>
         <extracomment>Collapsible list section. %1 = number</extracomment>
         <translation>Neznano (%1)</translation>
