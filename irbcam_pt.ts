@@ -576,7 +576,8 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 
 Please make sure you are connected to the internet and try again</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Um erro de rede foi encontrado ao obter dados de ativos
+Certifique-se de que está conectado à internet e tente novamente</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/AssetTreeView.qml" line="303"/>
@@ -590,7 +591,9 @@ Please make sure you are connected to the internet and try again</source>
 
 Please sign in to see the list</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Você não está logado
+
+Faça login para ver a lista.</translation>
     </message>
 </context>
 <context>
@@ -1752,7 +1755,7 @@ Button text</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="138"/>
         <source>The active subscription does not allow exporting robot code for KUKA VKRC4/VKRC5 controller. You can contact us to upgrade your subscription %1here%2</source>
         <extracomment>Warns the user that the selected robot must be activated before exporting robot code</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A assinatura ativa não permite exportar código de robô para o controlador KUKA VKRC4/VKRC5. Você pode nos contatar para atualizar sua assinatura %1aqui%2</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="150"/>
@@ -2707,25 +2710,25 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <location filename="../../IrbcamQml/Irbcam.qml" line="102"/>
         <source>Untitled</source>
         <extracomment>Header. Placeholder if the project has no name (it is not saved yet)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sem título</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Irbcam.qml" line="109"/>
         <source>No project loaded</source>
         <extracomment>Tool tip text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum projeto carregado</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Irbcam.qml" line="111"/>
         <source>Currenly loded project</source>
         <extracomment>Tool tip text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Projeto atualmente carregado</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Irbcam.qml" line="113"/>
         <source>Contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Contém alterações não salvas</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Irbcam.qml" line="146"/>
@@ -2779,7 +2782,7 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="194"/>
         <source>Tool Base Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the base frame of the tool</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Quadro Base da Ferramenta atualizado da API Pública</translation>
     </message>
     <message>
         <source>Stationary Tool Base Frame updated from the Public API</source>
@@ -2891,13 +2894,13 @@ As configurações afetadas foram definidas para seus valores padrão</translati
         <location filename="../../../backend/src/networking.cpp" line="1021"/>
         <source>Network error: The response contained no data</source>
         <extracomment>Error message.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Erro de rede: A resposta não continha dados</translation>
     </message>
     <message>
         <location filename="../../../backend/src/networking.cpp" line="1040"/>
         <source>Network error: Failed to parse response</source>
         <extracomment>Error message.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Erro de rede: Falha ao analisar a resposta</translation>
     </message>
     <message>
         <location filename="../../../backend/src/networking.cpp" line="1081"/>
@@ -2917,14 +2920,14 @@ código: %2</translation>
         <location filename="../../../backend/src/networking.cpp" line="1106"/>
         <source>Network error: %1</source>
         <extracomment>Error message: %1 = message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Erro de rede: %1</translation>
     </message>
     <message>
         <location filename="../../../backend/src/networking.cpp" line="1113"/>
         <source>Network error: %1
 code: %2</source>
         <extracomment>Error message: %1 = message, %2 = code</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Erro de rede: %1 código: %2</translation>
     </message>
     <message>
         <location filename="../../../backend/src/networking.cpp" line="1237"/>
@@ -3129,13 +3132,13 @@ Por favor, salve seu trabalho e recarregue a página o mais breve possível</tra
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="325"/>
         <source>Linear track speed</source>
         <extracomment>Setting for linear track speed</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Velocidade do trilho linear</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="327"/>
         <source>Speed of linear track (mm/s)</source>
         <extracomment>Tool tip for linear track speed input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Velocidade do trilho linear (mm/s)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="379"/>
@@ -3165,31 +3168,31 @@ Por favor, salve seu trabalho e recarregue a página o mais breve possível</tra
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="481"/>
         <source>Max Joint Step</source>
         <extracomment>Collapsible setcion within station settings: Max Joint Step</extracomment>
-        <translation type="unfinished">Passo Máximo da Junta</translation>
+        <translation>Passo Máximo da Junta</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="489"/>
         <source>To Cartesian target</source>
         <extracomment>Setting for maximum joint step to Cartesian target</extracomment>
-        <translation type="unfinished">Para alvo cartesiano</translation>
+        <translation>Para alvo cartesiano</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="491"/>
         <source>Maximum joint step to Cartesian target (deg)</source>
         <extracomment>Tool tip for maximum joint step to Cartesian target input</extracomment>
-        <translation type="unfinished">Máximo passo articular para alvo cartesiano (graus)</translation>
+        <translation>Máximo passo articular para alvo cartesiano (graus)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="514"/>
         <source>To joint target</source>
         <extracomment>Setting for maximum joint step to Joint target</extracomment>
-        <translation type="unfinished">Para alvo da junta</translation>
+        <translation>Para alvo da junta</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="516"/>
         <source>Maximum joint step to joint target, should be greater than or equal to maximum joint step to Cartesian target (deg)</source>
         <extracomment>Tool tip for maximum joint step to Joint target input</extracomment>
-        <translation type="unfinished">Passo articular máximo para alvo articular deve ser maior ou igual ao passo articular máximo para alvo cartesiano (graus)</translation>
+        <translation>Passo articular máximo para alvo articular deve ser maior ou igual ao passo articular máximo para alvo cartesiano (graus)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="228"/>
@@ -3996,13 +3999,13 @@ Placeholder for when no object name is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="295"/>
         <source>Exclude tool and work object data</source>
         <extracomment>Checkbox: Select to exclude tool and work object data</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Excluir dados da ferramenta e do objeto de trabalho</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="301"/>
         <source>Select to comment out tool and work object data in the exported robot code</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar para comentar dados de ferramenta e objeto de trabalho no código de robô exportado</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="338"/>
@@ -4134,7 +4137,7 @@ Placeholder for when no move control group 3 is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="1014"/>
         <source>KAWASAKI Options</source>
         <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
-        <translation type="unfinished">Opções KAWASAKI</translation>
+        <translation>Opções KAWASAKI</translation>
     </message>
 </context>
 <context>
@@ -4668,13 +4671,13 @@ Deseja continuar?</translation>
         <location filename="../../IrbcamQml/Menus.qml" line="392"/>
         <source>Robot Flange</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Flange do Robô</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="408"/>
         <source>Stationary Tool Base</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Base de Ferramenta Estacionária</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="424"/>
@@ -6474,79 +6477,79 @@ Placeholder text until an icon has been selected</extracomment>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="92"/>
         <source>Relative to</source>
         <extracomment>label next to a drop-down menu</extracomment>
-        <translation type="unfinished">Relativo a</translation>
+        <translation>Relativo a</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="102"/>
         <source>Invalid frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Quadro inválido</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="104"/>
         <source>Global origin</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
-        <translation type="unfinished">Origem global</translation>
+        <translation>Origem global</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="106"/>
         <source>Robot base</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
-        <translation type="unfinished">Base do robô</translation>
+        <translation>Base do robô</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="108"/>
         <source>User frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Quadro do usuário</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="110"/>
         <source>Object frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Quadro do objeto</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="112"/>
         <source>Tool frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
-        <translation type="unfinished">Referencial da ferramenta</translation>
+        <translation>Referencial da ferramenta</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="114"/>
         <source>Rotary table frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Estrutura da mesa rotativa</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="116"/>
         <source>Linear track frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Estrutura de trilho linear</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="118"/>
         <source>Robot flange frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Quadro da flange do robô</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="120"/>
         <source>Stationary tool base frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Quadro base da ferramenta estacionária</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="137"/>
         <source>Reset</source>
         <extracomment>Referring to resetting pose</extracomment>
-        <translation type="unfinished">Reiniciar</translation>
+        <translation>Reiniciar</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="144"/>
         <source>Reset pose</source>
         <extracomment>Tool tip explaining that a button is to reset the pose</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Redefinir pose</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Controls/PoseEditor.qml" line="180"/>
@@ -6960,7 +6963,9 @@ Contextual postfix to project name in list of recent projects. Appended to names
 
 Please make sure you are connected to the internet and try again</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Um erro de rede foi encontrado ao obter informações do projeto
+
+Certifique-se de que está conectado à internet e tente novamente</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="799"/>
@@ -9167,7 +9172,7 @@ O alvo é inacessível com a configuração atual</translation>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="274"/>
         <source>Joint target</source>
         <extracomment>Tooltip text</extracomment>
-        <translation type="unfinished">Alvo da junta</translation>
+        <translation>Alvo da junta</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="285"/>
@@ -9191,7 +9196,7 @@ O alvo é inacessível com a configuração atual</translation>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="308"/>
         <source>Tool command change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool command</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mudança de comando de ferramenta</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="318"/>
@@ -9203,7 +9208,7 @@ O alvo é inacessível com a configuração atual</translation>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="320"/>
         <source>Tool On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool on</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ferramenta Ligada Alterar</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="331"/>
@@ -9215,7 +9220,7 @@ O alvo é inacessível com a configuração atual</translation>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="333"/>
         <source>Tool Off change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool off</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mudança de Ferramenta Desligada</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="366"/>
@@ -9302,7 +9307,7 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="573"/>
         <source>Tool CMD</source>
         <extracomment>Label over input field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ferramenta CMD</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="579"/>
@@ -9314,7 +9319,7 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="585"/>
         <source>Tool On/Off</source>
         <extracomment>Label over input field</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ferramenta Ligada/Desligada</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="598"/>
@@ -9362,7 +9367,7 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="689"/>
         <source>Joint</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
-        <translation type="unfinished">Junta</translation>
+        <translation>Junta</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="276"/>
@@ -9507,13 +9512,13 @@ Droptown menu text, motion type for target</extracomment>
         <extracomment>Name of the function that handles automatic tool chaning in the exported code
 ----------
 Name of the tool in the exported code</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nome da função</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="326"/>
         <source>LoadTool</source>
         <extracomment>Placeholder for when no function name has been entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>LoadTool</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="350"/>
@@ -9525,19 +9530,19 @@ Name of the tool in the exported code</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="381"/>
         <source>Include tool commands in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Incluir comandos de ferramentas no código exportado</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="414"/>
         <source>SetToolCommand</source>
         <extracomment>Placeholder for when no tool export name has been entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>SetToolCommand</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="444"/>
         <source>Enable fine point before tool on/off</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ativar ponto fino antes de ligar/desligar ferramenta</translation>
     </message>
     <message>
         <source>Switch off tool (gun) under rapid movement</source>
@@ -9554,7 +9559,7 @@ Name of the tool in the exported code</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="435"/>
         <source>Fine point before tool on/off</source>
         <extracomment>Checkbox. Select to enable fine point before tool on/off</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ponto fino antes de ferramenta ligada/desligada</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="442"/>
@@ -9578,19 +9583,19 @@ Name of the tool in the exported code</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="352"/>
         <source>Tool on/off</source>
         <extracomment>Checkbox. Select to switch off tool under rapid movement</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ferramenta ligada/desligada</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="358"/>
         <source>Include gun on/off in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Incluir arma on/off no código exportado</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="360"/>
         <source>Include tool on/off in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Incluir ferramenta ligada/desligada no código exportado</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="371"/>
@@ -9602,7 +9607,7 @@ Name of the tool in the exported code</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="373"/>
         <source>Export tool commands</source>
         <extracomment>Checkbox. Select to include tool commands in exported robot code</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Comandos da ferramenta de exportação</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="379"/>
@@ -9725,13 +9730,13 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="164"/>
         <source>Generic/Analog</source>
         <extracomment>Dropdown menu item.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Genérico/Analógico</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="179"/>
         <source>On/Off</source>
         <extracomment>Dropdown menu item.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ligado/Desligado</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="195"/>
