@@ -2483,31 +2483,31 @@ Placeholder text where users input scaling multiplier</extracomment>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="295"/>
         <source>Include gun on/off. This is useful if selecting &apos;Gun on/off&apos; when exporting</source>
         <extracomment>Tool tip for Gun on/off checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Įtraukti pistoleto įjungimą/išjungimą. Tai naudinga, jei eksportuojant pasirenkate &apos;Gun on/off&apos;</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="306"/>
         <source>Use velocities</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Naudoti greičius</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="311"/>
         <source>Convert all feed speeds to rapid moves, except for cutting speed</source>
         <extracomment>Tool tip for Gun on/off Velocity checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Konvertuoti visus padavimo greičius į greituosius judesius, išskyrus pjovimo greitį</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="317"/>
         <source>Use M8/M9</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Naudokite M8/M9</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="322"/>
         <source>Import M8 as gun on and M9 as gun off</source>
         <extracomment>Tool tip for Gun on/off M8/M9 checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Importuoti M8 kaip pistoleto įjungimą ir M9 kaip pistoleto išjungimą</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="332"/>
@@ -4154,7 +4154,7 @@ Placeholder for when no user frame number is entered</extracomment>
         <extracomment>Referring to which register should be used in the exported code
 ----------
 Placeholder for when no register number is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Registracijos numeris</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="419"/>
@@ -4163,7 +4163,7 @@ Placeholder for when no register number is entered</extracomment>
         <extracomment>Referring to which register should be used in the exported code
 ----------
 Placeholder for when no position register number is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pozicijos registro numeris</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="446"/>
@@ -4283,7 +4283,7 @@ Placeholder for when no move control group 3 is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="1097"/>
         <source>STAUBLI Options</source>
         <extracomment>Collapsible section: Options specific for STAUBLI robots</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>STAUBLI Parinktys</translation>
     </message>
 </context>
 <context>
@@ -4786,31 +4786,31 @@ Ar norite tęsti?</translation>
         <location filename="../../IrbcamQml/Menus.qml" line="326"/>
         <source>Camera</source>
         <extracomment>Sub-menu View/Camera</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kamera</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="331"/>
         <source>Reset</source>
         <extracomment>Menu item: Reset camera to default location</extracomment>
-        <translation type="unfinished">Atstatyti</translation>
+        <translation>Atstatyti</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="335"/>
         <source>Reset camera to default</source>
         <extracomment>Tooltip for &quot;Reset&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Atstatyti kamerą į numatytąją</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="339"/>
         <source>Home</source>
         <extracomment>Menu item: Reset camera to last saved location</extracomment>
-        <translation type="unfinished">Pradžia</translation>
+        <translation>Pradžia</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="342"/>
         <source>Reset camera to last saved position</source>
         <extracomment>Tooltip for &quot;Home&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Atstatyti kamerą į paskutinę išsaugotą poziciją</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="379"/>
@@ -4852,7 +4852,7 @@ Ar norite tęsti?</translation>
         <location filename="../../IrbcamQml/Menus.qml" line="469"/>
         <source>Scene Focus Point</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Scenos fokusavimo taškas</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="477"/>
@@ -9728,38 +9728,38 @@ Name of the tool in the exported code</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="433"/>
         <source>Export at each target</source>
         <extracomment>Checkbox. Select to enable export tool command at each target</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuoti kiekviename taikinyje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="440"/>
         <source>Export spindle speed at each target</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuoti spindelio greitį kiekviename taikinyje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="443"/>
         <source>Export gun on/off at each target</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuoti ginklo įjungimą/išjungimą kiekviename taikinyje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="446"/>
         <source>Export tool on/off at each target</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Eksportavimo įrankio įjungimas/išjungimas kiekviename taikinyje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="448"/>
         <source>Export tool command at each target</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuoti įrankio komandą kiekviename taikinyje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="450"/>
         <source>
 Disable this to export only when the value changes between targets</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Išjunkite tai, kad eksportuotumėte tik tada, kai vertė pasikeičia tarp taikinių</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="471"/>
@@ -9965,7 +9965,7 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="184"/>
         <source>Passive</source>
         <extracomment>Dropdown menu item.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pasyvus</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="200"/>
@@ -10913,37 +10913,37 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../../backend/src/qmlutilities.cpp" line="132"/>
         <source>Undefined</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Neapibrėžta</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="135"/>
         <source>Generic</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
-        <translation type="unfinished">Generinis</translation>
+        <translation>Generinis</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="138"/>
         <source>Spindle</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
-        <translation type="unfinished">Spindelis</translation>
+        <translation>Spindelis</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="141"/>
         <source>Weldgun</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
-        <translation type="unfinished">Suvirinimo pistoletas</translation>
+        <translation>Suvirinimo pistoletas</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="144"/>
         <source>Roller</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
-        <translation type="unfinished">Ritėjas</translation>
+        <translation>Ritėjas</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="150"/>
         <source>Unknown (%1)</source>
         <extracomment>Collapsible list section. %1 = number</extracomment>
-        <translation type="unfinished">Nežinomas (%1)</translation>
+        <translation>Nežinomas (%1)</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="389"/>
