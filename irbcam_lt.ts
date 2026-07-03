@@ -12,19 +12,19 @@
         <translation type="obsolete">IRBCAM versija: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/About.qml" line="58"/>
+        <location filename="../../IrbcamQml/Popups/About.qml" line="59"/>
         <source>Version: </source>
         <extracomment>Full sentence: Version: &lt;IRBCAM version number&gt;</extracomment>
         <translation>Versija: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/About.qml" line="65"/>
+        <location filename="../../IrbcamQml/Popups/About.qml" line="67"/>
         <source>Build date: </source>
         <extracomment>Describes which date the software was built</extracomment>
         <translation>Sukūrimo data: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/About.qml" line="69"/>
+        <location filename="../../IrbcamQml/Popups/About.qml" line="71"/>
         <source>Copyright © %1 - Hokarob AS</source>
         <extracomment>Label. %1 = year</extracomment>
         <translation>Autorių teisės © %1 - Hokarob AS</translation>
@@ -695,38 +695,38 @@ Please sign in to see the list</source>
 <context>
     <name>BaseNetworkDataInterface</name>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="375"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="371"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Nepavyko patvirtinti, kad %1 buvo ištrintas iš debesies (elementas gali būti ištrintas arba ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="408"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="404"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message. %1 = Name</extracomment>
         <translation>%1 buvo ištrintas iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="506"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="502"/>
         <source>Failed to load %1</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Nepavyko įkelti %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="612"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="608"/>
         <source>%1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="647"/>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="743"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="643"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="739"/>
         <source>Failed to download item from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko atsisiųsti elemento iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="766"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="762"/>
         <source>Failed to unpack item</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko išpakuoti elemento</translation>
@@ -735,19 +735,19 @@ Please sign in to see the list</source>
 <context>
     <name>BugReportData</name>
     <message>
-        <location filename="../../../backend/src/bugreportdata.cpp" line="29"/>
+        <location filename="../../../backend/src/bugreportdata.cpp" line="25"/>
         <source>Failed to send report</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko išsiųsti ataskaitos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/bugreportdata.cpp" line="40"/>
+        <location filename="../../../backend/src/bugreportdata.cpp" line="36"/>
         <source>Attachment should be less than %1 MB</source>
         <extracomment>Error message. %1 = size in MB</extracomment>
         <translation>Priedas turėtų būti mažiau nei %1 MB</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/bugreportdata.cpp" line="83"/>
+        <location filename="../../../backend/src/bugreportdata.cpp" line="80"/>
         <source>Report sent</source>
         <extracomment>Status message: Referring to sending a feedback report</extracomment>
         <translation>Ataskaita išsiųsta</translation>
@@ -1733,7 +1733,7 @@ Button text</extracomment>
 <context>
     <name>DHTableModel</name>
     <message>
-        <location filename="../../../backend/src/dhtablemodel.cpp" line="252"/>
+        <location filename="../../../backend/src/dhtablemodel.cpp" line="250"/>
         <source>Failed to upload %1</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Nepavyko įkelti %1</translation>
@@ -2313,199 +2313,228 @@ Placeholder text where users input scaling multiplier</extracomment>
 <context>
     <name>ImportPath</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="40"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="39"/>
         <source>This option is not available for %1 files</source>
         <extracomment>Tool tip for disabled checkbox.</extracomment>
         <translation>Ši parinktis neprieinama %1 failams</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="55"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="54"/>
         <source>All supported files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>Visi palaikomi failai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="57"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="56"/>
         <source>APT files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>APT failai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="59"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="58"/>
         <source>JSON files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>JSON failai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="61"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="60"/>
         <source>CSV files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>CSV failai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="63"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="62"/>
         <source>GCODE files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>GCODE failai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="65"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="64"/>
         <source>SVG files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>SVG failai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="67"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="66"/>
         <source>Open file</source>
         <extracomment>Name of the file interface window</extracomment>
         <translation>Atidaryti failą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="109"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="108"/>
         <source>Import Path</source>
         <extracomment>Title</extracomment>
         <translation>Importo kelias</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="144"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="143"/>
         <source>Documentation</source>
         <extracomment>Separator label. This section contains a link to the documentation</extracomment>
         <translation>Dokumentacija</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="153"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="152"/>
         <source>Supported file formats are:</source>
         <extracomment>Label. Supported file formats are listed below this line</extracomment>
         <translation>Palaikomi failų formatai yra:</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="166"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="165"/>
         <source>Reference documentation for JSON and CSV format is in  %1our forum%2</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation>Nuorodinė dokumentacija JSON ir CSV formatams yra %1mūsų forume%2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="177"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="176"/>
         <source>Select File</source>
         <extracomment>Section separator label</extracomment>
         <translation>Pasirinkti failą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="185"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="184"/>
         <source>File name: </source>
         <extracomment>Label</extracomment>
         <translation>Failo pavadinimas: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="194"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="193"/>
         <source>No file selected</source>
         <extracomment>Placeholder file name until a file is selected</extracomment>
         <translation>Failas nepasirinktas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="120"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="119"/>
         <source>The active subscription does not provide access to GCODE/APT parser. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation>Aktyvus prenumerata nesuteikia prieigos prie GCODE/APT analizatoriaus. Spustelėkite %1čia%2, norėdami tvarkyti prenumeratas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="198"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="197"/>
         <source>Invalid file type. Only .apt, .gcode, .nc, .json, .csv, and .svg files are supported</source>
         <extracomment>Tool tip: Invalid file type is selected</extracomment>
         <translation>Netinkamas failo tipas. Palaikomi tik .apt, .gcode, .nc, .json, .csv ir .svg failai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="213"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="212"/>
         <source>%1 Import Options</source>
         <extracomment>Additional options when importing file. %1 = APT, GCODE, JSON, CSV or SVG depending on what type of file is selected</extracomment>
         <translation>%1 Importavimo parinktys</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="220"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="219"/>
         <source>Minimum distance (mm)</source>
         <extracomment>Description for a text field where the user inputs the minimum distance between targets</extracomment>
         <translation>Minimalus atstumas (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="222"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="221"/>
         <source>Minimum distance between targets. Range: 0.1 - 10 (mm). For distances smaller than 1, arc moves are converted to linear</source>
         <extracomment>Tool tip: Displayed when hovering over minimum distance label</extracomment>
         <translation>Minimalus atstumas tarp taikinių. Diapazonas: 0,1 - 10 (mm). Atstumams, mažesniems nei 1, lankiniai judesiai konvertuojami į tiesinius</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="251"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="250"/>
         <source>Append</source>
         <extracomment>Checkbox: Select to append targets to existing path</extracomment>
         <translation>Pridėti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="255"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="254"/>
         <source>Add to existing path instead of replacing</source>
         <extracomment>Tool tip for append checkbox.</extracomment>
         <translation>Pridėti prie esamo kelio vietoj pakeitimo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="262"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="261"/>
         <source>Reverse INDIRV</source>
         <extracomment>Checkbox: Select to reverse INDIRV (initial direction vector). This is primarily for Catia users</extracomment>
         <translation>Apversti INDIRV</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="266"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="265"/>
         <source>Reverse direction of vector (Catia)</source>
         <extracomment>Tool tip for Reverse INDIRV checkbox</extracomment>
         <translation>Apversti vektoriaus kryptį (Catia)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="272"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="271"/>
         <source>No arcs</source>
         <extracomment>Checkbox: Select to disable arc moves</extracomment>
         <translation>Nėra arkų</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="276"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="275"/>
         <source>Arcs are split into linear moves</source>
         <extracomment>Tool tip for no arcs checkbox</extracomment>
         <translation>Arkos yra padalijamos į tiesinius judesius</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="282"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="283"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
         <translation>Ginklas įjungtas/išjungtas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="286"/>
         <source>Convert all feed speeds to rapid moves, except for cutting speed. This is useful if selecting &apos;Gun on/off&apos; when exporting</source>
         <extracomment>Tool tip for Gun on/off checkbox</extracomment>
-        <translation>Konvertuoti visus padavimo greičius į greitus judesius, išskyrus pjovimo greitį. Tai naudinga, jei pasirenkant „Gun on/off“ eksportuojant</translation>
+        <translation type="vanished">Konvertuoti visus padavimo greičius į greitus judesius, išskyrus pjovimo greitį. Tai naudinga, jei pasirenkant „Gun on/off“ eksportuojant</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="295"/>
+        <source>Include gun on/off. This is useful if selecting &apos;Gun on/off&apos; when exporting</source>
+        <extracomment>Tool tip for Gun on/off checkbox</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="306"/>
+        <source>Use velocities</source>
+        <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="311"/>
+        <source>Convert all feed speeds to rapid moves, except for cutting speed</source>
+        <extracomment>Tool tip for Gun on/off Velocity checkbox</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="317"/>
+        <source>Use M8/M9</source>
+        <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="322"/>
+        <source>Import M8 as gun on and M9 as gun off</source>
+        <extracomment>Tool tip for Gun on/off M8/M9 checkbox</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="332"/>
         <source>Column separator</source>
         <extracomment>Which character to use for separating CSV columns</extracomment>
         <translation>Stulpelių skirtukas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="307"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="344"/>
         <source>Comma &apos;,&apos;</source>
         <extracomment>Item in dropdown menu. Referring to using a comma character to separate columns in a CSV file</extracomment>
         <translation>Kablelis &apos;,&apos;</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="312"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="349"/>
         <source>Space &apos; &apos;</source>
         <extracomment>Item in dropdown menu. Referring to using a space character to separate columns in a CSV file</extracomment>
         <translation>Tarpas &apos; &apos;</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="322"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="359"/>
         <source>Row separator</source>
         <extracomment>Which character to use for separating CSV rows</extracomment>
         <translation>Eilučių skirtukas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="334"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="371"/>
         <source>Newline &apos;
 &apos;</source>
         <extracomment>Item in dropdown menu. Referring to a new line in a CSV file</extracomment>
@@ -2513,73 +2542,73 @@ Placeholder text where users input scaling multiplier</extracomment>
 &apos;</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="339"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="376"/>
         <source>Semicolon &apos;;&apos;</source>
         <extracomment>Item in dropdown menu. Referring to the semicolon symbol</extracomment>
         <translation>Kabliataškis &apos;;&apos;</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="353"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="390"/>
         <source>Additional Transformations</source>
         <extracomment>Collapsible section title</extracomment>
         <translation>Papildomos transformacijos</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="375"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="412"/>
         <source>Scaling presets</source>
         <extracomment>Title for drop-down menu where scaling presets may be selected</extracomment>
         <translation>Mastelio išankstiniai nustatymai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="390"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="427"/>
         <source>User defined</source>
         <extracomment>Drop-down menu item. Refers to user defined position units</extracomment>
         <translation>Vartotojo apibrėžtas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="395"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="432"/>
         <source>From mm (no scaling)</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Nuo mm (be mastelio)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="400"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="437"/>
         <source>From cm</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Nuo cm</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="405"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="442"/>
         <source>From m</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Nuo m</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="410"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="447"/>
         <source>From inches</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Nuo colių</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="415"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="452"/>
         <source>From feet</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Nuo pėdų</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="441"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="478"/>
         <source>Apply rotation to targets</source>
         <extracomment>Checkbox: Refers to applying rotation on individual targets in addition to rotating the whole imported path</extracomment>
         <translation>Pritaikyti sukimą taikiniams</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="445"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="482"/>
         <source>Apply rotation locally to individual targets</source>
         <extracomment>Tool tip for apply rotation to targets checkbox.</extracomment>
         <translation>Taikyti sukimą lokaliai atskiriems taikiniams</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="465"/>
+        <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="502"/>
         <source>Import</source>
         <extracomment>Import button</extracomment>
         <translation>Importuoti</translation>
@@ -2588,13 +2617,13 @@ Placeholder text where users input scaling multiplier</extracomment>
 <context>
     <name>ImportPathInterface</name>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="44"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="46"/>
         <source>File is empty</source>
         <extracomment>Error message: Attempting to load en empty file</extracomment>
         <translation>Failas yra tuščias</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="51"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="53"/>
         <source>File is not a valid UTF-8 file
 Only UTF-8 encoded files are supported</source>
         <extracomment>Error message: The file has invalid encoding</extracomment>
@@ -2602,7 +2631,7 @@ Only UTF-8 encoded files are supported</source>
 Palaikomi tik UTF-8 koduoti failai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="65"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="66"/>
         <source>Unsupported file type &apos;%1&apos;</source>
         <extracomment>Error message. %1 = file type</extracomment>
         <translation>Nepalaikomas failo tipas &apos;%1&apos;</translation>
@@ -2798,43 +2827,43 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <translation type="obsolete">Ok</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="102"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="98"/>
         <source>Untitled</source>
         <extracomment>Header. Placeholder if the project has no name (it is not saved yet)</extracomment>
         <translation>Be pavadinimo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="109"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="105"/>
         <source>No project loaded</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Nėra įkelto projekto</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="111"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="107"/>
         <source>Currenly loded project</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Šiuo metu įkeltas projektas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="113"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="109"/>
         <source>Contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Yra neišsaugotų pakeitimų</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="146"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="142"/>
         <source>Clear all</source>
         <extracomment>Button. Clear (acknowledge) all acknowledgeable messages</extracomment>
         <translation>Išvalyti viską</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="394"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="390"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Perrašyti %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Irbcam.qml" line="396"/>
+        <location filename="../../IrbcamQml/Irbcam.qml" line="392"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Ar tikrai norite perrašyti projektą %1?&lt;br&gt;&lt;br&gt;Šis projektas buvo anksčiau išsaugotas su versija %2&lt;br&gt;&lt;br&gt;Jei jį perrašysite, tada gali būti neįmanoma jį vėl atidaryti su IRBCAM %2&lt;br&gt;&lt;br&gt;Jei norite išsaugoti kopiją, tada galite išsaugoti projektą su nauju pavadinimu</translation>
@@ -2843,7 +2872,7 @@ Placeholder for tool name if no tool is loaded</extracomment>
 <context>
     <name>IrbcamApi</name>
     <message>
-        <location filename="../../../backend/src/irbcamapi.cpp" line="91"/>
+        <location filename="../../../backend/src/irbcamapi.cpp" line="76"/>
         <source>EULA not found</source>
         <extracomment>Shown instead of EULA if it fails to load</extracomment>
         <translation>EULA nerasta</translation>
@@ -2852,25 +2881,25 @@ Placeholder for tool name if no tool is loaded</extracomment>
 <context>
     <name>IrbcamInterfacePublic</name>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="176"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="183"/>
         <source>User Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the user frame</extracomment>
         <translation>Vartotojo rėmas atnaujintas iš viešosios API</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="182"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="189"/>
         <source>Object Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the object frame</extracomment>
         <translation>Objekto rėmas atnaujintas iš viešojo API</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="188"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="195"/>
         <source>Tooltip Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the tooltip frame. In this context, tooltip means the tip of the tool (not UI element)</extracomment>
         <translation>Tooltip rėmelis atnaujintas iš viešosios API</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="194"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="201"/>
         <source>Tool Base Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the base frame of the tool</extracomment>
         <translation>Įrankio bazinis rėmas atnaujintas iš viešosios API</translation>
@@ -2881,19 +2910,19 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <translation type="vanished">Stacionarus įrankio bazės rėmas atnaujintas iš viešosios API</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="206"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="213"/>
         <source>Rotary Table Base Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the rotary table frame</extracomment>
         <translation>Sukamojo stalo bazinis rėmas atnaujintas iš viešosios API</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="212"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="219"/>
         <source>Linear Track Base Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the linear track frame</extracomment>
         <translation>Linijinio tako bazinis rėmas atnaujintas iš viešosios API</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="200"/>
+        <location filename="../../../backend/src/irbcaminterfacepublic.cpp" line="207"/>
         <source>Robot Base Frame updated from the Public API</source>
         <extracomment>Status message: Shown when a plugin has changed the robot frame</extracomment>
         <translation>Roboto bazinis rėmas atnaujintas iš viešosios API</translation>
@@ -2906,49 +2935,49 @@ Placeholder for tool name if no tool is loaded</extracomment>
         <translation type="vanished">Viso gero </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="83"/>
+        <location filename="../../../backend/src/networking.cpp" line="91"/>
         <source>Failed to sign in user %1</source>
         <extracomment>Error message. %1 = user name</extracomment>
         <translation>Nepavyko prisijungti vartotojui %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="158"/>
+        <location filename="../../../backend/src/networking.cpp" line="166"/>
         <source>Goodbye %1</source>
         <extracomment>Status message shown on logout. %1 = full name</extracomment>
         <translation>Sudie %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="230"/>
+        <location filename="../../../backend/src/networking.cpp" line="238"/>
         <source>Failed to validate session token</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko patvirtinti sesijos žetono</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="270"/>
+        <location filename="../../../backend/src/networking.cpp" line="278"/>
         <source>Failed to get admin details</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko gauti administratoriaus duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="508"/>
+        <location filename="../../../backend/src/networking.cpp" line="529"/>
         <source>Failed to check for updates</source>
         <extracomment>Warning message: Shown if the client is unable to check for updates</extracomment>
         <translation>Nepavyko patikrinti naujinių</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="803"/>
+        <location filename="../../../backend/src/networking.cpp" line="886"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>nežinomas vartotojas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="812"/>
+        <location filename="../../../backend/src/networking.cpp" line="895"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>nežinomas vartotojo vardas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="861"/>
+        <location filename="../../../backend/src/networking.cpp" line="945"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -2958,49 +2987,49 @@ Kai kurie nustatymai nebuvo prieinami debesyje. Tai greičiausiai dėl naujų nu
 Paveikti nustatymai buvo nustatyti į jų numatytąsias reikšmes</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="889"/>
+        <location filename="../../../backend/src/networking.cpp" line="973"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation>Sveiki, %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="871"/>
+        <location filename="../../../backend/src/networking.cpp" line="955"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation>Nepavyko įkelti nustatymų %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="879"/>
+        <location filename="../../../backend/src/networking.cpp" line="963"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation>Nustatymai %1 įkelti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="911"/>
+        <location filename="../../../backend/src/networking.cpp" line="995"/>
         <source>Failed to get user details</source>
         <extracomment>Error message.</extracomment>
         <translation>Nepavyko gauti vartotojo duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1021"/>
+        <location filename="../../../backend/src/networking.cpp" line="1105"/>
         <source>Network error: The response contained no data</source>
         <extracomment>Error message.</extracomment>
         <translation>Tinklo klaida: Atsakyme nebuvo duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1040"/>
+        <location filename="../../../backend/src/networking.cpp" line="1124"/>
         <source>Network error: Failed to parse response</source>
         <extracomment>Error message.</extracomment>
         <translation>Tinklo klaida: Nepavyko išanalizuoti atsakymo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1081"/>
+        <location filename="../../../backend/src/networking.cpp" line="1165"/>
         <source>Your session has expired. Please sign in again.</source>
         <extracomment>Error message.</extracomment>
         <translation>Jūsų sesija baigėsi. Prašome prisijungti dar kartą.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1092"/>
+        <location filename="../../../backend/src/networking.cpp" line="1176"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
@@ -3008,20 +3037,20 @@ code: %2</source>
 kodas: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1106"/>
+        <location filename="../../../backend/src/networking.cpp" line="1190"/>
         <source>Network error: %1</source>
         <extracomment>Error message: %1 = message</extracomment>
         <translation>Tinklo klaida: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1113"/>
+        <location filename="../../../backend/src/networking.cpp" line="1197"/>
         <source>Network error: %1
 code: %2</source>
         <extracomment>Error message: %1 = message, %2 = code</extracomment>
         <translation>Tinklo klaida: %1 kodas: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1237"/>
+        <location filename="../../../backend/src/networking.cpp" line="1321"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
@@ -3029,7 +3058,7 @@ Save your work and reload page to get the newest features</source>
 Išsaugokite savo darbą ir perkraukite puslapį, kad gautumėte naujausias funkcijas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1243"/>
+        <location filename="../../../backend/src/networking.cpp" line="1327"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -3047,7 +3076,7 @@ Prašome išsaugoti savo darbą ir perkraudykite puslapį kuo greičiau</transla
         <translation type="vanished">Nepavyko įkelti nustatymų </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/networking.cpp" line="1263"/>
+        <location filename="../../../backend/src/networking.cpp" line="1349"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko gauti debesies darbo būsenos</translation>
@@ -3075,40 +3104,34 @@ Prašome išsaugoti savo darbą ir perkraudykite puslapį kuo greičiau</transla
 <context>
     <name>IrbcamQmlEnums</name>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="592"/>
         <source>Undefined</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
-        <translation>Neapibrėžta</translation>
+        <translation type="vanished">Neapibrėžta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="595"/>
         <source>Generic</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
-        <translation>Generinis</translation>
+        <translation type="vanished">Generinis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="598"/>
         <source>Spindle</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
-        <translation>Spindelis</translation>
+        <translation type="vanished">Spindelis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="601"/>
         <source>Weldgun</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
-        <translation>Suvirinimo pistoletas</translation>
+        <translation type="vanished">Suvirinimo pistoletas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="604"/>
         <source>Roller</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
-        <translation>Ritėjas</translation>
+        <translation type="vanished">Ritėjas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="610"/>
         <source>Unknown (%1)</source>
         <extracomment>Collapsible list section. %1 = number</extracomment>
-        <translation>Nežinomas (%1)</translation>
+        <translation type="vanished">Nežinomas (%1)</translation>
     </message>
 </context>
 <context>
@@ -4126,7 +4149,25 @@ Placeholder for when no user frame number is entered</extracomment>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="392"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="402"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="401"/>
+        <source>Register Number</source>
+        <extracomment>Referring to which register should be used in the exported code
+----------
+Placeholder for when no register number is entered</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="419"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="428"/>
+        <source>Position Register Number</source>
+        <extracomment>Referring to which register should be used in the exported code
+----------
+Placeholder for when no position register number is entered</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="446"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="456"/>
         <source>Control Group 1</source>
         <extracomment>Name of the move control group 1 in the exported robot code
 ----------
@@ -4134,8 +4175,8 @@ Placeholder for when no move control group 1 is entered</extracomment>
         <translation>Kontrolinė grupė 1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="419"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="429"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="473"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="483"/>
         <source>Control Group 2</source>
         <extracomment>Name of the move control group 2 in the exported robot code
 ----------
@@ -4143,10 +4184,10 @@ Placeholder for when no move control group 2 is entered</extracomment>
         <translation>Kontrolinė Grupė 2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="443"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="452"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="494"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="503"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="497"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="506"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="548"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="557"/>
         <source>Pulses per 360 deg (or meter)</source>
         <extracomment>Referring to encoder ticks per one revolution or meter on a rotational or linear axis for Control Group 2
 ----------
@@ -4156,8 +4197,8 @@ Referring to encoder ticks per one revolution or meter on a rotational or linear
         <translation>Impulsai per 360 laipsn. (arba metrą)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="470"/>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="480"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="524"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="534"/>
         <source>Control Group 3</source>
         <extracomment>Name of the move control group 3 in the exported robot code
 ----------
@@ -4165,7 +4206,7 @@ Placeholder for when no move control group 3 is entered</extracomment>
         <translation>Kontrolinė Grupė 3</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="562"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="616"/>
         <source>Generic Export Options in JSON format: eg.
 {
  &quot;procedureName&quot;: &quot;main&quot;,
@@ -4179,64 +4220,70 @@ Placeholder for when no move control group 3 is entered</extracomment>
 }</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="752"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="814"/>
         <source>ABB Options</source>
         <extracomment>Collapsible section: Options specific for ABB robots</extracomment>
         <translation>ABB parinktys</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="804"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="866"/>
         <source>KUKA Options</source>
         <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
         <translation>KUKA parinktys</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="847"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="909"/>
         <source>FANUC Options</source>
         <extracomment>Collapsible section: Options specific for FANUC robots</extracomment>
         <translation>FANUC parinktys</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="867"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="937"/>
         <source>MOTOMAN Options</source>
         <extracomment>Collapsible section: Options specific for MOTOMAN robots</extracomment>
         <translation>MOTOMAN parinktys</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="930"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="1000"/>
         <source>Generic Options</source>
         <extracomment>Collapsible section: Options for generic robots</extracomment>
         <translation>Bendrosios parinktys</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="951"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="1021"/>
         <source>UR Options</source>
         <extracomment>Collapsible section: Options for UR robots</extracomment>
         <translation>UR parinktys</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="964"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="1034"/>
         <source>COMAU Options</source>
         <extracomment>Collapsible section: Options for COMAU robots</extracomment>
         <translation>COMAU Parinktys</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="977"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="1047"/>
         <source>DENSO Options</source>
         <extracomment>Collapsible section: Options for DENSO robots</extracomment>
         <translation>DENSO parinktys</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="998"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="1068"/>
         <source>DOBOT Options</source>
         <extracomment>Collapsible section: Options for DOBOT robots</extracomment>
         <translation>DOBOT parinktys</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="1014"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="1084"/>
         <source>KAWASAKI Options</source>
-        <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
+        <extracomment>Collapsible section: Options specific for KAWASAKI robots</extracomment>
         <translation>KAWASAKI parinktys</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="1097"/>
+        <source>STAUBLI Options</source>
+        <extracomment>Collapsible section: Options specific for STAUBLI robots</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4420,13 +4467,13 @@ Tooltip for to-target field</extracomment>
         <translation>Taikiniai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="368"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="421"/>
         <source>User Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Naudotojo koordinačių sistema</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="376"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="429"/>
         <source>Object Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Objekto koordinačių sistema</translation>
@@ -4440,7 +4487,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Mechanizmas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="384"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="437"/>
         <source>Robot</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Robot</translation>
@@ -4454,7 +4501,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Pasirinkte robotą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="432"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="485"/>
         <source>Linear Track</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Tiesinė trajektorija</translation>
@@ -4496,7 +4543,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Pasirinkite pavara varomą stalą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="400"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="453"/>
         <source>Tool</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Įrankis</translation>
@@ -4737,66 +4784,102 @@ Ar norite tęsti?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="326"/>
+        <source>Camera</source>
+        <extracomment>Sub-menu View/Camera</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="331"/>
+        <source>Reset</source>
+        <extracomment>Menu item: Reset camera to default location</extracomment>
+        <translation type="unfinished">Atstatyti</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="335"/>
+        <source>Reset camera to default</source>
+        <extracomment>Tooltip for &quot;Reset&quot;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="339"/>
+        <source>Home</source>
+        <extracomment>Menu item: Reset camera to last saved location</extracomment>
+        <translation type="unfinished">Pradžia</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="342"/>
+        <source>Reset camera to last saved position</source>
+        <extracomment>Tooltip for &quot;Home&quot;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="379"/>
         <source>Station</source>
         <extracomment>Menu item</extracomment>
         <translation>Stotis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="338"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="391"/>
         <source>2D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation>2D grafikas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="344"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="397"/>
         <source>3D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation>3D grafikas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="360"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="413"/>
         <source>Global</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Globalus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="392"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="445"/>
         <source>Robot Flange</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Roboto flanšas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="408"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="461"/>
         <source>Stationary Tool Base</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Stacionari įrankių bazė</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="424"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="469"/>
+        <source>Scene Focus Point</source>
+        <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Menus.qml" line="477"/>
         <source>Rotary Table</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Sukamasis stalas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="440"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="493"/>
         <source>Target</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Taikinys</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="451"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="504"/>
         <source>No plugins are enabled</source>
         <extracomment>Tool tip to explain why plugins are greyed out</extracomment>
         <translation>Nėra įjungtų įskiepių</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="479"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="532"/>
         <source>This plugin does not have valid source content</source>
         <extracomment>Tool tip to explain why button is greyed out</extracomment>
         <translation>Šis įskiepis neturi galiojančio šaltinio turinio</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="538"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="591"/>
         <source>Feedback</source>
         <extracomment>Menu item</extracomment>
         <translation>Grįžtamasis ryšys</translation>
@@ -4810,7 +4893,7 @@ Ar norite tęsti?</translation>
         <translation type="obsolete">Statmenos peržiūros</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="332"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="385"/>
         <source>Combination View</source>
         <extracomment>Menu item</extracomment>
         <translation>Kombinuotas vaizdas</translation>
@@ -4832,7 +4915,7 @@ Ar norite tęsti?</translation>
         <translation type="obsolete">Animuoti atgal</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="458"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="511"/>
         <source>&amp;Plugins</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Papildiniai</translation>
@@ -4846,7 +4929,7 @@ Ar norite tęsti?</translation>
         <translation type="obsolete">Šis papildinys nepasiekiamas: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="521"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="574"/>
         <source>Forum</source>
         <extracomment>Menu item</extracomment>
         <translation>Forumas</translation>
@@ -4872,7 +4955,7 @@ Ar norite tęsti?</translation>
         <translation type="obsolete">Papildinio nustatymai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="508"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="561"/>
         <source>&amp;Help</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Pagalba</translation>
@@ -4882,7 +4965,7 @@ Ar norite tęsti?</translation>
         <translation type="obsolete">Erdvinis naršymas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="355"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="408"/>
         <source>Coordinate Systems</source>
         <extracomment>Menu title</extracomment>
         <translation>Koordinačių sistemos</translation>
@@ -4896,7 +4979,7 @@ Ar norite tęsti?</translation>
         <translation type="obsolete">Kalba / Vienetai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Menus.qml" line="532"/>
+        <location filename="../../IrbcamQml/Menus.qml" line="585"/>
         <source>About IRBCAM</source>
         <extracomment>Menu item</extracomment>
         <translation>Apie IRBCAM</translation>
@@ -5103,7 +5186,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
 <context>
     <name>OptimizationInModel</name>
     <message>
-        <location filename="../../../backend/src/optimizationinmodel.cpp" line="439"/>
+        <location filename="../../../backend/src/optimizationinmodel.cpp" line="445"/>
         <source>mm</source>
         <extracomment>Unit: millimeters</extracomment>
         <translation>mm</translation>
@@ -5177,43 +5260,43 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
 <context>
     <name>OptimizationInterface</name>
     <message>
-        <location filename="../../../backend/src/optimizationinterface.cpp" line="165"/>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="166"/>
         <source>Values copied to project</source>
         <extracomment>Info message. Means that the values in the optimiser has been transferred to the project</extracomment>
         <translation>Reikšmės nukopijuotos į projektą</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/optimizationinterface.cpp" line="174"/>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="175"/>
         <source>Object Frame X</source>
         <extracomment>Optimizer parameter</extracomment>
         <translation>Objekto rėmas X</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/optimizationinterface.cpp" line="177"/>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="178"/>
         <source>Object Frame Y</source>
         <extracomment>Optimizer parameter</extracomment>
         <translation>Objekto rėmas Y</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/optimizationinterface.cpp" line="180"/>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="181"/>
         <source>Object Frame RotZ</source>
         <extracomment>Optimizer parameter</extracomment>
         <translation>Objekto rėmas RotZ</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/optimizationinterface.cpp" line="183"/>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="184"/>
         <source>Tool Roll Angle</source>
         <extracomment>Optimizer parameter</extracomment>
         <translation>Įrankio šoninio posvyrio kampas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/optimizationinterface.cpp" line="186"/>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="187"/>
         <source>Rotary Table Angle</source>
         <extracomment>Optimizer parameter</extracomment>
         <translation>Sukamojo stalo kampas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/optimizationinterface.cpp" line="189"/>
+        <location filename="../../../backend/src/optimizationinterface.cpp" line="190"/>
         <source>Linear Track Offset</source>
         <extracomment>Optimizer parameter</extracomment>
         <translation>Tiesinis Tako Poslinkis</translation>
@@ -5282,139 +5365,139 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
         <translation type="vanished">LTO</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="266"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="265"/>
         <source>Optimizer Plot Controls</source>
         <extracomment>Info card title</extracomment>
         <translation>Optimizatoriaus grafiko valdikliai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="269"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="268"/>
         <source>Hide controls</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
         <translation>Slėpti valdiklius</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="271"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="270"/>
         <source>Show controls</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
         <translation>Rodyti valdiklius</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="276"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="275"/>
         <source>Left click</source>
         <extracomment>Interaction type</extracomment>
         <translation>Kairysis spustelėjimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="278"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="277"/>
         <source>Select target</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Pasirinkti taikinį</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="282"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="281"/>
         <source>Mouse wheel</source>
         <extracomment>Interaction type</extracomment>
         <translation>Pelės ratukas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="284"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="283"/>
         <source>Zoom in/out inside plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Priartinti/atitolinti grafike</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="287"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="286"/>
         <source>If a target is selected it zooms relative to the selected target</source>
         <extracomment>Interaction explanation detail</extracomment>
         <translation>Jei pasirenkamas tikslas, jis priartėja santykinai su pasirinktu tikslu</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="289"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="288"/>
         <source>If no target is selected it zooms relative to the center of the plot</source>
         <extracomment>Interaction explanation detail</extracomment>
         <translation>Jei nėra pasirinkto taikinio, jis priartina santykinai ploto centrui</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="294"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="293"/>
         <source>%1 + wheel</source>
         <extracomment>Interaction type - %1 = ctrl</extracomment>
         <translation>%1 + ratas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="296"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="295"/>
         <source>Change the size of the plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Pakeisti grafiko dydį</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="300"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="299"/>
         <source>Left click + drag</source>
         <extracomment>Interaction type</extracomment>
         <translation>Kairysis spustelėjimas + vilkimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="302"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="301"/>
         <source>Rotate the plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Pasukti grafiką</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="304"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="303"/>
         <source>Only available in 3D mode</source>
         <extracomment>Interaction detail</extracomment>
         <translation>Prieinama tik 3D režimu</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="308"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="307"/>
         <source>Right click + drag</source>
         <extracomment>Interaction type</extracomment>
         <translation>Dešinysis spustelėjimas + vilkimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="310"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="309"/>
         <source>Pan inside plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Pan viduje grafiko</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="314"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="313"/>
         <source>Double click</source>
         <extracomment>Interaction type</extracomment>
         <translation>Dvigubas spustelėjimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="316"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="315"/>
         <source>Reset plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Atstatyti grafiką</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="375"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="374"/>
         <source>Status</source>
         <extracomment>Label: Referring to solved status of a path configuretion</extracomment>
         <translation>Būsena</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="380"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="379"/>
         <source>Solved</source>
         <extracomment>Status: Path configuretion solved</extracomment>
         <translation>Išspręsta</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="386"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="385"/>
         <source>Failed at index</source>
         <extracomment>Label: The index at which this path configuration failed</extracomment>
         <translation>Nepavyko ties indeksu</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="399"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="398"/>
         <source>Reachable targets</source>
         <extracomment>Label: The number of targets that can be reached with this path configuration</extracomment>
         <translation>Pasiekiami taikiniai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="413"/>
+        <location filename="../../IrbcamQml/Plotting/OptimizationResults.qml" line="412"/>
         <source>Copy to project</source>
         <extracomment>Button. Transfer optimised values to project</extracomment>
         <translation>Kopijuoti į projektą</translation>
@@ -6193,43 +6276,43 @@ Dešiniuoju pelės mygtuku spustelėkite, kad pamatytumėte galimas parinktis ke
         <translation>Kelias importuotas iš CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1574"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1571"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko išanalizuoti JSON failo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1599"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1593"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti kelio</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1605"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1599"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Kelias įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2136"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2130"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Nukopijuotas taikinys</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2141"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2135"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Nukopijuota %1 taikinių</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2182"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2176"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Nukopijuotas kelias</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2187"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2181"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Nukopijuota %1 kelių</translation>
@@ -6247,43 +6330,43 @@ Dešiniuoju pelės mygtuku spustelėkite, kad pamatytumėte galimas parinktis ke
 <context>
     <name>PluginModel</name>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="426"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="427"/>
         <source>Failed to get plugin from server</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko gauti įskiepio iš serverio</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="604"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="605"/>
         <source>Failed to extract archive</source>
         <extracomment>Error message: Referring to extracting zip file which contains plugin</extracomment>
         <translation>Nepavyko išskleisti archyvo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="647"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="648"/>
         <source>Unsupported file extension</source>
         <extracomment>Error message: Only .qml and .zip files are supported</extracomment>
         <translation>Nepalaikomas failo plėtinys</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="657"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="658"/>
         <source>Failed to load files</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti failų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="688"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="689"/>
         <source>Expected a single QML file in the root directory, but found %1</source>
         <extracomment>Error message: Archive has too many QML files. %1 = number of QML files</extracomment>
         <translation>Tikėtasi vieno QML failo šakniniame kataloge, bet rasta %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="704"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="705"/>
         <source>Expected a single image file in the root directory, but found %1</source>
         <extracomment>Error message: Archive has more than one icon file. %1 = number of icons</extracomment>
         <translation>Tikėtasi vieno vaizdo failo šakniniame kataloge, bet rasta %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pluginmodel.cpp" line="797"/>
+        <location filename="../../../backend/src/pluginmodel.cpp" line="804"/>
         <source>Failed to rename plugin %1</source>
         <extracomment>Error message: %1 = name of plugin</extracomment>
         <translation>Nepavyko pervadinti įskiepį %1</translation>
@@ -6351,19 +6434,19 @@ Placeholder name while the text field is empty</extracomment>
         <translation>Vardas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="175"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="174"/>
         <source>URL</source>
         <extracomment>URL to download plugin from</extracomment>
         <translation>Unifikuotas išteklių lokatorius</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="207"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="206"/>
         <source>Url</source>
         <extracomment>Placeholder in text field to enter URL</extracomment>
         <translation>URL</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="244"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="243"/>
         <source>Open local qml file or archive
 Note: local plugins are not saved between sessions</source>
         <extracomment>Tool tip for button to open file browser. Keep the line break</extracomment>
@@ -6371,14 +6454,14 @@ Note: local plugins are not saved between sessions</source>
 Pastaba: vietiniai įskiepiai nėra išsaugomi tarp seansų</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="182"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="181"/>
         <source>QML file or ZIP archive</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>QML failas arba ZIP archyvas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="253"/>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="280"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="252"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="279"/>
         <source>Icon</source>
         <extracomment>Icon for a specific plugin in the plugin menu
 ----------
@@ -6386,25 +6469,25 @@ Placeholder text until an icon has been selected</extracomment>
         <translation>Piktograma</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="262"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="261"/>
         <source>Icon files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>Piktogramų failai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="305"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="304"/>
         <source>Open local icon file</source>
         <extracomment>Tool tip for button to open file browser</extracomment>
         <translation>Atidaryti vietinį piktogramos failą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="317"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="316"/>
         <source>Ok</source>
         <extracomment>Button to confirm and close popup</extracomment>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="373"/>
+        <location filename="../../IrbcamQml/Popups/Assets/PluginSettings.qml" line="372"/>
         <source>Add plugin</source>
         <extracomment>Button to open popup</extracomment>
         <translation>Pridėti įskiepį</translation>
@@ -6733,80 +6816,80 @@ Placeholder text until an icon has been selected</extracomment>
 <context>
     <name>ProjectListModel</name>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1003"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1002"/>
         <source>Recent</source>
         <extracomment>Collapsible section: Contains recent projects</extracomment>
         <translation>Neseniai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1011"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1010"/>
         <source>Examples</source>
         <extracomment>Collapsible section: Contains demo projects</extracomment>
         <translation>Pavyzdžiai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1009"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1008"/>
         <source>Shared with me</source>
         <extracomment>Collapsible section: Contains shared projects</extracomment>
         <translation>Bendrinama su manimi</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="88"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="87"/>
         <source>User does not have write permission for project %1</source>
         <extracomment>Error message</extracomment>
         <translation>Naudotojas neturi rašymo teisės projektui %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="198"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="197"/>
         <source>Name</source>
         <extracomment>List column header</extracomment>
         <translation>Vardas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="201"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="200"/>
         <source>Version</source>
         <extracomment>List column header</extracomment>
         <translation>Versija</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="204"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="203"/>
         <source>Created</source>
         <extracomment>List column header</extracomment>
         <translation>Sukurtas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="207"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="206"/>
         <source>Modified</source>
         <extracomment>List column header</extracomment>
         <translation>Modifikuotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="880"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="879"/>
         <source>Failed to parse project info</source>
         <extracomment>Warning message</extracomment>
         <translation>Nepavyko parsinti projekto informacijos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="886"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="885"/>
         <source>Failed to parse project info for project %1</source>
         <extracomment>Warning message</extracomment>
         <translation>Nepavyko išskaidyti projekto informacijos projektui %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="909"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="908"/>
         <source>autosave</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are autosaves</extracomment>
         <translation>automatinis išsaugojimas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="917"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="916"/>
         <source>Invalid project type for project %1</source>
         <extracomment>Warning message</extracomment>
         <translation>Netinkamas projekto tipas projektui %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="925"/>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="999"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="924"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="998"/>
         <source>example</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are public examples
 ----------
@@ -6814,8 +6897,8 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>pavyzdys</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="933"/>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="994"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="932"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="993"/>
         <source>shared</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are shared with user
 ----------
@@ -6823,13 +6906,13 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>bendras</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1007"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1006"/>
         <source>My projects (%1/%2)</source>
         <extracomment>Collapsible section: Contains user&apos;s projects</extracomment>
         <translation>Mano projektai (%1/%2)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1013"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1012"/>
         <source>Autosave</source>
         <extracomment>Collapsible section: Contains auto-saved projects</extracomment>
         <translation>Automatinis išsaugojimas</translation>
@@ -6838,223 +6921,223 @@ Contextual postfix to project name in list of recent projects. Appended to names
 <context>
     <name>ProjectManager</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="165"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="168"/>
         <source>Project contains unsaved changes</source>
         <extracomment>Popup title</extracomment>
         <translation>Projektas turi neišsaugotus pakeitimus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="169"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="172"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Perrašyti %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="172"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="175"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Ištrinti %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="184"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="187"/>
         <source>Opening a new project will discard all unsaved changes&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Popup text</extracomment>
         <translation>Naujo projekto atidarymas panaikins visus neišsaugotus pakeitimus&lt;br&gt;&lt;br&gt;Ar norite tęsti?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="187"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="190"/>
         <source>Opening a new project will discard all unsaved changes in project %1&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation>Naujo projekto atidarymas panaikins visus neišsaugotus pakeitimus projekte %1&lt;br&gt;&lt;br&gt;Ar norite tęsti?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="190"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="193"/>
         <source>This action will permanently delete project %1 from the cloud</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation>Šis veiksmas visam laikui ištrins projektą %1 iš debesies</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="194"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="197"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Ar tikrai norite perrašyti projektą %1?&lt;br&gt;&lt;br&gt;Šis projektas buvo anksčiau išsaugotas su versija %2&lt;br&gt;&lt;br&gt;Jei jį perrašysite, tada gali būti neįmanoma jį vėl atidaryti su IRBCAM %2&lt;br&gt;&lt;br&gt;Jei norite išsaugoti kopiją, tada galite išsaugoti projektą su nauju pavadinimu</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="199"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="202"/>
         <source>Are you sure you want to overwrite project %1?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation>Ar tikrai norite perrašyti projektą %1?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="241"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="244"/>
         <source>Save Project</source>
         <extracomment>Title</extracomment>
         <translation>Išsaugoti projektą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="244"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="247"/>
         <source>Open Project</source>
         <extracomment>Title</extracomment>
         <translation>Atidaryti projektą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="247"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="250"/>
         <source>Share Project</source>
         <extracomment>Title</extracomment>
         <translation>Bendrinti projektą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="301"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="304"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation>Neinicijuotas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="304"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="307"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation>Laisvas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="307"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="310"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation>Gaunamas aprašymas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="310"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="313"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation>Atsisiuntimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="313"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="316"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation>Išpakavimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="316"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="319"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation>Kraunama</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="319"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="322"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation>Trinama</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="322"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="325"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation>Įkeliama</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="325"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="328"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation>Gaunamas sąrašas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="328"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="331"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation>Dekodavimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="331"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="334"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation>Tikrinama</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="334"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="337"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation>Kraunami ištekliai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="337"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="340"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation>Apdorojimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="343"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="346"/>
         <source>Unknown</source>
         <extracomment>Network status: Unknown state</extracomment>
         <translation>Nežinoma</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="578"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="581"/>
         <source>Save name</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to save</extracomment>
         <translation>Išsaugoti vardą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="582"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="585"/>
         <source>Search</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to search for</extracomment>
         <translation>Paieška</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="723"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="726"/>
         <source>Overwrite</source>
         <extracomment>Button text: Overwrite project</extracomment>
         <translation>Perrašyti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="725"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="728"/>
         <source>Save</source>
         <extracomment>Button text: Save project</extracomment>
         <translation>Išsaugoti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="728"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="731"/>
         <source>Open</source>
         <extracomment>Button text: Open project</extracomment>
         <translation>Atidaryti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="731"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="734"/>
         <source>Share</source>
         <extracomment>Button text: Share project</extracomment>
         <translation>Dalintis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="762"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="765"/>
         <source>You do not have write access to this project</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Jūs neturite rašymo prieigos prie šio projekto</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="767"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="770"/>
         <source>You have reached the maximum number of saved projects. A project must be deleted before a new one can be created</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Pasiekėte išsaugotų projektų maksimalų skaičių. Prieš kuriant naują, reikia ištrinti projektą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="771"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="774"/>
         <source>The save name is invalid</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Išsaugojimo pavadinimas yra netinkamas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="774"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="777"/>
         <source>Select a project to open</source>
         <extracomment>Tool-tip: Explaining why the open button is disabled</extracomment>
         <translation>Pasirinkite projektą atidaryti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="777"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="780"/>
         <source>Select a project to share</source>
         <extracomment>Tool-tip: Explaining why the share button is disabled</extracomment>
         <translation>Pasirinkite projektą bendrinti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="797"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="800"/>
         <source>A network error was encountered while getting project info
 
 Please make sure you are connected to the internet and try again</source>
@@ -7064,7 +7147,7 @@ Please make sure you are connected to the internet and try again</source>
 Prašome įsitikinti, kad esate prisijungę prie interneto, ir bandyti dar kartą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="799"/>
+        <location filename="../../IrbcamQml/Popups/ProjectManager.qml" line="802"/>
         <source>No saved projects</source>
         <extracomment>Placeholder text for an empty list</extracomment>
         <translation>Nėra išsaugotų projektų</translation>
@@ -7073,93 +7156,93 @@ Prašome įsitikinti, kad esate prisijungę prie interneto, ir bandyti dar kart�
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="307"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="269"/>
         <source>years</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; years</extracomment>
         <translation>metai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="309"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="271"/>
         <source>year</source>
         <extracomment>Used to format a label. Singular form. Example usage: This will expire in 1 year</extracomment>
         <translation>metai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="322"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="284"/>
         <source>months</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; months</extracomment>
         <translation>mėnesiai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="324"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="286"/>
         <source>month</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 month</extracomment>
         <translation>mėnuo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="337"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="299"/>
         <source>days</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; days</extracomment>
         <translation>dienos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="339"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="301"/>
         <source>day</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 day</extracomment>
         <translation>diena</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="351"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="313"/>
         <source>hours</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; hours</extracomment>
         <translation>valandos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="353"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="315"/>
         <source>hour</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 hour</extracomment>
         <translation>valanda</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="367"/>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="384"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="329"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="346"/>
         <source>minutes</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; minutes</extracomment>
         <translation>minutės</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="369"/>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="386"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="331"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="348"/>
         <source>minute</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 minute</extracomment>
         <translation>minutė</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="374"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="336"/>
         <source>less than 1 minute</source>
         <extracomment>Used to format a label. Example usage: This will expire in less than 1 minute</extracomment>
         <translation>mažiau nei 1 minutė</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="402"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="364"/>
         <source>seconds</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; seconds</extracomment>
         <translation>sekundės</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="404"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="366"/>
         <source>second</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 second</extracomment>
         <translation>antras</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="410"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="372"/>
         <source>1 second</source>
         <extracomment>Used to format a label. Denotes that a process has one second or less left (or has been active for one second or less)</extracomment>
         <translation>1 sekundė</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="656"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="654"/>
         <location filename="../../../backend/src/simplelistmodel.cpp" line="34"/>
         <source>Name</source>
         <extracomment>List column
@@ -7168,7 +7251,7 @@ Column name.</extracomment>
         <translation>Vardas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="659"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="657"/>
         <location filename="../../../backend/src/simplelistmodel.cpp" line="37"/>
         <source>Modified</source>
         <extracomment>List column
@@ -7177,13 +7260,13 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation>Modifikuotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="403"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="401"/>
         <source>Activated Robots</source>
         <extracomment>Collapsible section in list. Contains robots which are activated</extracomment>
         <translation>Aktyvuoti robotai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="704"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="702"/>
         <source>%1 (user created)</source>
         <extracomment>Appended to robot name in search results if it is imported by the user. %1=robot name. Example: My Robot (user created)</extracomment>
         <translation>%1 (vartotojo sukurtas)</translation>
@@ -7218,7 +7301,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="vanished"> įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotdatainterface.cpp" line="388"/>
+        <location filename="../../../backend/src/robotdatainterface.cpp" line="390"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 buvo aktyvuotas</translation>
@@ -7347,37 +7430,37 @@ Column name. Refers to which date the items were modified</extracomment>
 <context>
     <name>RobotListModel</name>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="263"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="254"/>
         <source>Robots</source>
         <extracomment>Main collapsible section in list. This section contains all the robots</extracomment>
         <translation>Robotai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="265"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="256"/>
         <source>User Created</source>
         <extracomment>Collapsible section in list. Contains robots created by this user</extracomment>
         <translation>Vartotojo sukurtas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="267"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="258"/>
         <source>Shared</source>
         <extracomment>Collapsible section in list. Contains robots shared with this user</extracomment>
         <translation>Bendras</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="308"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="306"/>
         <source>An error occurred when fetching robot list</source>
         <extracomment>Error message</extracomment>
         <translation>Įvyko klaida gaunant robotų sąrašą</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="874"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="872"/>
         <source>%1 has been deactivated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 buvo deaktyvuotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotlistmodel.cpp" line="933"/>
+        <location filename="../../../backend/src/robotlistmodel.cpp" line="931"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 buvo aktyvuotas</translation>
@@ -7453,7 +7536,7 @@ Naudinga siekiant išvengti kabelio susisukimo arba panašių problemų tam tikr
         <translation type="obsolete">Kelias sėkmingai sukonfigūruotas per </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="995"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1006"/>
         <source>Failed to solve path
 Solved %1 of %2 targets</source>
         <extracomment>Error message. %1 = first failed index, %2 = total number of targets</extracomment>
@@ -7461,7 +7544,7 @@ Solved %1 of %2 targets</source>
 Išspręsta %1 iš %2 tikslų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1012"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1023"/>
         <source>Path solved successfully in %1 ms</source>
         <extracomment>Status message. %1 = time in milliseconds</extracomment>
         <translation>Kelias sėkmingai išspręstas per %1 ms</translation>
@@ -7492,26 +7575,26 @@ Išspręsta %1 iš %2 tikslų</translation>
         <translation type="obsolete">Maksimalus atstumas sėkmingai sukonfigūruotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="665"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="676"/>
         <source>No error</source>
         <extracomment>Error status for solving path. Success (no error)</extracomment>
         <translation>Nėra klaidos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="668"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="679"/>
         <source>Path not solved</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Kelias neišspręstas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="671"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="682"/>
         <source>Path solved successfully</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Kelias sėkmingai išspręstas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="622"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="674"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="633"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="685"/>
         <source>Solving path</source>
         <extracomment>Solution progress status
 ----------
@@ -7519,20 +7602,20 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Sprendžiant kelias</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="501"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="512"/>
         <source>Failed to configure max distance: No valid targets found in the requested range</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko sukonfigūruoti maksimalaus atstumo: Nerasta galiojančių taikinių prašomame diapazone</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="619"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="630"/>
         <source>Idle</source>
         <extracomment>Solution progress status</extracomment>
         <translation>Neveiklus</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="625"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="677"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="636"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="688"/>
         <source>Verifying path</source>
         <extracomment>Solution progress status
 ----------
@@ -7540,8 +7623,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Tikrinamas kelias</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="628"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="680"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="639"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="691"/>
         <source>Configuring max distance</source>
         <extracomment>Solution progress status
 ----------
@@ -7549,8 +7632,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Maksimalaus atstumo konfigūravimas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="631"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="683"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="642"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="694"/>
         <source>Setting up linear lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -7558,8 +7641,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Tiesinių kėlimo taškų nustatymas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="634"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="686"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="645"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="697"/>
         <source>Setting up rotary lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -7567,8 +7650,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Sukamųjų kėlimo taškų nustatymas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="637"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="689"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="648"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="700"/>
         <source>Solving rotary lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -7576,92 +7659,92 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Sukamųjų kėlimo taškų sprendimas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="692"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="703"/>
         <source>No solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Nėra sprendimo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="695"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="706"/>
         <source>Axis limit violation</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ašies ribos pažeidimas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="698"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="709"/>
         <source>Solution is outside of workspace limits</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Sprendimas yra už darbo erdvės ribų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="701"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="712"/>
         <source>This robot cannot bend backwards</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Šis robotas negali lenktis atgal</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="704"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="715"/>
         <source>Invalid kinematic parameters</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Netinkami kinematikos parametrai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="707"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="718"/>
         <source>Undefined kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neapibrėžtas kinematikos tipas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="710"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="721"/>
         <source>Invalid kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neteisingas kinematikos tipas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="713"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="724"/>
         <source>Invalid joint setpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Netinkamas jungties nustatymas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="716"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="727"/>
         <source>Invalid number of degrees of freedom</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Netinkamas laisvės laipsnių skaičius</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="719"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="730"/>
         <source>Division by zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Dalyba iš nulio</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="722"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="733"/>
         <source>Input is null pointer</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Įvestis yra nulio rodyklė</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="725"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="736"/>
         <source>Robot not loaded</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Robotas neįkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="728"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="739"/>
         <source>Invalid path size</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Netinkamas kelio dydis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="731"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="742"/>
         <source>Discontinuous step</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Diskontinuus žingsnis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="484"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="734"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="495"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="745"/>
         <source>No targets</source>
         <extracomment>Notification: Cannot configure max distance because there are no targets
 ----------
@@ -7669,55 +7752,55 @@ Error status for solving path</extracomment>
         <translation>Nėra taikinių</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="737"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="748"/>
         <source>Dynamic angle out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Dinaminis kampas už ribų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="740"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="751"/>
         <source>Index out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Indeksas už ribų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="743"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="754"/>
         <source>One or more targets have invalid speed</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Vienas arba daugiau taikinių turi neteisingą greitį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="752"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="763"/>
         <source>Invalid arc midpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Netinkamas lanko vidurio taškas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="755"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="766"/>
         <source>Start target must be linear</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pradinis taikinys turi būti tiesinis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="758"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="769"/>
         <source>Radius of the arc must be finite and non-zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Lanko spindulys turi būti baigtinis ir nenulinis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="761"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="772"/>
         <source>Distance between arc start-point and arc mid-point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Atstumas tarp lanko pradžios taško ir lanko vidurio taško yra per mažas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="764"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="775"/>
         <source>Distance between arc start-point and arc end-point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Atstumas tarp lanko pradžios taško ir lanko pabaigos taško yra per mažas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1036"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1047"/>
         <source>Failed to configure max distance at index %1
 No new targets were added
 </source>
@@ -7727,13 +7810,13 @@ Nepridėta naujų taikinių
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1085"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1096"/>
         <source>Failed to find max distance</source>
         <extracomment>Error message from find max distance</extracomment>
         <translation>Nepavyko rasti maksimalaus atstumo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1105"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1116"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
@@ -7741,13 +7824,13 @@ Found %1 possible solutions within the specified parameters</source>
 Rasta %1 galimų sprendimų pagal nurodytus parametrus</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1111"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1122"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation>Optimizatorius susidūrė su problema</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1120"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1131"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
@@ -7755,7 +7838,7 @@ No solutions found with the specified parameters</source>
 Sprendimų nerasta su nurodytais parametrais</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1126"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1137"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
@@ -7763,43 +7846,43 @@ Found %1 possible solutions within the specified parameters</source>
 Rasta %1 galimų sprendimų pagal nurodytus parametrus</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="770"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="781"/>
         <source>Distance between two targets is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Atstumas tarp dviejų taikinių yra per mažas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="773"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="784"/>
         <source>Angle between two targets is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Kampas tarp dviejų taikinių per mažas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="866"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="877"/>
         <source>Distance between targets %1 and %2 (%3 mm) exceeds recommended maximum (%4 mm)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = distance between targets, %4 = recommended maximum distance</extracomment>
         <translation>Atstumas tarp taikinių %1 ir %2 (%3 mm) viršija rekomenduojamą maksimumą (%4 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="887"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="898"/>
         <source>Reorientation between targets %1 and %2 (%3°) exceeds recommended maximum (%4°)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = reorientation between targets, %4 = recommended maximum reorientation</extracomment>
         <translation>Orientavimo pokytis tarp taikinių %1 ir %2 (%3°) viršija rekomenduojamą maksimumą (%4°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="964"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="975"/>
         <source>%1 Rotary lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation>Buvo pridėti %1 sukamieji kėlimo taškai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="970"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="981"/>
         <source>%1 Linear lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation>%1 Tiesiniai kėlimo taškai buvo pridėti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="981"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="992"/>
         <source>Failed to solve path
 No targets</source>
         <extracomment>Error message. This means that there is no path to solve</extracomment>
@@ -7807,93 +7890,93 @@ No targets</source>
 Nėra tikslų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="767"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="778"/>
         <source>Arc angle is to small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Lanko kampas yra per mažas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="746"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="757"/>
         <source>Target should not be at the rotation axis of the rotary table</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Taikinys neturėtų būti ties sukimosi ašimi sukamojo stalo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="749"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="760"/>
         <source>Z-axis of the target should not be aligned with the rotation axis of the rotary table</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Taikinio Z-ašis neturėtų būti lygiagreti su sukimosi stalo sukimosi ašimi</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="776"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="787"/>
         <source>Lift target must be linear</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pakėlimo taikinys turi būti tiesinis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="779"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="790"/>
         <source>Rotary table step angle is out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Sukamojo stalo žingsnio kampas yra už ribų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="782"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="793"/>
         <source>Lift distance is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pakėlimo atstumas yra per mažas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="785"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="796"/>
         <source>Length of lift direction vector is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Kėlimo krypties vektoriaus ilgis yra per mažas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="788"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="799"/>
         <source>Invalid indexed solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Netinkamas indeksuotas sprendinys</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="791"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="802"/>
         <source>Invalid rotary lift point</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Neteisingas sukamojo kėlimo taškas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="794"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="805"/>
         <source>Lift point must be configured after all other targets are configured</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pakėlimo taškas turi būti sukonfigūruotas po to, kai visi kiti taikiniai yra sukonfigūruoti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="797"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="808"/>
         <source>Two consecutive targets are not reachable with same turntable step angle</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Du iš eilės einantys taikiniai nėra pasiekiami su tuo pačiu turntable žingsnio kampu</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="800"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="811"/>
         <source>Wrist alignment singularity</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Riešo lygiavimo singularumas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="803"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1029"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="814"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1040"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Operacija nutraukta vartotojo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="987"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="998"/>
         <source>Operation aborted by user
 Solved %1 of %2 targets</source>
         <extracomment>Warning message. %1 = first failed index, %2 = total number of targets</extracomment>
         <translation>Operacija nutraukta naudotojo Išspręsta %1 iš %2 tikslų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1052"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1063"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
@@ -7901,7 +7984,7 @@ Solved %1 of %2 targets</source>
 1 naujas tikslas buvo pridėtas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1061"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1072"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
@@ -7909,7 +7992,7 @@ Solved %1 of %2 targets</source>
 %1 naujų taikinių buvo pridėti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1067"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1078"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
@@ -8104,85 +8187,85 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
         <translation type="obsolete">Nežinoma</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="625"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="572"/>
         <source>2D Plot Controls</source>
         <extracomment>Info card title</extracomment>
         <translation>2D grafiko valdymas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="628"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="575"/>
         <source>Hide controls</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
         <translation>Slėpti valdiklius</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="630"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="577"/>
         <source>Show controls</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
         <translation>Rodyti valdymą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="635"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="582"/>
         <source>Left click</source>
         <extracomment>Interaction type</extracomment>
         <translation>Kairysis paspaudimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="637"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="584"/>
         <source>Select target</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Pasirinkti taikinį</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="641"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="588"/>
         <source>Mouse wheel</source>
         <extracomment>Interaction type</extracomment>
         <translation>Pelės ratukas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="643"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="590"/>
         <source>Zoom in/out inside plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Priartinti/atitolinti grafike</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="646"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="593"/>
         <source>Zooms relative to the current cursor position</source>
         <extracomment>Interaction explanation detail</extracomment>
         <translation>Priartina santykinai dabartinei žymeklio pozicijai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="651"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="598"/>
         <source>Left click + drag</source>
         <extracomment>Interaction type</extracomment>
         <translation>Kairysis paspaudimas + vilkimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="653"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="600"/>
         <source>Zoom in to region</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Priartinti prie regiono</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="657"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="604"/>
         <source>Right click + drag</source>
         <extracomment>Interaction type</extracomment>
         <translation>Dešinysis spustelėjimas + vilkimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="659"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="606"/>
         <source>Pan inside plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Panoramuoti viduje grafiko</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="663"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="610"/>
         <source>Double click</source>
         <extracomment>Interaction type</extracomment>
         <translation>Dvigubas spustelėjimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="665"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot2D.qml" line="612"/>
         <source>Reset plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Atstatyti grafiką</translation>
@@ -8191,103 +8274,103 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
 <context>
     <name>ScatterPlot3D</name>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="251"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="249"/>
         <source>3D Plot Controls</source>
         <extracomment>Info card title</extracomment>
         <translation>3D grafiko valdymas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="254"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="252"/>
         <source>Hide controls</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
         <translation>Slėpti valdiklius</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="256"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="254"/>
         <source>Show controls</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
         <translation>Rodyti valdymą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="261"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="259"/>
         <source>Left click</source>
         <extracomment>Interaction type</extracomment>
         <translation>Kairysis klikas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="263"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="261"/>
         <source>Select target</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Pasirinkti taikinį</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="267"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="265"/>
         <source>Mouse wheel</source>
         <extracomment>Interaction type</extracomment>
         <translation>Pelės ratukas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="269"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="267"/>
         <source>Zoom in/out inside plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Priartinti/atitolinti grafike</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="272"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="270"/>
         <source>If a target is selected it zooms relative to the selected target</source>
         <extracomment>Interaction explanation detail</extracomment>
         <translation>Jei pasirenkamas taikinys, jis priartėja santykiu su pasirinktu taikiniu</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="274"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="272"/>
         <source>If no target is selected it zooms relative to the center of the plot</source>
         <extracomment>Interaction explanation detail</extracomment>
         <translation>Jei nėra pasirinkto taikinio, jis priartina santykinai grafiko centrui</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="279"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="277"/>
         <source>%1 + wheel</source>
         <extracomment>Interaction type - %1 = ctrl</extracomment>
         <translation>%1 + ratas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="281"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="279"/>
         <source>Change the size of the plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Pakeisti grafiko dydį</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="285"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="283"/>
         <source>Left click + drag</source>
         <extracomment>Interaction type</extracomment>
         <translation>Kairysis paspaudimas + vilkimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="287"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="285"/>
         <source>Rotate the plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Pasukti grafiką</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="291"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="289"/>
         <source>Right click + drag</source>
         <extracomment>Interaction type</extracomment>
         <translation>Dešinysis spustelėjimas + vilkimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="293"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="291"/>
         <source>Pan inside plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Panoramuoti grafiko viduje</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="297"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="295"/>
         <source>Double click</source>
         <extracomment>Interaction type</extracomment>
         <translation>Dvigubas spustelėjimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="299"/>
+        <location filename="../../IrbcamQml/Plotting/ScatterPlot3D.qml" line="297"/>
         <source>Reset plot</source>
         <extracomment>Interaction explanation</extracomment>
         <translation>Atstatyti grafiką</translation>
@@ -8301,7 +8384,7 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="589"/>
+        <location filename="../../IrbcamQml/StationScene/Scene.qml" line="586"/>
         <source>IRBCAM Trial Version</source>
         <extracomment>Text on the floor tiles for trial version</extracomment>
         <translation>IRBCAM bandomoji versija</translation>
@@ -8323,25 +8406,25 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
         <translation type="obsolete">Nepavyko išversti kalbos į</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="147"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="145"/>
         <source>Failed to translate language to %1</source>
         <extracomment>Error message. %1 = language</extracomment>
         <translation>Nepavyko išversti kalbos į %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="158"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="156"/>
         <source>Language changed</source>
         <extracomment>Status message</extracomment>
         <translation>Kalba pasikeitė</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="333"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="331"/>
         <source>Failed to save settings for %1</source>
         <extracomment>Error message: %1 = full name (of user)</extracomment>
         <translation>Nepavyko išsaugoti %1 nustatymų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="339"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="337"/>
         <source>Settings for %1 saved</source>
         <extracomment>Status message. %1 = full name (of user)</extracomment>
         <translation>Nustatymai %1 išsaugoti</translation>
@@ -8904,67 +8987,67 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation type="obsolete">Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="497"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="487"/>
         <source>Project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Projektas %1 išsaugotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="838"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="830"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Projektas išvalytas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="452"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="442"/>
         <source>Failed to confirm that the project was saved to the cloud (the project may or may not have been saved)</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko patvirtinti, kad projektas buvo išsaugotas debesyje (projektas gali būti išsaugotas arba ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="421"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="410"/>
         <source>No changes detected in project</source>
         <extracomment>Notification message that is displayed if the user attempst to save project, but the project has not changed since last save</extracomment>
         <translation>Projekte nepastebėta jokių pakeitimų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="491"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="481"/>
         <source>Autosave for project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Automatinis išsaugojimas projektui %1 išsaugotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="634"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="626"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko atsisiųsti projekto iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="878"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="873"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko patvirtinti, kad projektas buvo ištrintas iš debesies (projektas gali būti ištrintas arba ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="904"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="898"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projektas %1 buvo ištrintas iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="982"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="981"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko patvirtinti, kad projektas buvo pasidalintas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1006"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1004"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projektas %1 buvo pasidalintas su %2.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1043"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1044"/>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -8972,50 +9055,50 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Didesni keliai gali būti importuoti padalijant APT failą į mažesnius failus ir naudojant „papildymo“ parinktį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1066"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1068"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Nepavyko pradėti debesų užduoties %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1096"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1099"/>
         <source>Failed to get parsed APT %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Nepavyko gauti išanalizuoto APT %1 iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1141"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1145"/>
         <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>APT faile %1 naudojamų dešimtainių skaitmenų skaičius yra %2 (žemas skaitinis tikslumas).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1159"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1161"/>
         <source>Failed to import APT file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Nepavyko importuoti APT failo %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1166"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1169"/>
         <source>Path imported from APT %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation>Kelias importuotas iš APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1228"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1260"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1234"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1266"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko gauti roboto kodo iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1416"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1419"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko atkurti išsaugoto projekto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1428"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1431"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -9023,56 +9106,56 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Tai gali būti dėl to, kad išsaugojimas yra iš senesnės IRBCAM versijos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1454"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1457"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Trūkstama informacija projekte, gautame iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1485"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1502"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko gauti vartotojo rėmo duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1503"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1520"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti vartotojo rėmo duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1513"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1530"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko gauti objekto rėmo duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1522"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1539"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti objekto kadro duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1555"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1572"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Trūksta arba sugadinta kelio informacija iš išsaugoto projekto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1574"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1591"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>kelio importas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1725"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1732"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1742"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1749"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH lentelė</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1436"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1439"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -9080,44 +9163,44 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Tai gali būti dėl to, kad išsaugojimas yra iš senesnės IRBCAM versijos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1590"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1598"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1608"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1607"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1615"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1625"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1622"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1630"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1660"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1639"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1647"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1677"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>įrankis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1674"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1682"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1692"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1691"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1699"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1709"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>sukimo stalas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1475"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1492"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti projekto duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1779"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1796"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projektas %1 įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1704"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1712"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1721"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1729"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>tiesinis bėgis</translation>
@@ -9168,38 +9251,38 @@ Tai gali būti dėl to, kad išsaugota versija yra senesnė</translation>
 <context>
     <name>StationViewer</name>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="560"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="572"/>
         <source>Inverse kinematics could not be solved with this value (x=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation>Atvirkštinė kinematika negalėjo būti išspręsta su šia reikšme (x=%1 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="577"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="594"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="590"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="608"/>
         <source>Inverse kinematics could not be solved with this value (y=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation>Atvirkštinė kinematika negalėjo būti išspręsta su šia reikšme (y=%1 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="612"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="627"/>
         <source>Inverse kinematics could not be solved with this value (rz1=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Atvirkštinė kinematika negalėjo būti išspręsta šia reikšme (rz1=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="631"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="647"/>
         <source>Inverse kinematics could not be solved with this value (ry=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Atvirkštinės kinematikos nepavyko išspręsti su šia reikšme (ry=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="653"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="670"/>
         <source>Inverse kinematics could not be solved with this value (rz2=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Atvirkštinės kinematikos nepavyko išspręsti su šia reikšme (rz2=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1004"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1023"/>
         <source>Animation aborted
 Target at 0 is unreachable</source>
         <extracomment>Warning message</extracomment>
@@ -9207,7 +9290,7 @@ Target at 0 is unreachable</source>
 Tikslas ties 0 yra nepasiekiamas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1153"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1173"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -9215,7 +9298,7 @@ Target at index %1 has zero velocity</source>
 Taikinys ties indeksu %1 turi nulio greitį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1269"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1289"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -9223,7 +9306,7 @@ Target at index %1 is not solved</source>
 Tikslas indekse %1 nėra išspręstas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1518"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1538"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
@@ -9425,56 +9508,56 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation>Įrankis Įjungti/Išjungti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="598"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="602"/>
         <source>Input</source>
         <extracomment>Dropdown menu item. Speed mode: input</extracomment>
         <translation>Įvestis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="603"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="607"/>
         <source>Cutting</source>
         <extracomment>Dropdown menu item. Speed mode: cutting</extracomment>
         <translation>Pjaustymas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="608"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="612"/>
         <source>Rapid</source>
         <extracomment>Dropdown menu item. Speed mode: rapid</extracomment>
         <translation>Greitas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="637"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="641"/>
         <source>rpm</source>
         <extracomment>Unit: revolutions per minute</extracomment>
         <translation>aps./min.</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="657"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="666"/>
         <source>V</source>
         <extracomment>Input field prefix. Denotes velocity</extracomment>
         <translation>Versija</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="664"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="673"/>
         <source>Motion type: </source>
         <extracomment>Droptown menu text</extracomment>
         <translation>Judėjimo tipas: </translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="685"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="694"/>
         <source>Linear</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation>Linijinis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="689"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="698"/>
         <source>Joint</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation>Jungtis</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="276"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="687"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="696"/>
         <source>Arc midpoint</source>
         <extracomment>Tooltip text
 ----------
@@ -9489,7 +9572,7 @@ Droptown menu text, motion type for target</extracomment>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="271"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="672"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="681"/>
         <source>Rotary lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -9498,7 +9581,7 @@ Droptown menu text, motion type for target</extracomment>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="268"/>
-        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="668"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/TargetDelegate.qml" line="677"/>
         <source>Linear lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -9642,7 +9725,44 @@ Name of the tool in the exported code</extracomment>
         <translation>SetToolCommand</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="444"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="433"/>
+        <source>Export at each target</source>
+        <extracomment>Checkbox. Select to enable export tool command at each target</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="440"/>
+        <source>Export spindle speed at each target</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="443"/>
+        <source>Export gun on/off at each target</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="446"/>
+        <source>Export tool on/off at each target</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="448"/>
+        <source>Export tool command at each target</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="450"/>
+        <source>
+Disable this to export only when the value changes between targets</source>
+        <extracomment>Tool tip for checkbox</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="471"/>
         <source>Enable fine point before tool on/off</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Įgalinti tikslų tašką prieš įrankio įjungimą/išjungimą</translation>
@@ -9653,19 +9773,19 @@ Name of the tool in the exported code</extracomment>
         <translation type="vanished">Išjungti įrankį (ginklą) greito judėjimo metu</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="433"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="460"/>
         <source>Fine point before gun on/off</source>
         <extracomment>Checkbox. Select to enable fine point before gun on/off</extracomment>
         <translation>Smulkus taškas prieš ginklą įjungti/išjungti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="435"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="462"/>
         <source>Fine point before tool on/off</source>
         <extracomment>Checkbox. Select to enable fine point before tool on/off</extracomment>
         <translation>Tikslus taškas prieš įrankio įjungimą/išjungimą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="442"/>
+        <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="469"/>
         <source>Enable fine point before gun on/off</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Įgalinti tikslų tašką prieš įjungiant pistoletą arba išjungiant</translation>
@@ -9770,25 +9890,25 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <translation>Ar tikrai norite perrašyti %1?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="213"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="218"/>
         <source>Stationary tool is incompatible with rotary tables and linear tracks</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if both rotary table and linear track is selected</extracomment>
         <translation>Stacionarus įrankis nesuderinamas su sukamaisiais stalais ir tiesiniais takais</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="217"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="222"/>
         <source>rotary tables</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
         <translation>sukimo stalai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="219"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="224"/>
         <source>linear tracks</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
         <translation>tiesiniai bėgiai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="527"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="532"/>
         <source>Overwrite</source>
         <extracomment>Button. Import and overwrite existing custom tool</extracomment>
         <translation>Perrašyti</translation>
@@ -9842,74 +9962,80 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <translation>Įjungta/Išjungta</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="195"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="184"/>
+        <source>Passive</source>
+        <extracomment>Dropdown menu item.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="200"/>
         <source>Show mesh</source>
         <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
         <translation>Rodyti tinklelį</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="202"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="207"/>
         <source>Transparent</source>
         <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
         <translation>Skaidrus</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="215"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="220"/>
         <source>Stationary tool is incompatible with %1</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
         <translation>Stacionarus įrankis nesuderinamas su %1</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="228"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="233"/>
         <source>Stationary Tool</source>
         <extracomment>Checkbox. Select if robot should hold work object instead of tool</extracomment>
         <translation>Stacionarus įrankis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="250"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="255"/>
         <source>Move tooltip</source>
         <extracomment>Dropdown menu item. Select which reference to move</extracomment>
         <translation>Perkelti tooltipą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="254"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="259"/>
         <source>Move base</source>
         <extracomment>Dropdown menu item. Select which reference to move</extracomment>
         <translation>Perkelti bazę</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="283"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="288"/>
         <source>Generic Tool</source>
         <extracomment>Collapsible section. Contains options for generic tool</extracomment>
         <translation>Universalus įrankis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="302"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="307"/>
         <source>Diameter</source>
         <extracomment>Label for text field. Adjust generic tool diameter</extracomment>
         <translation>Skersmuo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="307"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="312"/>
         <source>Cone length</source>
         <extracomment>Label for text field. Adjust cone length on the generic tool</extracomment>
         <translation>Kūgio ilgis</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="312"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="317"/>
         <source>Color</source>
         <extracomment>Label for button. Adjust generic tool colour</extracomment>
         <translation>Spalva</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="352"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="357"/>
         <source>Select color</source>
         <extracomment>Title for colour picker dialog box</extracomment>
         <translation>Pasirinkite spalvą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="374"/>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="529"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="379"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="534"/>
         <source>Import</source>
         <extracomment>Collapsible section. Contains tools to import custom tool
 ----------
@@ -9917,61 +10043,61 @@ Button. Import custom tool</extracomment>
         <translation>Importuoti</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="388"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="393"/>
         <source>The active subscription does not provide access to custom assets. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation>Aktyvus prenumeratos planas nesuteikia prieigos prie pasirinktinių išteklių. Spustelėkite %1čia%2, kad valdytumėte prenumeratas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="400"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="405"/>
         <source>Weight</source>
         <extracomment>Label for text field. Set tool weight</extracomment>
         <translation>Svoris</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="418"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="423"/>
         <source>CoG</source>
         <extracomment>Label: Centre of Gravity</extracomment>
         <translation>Masės centras</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="463"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="468"/>
         <source>Open file</source>
         <extracomment>Title for file browser</extracomment>
         <translation>Atidaryti failą</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="465"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="470"/>
         <source>Asset files</source>
         <extracomment>File type filter in file browser. Displayed like this: Asset files (*.zip *.obj *.dae *.fbx *.stl *.gltf *.glb *.wrl)</extracomment>
         <translation>Išteklių failai</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="475"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="480"/>
         <source>File</source>
         <extracomment>Label. Refers to file path</extracomment>
         <translation>Failas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="482"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="487"/>
         <source>No file selected</source>
         <extracomment>Placeholder. Used instead of file path when no file is selected</extracomment>
         <translation>Failas nepasirinktas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="500"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="505"/>
         <source>Name</source>
         <extracomment>Label for text field. Input name for custom tool</extracomment>
         <translation>Vardas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="515"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="520"/>
         <source>Name of the custom tool</source>
         <extracomment>Placeholder. Used for tool name until a name is entered</extracomment>
         <translation>Pasirinktinio įrankio pavadinimas</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="543"/>
+        <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="548"/>
         <source>Cannot overwrite to read only asset.</source>
         <extracomment>Tool tip text. Cannot overwrite</extracomment>
         <translation>Negalima perrašyti tik skaitymo turto.</translation>
@@ -10718,9 +10844,9 @@ Placeholder text for a text field where you enter a name for your object</extrac
 <context>
     <name>UrdfImporter</name>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="62"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="340"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="712"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="53"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="332"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="706"/>
         <source>Failed to build %1</source>
         <extracomment>Error message. %1 = name of rotation table
 ----------
@@ -10728,13 +10854,13 @@ Error message. %1 = name</extracomment>
         <translation>Nepavyko sukurti %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="633"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="627"/>
         <source>Failed to upload %1 to the cloud</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Nepavyko įkelti %1 į debesį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="1065"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="1061"/>
         <source>Failed to get custom 3D object from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko gauti pasirinktinio 3D objekto iš debesies</translation>
@@ -10757,8 +10883,8 @@ Error message. %1 = name</extracomment>
 <context>
     <name>UtilitiesInterface</name>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="424"/>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="515"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="386"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="477"/>
         <source>Fixed Angle</source>
         <extracomment>Dropdown menu item: Select tool roll mode
 ----------
@@ -10771,7 +10897,7 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="obsolete">Dinaminis Kampas 1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="433"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="395"/>
         <source>No Change</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Nėra pakeitimų</translation>
@@ -10784,109 +10910,145 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation type="obsolete">Nežinoma</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="427"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="132"/>
+        <source>Undefined</source>
+        <extracomment>Collapsible list section. Tool category</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="135"/>
+        <source>Generic</source>
+        <extracomment>Collapsible list section. Tool category</extracomment>
+        <translation type="unfinished">Generinis</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="138"/>
+        <source>Spindle</source>
+        <extracomment>Collapsible list section. Tool category</extracomment>
+        <translation type="unfinished">Spindelis</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="141"/>
+        <source>Weldgun</source>
+        <extracomment>Collapsible list section. Tool category</extracomment>
+        <translation type="unfinished">Suvirinimo pistoletas</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="144"/>
+        <source>Roller</source>
+        <extracomment>Collapsible list section. Tool category</extracomment>
+        <translation type="unfinished">Ritėjas</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="150"/>
+        <source>Unknown (%1)</source>
+        <extracomment>Collapsible list section. %1 = number</extracomment>
+        <translation type="unfinished">Nežinomas (%1)</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="389"/>
         <source>Dynamic Angle</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Dinaminis kampas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="430"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="392"/>
         <source>Fixed Angle + Deviation</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Fiksuotas kampas + nuokrypis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="436"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="398"/>
         <source>Roller Mode</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Ritininis režimas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="452"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="414"/>
         <source>RZ2 is equal to the tool roll angle with corrections to account for singularities</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>RZ2 yra lygus įrankio riedėjimo kampui su pataisymais, siekiant atsižvelgti į singularumus</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="455"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="417"/>
         <source>RZ2 is set to the tool roll angle for the first target. For all other targets, it is dynamically adjusted by increasing and decreasing in 1-degree steps up to the maximum deviation from the starting tool roll angle</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>RZ2 nustatomas į įrankio roll kampą pirmajam tikslui. Visiems kitiems tikslams jis dinamiškai koreguojamas didinant ir mažinant 1 laipsnio žingsniais iki maksimalaus nuokrypio nuo pradinio įrankio roll kampo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="462"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="424"/>
         <source>RZ2 follows the fixed angle but is also dynamically adjusted by increasing and decreasing in 1-degree steps up to the maximum deviation from the starting tool roll angle</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>RZ2 seka fiksuotą kampą, tačiau taip pat dinamiškai reguliuojamas, didinant ir mažinant 1 laipsnio žingsniais iki maksimalaus nuokrypio nuo pradinio įrankio ritinio kampo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="468"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="430"/>
         <source>RZ2 is unchanged</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>RZ2 yra nepakitęs</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="471"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="433"/>
         <source>RZ2 is calculated such that the roller direction is along the path</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>RZ2 yra skaičiuojamas taip, kad ritinėlio kryptis būtų palei kelią</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="485"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="447"/>
         <source>Fixed Position</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Fiksuota padėtis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="488"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="450"/>
         <source>Dynamic Position</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Dinaminė pozicija</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="491"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="453"/>
         <source>Positive Only</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Tik teigiami</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="494"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="456"/>
         <source>Negative Only</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Tik neigiami</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="497"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="459"/>
         <source>Batch Mode</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Paketinis režimas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="518"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="480"/>
         <source>Rotation Compensation</source>
         <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Rotacijos kompensacija</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="521"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="483"/>
         <source>Position Compensation</source>
         <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Pozicijos kompensacija</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="539"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="501"/>
         <source>Rotary table angle is fixed</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>Sukamojo stalo kampas yra fiksuotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="542"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="504"/>
         <source>Rotary table angle is dynamically computed to compensate for rotational changes between the targets</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>Sukamojo stalo kampas yra dinamiškai skaičiuojamas, kad kompensuotų sukimosi pokyčius tarp taikinių</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/qmlutilities.cpp" line="545"/>
+        <location filename="../../../backend/src/qmlutilities.cpp" line="507"/>
         <source>Rotary table angle is dynamically computed to compensate for positional changes between the targets</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>Sukamojo stalo kampas dinamiškai skaičiuojamas, kad kompensuotų padėties pokyčius tarp taikinių</translation>
