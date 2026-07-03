@@ -2876,31 +2876,31 @@ Placeholder text where users input scaling multiplier</extracomment>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="295"/>
         <source>Include gun on/off. This is useful if selecting &apos;Gun on/off&apos; when exporting</source>
         <extracomment>Tool tip for Gun on/off checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Inkluder pistol på/av. Dette er nyttig hvis du velger &apos;Pistol på/av&apos; når du eksporterer</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="306"/>
         <source>Use velocities</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bruk hastigheter</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="311"/>
         <source>Convert all feed speeds to rapid moves, except for cutting speed</source>
         <extracomment>Tool tip for Gun on/off Velocity checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Konverter alle matehastigheter til hurtigbevegelser, unntatt skjærehastighet</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="317"/>
         <source>Use M8/M9</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bruk M8/M9</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="322"/>
         <source>Import M8 as gun on and M9 as gun off</source>
         <extracomment>Tool tip for Gun on/off M8/M9 checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Importer M8 som gun på og M9 som gun av</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="332"/>
@@ -4262,7 +4262,7 @@ Placeholder for when no user frame number is entered</extracomment>
         <extracomment>Referring to which register should be used in the exported code
 ----------
 Placeholder for when no register number is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Registernummer</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="419"/>
@@ -4271,7 +4271,7 @@ Placeholder for when no register number is entered</extracomment>
         <extracomment>Referring to which register should be used in the exported code
 ----------
 Placeholder for when no position register number is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Posisjonsregisternummer</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="446"/>
@@ -4391,7 +4391,7 @@ Placeholder for when no move control group 3 is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/Manufacturer.qml" line="1097"/>
         <source>STAUBLI Options</source>
         <extracomment>Collapsible section: Options specific for STAUBLI robots</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>STAUBLI Alternativer</translation>
     </message>
     <message>
         <source>Universal Robots</source>
@@ -4669,31 +4669,31 @@ Vil du fortsette?</translation>
         <location filename="../../IrbcamQml/Menus.qml" line="326"/>
         <source>Camera</source>
         <extracomment>Sub-menu View/Camera</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kamera</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="331"/>
         <source>Reset</source>
         <extracomment>Menu item: Reset camera to default location</extracomment>
-        <translation type="unfinished">Nullstill</translation>
+        <translation>Nullstill</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="335"/>
         <source>Reset camera to default</source>
         <extracomment>Tooltip for &quot;Reset&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tilbakestill kamera til standard</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="339"/>
         <source>Home</source>
         <extracomment>Menu item: Reset camera to last saved location</extracomment>
-        <translation type="unfinished">Hjem</translation>
+        <translation>Hjem</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="342"/>
         <source>Reset camera to last saved position</source>
         <extracomment>Tooltip for &quot;Home&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tilbakestill kamera til sist lagrede posisjon</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="379"/>
@@ -4771,7 +4771,7 @@ Vil du fortsette?</translation>
         <location filename="../../IrbcamQml/Menus.qml" line="469"/>
         <source>Scene Focus Point</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Scene Fokuspunkt</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Menus.qml" line="477"/>
@@ -9848,38 +9848,38 @@ Name of the tool in the exported code</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="433"/>
         <source>Export at each target</source>
         <extracomment>Checkbox. Select to enable export tool command at each target</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Eksporter ved hvert mål</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="440"/>
         <source>Export spindle speed at each target</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Eksporter spindelhastighet ved hvert mål</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="443"/>
         <source>Export gun on/off at each target</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Eksporter pistol på/av ved hvert mål</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="446"/>
         <source>Export tool on/off at each target</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Eksporter verktøy på/av ved hvert mål</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="448"/>
         <source>Export tool command at each target</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Eksporter verktøykommando ved hvert mål</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="450"/>
         <source>
 Disable this to export only when the value changes between targets</source>
         <extracomment>Tool tip for checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiver dette for å eksportere bare når verdien endres mellom målene</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportOptions/ToolData.qml" line="471"/>
@@ -10039,7 +10039,7 @@ Collapsible sectin in list. This section contains all standard tools</extracomme
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="184"/>
         <source>Passive</source>
         <extracomment>Dropdown menu item.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Passiv</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolEditor.qml" line="200"/>
@@ -11207,37 +11207,37 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../../backend/src/qmlutilities.cpp" line="132"/>
         <source>Undefined</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
-        <translation type="unfinished">Udefinert</translation>
+        <translation>Udefinert</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="135"/>
         <source>Generic</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
-        <translation type="unfinished">Generisk</translation>
+        <translation>Generisk</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="138"/>
         <source>Spindle</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
-        <translation type="unfinished">Spindel</translation>
+        <translation>Spindel</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="141"/>
         <source>Weldgun</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
-        <translation type="unfinished">Sveisepistol</translation>
+        <translation>Sveisepistol</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="144"/>
         <source>Roller</source>
         <extracomment>Collapsible list section. Tool category</extracomment>
-        <translation type="unfinished">Rulle</translation>
+        <translation>Rulle</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="150"/>
         <source>Unknown (%1)</source>
         <extracomment>Collapsible list section. %1 = number</extracomment>
-        <translation type="unfinished">Ukjent (%1)</translation>
+        <translation>Ukjent (%1)</translation>
     </message>
     <message>
         <location filename="../../../backend/src/qmlutilities.cpp" line="389"/>
