@@ -2651,219 +2651,267 @@ Bitte speichern Sie Ihre Arbeit und laden Sie die Seite so schnell wie möglich 
 <context>
     <name>IrbcamSettings</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="25"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="26"/>
         <source>Settings</source>
         <extracomment>Title</extracomment>
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="94"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="95"/>
         <source>User Interface</source>
         <extracomment>Collapsible section: Settings related to the user interface</extracomment>
         <translation>Benutzeroberfläche</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="118"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="119"/>
         <source>Auto Save</source>
         <extracomment>Collapsible section: Settings related to auto saving</extracomment>
         <translation>Automatisch speichern</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="139"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="140"/>
         <source>Auto save interval</source>
         <extracomment>Dropdown menu: Select interval for auto save</extracomment>
         <translation>Automatisches Speicherintervall</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="156"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="157"/>
         <source>5 min</source>
         <extracomment>Dropdown menu item: time interval in minutes</extracomment>
         <translation>5 min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="161"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="162"/>
         <source>10 min</source>
         <extracomment>Dropdown menu item: time interval in minutes</extracomment>
         <translation>10 min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="166"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="167"/>
         <source>15 min</source>
         <extracomment>Dropdown menu item: time interval in minutes</extracomment>
         <translation>15 min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="171"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="172"/>
         <source>30 min</source>
         <extracomment>Dropdown menu item: time interval in minutes</extracomment>
         <translation>30 min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="191"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="192"/>
         <source>Plugins</source>
         <extracomment>Collapsible section: Settings related to plugins</extracomment>
         <translation>Plugins</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="204"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="205"/>
         <source>Station</source>
         <extracomment>Collapsible section: Settings related to station</extracomment>
         <translation>Station</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="220"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="221"/>
         <source>Simulation Speeds</source>
         <extracomment>Collapsible setcion within station settings: Speed related settings</extracomment>
         <translation>Simulationsgeschwindigkeiten</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="230"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="231"/>
         <source>Feed speed for rapid movements (mm/s)</source>
         <extracomment>Tool tip for rapid speed input</extracomment>
         <translation>Vorschubgeschwindigkeit für schnelle Bewegungen (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="254"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="255"/>
         <source>Feed speed for cutting movement (mm/s)</source>
         <extracomment>Tool tip for cuttin speed input</extracomment>
         <translation>Vorschubgeschwindigkeit für Schneidbewegung (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="276"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="277"/>
         <source>Reorientation speed</source>
         <extracomment>Setting for how fast the robot should rotate the tool of the position is constant</extracomment>
         <translation>Neuausrichtungsgeschwindigkeit</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="278"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="279"/>
         <source>Angular speed when rotating tool (°/s)</source>
         <extracomment>Tool tip for reorientation speed input</extracomment>
         <translation>Winkelgeschwindigkeit beim Drehen des Werkzeugs (°/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="301"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="302"/>
         <source>Rotary table speed</source>
         <extracomment>Setting for rotary table speed</extracomment>
         <translation>Drehtischgeschwindigkeit</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="303"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="304"/>
         <source>Angular speed of rotary table (°/s)</source>
         <extracomment>Tool tip for rotary table speed input</extracomment>
         <translation>Winkelgeschwindigkeit des Drehtisches (°/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="325"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="326"/>
         <source>Linear track speed</source>
         <extracomment>Setting for linear track speed</extracomment>
         <translation>Lineare Schienengeschwindigkeit</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="327"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="328"/>
         <source>Speed of linear track (mm/s)</source>
         <extracomment>Tool tip for linear track speed input</extracomment>
         <translation>Geschwindigkeit des Linearantriebs (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="379"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="380"/>
         <source>Set all revolute joints (deg)</source>
         <extracomment>Referring to setting all limit values at once</extracomment>
         <translation>Alle Drehgelenke festlegen (Grad)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="408"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="409"/>
         <source>Set all linear joints (mm)</source>
         <extracomment>Referring to setting all limit values at once</extracomment>
         <translation>Alle linearen Gelenke festlegen (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="444"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="445"/>
         <source>Joint %1 (mm)</source>
         <extracomment>Label for text field. %1 = joint number</extracomment>
         <translation>Gelenk %1 (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="446"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="447"/>
         <source>Joint %1 (°)</source>
         <extracomment>Label for text field. %1 = joint number</extracomment>
         <translation>Gelenk %1 (°)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="481"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="482"/>
         <source>Max Joint Step</source>
         <extracomment>Collapsible setcion within station settings: Max Joint Step</extracomment>
         <translation>Maximaler Gelenkschritt</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="489"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="490"/>
         <source>To Cartesian target</source>
         <extracomment>Setting for maximum joint step to Cartesian target</extracomment>
         <translation>Zu kartesischem Ziel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="491"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="492"/>
         <source>Maximum joint step to Cartesian target (deg)</source>
         <extracomment>Tool tip for maximum joint step to Cartesian target input</extracomment>
         <translation>Maximale Gelenk-Schrittweite zum kartesischen Ziel (Grad)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="514"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="515"/>
         <source>To joint target</source>
         <extracomment>Setting for maximum joint step to Joint target</extracomment>
         <translation>Zum Gelenkziel</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="516"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="517"/>
         <source>Maximum joint step to joint target, should be greater than or equal to maximum joint step to Cartesian target (deg)</source>
         <extracomment>Tool tip for maximum joint step to Joint target input</extracomment>
         <translation>Maximale Gelenkschrittweite zum Gelenkziel sollte größer oder gleich der maximalen Gelenkschrittweite zum kartesischen Ziel sein (deg)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="228"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="542"/>
+        <source>Scene Settings</source>
+        <extracomment>Collapsible setcion within station settings: Max Joint Step</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="550"/>
+        <source>Show floor</source>
+        <extracomment>Referring to show floor in the scene</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="567"/>
+        <source>Floor size</source>
+        <extracomment>Setting for floor size</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="569"/>
+        <source>Approximate size of the floor (mm)</source>
+        <extracomment>Tool tip for floor size</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="596"/>
+        <source>Grid cell size</source>
+        <extracomment>Setting for floor cell size</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="598"/>
+        <source>Size of each cell in the grid shown on the floor (mm)</source>
+        <extracomment>Tool tip for floor cell size</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="625"/>
+        <source>Z-Offset</source>
+        <extracomment>Setting for floor z-offset</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="627"/>
+        <source>Z-offset of the floor from the global coordinate frame (mm)</source>
+        <extracomment>Tool tip for floor z-offset</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="229"/>
         <source>Rapid speed</source>
         <extracomment>Setting for rapid movement speed</extracomment>
         <translation>Schnelle Geschwindigkeit</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="104"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="105"/>
         <source>Show welcome messsage</source>
         <extracomment>Referring to the welcome popup for new users</extracomment>
         <translation>Willkommensnachricht anzeigen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="125"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="126"/>
         <source>Enable auto save project</source>
         <extracomment>Checkbox: Select to enable auto saving</extracomment>
         <translation>Automatisches Speichern des Projekts aktivieren</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="214"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="215"/>
         <source>Changes to station settings are not saved automatically. They are saved in the station and therefore saved and loaded with the project</source>
         <extracomment>Clarification on what station settings are</extracomment>
         <translation>Änderungen an den Stationseinstellungen werden nicht automatisch gespeichert. Sie werden in der Station gespeichert und daher mit dem Projekt gespeichert und geladen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="252"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="253"/>
         <source>Cutting speed</source>
         <extracomment>Setting for cutting movement speed</extracomment>
         <translation>Schneidgeschwindigkeit</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="351"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="352"/>
         <source>Distance to Joint Limits</source>
         <extracomment>Collapsible setcion within station settings: Reduction of allowed joint space</extracomment>
         <translation>Abstand zu Gelenkgrenzen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="388"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="417"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="389"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="418"/>
         <source>Value</source>
         <extracomment>Placeholder for when no value is entered</extracomment>
         <translation>Wert</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="399"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="428"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="400"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="429"/>
         <source>Set</source>
         <extracomment>Button to set values</extracomment>
         <translation>Festlegen</translation>
@@ -6819,25 +6867,25 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
 <context>
     <name>SettingsInterface</name>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="145"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="146"/>
         <source>Failed to translate language to %1</source>
         <extracomment>Error message. %1 = language</extracomment>
         <translation>Fehler beim Übersetzen der Sprache in %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="156"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="157"/>
         <source>Language changed</source>
         <extracomment>Status message</extracomment>
         <translation>Sprache geändert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="331"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="332"/>
         <source>Failed to save settings for %1</source>
         <extracomment>Error message: %1 = full name (of user)</extracomment>
         <translation>Fehler beim Speichern der Einstellungen für %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="337"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="338"/>
         <source>Settings for %1 saved</source>
         <extracomment>Status message. %1 = full name (of user)</extracomment>
         <translation>Einstellungen für %1 gespeichert</translation>
@@ -7331,43 +7379,43 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation>Projekt %1 gespeichert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="626"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="627"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Herunterladen des Projekts aus der Cloud</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="830"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="831"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Projekt freigegeben</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="873"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="874"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Konnte nicht bestätigen, dass das Projekt aus der Cloud gelöscht wurde (das Projekt wurde möglicherweise nicht gelöscht)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="898"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="899"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projekt %1 wurde aus der Cloud gelöscht</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="981"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="982"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Konnte nicht bestätigen, dass das Projekt geteilt wurde</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1004"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1005"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projekt %1 wurde mit %2 geteilt.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1044"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1045"/>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -7375,50 +7423,50 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Größere Pfade können importiert werden, indem die APT-Datei in kleinere Dateien aufgeteilt und die Option &apos;append&apos; verwendet wird</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1068"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1069"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Fehler beim Starten des Cloud-Jobs %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1099"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1100"/>
         <source>Failed to get parsed APT %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Fehler beim Abrufen des geparsten APT %1 aus der Cloud</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1145"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1146"/>
         <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>Die Anzahl der Dezimalstellen in der APT-Datei %1 beträgt %2 (geringe numerische Präzision).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1161"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1162"/>
         <source>Failed to import APT file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Fehler beim Importieren der APT-Datei %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1169"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1170"/>
         <source>Path imported from APT %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation>Pfad aus APT %1 importiert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1234"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1266"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1235"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1267"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Abrufen des Roboter-Codes aus der Cloud</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1419"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1420"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Wiederherstellen des gespeicherten Projekts</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1431"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1432"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -7426,7 +7474,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dies kann auf eine Speicherung aus einer älteren Version von IRBCAM zurückzuführen sein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1439"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1440"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -7434,62 +7482,62 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dies kann auf eine Speicherung aus einer älteren Version von IRBCAM zurückzuführen sein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1502"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1507"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Abrufen der Benutzer-Frame-Daten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1520"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1525"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Laden der Benutzer-Frame-Daten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1530"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1535"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Abruf der Objektrahmendaten fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1539"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1544"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Objekt-Frame-Daten konnten nicht geladen werden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1607"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1615"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1625"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1612"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1620"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1630"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>Roboter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1639"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1647"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1677"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1644"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1652"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1682"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>Werkzeug</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1691"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1699"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1709"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1696"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1704"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1714"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>Drehtisch</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1721"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1729"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1726"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1734"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>Lineare Schiene</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1457"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1458"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Fehlende Informationen im aus der Cloud abgerufenen Projekt</translation>
@@ -7502,7 +7550,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dies kann auf eine Speicherung aus einer älteren Version von IRBCAM zurückzuführen sein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1492"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1497"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Laden der Projektdaten</translation>
@@ -7513,7 +7561,7 @@ Dies kann auf eine Speicherung aus einer älteren Version von IRBCAM zurückzuf�
         <translation type="vanished">DH-Tabelleninformationen fehlen im gespeicherten Projekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1796"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1801"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projekt %1 geladen</translation>
@@ -7524,20 +7572,20 @@ Dies kann auf eine Speicherung aus einer älteren Version von IRBCAM zurückzuf�
         <translation type="vanished">Fehlende Versionsinformationen im aus der Cloud abgerufenen Projekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1572"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1577"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Fehlende oder beschädigte Pfadinformationen im gespeicherten Projekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1591"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1596"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>Pfadimport</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1742"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1749"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1747"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1754"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH-Tabelle</translation>
@@ -7601,7 +7649,7 @@ Target at index %1 is not solved</source>
 Ziel am Index %1 ist nicht gelöst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1538"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1588"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>

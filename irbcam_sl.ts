@@ -3343,178 +3343,226 @@ Prosimo, da shranite svoje delo in čim prej znova naložite stran</translation>
 <context>
     <name>IrbcamSettings</name>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="25"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="26"/>
         <source>Settings</source>
         <extracomment>Title</extracomment>
         <translation>Nastavitve</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="94"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="95"/>
         <source>User Interface</source>
         <extracomment>Collapsible section: Settings related to the user interface</extracomment>
         <translation>Uporabniški vmesnik</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="104"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="105"/>
         <source>Show welcome messsage</source>
         <extracomment>Referring to the welcome popup for new users</extracomment>
         <translation>Prikaži pozdravno sporočilo</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="118"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="119"/>
         <source>Auto Save</source>
         <extracomment>Collapsible section: Settings related to auto saving</extracomment>
         <translation>Samodejno shranjevanje</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="125"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="126"/>
         <source>Enable auto save project</source>
         <extracomment>Checkbox: Select to enable auto saving</extracomment>
         <translation>Omogoči samodejno shranjevanje projekta</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="139"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="140"/>
         <source>Auto save interval</source>
         <extracomment>Dropdown menu: Select interval for auto save</extracomment>
         <translation>Interval samodejnega shranjevanja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="156"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="157"/>
         <source>5 min</source>
         <extracomment>Dropdown menu item: time interval in minutes</extracomment>
         <translation>5 min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="161"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="162"/>
         <source>10 min</source>
         <extracomment>Dropdown menu item: time interval in minutes</extracomment>
         <translation>10 min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="166"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="167"/>
         <source>15 min</source>
         <extracomment>Dropdown menu item: time interval in minutes</extracomment>
         <translation>15 min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="171"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="172"/>
         <source>30 min</source>
         <extracomment>Dropdown menu item: time interval in minutes</extracomment>
         <translation>30 min</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="191"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="192"/>
         <source>Plugins</source>
         <extracomment>Collapsible section: Settings related to plugins</extracomment>
         <translation>Vtičniki</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="204"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="205"/>
         <source>Station</source>
         <extracomment>Collapsible section: Settings related to station</extracomment>
         <translation>Postaja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="214"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="215"/>
         <source>Changes to station settings are not saved automatically. They are saved in the station and therefore saved and loaded with the project</source>
         <extracomment>Clarification on what station settings are</extracomment>
         <translation>Spremembe nastavitev postaje se ne shranijo samodejno. Shranjeni so v postaji in zato shranjeni in naloženi s projektom</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="220"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="221"/>
         <source>Simulation Speeds</source>
         <extracomment>Collapsible setcion within station settings: Speed related settings</extracomment>
         <translation>Hitrosti simulacije</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="228"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="229"/>
         <source>Rapid speed</source>
         <extracomment>Setting for rapid movement speed</extracomment>
         <translation>Visoka hitrost</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="230"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="231"/>
         <source>Feed speed for rapid movements (mm/s)</source>
         <extracomment>Tool tip for rapid speed input</extracomment>
         <translation>Hitrost podajanja za hitre premike (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="252"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="253"/>
         <source>Cutting speed</source>
         <extracomment>Setting for cutting movement speed</extracomment>
         <translation>Hitrost rezanja</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="254"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="255"/>
         <source>Feed speed for cutting movement (mm/s)</source>
         <extracomment>Tool tip for cuttin speed input</extracomment>
         <translation>Hitrost dovajanja za rezalno gibanje (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="276"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="277"/>
         <source>Reorientation speed</source>
         <extracomment>Setting for how fast the robot should rotate the tool of the position is constant</extracomment>
         <translation>Hitrost reorientacije</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="278"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="279"/>
         <source>Angular speed when rotating tool (°/s)</source>
         <extracomment>Tool tip for reorientation speed input</extracomment>
         <translation>Kotna hitrost pri vrtenju orodja (°/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="301"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="302"/>
         <source>Rotary table speed</source>
         <extracomment>Setting for rotary table speed</extracomment>
         <translation>Hitrost rotacijske mize</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="303"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="304"/>
         <source>Angular speed of rotary table (°/s)</source>
         <extracomment>Tool tip for rotary table speed input</extracomment>
         <translation>Kotna hitrost vrtilne mize (°/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="325"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="326"/>
         <source>Linear track speed</source>
         <extracomment>Setting for linear track speed</extracomment>
         <translation>Hitrost linearnega tira</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="327"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="328"/>
         <source>Speed of linear track (mm/s)</source>
         <extracomment>Tool tip for linear track speed input</extracomment>
         <translation>Hitrost linearnega tira (mm/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="481"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="482"/>
         <source>Max Joint Step</source>
         <extracomment>Collapsible setcion within station settings: Max Joint Step</extracomment>
         <translation>Maksimalni korak sklepa</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="489"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="490"/>
         <source>To Cartesian target</source>
         <extracomment>Setting for maximum joint step to Cartesian target</extracomment>
         <translation>Na kartezični cilj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="491"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="492"/>
         <source>Maximum joint step to Cartesian target (deg)</source>
         <extracomment>Tool tip for maximum joint step to Cartesian target input</extracomment>
         <translation>Največji korak sklepa do kartezičnega cilja (stopinj)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="514"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="515"/>
         <source>To joint target</source>
         <extracomment>Setting for maximum joint step to Joint target</extracomment>
         <translation>Na sklepni cilj</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="516"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="517"/>
         <source>Maximum joint step to joint target, should be greater than or equal to maximum joint step to Cartesian target (deg)</source>
         <extracomment>Tool tip for maximum joint step to Joint target input</extracomment>
         <translation>Največji sklepni korak do sklepnega cilja mora biti večji ali enak največjemu sklepnemu koraku do kartezičnega cilja (stopinj)</translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="542"/>
+        <source>Scene Settings</source>
+        <extracomment>Collapsible setcion within station settings: Max Joint Step</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="550"/>
+        <source>Show floor</source>
+        <extracomment>Referring to show floor in the scene</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="567"/>
+        <source>Floor size</source>
+        <extracomment>Setting for floor size</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="569"/>
+        <source>Approximate size of the floor (mm)</source>
+        <extracomment>Tool tip for floor size</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="596"/>
+        <source>Grid cell size</source>
+        <extracomment>Setting for floor cell size</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="598"/>
+        <source>Size of each cell in the grid shown on the floor (mm)</source>
+        <extracomment>Tool tip for floor cell size</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="625"/>
+        <source>Z-Offset</source>
+        <extracomment>Setting for floor z-offset</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="627"/>
+        <source>Z-offset of the floor from the global coordinate frame (mm)</source>
+        <extracomment>Tool tip for floor z-offset</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reorientation speed (deg/s)</source>
@@ -3522,45 +3570,45 @@ Prosimo, da shranite svoje delo in čim prej znova naložite stran</translation>
         <translation type="vanished">Hitrost preusmeritve (deg/s)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="351"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="352"/>
         <source>Distance to Joint Limits</source>
         <extracomment>Collapsible setcion within station settings: Reduction of allowed joint space</extracomment>
         <translation>Razdalja do limite sklepov</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="379"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="380"/>
         <source>Set all revolute joints (deg)</source>
         <extracomment>Referring to setting all limit values at once</extracomment>
         <translation>Nastavi vse rotacijske sklepe (stopinje)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="388"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="417"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="389"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="418"/>
         <source>Value</source>
         <extracomment>Placeholder for when no value is entered</extracomment>
         <translation>Vrednost</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="399"/>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="428"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="400"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="429"/>
         <source>Set</source>
         <extracomment>Button to set values</extracomment>
         <translation>Nastavi</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="408"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="409"/>
         <source>Set all linear joints (mm)</source>
         <extracomment>Referring to setting all limit values at once</extracomment>
         <translation>Nastavi vse linearne sklepe (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="444"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="445"/>
         <source>Joint %1 (mm)</source>
         <extracomment>Label for text field. %1 = joint number</extracomment>
         <translation>Sklep %1 (mm)</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="446"/>
+        <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="447"/>
         <source>Joint %1 (°)</source>
         <extracomment>Label for text field. %1 = joint number</extracomment>
         <translation>Sklep %1 (°)</translation>
@@ -7942,25 +7990,25 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
 <context>
     <name>SettingsInterface</name>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="145"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="146"/>
         <source>Failed to translate language to %1</source>
         <extracomment>Error message. %1 = language</extracomment>
         <translation>Jezika ni bilo mogoče prevesti v %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="156"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="157"/>
         <source>Language changed</source>
         <extracomment>Status message</extracomment>
         <translation>Jezik spremenjen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="331"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="332"/>
         <source>Failed to save settings for %1</source>
         <extracomment>Error message: %1 = full name (of user)</extracomment>
         <translation>Shranjevanje nastavitev za %1 ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/settingsinterface.cpp" line="337"/>
+        <location filename="../../../backend/src/settingsinterface.cpp" line="338"/>
         <source>Settings for %1 saved</source>
         <extracomment>Status message. %1 = full name (of user)</extracomment>
         <translation>Nastavitve za %1 so shranjene</translation>
@@ -8418,37 +8466,37 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation>Projekt %1 shranjen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="626"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="627"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Projekta ni bilo mogoče prenesti iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="830"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="831"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Projekt odobren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="873"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="874"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Ni bilo mogoče potrditi, da je bil projekt izbrisan iz oblaka (projekt je bil morda izbrisan ali pa tudi ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="898"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="899"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projekt %1 je bil izbrisan iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="981"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="982"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Ni bilo mogoče potrditi, da je bil projekt v skupni rabi</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1004"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1005"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Sporočilo o stanju: %1= ime projekta</translation>
@@ -8459,7 +8507,7 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation type="vanished">Datoteka %1 je prazna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1044"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1045"/>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -8467,50 +8515,50 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Večje poti je mogoče uvoziti tako, da datoteko APT razdelite na manjše datoteke in uporabite »priloži«</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1068"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1069"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Opravila v oblaku %1 ni bilo mogoče zagnati</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1099"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1100"/>
         <source>Failed to get parsed APT %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Ni bilo mogoče razčleniti APT %1 iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1145"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1146"/>
         <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>Število decimalnih mest, uporabljenih v datoteki APT %1, je %2 (nizka številska natančnost).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1161"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1162"/>
         <source>Failed to import APT file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Uvoz datoteke APT %1 ni uspel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1169"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1170"/>
         <source>Path imported from APT %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation>Pot, uvožena iz APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1234"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1266"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1235"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1267"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kode robota iz oblaka ni bilo mogoče pridobiti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1419"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1420"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Shranjenega projekta ni bilo mogoče obnoviti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1431"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1432"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -8518,7 +8566,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1439"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1440"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -8526,62 +8574,62 @@ This may be due to the save coming from an older version of IRBCAM</source>
 To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1502"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1507"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Ni uspelo pridobiti podatkov uporabniškega okvirja</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1520"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1525"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Ni uspelo naložiti podatkov uporabniškega okvirja</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1530"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1535"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Ni uspelo pridobiti podatkov o okvirju objekta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1539"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1544"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Ni uspelo naložiti podatkov o okvirju objekta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1607"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1615"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1625"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1612"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1620"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1630"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1639"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1647"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1677"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1644"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1652"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1682"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>Orodje</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1691"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1699"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1709"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1696"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1704"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1714"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>Rotacijska miza </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1721"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1729"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1726"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1734"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>Linearni pomik</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1457"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1458"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Manjkajoče informacije v projektu, pridobljene iz oblaka</translation>
@@ -8594,7 +8642,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1492"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1497"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Podatkov projekta ni bilo mogoče naložiti</translation>
@@ -8610,7 +8658,7 @@ To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
         <translation type="vanished">V shranjenem projektu manjkajo informacije o tabeli DH</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1796"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1801"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projekt %1 je naložen</translation>
@@ -8622,20 +8670,20 @@ To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
         <translation>V projektu ni zaznanih sprememb</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1572"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1577"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Manjkajoče ali poškodovane informacije o poti iz shranjenega projekta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1591"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1596"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>uvoz poti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1742"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1749"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1747"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1754"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH tabela</translation>
@@ -8705,7 +8753,7 @@ Target at index %1 is unreachable</source>
 Cilj z indeksom %1 je nedosegljiv</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1538"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1588"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
