@@ -12203,55 +12203,55 @@ Button text</extracomment>
 <context>
     <name>ToolModel</name>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1043"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1046"/>
         <source>Custom tool upload failed</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1048"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1051"/>
         <source>Custom tool %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1083"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1086"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation type="unfinished">Det gick inte att bekräfta att %1 togs bort från molnet (objektet kan ha tagits bort eller inte)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1113"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1116"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation type="unfinished">%1 togs bort från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1521"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1524"/>
         <source>Failed to download tool from cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1637"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1640"/>
         <source>Failed to download tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1672"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1675"/>
         <source>Failed to unpack tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1816"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1819"/>
         <source>Failed to load %1 mesh</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1905"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1908"/>
         <source>Tool %1 mesh loaded from %2</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation type="unfinished"></translation>
