@@ -1801,19 +1801,31 @@ Button text</extracomment>
         <translation>Robotkód exportálása</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="138"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="139"/>
+        <source>One or more tools are invalid</source>
+        <extracomment>Warns the user that the tools are not valid</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="149"/>
         <source>The active subscription does not allow exporting robot code for KUKA VKRC4/VKRC5 controller. You can contact us to upgrade your subscription %1here%2</source>
         <extracomment>Warns the user that the selected robot must be activated before exporting robot code</extracomment>
         <translation>Az aktív előfizetés nem engedélyezi a robotkód exportálását KUKA VKRC4/VKRC5 vezérlőhöz. Kapcsolatba léphet velünk előfizetésének frissítéséhez %1itt%2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="150"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="161"/>
         <source>You cannot generate robot code in the trial version of IRBCAM. You can end the trial version and subscribe to the paid version before generating robot code %1 here %2</source>
         <extracomment>Warns the user that the selected robot must be activated before exporting robot code</extracomment>
         <translation>Nem lehet robotkódot generálni az IRBCAM próbaverziójában. Befejezheti a próbaverziót és előfizethet a fizetős verzióra, mielőtt robotkódot generál %1 itt %2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="219"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="211"/>
+        <source>Open tool list</source>
+        <extracomment>Button: This is shown instead of &quot;Export&quot; if the user has invalid tools</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="237"/>
         <source>Generating robot code</source>
         <extracomment>Status message. Shown while waiting for robot code</extracomment>
         <translation>Robotkód generálása</translation>
@@ -1834,19 +1846,19 @@ Button text</extracomment>
         <translation type="obsolete">Nincs robot kiválasztva</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="221"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="239"/>
         <source>Robot code received. Save to file?</source>
         <extracomment>This question is displayed in a popup after robot code is generated</extracomment>
         <translation>Robotkód fogadva. Menteni fájlba?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="241"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="259"/>
         <source>Cancel</source>
         <extracomment>Cancel button</extracomment>
         <translation>Mégse</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="250"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="268"/>
         <source>Save</source>
         <extracomment>Save button</extracomment>
         <translation>Mentés</translation>
@@ -1937,19 +1949,19 @@ Placeholder for when no external axis name is entered</extracomment>
         <translation type="vanished">Pisztoly be/pisztoly ki</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="110"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="112"/>
         <source>Path must be configured before it can be exported</source>
         <extracomment>Warns the user that code cannot be exported before the path is solved</extracomment>
         <translation>Az útvonalat konfigurálni kell, mielőtt exportálható lenne</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="119"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="121"/>
         <source>One or more options are not valid</source>
         <extracomment>Warns the user that code cannot be exported with the current options</extracomment>
         <translation>Egy vagy több opció érvénytelen</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="128"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="130"/>
         <source>Robot must be activated before generating robot code</source>
         <extracomment>Warns the user that the selected robot must be activated before exporting robot code</extracomment>
         <translation>A robotot aktiválni kell a robotkód generálása előtt</translation>
@@ -1960,31 +1972,31 @@ Placeholder for when no external axis name is entered</extracomment>
         <translation type="obsolete">Az aktív előfizetés nem teszi lehetővé a robotkód exportálását KUKA VKRC4 vezérlőhöz. Lépjen kapcsolatba velünk az előfizetés frissítéséhez %1itt%2</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="163"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="174"/>
         <source>Reset Export Options</source>
         <extracomment>Popup title</extracomment>
         <translation>Exportálási Beállítások Visszaállítása</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="165"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="176"/>
         <source>Are you sure you want reset export options to default values?</source>
         <extracomment>Popup text</extracomment>
         <translation>Biztos benne, hogy vissza szeretné állítani az exportálási beállításokat az alapértelmezett értékekre?</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="178"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="189"/>
         <source>Reset</source>
         <extracomment>Button: Reset</extracomment>
         <translation>Visszaállítás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="199"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="213"/>
         <source>Export</source>
         <extracomment>Button: Click here to export robot code</extracomment>
         <translation>Exportálás</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="197"/>
+        <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="208"/>
         <source>Open robot list</source>
         <extracomment>Button: This is shown instead of &quot;Export&quot; if the user has to activate the selected robot</extracomment>
         <translation>Robotlista megnyitása</translation>
@@ -10542,49 +10554,49 @@ Button. Import custom tool</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="469"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="473"/>
         <source>Export Data</source>
         <extracomment>Collapsible section. Contains options for export data</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="490"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="495"/>
         <source>Export Name</source>
         <extracomment>Label for text field. weight</extracomment>
         <translation type="unfinished">Export név</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="499"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="505"/>
         <source>Tool Export Name</source>
         <extracomment>Placeholder for when no tool export name has been entered</extracomment>
         <translation type="unfinished">Eszköz export neve</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="513"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="520"/>
         <source>Weight</source>
         <extracomment>Label for text field. weight</extracomment>
         <translation type="unfinished">Súly</translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="525"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="533"/>
         <source>kg</source>
         <extracomment>Unit: millimetres</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="535"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="544"/>
         <source>cogX</source>
         <extracomment>Label for text field. COG</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="540"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="550"/>
         <source>cogY</source>
         <extracomment>Label for button. COG</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="545"/>
+        <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="556"/>
         <source>cogZ</source>
         <extracomment>Label for button. COG</extracomment>
         <translation type="unfinished"></translation>
@@ -10704,55 +10716,55 @@ Button text</extracomment>
 <context>
     <name>ToolModel</name>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1046"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1093"/>
         <source>Custom tool upload failed</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1051"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1098"/>
         <source>Custom tool %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1086"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1133"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1116"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1163"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1524"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1577"/>
         <source>Failed to download tool from cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1640"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1693"/>
         <source>Failed to download tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1675"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1728"/>
         <source>Failed to unpack tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1819"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1872"/>
         <source>Failed to load %1 mesh</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1908"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1961"/>
         <source>Tool %1 mesh loaded from %2</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation type="unfinished"></translation>
