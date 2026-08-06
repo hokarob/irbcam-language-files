@@ -9449,7 +9449,7 @@ Isso pode ser devido ao salvamento vindo de uma versão mais antiga</translation
         <translation>A cinemática inversa não pôde ser resolvida com este valor (rz2=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1056"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1058"/>
         <source>Animation aborted
 Target at 0 is unreachable</source>
         <extracomment>Warning message</extracomment>
@@ -9457,7 +9457,7 @@ Target at 0 is unreachable</source>
 Alvo em 0 é inalcançável</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1206"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1208"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -9465,7 +9465,7 @@ Target at index %1 has zero velocity</source>
 O alvo no índice %1 tem velocidade zero</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1335"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1337"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -9473,7 +9473,7 @@ Target at index %1 is not solved</source>
 Alvo no índice %1 não está resolvido</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1638"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1640"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
