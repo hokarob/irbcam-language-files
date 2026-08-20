@@ -1892,7 +1892,7 @@ Placeholder for when no value is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="139"/>
         <source>One or more tools are invalid</source>
         <extracomment>Warns the user that the tools are not valid</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Un ou plusieurs outils sont invalides</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="149"/>
@@ -1910,7 +1910,7 @@ Placeholder for when no value is entered</extracomment>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="211"/>
         <source>Open tool list</source>
         <extracomment>Button: This is shown instead of &quot;Export&quot; if the user has invalid tools</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir la liste des outils</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ExportRobotCode.qml" line="239"/>
@@ -2690,79 +2690,79 @@ Placeholder text where users input scaling multiplier</extracomment>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="338"/>
         <source>Split Path</source>
         <extracomment>Separator label: Options to split path in different ways</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Diviser le chemin</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="348"/>
         <source>On coordinate frame change</source>
         <extracomment>Label: Split path on cooridnate frame change</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Au changement de repère de coordonnées</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="364"/>
         <source>On comment</source>
         <extracomment>Label: Split path on comment</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sur le commentaire</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="378"/>
         <source>Disabled</source>
         <extracomment>Drop-down menu option. Split path on comment disabled</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Désactivé</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="380"/>
         <source>Any</source>
         <extracomment>Drop-down menu option. Split path on any comment</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>N&apos;importe quel</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="382"/>
         <source>Layer Start</source>
         <extracomment>Drop-down menu option. Split path on comment Layer Start</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Début de couche</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="384"/>
         <source>Path</source>
         <extracomment>Drop-down menu option. Split path on comment Path:</extracomment>
-        <translation type="unfinished">Chemin</translation>
+        <translation>Chemin</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="386"/>
         <source>User Defined</source>
         <extracomment>Drop-down menu option. Split path on user defined comment</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Défini par l&apos;utilisateur</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="397"/>
         <source>Splitting paths on comments is disabled</source>
         <extracomment>Tool-tip for drop-down option &apos;Disabled&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Le fractionnement des chemins sur les commentaires est désactivé</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="399"/>
         <source>Split path on any comment</source>
         <extracomment>Tool-tip for drop-down option &apos;Any&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Diviser le chemin sur n&apos;importe quel commentaire</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="401"/>
         <source>Split path on any comment that matches the form: %1. The part in the paranthesis () will be used as the path name. E.g. the comment %2 will create a path named %3</source>
         <extracomment>Tool-tip for drop-down option &apos;Layer Start&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Diviser le chemin sur tout commentaire qui correspond à la forme : %1. La partie entre parenthèses () sera utilisée comme nom du chemin. Ex. le commentaire %2 créera un chemin nommé %3</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="404"/>
         <source>Split path on any comment that matches the form: %1. The part in the paranthesis () will be used as the path name. This mode is case insensitive. E.g. the comment %2 will create a path named %3</source>
         <extracomment>Tool-tip for drop-down option &apos;Path&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Diviser le chemin sur tout commentaire correspondant à la forme : %1. La partie entre parenthèses () sera utilisée comme nom du chemin. Ce mode est insensible à la casse. Par ex. le commentaire %2 créera un chemin nommé %3</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="407"/>
         <source>User defined regex used to match comments that should be treated as path separators. It follows the syntax of google re2 (https://github.com/google/re2/wiki/Syntax)</source>
         <extracomment>Tool-tip for drop-down option &apos;User Defined&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Regex définie par l&apos;utilisateur utilisée pour faire correspondre les commentaires qui doivent être traités comme des séparateurs de chemin. Elle suit la syntaxe de google re2 (https://github.com/google/re2/wiki/Syntax)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="425"/>
@@ -2771,13 +2771,13 @@ Placeholder text where users input scaling multiplier</extracomment>
         <extracomment>Label: regex
 ----------
 Placeholder text in text imput: regex</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Expression régulière</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="439"/>
         <source>Regular expression used to capture comments that will generate different paths. Capture group 1 will be used to generate the name of the path. If capture group 1 does not exist then the whole matching expression will be used to generate the name</source>
         <extracomment>Tooltip: Description of how the regular expression is used to separate paths</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Expression régulière utilisée pour capturer les commentaires qui généreront différents chemins. Le groupe de capture 1 sera utilisé pour générer le nom du chemin. Si le groupe de capture 1 n&apos;existe pas alors l&apos;expression correspondante entière sera utilisée pour générer le nom</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ImportPath.qml" line="451"/>
@@ -3543,49 +3543,49 @@ Veuillez enregistrer votre travail et recharger la page dès que possible</trans
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="542"/>
         <source>Scene Settings</source>
         <extracomment>Collapsible setcion within station settings: Max Joint Step</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres de scène</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="550"/>
         <source>Show floor</source>
         <extracomment>Referring to show floor in the scene</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le sol</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="567"/>
         <source>Floor size</source>
         <extracomment>Setting for floor size</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Taille du sol</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="569"/>
         <source>Approximate size of the floor (mm)</source>
         <extracomment>Tool tip for floor size</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Taille approximative du sol (mm)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="596"/>
         <source>Grid cell size</source>
         <extracomment>Setting for floor cell size</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Taille de cellule de grille</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="598"/>
         <source>Size of each cell in the grid shown on the floor (mm)</source>
         <extracomment>Tool tip for floor cell size</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Taille de chaque cellule de la grille affichée sur le sol (mm)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="625"/>
         <source>Z-Offset</source>
         <extracomment>Setting for floor z-offset</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Décalage Z</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="627"/>
         <source>Z-offset of the floor from the global coordinate frame (mm)</source>
         <extracomment>Tool tip for floor z-offset</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Décalage Z du sol par rapport au repère de coordonnées global (mm)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/IrbcamSettings.qml" line="229"/>
@@ -5956,67 +5956,67 @@ Right click to see available options for populating the path</source>
         <location filename="../../IrbcamQml/Popups/Assets/PathInfo.qml" line="30"/>
         <source>File</source>
         <extracomment>Label: Refers to file name of imported path</extracomment>
-        <translation type="unfinished">Fichier</translation>
+        <translation>Fichier</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/PathInfo.qml" line="34"/>
         <source>No path imported</source>
         <extracomment>Placeholder file name for when no path is imported</extracomment>
-        <translation type="unfinished">Aucun chemin importé</translation>
+        <translation>Aucun chemin importé</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/PathInfo.qml" line="39"/>
         <source>Targets</source>
         <extracomment>Label: Refers to the number of targets in the path</extracomment>
-        <translation type="unfinished">Cibles</translation>
+        <translation>Cibles</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/PathInfo.qml" line="48"/>
         <source>Tools</source>
         <extracomment>Label. Refers to a list of the tools in the path. This is shown if there are multiple tools</extracomment>
-        <translation type="unfinished">Outils</translation>
+        <translation>Outils</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/PathInfo.qml" line="50"/>
         <source>Tool</source>
         <extracomment>Label. Refers to a list of the tools in the path. This is shown if there is a singular tool</extracomment>
-        <translation type="unfinished">Outil</translation>
+        <translation>Outil</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/PathInfo.qml" line="81"/>
         <source>Tool %1</source>
         <extracomment>Label: %1 = Tool number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Outil %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/PathInfo.qml" line="88"/>
         <source>Defined</source>
         <extracomment>Label: Refers to Tool number defined/undefined</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Défini</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/PathInfo.qml" line="90"/>
         <source>Undefined</source>
         <extracomment>Label: Refers to Tool number</extracomment>
-        <translation type="unfinished">Indéfini</translation>
+        <translation>Indéfini</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/PathInfo.qml" line="93"/>
         <source>Tool %1 is defined</source>
         <extracomment>Tool tip: %1 = Tool number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;outil %1 est défini</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/PathInfo.qml" line="95"/>
         <source>Tool %1 must be defined</source>
         <extracomment>Tool tip: %1 = Tool number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;outil %1 doit être défini</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/PathInfo.qml" line="103"/>
         <source>Click %1here%2 to add this tool</source>
         <extracomment>Label: Refers to Tool number defined Label: Refers to Tool number undefined</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez %1ici%2 pour ajouter cet outil</translation>
     </message>
 </context>
 <context>
@@ -6025,19 +6025,19 @@ Right click to see available options for populating the path</source>
         <location filename="../../IrbcamQml/Popups/PathInfoPopup.qml" line="29"/>
         <source>Path and Tool Info</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Chemin et infos de l&apos;outil</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/PathInfoPopup.qml" line="63"/>
         <source>Path</source>
         <extracomment>Collapsible section: Path information</extracomment>
-        <translation type="unfinished">Chemin</translation>
+        <translation>Chemin</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/PathInfoPopup.qml" line="82"/>
         <source>Existing Tools</source>
         <extracomment>Collapsible section: Tools information</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Outils existants</translation>
     </message>
 </context>
 <context>
@@ -7656,7 +7656,7 @@ Trouvé %1 solutions possibles dans les paramètres spécifiés</translation>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="818"/>
         <source>Tool not found</source>
         <extracomment>Error status for solving path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Outil introuvable</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1002"/>
@@ -7670,7 +7670,7 @@ Résolu %1 de %2 cibles</translation>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1023"/>
         <source>Tool %1 must be defined</source>
         <extracomment>Error message. %1 = first failed index, %2 = total number of targets</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;outil %1 doit être défini</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="1076"/>
@@ -8543,19 +8543,19 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="157"/>
         <source>Stationary tool</source>
         <extracomment>Additional info for user to know that stationary tool is selected.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Outil stationnaire</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="159"/>
         <source>Robot holds the tool</source>
         <extracomment>Additional info for user to know that The robot holds the tool.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Le robot tient l&apos;outil</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="232"/>
         <source>Existing Tools</source>
         <extracomment>Collapsible section: Tools information</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Outils existants</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/StationInfo.qml" line="275"/>
@@ -9632,13 +9632,13 @@ Button. Import custom tool</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="93"/>
         <source>mm</source>
         <extracomment>Unit: millimetres</extracomment>
-        <translation type="unfinished">mm</translation>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="106"/>
         <source>Tool</source>
         <extracomment>prefix for text</extracomment>
-        <translation type="unfinished">Outil</translation>
+        <translation>Outil</translation>
     </message>
     <message>
         <source>Name</source>
@@ -9649,13 +9649,13 @@ Button. Import custom tool</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="225"/>
         <source>No tool selected</source>
         <extracomment>Button: Shown when no tool is selected</extracomment>
-        <translation type="unfinished">Aucun outil sélectionné</translation>
+        <translation>Aucun outil sélectionné</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="215"/>
         <source>Source</source>
         <extracomment>Label for a text field: Lets the user name their additional object</extracomment>
-        <translation type="unfinished">Source</translation>
+        <translation>Source</translation>
     </message>
     <message>
         <source>No source selected</source>
@@ -9706,157 +9706,157 @@ Button. Import custom tool</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="288"/>
         <source>Tool Type</source>
         <extracomment>Label over input field</extracomment>
-        <translation type="unfinished">Type d&apos;outil</translation>
+        <translation>Type d&apos;outil</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="300"/>
         <source>Invalid type</source>
         <extracomment>Dropdown menu display text showing invalid selection.</extracomment>
-        <translation type="unfinished">Type invalide</translation>
+        <translation>Type invalide</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="315"/>
         <source>Weldgun</source>
         <extracomment>Dropdown menu item.</extracomment>
-        <translation type="unfinished">Pistolet à souder</translation>
+        <translation>Pistolet à souder</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="310"/>
         <source>Spindle</source>
         <extracomment>Dropdown menu item.</extracomment>
-        <translation type="unfinished">Broche</translation>
+        <translation>Broche</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="242"/>
         <source>Number</source>
         <extracomment>Label for text fields</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="260"/>
         <source>Tool number</source>
         <extracomment>Tool tip</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Numéro d&apos;outil</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="271"/>
         <source>TCP</source>
         <extracomment>Collapsible section: In this section the user will adjust position and scale of the object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>TCP</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="305"/>
         <source>Generic/Analog</source>
         <extracomment>Dropdown menu item.</extracomment>
-        <translation type="unfinished">Générique/Analogique</translation>
+        <translation>Générique/Analogique</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="320"/>
         <source>On/Off</source>
         <extracomment>Dropdown menu item.</extracomment>
-        <translation type="unfinished">Marche/Arrêt</translation>
+        <translation>Marche/Arrêt</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="325"/>
         <source>Passive</source>
         <extracomment>Dropdown menu item.</extracomment>
-        <translation type="unfinished">Passif</translation>
+        <translation>Passif</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="341"/>
         <source>Show mesh</source>
         <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
-        <translation type="unfinished">Afficher le maillage</translation>
+        <translation>Afficher le maillage</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="347"/>
         <source>Transparent</source>
         <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
-        <translation type="unfinished">Transparent</translation>
+        <translation>Transparent</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="357"/>
         <source>Base</source>
         <extracomment>Collapsible section: In this section the user will adjust position and scale of the object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Base</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="378"/>
         <source>Generic Tool</source>
         <extracomment>Collapsible section. Contains options for generic tool</extracomment>
-        <translation type="unfinished">Outil générique</translation>
+        <translation>Outil générique</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="397"/>
         <source>Diameter</source>
         <extracomment>Label for text field. Adjust generic tool diameter</extracomment>
-        <translation type="unfinished">Diamètre</translation>
+        <translation>Diamètre</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="402"/>
         <source>Cone length</source>
         <extracomment>Label for text field. Adjust cone length on the generic tool</extracomment>
-        <translation type="unfinished">Longueur du cône</translation>
+        <translation>Longueur du cône</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="407"/>
         <source>Color</source>
         <extracomment>Label for button. Adjust generic tool colour</extracomment>
-        <translation type="unfinished">Couleur</translation>
+        <translation>Couleur</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="447"/>
         <source>Select color</source>
         <extracomment>Title for colour picker dialog box</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionner la couleur</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="473"/>
         <source>Export Data</source>
         <extracomment>Collapsible section. Contains options for export data</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Exporter les données</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="495"/>
         <source>Export Name</source>
         <extracomment>Label for text field. weight</extracomment>
-        <translation type="unfinished">Nom de l&apos;export</translation>
+        <translation>Nom de l&apos;export</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="505"/>
         <source>Tool Export Name</source>
         <extracomment>Placeholder for when no tool export name has been entered</extracomment>
-        <translation type="unfinished">Nom de l&apos;outil dans l&apos;export</translation>
+        <translation>Nom de l&apos;outil dans l&apos;export</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="520"/>
         <source>Weight</source>
         <extracomment>Label for text field. weight</extracomment>
-        <translation type="unfinished">Poids</translation>
+        <translation>Poids</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="533"/>
         <source>kg</source>
         <extracomment>Unit: millimetres</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>kg</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="544"/>
         <source>cogX</source>
         <extracomment>Label for text field. COG</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>cogX</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="550"/>
         <source>cogY</source>
         <extracomment>Label for button. COG</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>cdgY</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/ToolEditorDelegate.qml" line="556"/>
         <source>cogZ</source>
         <extracomment>Label for button. COG</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>cogZ</translation>
     </message>
 </context>
 <context>
@@ -9868,19 +9868,19 @@ Button. Import custom tool</extracomment>
         <extracomment>Title
 ----------
 List category separator</extracomment>
-        <translation type="unfinished">Outils</translation>
+        <translation>Outils</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolList.qml" line="148"/>
         <source>Reset tool data</source>
         <extracomment>Checkbox text: Reset data</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialiser les données de l&apos;outil</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolList.qml" line="156"/>
         <source>Select</source>
         <extracomment>Button text: Select item</extracomment>
-        <translation type="unfinished">Sélectionner</translation>
+        <translation>Sélectionner</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolList.qml" line="168"/>
@@ -9889,85 +9889,85 @@ List category separator</extracomment>
         <extracomment>Collapsible button title: Open/close upload section
 ----------
 Button text</extracomment>
-        <translation type="unfinished">Téléverser</translation>
+        <translation>Téléverser</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolList.qml" line="189"/>
         <source>The active subscription does not provide access to custom assets. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
-        <translation type="unfinished">L&apos;abonnement actuel ne permet pas d&apos;utiliser des ressources personnalisées&lt;br&gt;Cliquez %1ici%2 pour gérer les abonnements</translation>
+        <translation>L&apos;abonnement actuel ne permet pas d&apos;utiliser des ressources personnalisées&lt;br&gt;Cliquez %1ici%2 pour gérer les abonnements</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolList.qml" line="202"/>
         <source>Name</source>
         <extracomment>Title for a textfield</extracomment>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolList.qml" line="210"/>
         <source>Tool name</source>
         <extracomment>Placeholder text for an empty textfield</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nom de l&apos;outil</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolList.qml" line="236"/>
         <source>File</source>
         <extracomment>Title for a textfield</extracomment>
-        <translation type="unfinished">Fichier</translation>
+        <translation>Fichier</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolList.qml" line="241"/>
         <source>No file selected</source>
         <extracomment>This will be shown as a file name if no file is selected</extracomment>
-        <translation type="unfinished">Aucun fichier sélectionné</translation>
+        <translation>Aucun fichier sélectionné</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolList.qml" line="255"/>
         <source>Overwrite</source>
         <extracomment>Button text</extracomment>
-        <translation type="unfinished">Écraser</translation>
+        <translation>Écraser</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolList.qml" line="270"/>
         <source>Asset files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation type="unfinished">Fichiers de ressources</translation>
+        <translation>Fichiers de ressources</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolList.qml" line="278"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title: %1 = name of tool</extracomment>
-        <translation type="unfinished">Écraser %1</translation>
+        <translation>Écraser %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolList.qml" line="280"/>
         <source>Are you sure you want to overwrite user tool %1?</source>
         <extracomment>Popup content text: %1 = name of tool</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir écraser l&apos;outil utilisateur %1 ?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolList.qml" line="292"/>
         <source>Ok</source>
         <extracomment>Popup text.</extracomment>
-        <translation type="unfinished">Ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolList.qml" line="295"/>
         <source>You cannot overwrite to the readonly asset %1.</source>
         <extracomment>Popup content text: %1 = name of tool</extracomment>
-        <translation type="unfinished">Impossible de modifier la ressource en lecture seule %1.</translation>
+        <translation>Impossible de modifier la ressource en lecture seule %1.</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolList.qml" line="318"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = name of tool</extracomment>
-        <translation type="unfinished">Supprimer %1</translation>
+        <translation>Supprimer %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/ToolList.qml" line="320"/>
         <source>Are you sure you want to delete user tool %1?</source>
         <extracomment>Popup content text. %1 = name of geometry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir supprimer l&apos;outil utilisateur %1 ?</translation>
     </message>
 </context>
 <context>
@@ -9976,55 +9976,55 @@ Button text</extracomment>
         <location filename="../../../backend/src/toolmodel.cpp" line="1093"/>
         <source>Custom tool upload failed</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Échec du téléversement de l&apos;outil personnalisé</translation>
     </message>
     <message>
         <location filename="../../../backend/src/toolmodel.cpp" line="1098"/>
         <source>Custom tool %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Outil personnalisé %1 téléversé avec succès</translation>
     </message>
     <message>
         <location filename="../../../backend/src/toolmodel.cpp" line="1133"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
-        <translation type="unfinished">Impossible de confirmer si %1 a été supprimée sur le serveur (l&apos;objet peut ou non avoir été supprimée)</translation>
+        <translation>Impossible de confirmer si %1 a été supprimée sur le serveur (l&apos;objet peut ou non avoir été supprimée)</translation>
     </message>
     <message>
         <location filename="../../../backend/src/toolmodel.cpp" line="1163"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
-        <translation type="unfinished">%1 a été supprimé du serveur</translation>
+        <translation>%1 a été supprimé du serveur</translation>
     </message>
     <message>
         <location filename="../../../backend/src/toolmodel.cpp" line="1577"/>
         <source>Failed to download tool from cloud</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Échec du téléchargement de l&apos;outil depuis le cloud</translation>
     </message>
     <message>
         <location filename="../../../backend/src/toolmodel.cpp" line="1693"/>
         <source>Failed to download tool from the cloud</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Échec du téléchargement de l&apos;outil depuis le cloud</translation>
     </message>
     <message>
         <location filename="../../../backend/src/toolmodel.cpp" line="1728"/>
         <source>Failed to unpack tool from the cloud</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Échec du dépaquetage de l&apos;outil depuis le cloud</translation>
     </message>
     <message>
         <location filename="../../../backend/src/toolmodel.cpp" line="1872"/>
         <source>Failed to load %1 mesh</source>
         <extracomment>Error message: %1 = item name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Échec du chargement du maillage %1</translation>
     </message>
     <message>
         <location filename="../../../backend/src/toolmodel.cpp" line="1961"/>
         <source>Tool %1 mesh loaded from %2</source>
         <extracomment>Status message: %1 = name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maillage de l&apos;outil %1 chargé depuis %2</translation>
     </message>
 </context>
 <context>
@@ -10251,85 +10251,85 @@ Rotation (rad)
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="33"/>
         <source>Tools</source>
         <extracomment>Title: Referring to user-imported 3D objects</extracomment>
-        <translation type="unfinished">Outils</translation>
+        <translation>Outils</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="60"/>
         <source>Stationary tool is incompatible with rotary tables and linear tracks</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if both rotary table and linear track is selected</extracomment>
-        <translation type="unfinished">Un outil stationnaire n&apos;est pas compatible avec les tables rotatives et les axes linéaires</translation>
+        <translation>Un outil stationnaire n&apos;est pas compatible avec les tables rotatives et les axes linéaires</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="62"/>
         <source>Stationary tool is incompatible with %1</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
-        <translation type="unfinished">Un outil stationnaire n&apos;est pas compatible avec %1</translation>
+        <translation>Un outil stationnaire n&apos;est pas compatible avec %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="64"/>
         <source>rotary tables</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
-        <translation type="unfinished">les tables rotatives</translation>
+        <translation>les tables rotatives</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="66"/>
         <source>linear tracks</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
-        <translation type="unfinished">les axes linéaires</translation>
+        <translation>les axes linéaires</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="74"/>
         <source>Stationary Tool</source>
         <extracomment>Checkbox. Select if robot should hold work object instead of tool</extracomment>
-        <translation type="unfinished">Outil stationnaire</translation>
+        <translation>Outil stationnaire</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="93"/>
         <source>Multiple Tools</source>
         <extracomment>Checkbox. Select if robot should hold work object instead of tool</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Outils multiples</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="106"/>
         <source>Allow adding multiple tools in the project</source>
         <extracomment>Tool tip. Shown when hovering over multiple tools checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Autoriser l&apos;ajout de plusieurs outils dans le projet</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="115"/>
         <source>This configuration will delete all tools except Tool %1. Are you sure you want to proceed?</source>
         <extracomment>Content for confirmation popup.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cette configuration supprimera tous les outils sauf l&apos;outil %1. Êtes-vous sûr de vouloir continuer ?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="119"/>
         <source>A desired tool must be selected before disabling this option. All other tools will be deleted from the project</source>
         <extracomment>Content for confirmation popup. Content for confirmation popup.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Un outil souhaité doit être sélectionné avant de désactiver cette option. Tous les autres outils seront supprimés du projet</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="121"/>
         <source>This configuration will disable using multiple tools. Are you sure you want to proceed?</source>
         <extracomment>Content for confirmation popup.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cette configuration désactivera l&apos;utilisation de plusieurs outils. Êtes-vous sûr de vouloir continuer ?</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="125"/>
         <source>Cancel</source>
         <extracomment>Cancel button for confirmation popup</extracomment>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="127"/>
         <source>Ok</source>
         <extracomment>Acknowledge button for confirmation popup</extracomment>
-        <translation type="unfinished">Ok</translation>
+        <translation>Ok</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="152"/>
         <source>Add</source>
         <extracomment>Button: Add additional object</extracomment>
-        <translation type="unfinished">Ajouter</translation>
+        <translation>Ajouter</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="162"/>
@@ -10338,19 +10338,19 @@ Rotation (rad)
         <extracomment>Tool tip Tool tip
 ----------
 Tool tip</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Les outils multiples doivent être activés pour ajouter plus d&apos;outils</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="164"/>
         <source>Tool number must be unique</source>
         <extracomment>Tool tip</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Le numéro d&apos;outil doit être unique</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/ToolSettingEditor.qml" line="172"/>
         <source>Tool Number</source>
         <extracomment>Label for text fields</extracomment>
-        <translation type="unfinished">Numéro de l&apos;outil</translation>
+        <translation>Numéro de l&apos;outil</translation>
     </message>
 </context>
 <context>
@@ -10463,25 +10463,25 @@ Tool tip</extracomment>
         <location filename="../../IrbcamQml/Popups/Assets/ToolsInfo.qml" line="30"/>
         <source>Tool %1</source>
         <extracomment>Label: %1 = Tool number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Outil %1</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/ToolsInfo.qml" line="46"/>
         <source>Click %1here%2 to use this tool in all targets</source>
         <extracomment>Label: Refers to Tool number undefined</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez %1ici%2 pour utiliser cet outil dans toutes les cibles</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/ToolsInfo.qml" line="66"/>
         <source>Overwrite Tool Number</source>
         <extracomment>Popup title: %1 = tool number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Écraser le numéro d&apos;outil</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Popups/Assets/ToolsInfo.qml" line="68"/>
         <source>Are you sure you want to overwrite tool number of all targets to %1?</source>
         <extracomment>Popup content text: %1 = name of geometry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir écraser le numéro d&apos;outil de toutes les cibles par %1 ?</translation>
     </message>
 </context>
 <context>
