@@ -333,7 +333,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="323"/>
         <source>Robot flange</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Bride du robot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="494"/>
@@ -440,13 +440,13 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="205"/>
         <source>Visualization settings</source>
         <extracomment>Tool-tip for button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres de visualisation</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="215"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ce module contient des modifications non enregistrées</translation>
     </message>
     <message>
         <source>Tool Trace</source>
@@ -5461,7 +5461,7 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="109"/>
         <source>Only available if &apos;Visualization Settings&apos; → &apos;Targets&apos; is enabled</source>
         <extracomment>Info card detail: Select target</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Uniquement disponible si &apos;Visualization Settings&apos; → &apos;Targets&apos; est activé</translation>
     </message>
     <message>
         <source>Only available if &apos;Tool Trace&apos; → &apos;Show Targets&apos; is enabled</source>
@@ -8831,7 +8831,7 @@ Cela peut arriver si la sauvegarde vient d&apos;une version d&apos;IRBCAM plus a
         <location filename="../../../backend/src/stationviewer.cpp" line="354"/>
         <source>Failed to load visualization settings</source>
         <extracomment>Warning message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Échec du chargement des paramètres de visualisation</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="650"/>
@@ -10904,163 +10904,163 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="90"/>
         <source>Reset value to default</source>
         <extracomment>Tool-tip for reset button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Réinitialiser la valeur par défaut</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="220"/>
         <source>Visualization Settings</source>
         <extracomment>Header</extracomment>
-        <translation type="unfinished">Options de visualisation</translation>
+        <translation>Options de visualisation</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="228"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ce module contient des modifications non enregistrées</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="290"/>
         <source>Enable tool animation</source>
         <extracomment>Checkbox label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Activer l&apos;animation de l&apos;outil</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="292"/>
         <source>Enable visualization of tool activation in the 3D scene. Currently only available for tool type &apos;Weldgun&apos;, for other tool types this setting will have no effect (more animations will be added in the future)</source>
         <extracomment>Tool-tip describing the effects of &quot;Enable tool animation&quot; checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Activer la visualisation de l&apos;activation de l&apos;outil dans la scène 3D. Actuellement disponible uniquement pour le type d&apos;outil &apos;Weldgun&apos;, pour les autres types d&apos;outils ce paramètre n&apos;aura aucun effet (d&apos;autres animations seront ajoutées à l&apos;avenir)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="306"/>
         <source>Enable tool trace</source>
         <extracomment>Checkbox label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Activer la trace de l&apos;outil</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="308"/>
         <source>Enable/disable visualization of the tool trace in the 3D scene</source>
         <extracomment>Tool-tip describing the effects of &quot;Enable tool trace&quot; checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Activer/désactiver la visualisation de la trace de l&apos;outil dans la scène 3D</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="323"/>
         <source>Show targets</source>
         <extracomment>Checkbox label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les cibles</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="325"/>
         <source>Enable/disable visualization of the targets in the 3D scene</source>
         <extracomment>Tool-tip for &quot;Show targets&quot; checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Activer/désactiver la visualisation des cibles dans la scène 3D</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="346"/>
         <source>Tool Trace</source>
         <extracomment>Category separator label</extracomment>
-        <translation type="unfinished">Trace de l&apos;outil</translation>
+        <translation>Trace de l&apos;outil</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="351"/>
         <source>Mode</source>
         <extracomment>Drop-down menu label. Referring to tool trace mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mode</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="353"/>
         <source>Tool trace mode</source>
         <extracomment>Tool-tip for tool trace mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mode trace d&apos;outil</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="361"/>
         <source>Show full path</source>
         <extracomment>Drop-down menu alternative: Tool Trace -&gt; Mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le chemin complet</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="363"/>
         <source>Show the entire path and highliht animation progress</source>
         <extracomment>Tool-tip description of: Tool Trace -&gt; Mode -&gt; Show full path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher le chemin entier et mettre en surbrillance la progression de l&apos;animation</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="368"/>
         <source>Show progress</source>
         <extracomment>Drop-down menu alternative: Tool Trace -&gt; Mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher la progression</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="370"/>
         <source>Only show animation progress</source>
         <extracomment>Tool-tip description of: Tool Trace -&gt; Mode -&gt; Show progress</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher uniquement la progression de l&apos;animation</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="378"/>
         <source>Show rapid moves</source>
         <extracomment>Checkbox label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les mouvements rapides</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="380"/>
         <source>If this setting is disabled then rapid moves will not be shown in the tool trace. Only available if &apos;Tool trace mode&apos; is set to &apos;Show progress&apos;, otherwise this setting will have no effect</source>
         <extracomment>Tool-tip for &quot;Show rapid moves&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Si ce paramètre est désactivé, les mouvements rapides ne seront pas affichés dans la trace de l&apos;outil. Uniquement disponible si &apos;Mode de trace d&apos;outil&apos; est défini sur &apos;Afficher la progression&apos;, sinon ce paramètre n&apos;aura aucun effet</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="391"/>
         <source>Show tool off moves</source>
         <extracomment>Checkbox label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les mouvements avec outil désactivé</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="393"/>
         <source>If this setting is disabled then moves where the tool is turned off will not be shown in the tool trace. Only available if &apos;Tool trace mode&apos; is set to &apos;Show progress&apos;, otherwise this setting will have no effect</source>
         <extracomment>Tool-tip for &quot;Show tool off moves&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Si ce paramètre est désactivé, les mouvements où l&apos;outil est désactivé ne seront pas affichés dans la trace de l&apos;outil. Disponible uniquement si &apos;Tool trace mode&apos; est défini sur &apos;Show progress&apos;, sinon ce paramètre n&apos;aura aucun effet</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="404"/>
         <source>Width</source>
         <extracomment>Numeric input label. Refers to the thickness of the tool trace lines</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Largeur</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="406"/>
         <source>The thickness of the tool trace lines drawn in the 3D scene</source>
         <extracomment>Tool-tip for Tool trace &quot;Width&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;épaisseur des lignes de trace de l&apos;outil dessinées dans la scène 3D</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="424"/>
         <source>Arc segment resolution</source>
         <extracomment>Numeric input label. Category Tool trace</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Résolution de segment d&apos;arc</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="426"/>
         <source>The resolution of the tool trace arc moves drawn in the 3D scene. A smaller number will make arcs look smoother, but can have a significant impact on the 3D scene frame rate for large paths with many arc moves. This setting is for visualization only, it has no effect on generated robot code</source>
         <extracomment>Tool-tip for Tool trace &quot;Arc segment resolution&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>La résolution des mouvements en arc de la trace de l&apos;outil dessinés dans la scène 3D. Un nombre plus petit rendra les arcs plus lisses, mais peut avoir un impact significatif sur la fréquence d&apos;images de la scène 3D pour les grandes trajectoires avec de nombreux mouvements en arc. Ce paramètre est uniquement pour la visualisation, il n&apos;a aucun effet sur le code robot généré</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="443"/>
         <source>Joint move resolution</source>
         <extracomment>Numeric input label. Category Tool trace</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Résolution de mouvement articulaire</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="445"/>
         <source>The resolution of the tool trace joint moves drawn in the 3D scene. A smaller number will make joint moves look smoother, but can have a significant impact on the 3D scene frame rate for large paths with many joint moves. This setting is for visualization only, it has no effect on generated robot code</source>
         <extracomment>Tool-tip for Tool trace &quot;Joint move resolution&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>La résolution des mouvements articulaires de la trace d&apos;outil dessinés dans la scène 3D. Une valeur plus petite rendra les mouvements articulaires plus fluides, mais peut avoir un impact significatif sur la fréquence d&apos;images de la scène 3D pour les trajectoires longues comportant de nombreux mouvements articulaires. Ce paramètre est uniquement pour la visualisation, il n&apos;a aucun effet sur le code robot généré</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="467"/>
         <source>Targets</source>
         <extracomment>Category separator label</extracomment>
-        <translation type="unfinished">Cibles</translation>
+        <translation>Cibles</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="473"/>
@@ -11069,85 +11069,85 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <extracomment>Numeric input label. Refers to the size of targets visualized in the 3D scene
 ----------
 Numeric input label. Refers to the total size of the floor</extracomment>
-        <translation type="unfinished">Taille</translation>
+        <translation>Taille</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="475"/>
         <source>The size of targets visualized in the 3D scene</source>
         <extracomment>Tool-tip for Targets &quot;Size&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>La taille des cibles visualisées dans la scène 3D</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="492"/>
         <source>Color</source>
         <extracomment>Numeric input label. Refers to the color of targets visualized in the 3D scene</extracomment>
-        <translation type="unfinished">Couleur</translation>
+        <translation>Couleur</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="494"/>
         <source>The color of targets visualized in the 3D scene</source>
         <extracomment>Tool-tip for Targets &quot;Color&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>La couleur des cibles visualisées dans la scène 3D</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="508"/>
         <source>Highlight color</source>
         <extracomment>Numeric input label. Refers to the color of highlighted targets visualized in the 3D scene</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Couleur de surbrillance</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="510"/>
         <source>The color of selected targets visualized in the 3D scene. By default this is a brightened version of the &apos;Color&apos; setting, if this value is set then this behaviour is overridden</source>
         <extracomment>Tool-tip for Targets &quot;Highlight color&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>La couleur des cibles sélectionnées visualisées dans la scène 3D. Par défaut, il s&apos;agit d&apos;une version éclaircie du paramètre &apos;Color&apos;, si cette valeur est définie alors ce comportement est remplacé</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="525"/>
         <source>Floor</source>
         <extracomment>Category separator label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sol</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="530"/>
         <source>Show floor</source>
         <extracomment>Checkbox</extracomment>
-        <translation type="unfinished">Afficher le sol</translation>
+        <translation>Afficher le sol</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="546"/>
         <source>The desired length of one side of the floor (the floor is always square). Note that the actual size of the floor is dependant on the &apos;Cell size&apos; setting. The actual size is calculated as the nearest floored even multiple of &apos;Cell size&apos; (minimum 2). You can hover the input field to see the calculated actual size of the floor</source>
         <extracomment>Tool-tip for Floor &quot;Size&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>La longueur souhaitée d&apos;un côté du sol (le sol est toujours carré). Notez que la taille réelle du sol dépend du paramètre &apos;Taille de cellule&apos;. La taille réelle est calculée comme le multiple pair inférieur le plus proche de &apos;Taille de cellule&apos; (minimum 2). Vous pouvez survoler le champ de saisie pour voir la taille réelle calculée du sol</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="562"/>
         <source>Actual size: %1 mm</source>
         <extracomment>Tool-tip: %1 calculated size of the floor</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Taille réelle : %1 mm</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="569"/>
         <source>Cell size</source>
         <extracomment>Numeric input label. Refers to the size of one cell in the floor</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Taille de cellule</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="571"/>
         <source>The length of one side of a floor cell (the floor cells are always square)</source>
         <extracomment>Tool-tip for Floor &quot;Cell size&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>La longueur d&apos;un côté d&apos;une cellule de sol (les cellules de sol sont toujours carrées)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="587"/>
         <source>Z-offset</source>
         <extracomment>Numeric input label. Refers to the height offset of the floor</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Décalage Z</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="589"/>
         <source>Z-offset (height) for the floor. Use this if you want to lift/lower the floor in the 3D scene</source>
         <extracomment>Tool-tip for Floor &quot;Z-offset&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Décalage Z (hauteur) pour le sol. Utilisez ceci si vous voulez relever ou abaisser le sol dans la scène 3D</translation>
     </message>
 </context>
 <context>
