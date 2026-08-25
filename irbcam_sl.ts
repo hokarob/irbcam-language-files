@@ -277,7 +277,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="323"/>
         <source>Robot flange</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Robotska prirobnica</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="393"/>
@@ -435,13 +435,13 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="205"/>
         <source>Visualization settings</source>
         <extracomment>Tool-tip for button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nastavitve vizualizacije</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="215"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
-        <translation type="unfinished">Ta modul vsebuje neshranjene spremembe</translation>
+        <translation>Ta modul vsebuje neshranjene spremembe</translation>
     </message>
     <message>
         <source>Tool Trace</source>
@@ -5503,7 +5503,7 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="109"/>
         <source>Only available if &apos;Visualization Settings&apos; → &apos;Targets&apos; is enabled</source>
         <extracomment>Info card detail: Select target</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Na voljo samo, če je omogočeno &apos;Visualization Settings&apos; → &apos;Targets&apos;</translation>
     </message>
     <message>
         <source>Only available if &apos;Tool Trace&apos; → &apos;Show Targets&apos; is enabled</source>
@@ -8870,7 +8870,7 @@ To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
         <location filename="../../../backend/src/stationviewer.cpp" line="354"/>
         <source>Failed to load visualization settings</source>
         <extracomment>Warning message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni uspelo naložiti nastavitev vizualizacije</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="650"/>
@@ -10948,163 +10948,163 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="90"/>
         <source>Reset value to default</source>
         <extracomment>Tool-tip for reset button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ponastavi vrednost na privzeto</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="220"/>
         <source>Visualization Settings</source>
         <extracomment>Header</extracomment>
-        <translation type="unfinished">Nastavitve vizualizacije</translation>
+        <translation>Nastavitve vizualizacije</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="228"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
-        <translation type="unfinished">Ta modul vsebuje neshranjene spremembe</translation>
+        <translation>Ta modul vsebuje neshranjene spremembe</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="290"/>
         <source>Enable tool animation</source>
         <extracomment>Checkbox label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Omogoči animacijo orodja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="292"/>
         <source>Enable visualization of tool activation in the 3D scene. Currently only available for tool type &apos;Weldgun&apos;, for other tool types this setting will have no effect (more animations will be added in the future)</source>
         <extracomment>Tool-tip describing the effects of &quot;Enable tool animation&quot; checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Omogoči vizualizacijo aktivacije orodja v 3D sceni. Trenutno na voljo samo za tip orodja &apos;Weldgun&apos;, za druge tipe orodij ta nastavitev ne bo imela učinka (v prihodnosti bodo dodane dodatne animacije)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="306"/>
         <source>Enable tool trace</source>
         <extracomment>Checkbox label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Omogoči sled orodja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="308"/>
         <source>Enable/disable visualization of the tool trace in the 3D scene</source>
         <extracomment>Tool-tip describing the effects of &quot;Enable tool trace&quot; checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Omogoči/onemogoči vizualizacijo sledi orodja v 3D sceni</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="323"/>
         <source>Show targets</source>
         <extracomment>Checkbox label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži cilje</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="325"/>
         <source>Enable/disable visualization of the targets in the 3D scene</source>
         <extracomment>Tool-tip for &quot;Show targets&quot; checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Omogoči/onemogoči vizualizacijo ciljev v 3D sceni</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="346"/>
         <source>Tool Trace</source>
         <extracomment>Category separator label</extracomment>
-        <translation type="unfinished">Sled orodja</translation>
+        <translation>Sled orodja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="351"/>
         <source>Mode</source>
         <extracomment>Drop-down menu label. Referring to tool trace mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Način</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="353"/>
         <source>Tool trace mode</source>
         <extracomment>Tool-tip for tool trace mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Način sledenja orodja</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="361"/>
         <source>Show full path</source>
         <extracomment>Drop-down menu alternative: Tool Trace -&gt; Mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži polno pot</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="363"/>
         <source>Show the entire path and highliht animation progress</source>
         <extracomment>Tool-tip description of: Tool Trace -&gt; Mode -&gt; Show full path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži celotno pot in poudari napredek animacije</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="368"/>
         <source>Show progress</source>
         <extracomment>Drop-down menu alternative: Tool Trace -&gt; Mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pokaži napredek</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="370"/>
         <source>Only show animation progress</source>
         <extracomment>Tool-tip description of: Tool Trace -&gt; Mode -&gt; Show progress</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži samo napredek animacije</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="378"/>
         <source>Show rapid moves</source>
         <extracomment>Checkbox label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži hitre premike</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="380"/>
         <source>If this setting is disabled then rapid moves will not be shown in the tool trace. Only available if &apos;Tool trace mode&apos; is set to &apos;Show progress&apos;, otherwise this setting will have no effect</source>
         <extracomment>Tool-tip for &quot;Show rapid moves&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Če je ta nastavitev onemogočena, se hitri premiki ne bodo prikazali v sledilniku orodja. Na voljo samo, če je &apos;Tool trace mode&apos; nastavljen na &apos;Show progress&apos;, sicer ta nastavitev ne bo imela učinka</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="391"/>
         <source>Show tool off moves</source>
         <extracomment>Checkbox label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Prikaži premike z izklopljenim orodjem</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="393"/>
         <source>If this setting is disabled then moves where the tool is turned off will not be shown in the tool trace. Only available if &apos;Tool trace mode&apos; is set to &apos;Show progress&apos;, otherwise this setting will have no effect</source>
         <extracomment>Tool-tip for &quot;Show tool off moves&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Če je ta nastavitev onemogočena, premiki, kjer je orodje izklopljeno, ne bodo prikazani v sledi orodja. Na voljo samo, če je &apos;Tool trace mode&apos; nastavljen na &apos;Show progress&apos;, sicer ta nastavitev ne bo imela učinka</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="404"/>
         <source>Width</source>
         <extracomment>Numeric input label. Refers to the thickness of the tool trace lines</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Širina</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="406"/>
         <source>The thickness of the tool trace lines drawn in the 3D scene</source>
         <extracomment>Tool-tip for Tool trace &quot;Width&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Debelina črt sledi orodja narisanih v 3D sceni</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="424"/>
         <source>Arc segment resolution</source>
         <extracomment>Numeric input label. Category Tool trace</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ločljivost segmenta loka</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="426"/>
         <source>The resolution of the tool trace arc moves drawn in the 3D scene. A smaller number will make arcs look smoother, but can have a significant impact on the 3D scene frame rate for large paths with many arc moves. This setting is for visualization only, it has no effect on generated robot code</source>
         <extracomment>Tool-tip for Tool trace &quot;Arc segment resolution&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ločljivost premikov loka sledi orodja, narisanih v 3D sceni. Manjše število bo naredilo loke videti bolj gladke, vendar lahko ima pomemben vpliv na hitrost sličic 3D scene za velike poti z mnogimi premiki loka. Ta nastavitev je samo za vizualizacijo, nima vpliva na generirano kodo robota</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="443"/>
         <source>Joint move resolution</source>
         <extracomment>Numeric input label. Category Tool trace</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Razreševanje zglobnega premika</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="445"/>
         <source>The resolution of the tool trace joint moves drawn in the 3D scene. A smaller number will make joint moves look smoother, but can have a significant impact on the 3D scene frame rate for large paths with many joint moves. This setting is for visualization only, it has no effect on generated robot code</source>
         <extracomment>Tool-tip for Tool trace &quot;Joint move resolution&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ločljivost premikov sklepov v sledilni poti orodja, narisanih v 3D sceni. Manjše število bo premike sklepov naredilo bolj gladke, vendar lahko ima pomemben vpliv na hitrost sličic v 3D sceni za velike poti z mnogimi premiki sklepov. Ta nastavitev je samo za vizualizacijo, nima vpliva na generirano kodo robota</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="467"/>
         <source>Targets</source>
         <extracomment>Category separator label</extracomment>
-        <translation type="unfinished">Točke</translation>
+        <translation>Točke</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="473"/>
@@ -11113,85 +11113,85 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <extracomment>Numeric input label. Refers to the size of targets visualized in the 3D scene
 ----------
 Numeric input label. Refers to the total size of the floor</extracomment>
-        <translation type="unfinished">Velikost</translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="475"/>
         <source>The size of targets visualized in the 3D scene</source>
         <extracomment>Tool-tip for Targets &quot;Size&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Velikost tarč prikazanih v 3D sceni</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="492"/>
         <source>Color</source>
         <extracomment>Numeric input label. Refers to the color of targets visualized in the 3D scene</extracomment>
-        <translation type="unfinished">Barva</translation>
+        <translation>Barva</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="494"/>
         <source>The color of targets visualized in the 3D scene</source>
         <extracomment>Tool-tip for Targets &quot;Color&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Barva ciljev prikazanih v 3D sceni</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="508"/>
         <source>Highlight color</source>
         <extracomment>Numeric input label. Refers to the color of highlighted targets visualized in the 3D scene</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Barva poudarka</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="510"/>
         <source>The color of selected targets visualized in the 3D scene. By default this is a brightened version of the &apos;Color&apos; setting, if this value is set then this behaviour is overridden</source>
         <extracomment>Tool-tip for Targets &quot;Highlight color&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Barva izbranih ciljev, prikazanih v 3D sceni. Privzeto je to posvetljena različica nastavitve &apos;Color&apos;, če je ta vrednost nastavljena, je to vedenje preglaseno</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="525"/>
         <source>Floor</source>
         <extracomment>Category separator label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tla</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="530"/>
         <source>Show floor</source>
         <extracomment>Checkbox</extracomment>
-        <translation type="unfinished">Prikaži tla</translation>
+        <translation>Prikaži tla</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="546"/>
         <source>The desired length of one side of the floor (the floor is always square). Note that the actual size of the floor is dependant on the &apos;Cell size&apos; setting. The actual size is calculated as the nearest floored even multiple of &apos;Cell size&apos; (minimum 2). You can hover the input field to see the calculated actual size of the floor</source>
         <extracomment>Tool-tip for Floor &quot;Size&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Želena dolžina ene strani tal (tla so vedno kvadratna). Upoštevajte, da je dejanska velikost tal odvisna od nastavitve &apos;Velikost celice&apos;. Dejanska velikost se izračuna kot najbližji zaokroženi navzdol sodi večkratnik &apos;Velikosti celice&apos; (najmanj 2). Lahko premaknete miško nad vnosno polje, da vidite izračunano dejansko velikost tal</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="562"/>
         <source>Actual size: %1 mm</source>
         <extracomment>Tool-tip: %1 calculated size of the floor</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dejanska velikost: %1 mm</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="569"/>
         <source>Cell size</source>
         <extracomment>Numeric input label. Refers to the size of one cell in the floor</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Velikost celice</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="571"/>
         <source>The length of one side of a floor cell (the floor cells are always square)</source>
         <extracomment>Tool-tip for Floor &quot;Cell size&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dolžina ene strani talne celice (talne celice so vedno kvadratne)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="587"/>
         <source>Z-offset</source>
         <extracomment>Numeric input label. Refers to the height offset of the floor</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Z-odmik</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="589"/>
         <source>Z-offset (height) for the floor. Use this if you want to lift/lower the floor in the 3D scene</source>
         <extracomment>Tool-tip for Floor &quot;Z-offset&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Z-odmik (višina) za tla. Uporabite to, če želite dvigniti/spustiti tla v 3D sceni</translation>
     </message>
 </context>
 <context>
