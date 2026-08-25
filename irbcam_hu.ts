@@ -293,7 +293,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="323"/>
         <source>Robot flange</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Robot karima</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="393"/>
@@ -447,13 +447,13 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="205"/>
         <source>Visualization settings</source>
         <extracomment>Tool-tip for button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vizualizációs beállítások</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/AnimationBar.qml" line="215"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
-        <translation type="unfinished">Ez a modul nem mentett módosításokat tartalmaz</translation>
+        <translation>Ez a modul nem mentett módosításokat tartalmaz</translation>
     </message>
     <message>
         <source>Tool Trace</source>
@@ -5855,7 +5855,7 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <location filename="../../IrbcamQml/Views/Overlay3D.qml" line="109"/>
         <source>Only available if &apos;Visualization Settings&apos; → &apos;Targets&apos; is enabled</source>
         <extracomment>Info card detail: Select target</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Csak akkor érhető el, ha a &apos;Visualization Settings&apos; → &apos;Targets&apos; engedélyezve van</translation>
     </message>
     <message>
         <source>Only available if &apos;Tool Trace&apos; → &apos;Show Targets&apos; is enabled</source>
@@ -9579,7 +9579,7 @@ Ez azért lehet, mert a mentés egy régebbi verzióból származik</translation
         <location filename="../../../backend/src/stationviewer.cpp" line="354"/>
         <source>Failed to load visualization settings</source>
         <extracomment>Warning message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült betölteni a vizualizációs beállításokat</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationviewer.cpp" line="650"/>
@@ -11629,163 +11629,163 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="90"/>
         <source>Reset value to default</source>
         <extracomment>Tool-tip for reset button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Érték visszaállítása alapértelmezettre</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="220"/>
         <source>Visualization Settings</source>
         <extracomment>Header</extracomment>
-        <translation type="unfinished">Vizualizációs beállítások</translation>
+        <translation>Vizualizációs beállítások</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="228"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
-        <translation type="unfinished">Ez a modul nem mentett módosításokat tartalmaz</translation>
+        <translation>Ez a modul nem mentett módosításokat tartalmaz</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="290"/>
         <source>Enable tool animation</source>
         <extracomment>Checkbox label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Szerszám animációjának engedélyezése</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="292"/>
         <source>Enable visualization of tool activation in the 3D scene. Currently only available for tool type &apos;Weldgun&apos;, for other tool types this setting will have no effect (more animations will be added in the future)</source>
         <extracomment>Tool-tip describing the effects of &quot;Enable tool animation&quot; checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Szerszám aktiválásának vizualizációjának engedélyezése a 3D jelenetben. Jelenleg csak a &apos;Weldgun&apos; szerszámtípusra érhető el, más szerszámtípusok esetén ez a beállítás nem lesz hatással (a jövőben további animációk kerülnek hozzáadásra)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="306"/>
         <source>Enable tool trace</source>
         <extracomment>Checkbox label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Eszköz nyomkövetés engedélyezése</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="308"/>
         <source>Enable/disable visualization of the tool trace in the 3D scene</source>
         <extracomment>Tool-tip describing the effects of &quot;Enable tool trace&quot; checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A szerszám nyomvonalának megjelenítésének engedélyezése/letiltása a 3D jelenetben</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="323"/>
         <source>Show targets</source>
         <extracomment>Checkbox label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Célok megjelenítése</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="325"/>
         <source>Enable/disable visualization of the targets in the 3D scene</source>
         <extracomment>Tool-tip for &quot;Show targets&quot; checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Célok megjelenítésének engedélyezése/letiltása a 3D jelenetben</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="346"/>
         <source>Tool Trace</source>
         <extracomment>Category separator label</extracomment>
-        <translation type="unfinished">Eszköz Nyomvonal</translation>
+        <translation>Eszköz Nyomvonal</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="351"/>
         <source>Mode</source>
         <extracomment>Drop-down menu label. Referring to tool trace mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mód</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="353"/>
         <source>Tool trace mode</source>
         <extracomment>Tool-tip for tool trace mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Szerszám nyomkövetés mód</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="361"/>
         <source>Show full path</source>
         <extracomment>Drop-down menu alternative: Tool Trace -&gt; Mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Teljes útvonal megjelenítése</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="363"/>
         <source>Show the entire path and highliht animation progress</source>
         <extracomment>Tool-tip description of: Tool Trace -&gt; Mode -&gt; Show full path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mutasd meg a teljes útvonalat és kiemeld az animáció előrehaladását</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="368"/>
         <source>Show progress</source>
         <extracomment>Drop-down menu alternative: Tool Trace -&gt; Mode</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Haladás megjelenítése</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="370"/>
         <source>Only show animation progress</source>
         <extracomment>Tool-tip description of: Tool Trace -&gt; Mode -&gt; Show progress</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Csak az animáció előrehaladását mutassa</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="378"/>
         <source>Show rapid moves</source>
         <extracomment>Checkbox label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Gyors mozgások megjelenítése</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="380"/>
         <source>If this setting is disabled then rapid moves will not be shown in the tool trace. Only available if &apos;Tool trace mode&apos; is set to &apos;Show progress&apos;, otherwise this setting will have no effect</source>
         <extracomment>Tool-tip for &quot;Show rapid moves&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ha ez a beállítás le van tiltva, akkor a gyors mozgások nem jelennek meg a szerszám nyomában. Csak akkor érhető el, ha a &apos;Tool trace mode&apos; &apos;Show progress&apos; értékre van állítva, különben ennek a beállításnak nincs hatása</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="391"/>
         <source>Show tool off moves</source>
         <extracomment>Checkbox label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Szerszám kikapcsolva mozgások megjelenítése</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="393"/>
         <source>If this setting is disabled then moves where the tool is turned off will not be shown in the tool trace. Only available if &apos;Tool trace mode&apos; is set to &apos;Show progress&apos;, otherwise this setting will have no effect</source>
         <extracomment>Tool-tip for &quot;Show tool off moves&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ha ez a beállítás le van tiltva, akkor azok a mozgások, ahol a szerszám ki van kapcsolva, nem jelennek meg a szerszám nyomkövetésében. Csak akkor érhető el, ha a &apos;Tool trace mode&apos; &apos;Show progress&apos; értékre van állítva, különben ennek a beállításnak nincs hatása</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="404"/>
         <source>Width</source>
         <extracomment>Numeric input label. Refers to the thickness of the tool trace lines</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Szélesség</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="406"/>
         <source>The thickness of the tool trace lines drawn in the 3D scene</source>
         <extracomment>Tool-tip for Tool trace &quot;Width&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A 3D jelenetben rajzolt szerszámnyomvonalak vastagsága</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="424"/>
         <source>Arc segment resolution</source>
         <extracomment>Numeric input label. Category Tool trace</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ívszegmens felbontás</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="426"/>
         <source>The resolution of the tool trace arc moves drawn in the 3D scene. A smaller number will make arcs look smoother, but can have a significant impact on the 3D scene frame rate for large paths with many arc moves. This setting is for visualization only, it has no effect on generated robot code</source>
         <extracomment>Tool-tip for Tool trace &quot;Arc segment resolution&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A 3D jelenetben rajzolt szerszámnyomvonal ívmozgásainak felbontása. A kisebb szám simábbá teszi az íveket, de jelentős hatással lehet a 3D jelenet képkockasebességére nagy útvonalak esetén sok ívmozgással. Ez a beállítás csak a megjelenítéshez van, nincs hatása a generált robotkódra</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="443"/>
         <source>Joint move resolution</source>
         <extracomment>Numeric input label. Category Tool trace</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Csuklós mozgás felbontás</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="445"/>
         <source>The resolution of the tool trace joint moves drawn in the 3D scene. A smaller number will make joint moves look smoother, but can have a significant impact on the 3D scene frame rate for large paths with many joint moves. This setting is for visualization only, it has no effect on generated robot code</source>
         <extracomment>Tool-tip for Tool trace &quot;Joint move resolution&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A 3D jelenetben ábrázolt szerszámnyomvonal ízületmozgásainak felbontása. A kisebb szám simábbá teszi az ízületmozgásokat, de jelentős hatással lehet a 3D jelenet képkockasebességére nagy útvonalak esetén, sok ízületmozgással. Ez a beállítás csak a vizualizációhoz szolgál, nincs hatása a generált robotkódra</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="467"/>
         <source>Targets</source>
         <extracomment>Category separator label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Célok</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="473"/>
@@ -11794,85 +11794,85 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <extracomment>Numeric input label. Refers to the size of targets visualized in the 3D scene
 ----------
 Numeric input label. Refers to the total size of the floor</extracomment>
-        <translation type="unfinished">Méret</translation>
+        <translation>Méret</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="475"/>
         <source>The size of targets visualized in the 3D scene</source>
         <extracomment>Tool-tip for Targets &quot;Size&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A 3D jelenetben megjelenített célpontok mérete</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="492"/>
         <source>Color</source>
         <extracomment>Numeric input label. Refers to the color of targets visualized in the 3D scene</extracomment>
-        <translation type="unfinished">Szín</translation>
+        <translation>Szín</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="494"/>
         <source>The color of targets visualized in the 3D scene</source>
         <extracomment>Tool-tip for Targets &quot;Color&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A 3D jelenetben vizualizált célpontok színe</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="508"/>
         <source>Highlight color</source>
         <extracomment>Numeric input label. Refers to the color of highlighted targets visualized in the 3D scene</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kiemelés színe</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="510"/>
         <source>The color of selected targets visualized in the 3D scene. By default this is a brightened version of the &apos;Color&apos; setting, if this value is set then this behaviour is overridden</source>
         <extracomment>Tool-tip for Targets &quot;Highlight color&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A 3D jelenetben megjelenített kiválasztott célpontok színe. Alapértelmezés szerint ez a &apos;Color&apos; beállítás világosabb változata, ha ez az érték be van állítva, akkor ez a viselkedés felülíródik</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="525"/>
         <source>Floor</source>
         <extracomment>Category separator label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Padló</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="530"/>
         <source>Show floor</source>
         <extracomment>Checkbox</extracomment>
-        <translation type="unfinished">Padló megjelenítése</translation>
+        <translation>Padló megjelenítése</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="546"/>
         <source>The desired length of one side of the floor (the floor is always square). Note that the actual size of the floor is dependant on the &apos;Cell size&apos; setting. The actual size is calculated as the nearest floored even multiple of &apos;Cell size&apos; (minimum 2). You can hover the input field to see the calculated actual size of the floor</source>
         <extracomment>Tool-tip for Floor &quot;Size&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A padló egyik oldalának kívánt hossza (a padló mindig négyzet alakú). Vegye figyelembe, hogy a padló tényleges mérete a &apos;Cell size&apos; beállítástól függ. A tényleges méret a &apos;Cell size&apos; legközelebbi páros többszöröseként kerül kiszámításra (minimum 2), lefelé kerekítve. Az egérrel a beviteli mező fölé mutatva megtekintheti a padló kiszámított tényleges méretét</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="562"/>
         <source>Actual size: %1 mm</source>
         <extracomment>Tool-tip: %1 calculated size of the floor</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tényleges méret: %1 mm</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="569"/>
         <source>Cell size</source>
         <extracomment>Numeric input label. Refers to the size of one cell in the floor</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cella méret</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="571"/>
         <source>The length of one side of a floor cell (the floor cells are always square)</source>
         <extracomment>Tool-tip for Floor &quot;Cell size&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A padlócella egyik oldalának hossza (a padlócellák mindig négyzet alakúak)</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="587"/>
         <source>Z-offset</source>
         <extracomment>Numeric input label. Refers to the height offset of the floor</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Z-eltolás</translation>
     </message>
     <message>
         <location filename="../../IrbcamQml/Views/VisualizationSettings.qml" line="589"/>
         <source>Z-offset (height) for the floor. Use this if you want to lift/lower the floor in the 3D scene</source>
         <extracomment>Tool-tip for Floor &quot;Z-offset&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Z-eltolás (magasság) a padlóhoz. Használja ezt, ha fel akarja emelni vagy le akarja süllyeszteni a padlót a 3D jelenetben</translation>
     </message>
 </context>
 <context>
