@@ -6543,25 +6543,25 @@ Dešiniuoju pelės mygtuku spustelėkite, kad pamatytumėte galimas parinktis ke
         <translation>Kelias įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2253"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2254"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Nukopijuotas taikinys</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2258"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2259"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Nukopijuota %1 taikinių</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2299"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2300"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Nukopijuotas kelias</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2304"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2305"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Nukopijuota %1 kelių</translation>

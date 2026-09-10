@@ -6628,25 +6628,25 @@ Høyreklikk for å se tilgjengelige alternativer for å fylle ut banen</translat
         <translation>Bane lastet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2253"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2254"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopiert mål</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2258"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2259"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Kopiert %1 baner</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2299"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2300"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopiert bane</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2304"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2305"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Kopiert %1 baner</translation>
