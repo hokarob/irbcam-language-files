@@ -11151,32 +11151,32 @@ Målet går inte att nå med den aktuella konfigurationen</translation>
         <translation>Bana misslyckades att lösas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="397"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="406"/>
         <source>Unlock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Lås upp redigering för detta mål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="401"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="410"/>
         <source>Lock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Lås redigering för detta mål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="407"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="416"/>
         <source>Unlock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Lås upp redigering för alla mål i den här banan</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="411"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="420"/>
         <source>Lock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Lås redigering för alla mål i den här banan</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="463"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="478"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="472"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="487"/>
         <source>mm</source>
         <extracomment>Unit millimetres
 ----------
@@ -11184,98 +11184,98 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="480"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="489"/>
         <source>s</source>
         <extracomment>Unit seconds. Part of a fraction mm/s</extracomment>
         <translation>s</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="554"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="563"/>
         <source>Speed</source>
         <extracomment>Label over input field</extracomment>
         <translation>Hastighet</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="559"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="568"/>
         <source>Tool</source>
         <extracomment>Label over input field</extracomment>
         <translation>Verktyg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="565"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="574"/>
         <source>Spindle</source>
         <extracomment>Label over input field</extracomment>
         <translation>Spindel</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="571"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="580"/>
         <source>Tool CMD</source>
         <extracomment>Label over input field</extracomment>
         <translation>Verktyg CMD</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="577"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="586"/>
         <source>Gun On/Off</source>
         <extracomment>Label over input field</extracomment>
         <translation>Pistol På/Av</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="583"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="592"/>
         <source>Tool On/Off</source>
         <extracomment>Label over input field</extracomment>
         <translation>Verktyg På/Av</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="600"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="609"/>
         <source>Input</source>
         <extracomment>Dropdown menu item. Speed mode: input</extracomment>
         <translation>Input</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="605"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="614"/>
         <source>Cutting</source>
         <extracomment>Dropdown menu item. Speed mode: cutting</extracomment>
         <translation>Skärande</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="610"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="619"/>
         <source>Rapid</source>
         <extracomment>Dropdown menu item. Speed mode: rapid</extracomment>
         <translation>Snabb</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="639"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="648"/>
         <source>rpm</source>
         <extracomment>Unit: revolutions per minute</extracomment>
         <translation>varv/min</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="664"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="673"/>
         <source>V</source>
         <extracomment>Input field prefix. Denotes velocity</extracomment>
         <translation>H</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="671"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="680"/>
         <source>Motion type: </source>
         <extracomment>Droptown menu text</extracomment>
         <translation>Rörelsetyp: </translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="692"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="701"/>
         <source>Linear</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation>Linjär</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="696"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="705"/>
         <source>Joint</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation>Led</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="274"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="694"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="703"/>
         <source>Arc midpoint</source>
         <extracomment>Tooltip text
 ----------
@@ -11290,7 +11290,7 @@ Droptown menu text, motion type for target</extracomment>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="266"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="675"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="684"/>
         <source>Linear lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -11299,7 +11299,7 @@ Droptown menu text, motion type for target</extracomment>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="269"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="679"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="688"/>
         <source>Rotary lift point</source>
         <extracomment>Tooltip text
 ----------
