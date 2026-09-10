@@ -2263,7 +2263,7 @@ Only UTF-8 encoded files are supported</source>
 Es werden nur UTF-8-codierte Dateien unterstützt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="59"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="60"/>
         <source>Unsupported file type &apos;%1&apos;</source>
         <extracomment>Error message. %1 = file type</extracomment>
         <translation>Nicht unterstützter Dateityp &apos;%1&apos;</translation>
@@ -4013,7 +4013,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Mode: Fixed Position)</extr
 <context>
     <name>OptimizationInModel</name>
     <message>
-        <location filename="../../../backend/src/optimizationinmodel.cpp" line="451"/>
+        <location filename="../../../backend/src/optimizationinmodel.cpp" line="450"/>
         <source>mm</source>
         <extracomment>Unit: millimeters</extracomment>
         <translation>mm</translation>
@@ -5108,55 +5108,55 @@ Rechtsklicken, um verfügbare Optionen zum Füllen des Pfades anzuzeigen</transl
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1596"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1674"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>Fehler beim Importieren der CSV-Datei</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1602"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1680"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Pfad aus CSV importiert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1615"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1693"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Parsen der JSON-Datei</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1638"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1716"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Laden des Pfades</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1644"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1722"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Pfad geladen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2175"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2253"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Ziel kopiert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2180"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2258"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>%1 Ziele kopiert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2221"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2299"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopierter Pfad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2226"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2304"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>%1 Pfade kopiert</translation>
@@ -6166,8 +6166,8 @@ Nützlich, um Kabelverdrillungen oder ähnliche Probleme in bestimmten Situation
 <context>
     <name>RoboticsInterface</name>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="635"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="687"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="622"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="674"/>
         <source>Solving path</source>
         <extracomment>Solution progress status
 ----------
@@ -6175,14 +6175,14 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Pfad lösen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="632"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="619"/>
         <source>Idle</source>
         <extracomment>Solution progress status</extracomment>
         <translation>Bereit</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="638"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="690"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="625"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="677"/>
         <source>Verifying path</source>
         <extracomment>Solution progress status
 ----------
@@ -6190,8 +6190,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Pfad überprüfen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="641"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="693"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="628"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="680"/>
         <source>Configuring max distance</source>
         <extracomment>Solution progress status
 ----------
@@ -6199,8 +6199,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Maximale Entfernung konfigurieren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="644"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="696"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="631"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="683"/>
         <source>Setting up linear lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -6208,8 +6208,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Lineare Hebepunkte einrichten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="647"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="699"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="634"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="686"/>
         <source>Setting up rotary lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -6217,8 +6217,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Drehbare Hebepunkte einrichten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="650"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="702"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="637"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="689"/>
         <source>Solving rotary lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -6226,110 +6226,110 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Drehbare Hebepunkte lösen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="678"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="665"/>
         <source>No error</source>
         <extracomment>Error status for solving path. Success (no error)</extracomment>
         <translation>Kein Fehler</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="681"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="668"/>
         <source>Path not solved</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pfad nicht gelöst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="684"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="671"/>
         <source>Path solved successfully</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Pfad erfolgreich gelöst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="705"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="692"/>
         <source>No solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Keine Lösung</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="708"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="695"/>
         <source>Axis limit violation</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Verletzung der Achsengrenze</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="711"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="698"/>
         <source>Solution is outside of workspace limits</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Lösung liegt außerhalb der Arbeitsbereichsgrenzen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="714"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="701"/>
         <source>This robot cannot bend backwards</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Dieser Roboter kann nicht rückwärts gebeugt werden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="717"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="704"/>
         <source>Invalid kinematic parameters</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ungültige kinematische Parameter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="720"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="707"/>
         <source>Undefined kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Undefinierter kinematischer Typ</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="723"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="710"/>
         <source>Invalid kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ungültiger kinematischer Typ</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="726"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="713"/>
         <source>Invalid joint setpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ungültiger Gelenksollwert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="729"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="716"/>
         <source>Invalid number of degrees of freedom</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ungültige Anzahl an Freiheitsgraden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="732"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="719"/>
         <source>Division by zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Division durch Null</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="735"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="722"/>
         <source>Input is null pointer</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Eingabe ist Nullzeiger</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="738"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="725"/>
         <source>Robot not loaded</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Roboter nicht geladen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="741"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="728"/>
         <source>Invalid path size</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ungültige Pfadgröße</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="744"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="731"/>
         <source>Discontinuous step</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Unstetiger Schritt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="497"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="747"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="484"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="734"/>
         <source>No targets</source>
         <extracomment>Notification: Cannot configure max distance because there are no targets
 ----------
@@ -6337,182 +6337,182 @@ Error status for solving path</extracomment>
         <translation>Keine Ziele</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="514"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="501"/>
         <source>Failed to configure max distance: No valid targets found in the requested range</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Konfigurieren der maximalen Distanz: Keine gültigen Ziele im angeforderten Bereich gefunden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="750"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="737"/>
         <source>Dynamic angle out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Dynamischer Winkel außerhalb des Bereichs</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="753"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="740"/>
         <source>Index out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Index außerhalb des Bereichs</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="756"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="743"/>
         <source>One or more targets have invalid speed</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ein oder mehrere Ziele haben ungültige Geschwindigkeit</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="759"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="746"/>
         <source>Target should not be at the rotation axis of the rotary table</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ziel sollte nicht auf der Rotationsachse des Drehtisches liegen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="762"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="749"/>
         <source>Z-axis of the target should not be aligned with the rotation axis of the rotary table</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Z-Achse des Ziels sollte nicht mit der Rotationsachse des Drehtisches ausgerichtet sein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="765"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="752"/>
         <source>Invalid arc midpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ungültiger Bogenmittelpunkt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="768"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="755"/>
         <source>Start target must be linear</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Startziel muss linear sein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="771"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="758"/>
         <source>Radius of the arc must be finite and non-zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Radius des Bogens muss endlich und ungleich Null sein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="774"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="761"/>
         <source>Distance between arc start-point and arc mid-point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Abstand zwischen Bogenstartpunkt und Bogenmittelpunkt ist zu klein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="777"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="764"/>
         <source>Distance between arc start-point and arc end-point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Abstand zwischen Bogenstartpunkt und Bogenendpunkt ist zu klein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="780"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="767"/>
         <source>Arc angle is to small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Bogenwinkel ist zu klein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="783"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="770"/>
         <source>Distance between two targets is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Abstand zwischen zwei Zielen ist zu klein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="786"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="773"/>
         <source>Angle between two targets is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Winkel zwischen zwei Zielen ist zu klein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="789"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="776"/>
         <source>Lift target must be linear</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Hebepunkt muss linear sein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="792"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="779"/>
         <source>Rotary table step angle is out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Schrittwinkel des Drehtisches ist außerhalb des Bereichs</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="795"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="782"/>
         <source>Lift distance is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Hubabstand ist zu klein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="798"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="785"/>
         <source>Length of lift direction vector is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Länge des Hubrichtungsvektors ist zu klein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="801"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="788"/>
         <source>Invalid indexed solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ungültige indexierte Lösung</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="804"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="791"/>
         <source>Invalid rotary lift point</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ungültiger drehbarer Hebepunkt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="807"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="794"/>
         <source>Lift point must be configured after all other targets are configured</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Hebepunkt muss nach der Konfiguration aller anderen Ziele konfiguriert werden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="810"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="797"/>
         <source>Two consecutive targets are not reachable with same turntable step angle</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Zwei aufeinanderfolgende Ziele sind mit demselben Drehtisch-Schrittwinkel nicht erreichbar</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="813"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="800"/>
         <source>Wrist alignment singularity</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Singularität der Handgelenkausrichtung</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="816"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1054"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="803"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1041"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Vorgang vom Benutzer abgebrochen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="819"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="806"/>
         <source>Tool not found</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Werkzeug nicht gefunden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="882"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="869"/>
         <source>Distance between targets %1 and %2 (%3 mm) exceeds recommended maximum (%4 mm)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = distance between targets, %4 = recommended maximum distance</extracomment>
         <translation>Abstand zwischen den Zielen %1 und %2 (%3 mm) überschreitet das empfohlene Maximum (%4 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="903"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="890"/>
         <source>Reorientation between targets %1 and %2 (%3°) exceeds recommended maximum (%4°)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = reorientation between targets, %4 = recommended maximum reorientation</extracomment>
         <translation>Neuausrichtung zwischen den Zielen %1 und %2 (%3°) überschreitet das empfohlene Maximum (%4°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="980"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="967"/>
         <source>%1 Rotary lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation>%1 drehbare Hebepunkte wurden hinzugefügt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="986"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="973"/>
         <source>%1 Linear lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation>%1 lineare Hebepunkte wurden hinzugefügt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="997"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="984"/>
         <source>Failed to solve path
 No targets</source>
         <extracomment>Error message. This means that there is no path to solve</extracomment>
@@ -6520,7 +6520,7 @@ No targets</source>
 Keine Ziele</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1003"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="990"/>
         <source>Operation aborted by user
 Solved %1 of %2 targets</source>
         <extracomment>Warning message. %1 = first failed index, %2 = total number of targets</extracomment>
@@ -6528,7 +6528,7 @@ Solved %1 of %2 targets</source>
 %1 von %2 Zielen gelöst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1011"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="998"/>
         <source>Failed to solve path
 Solved %1 of %2 targets</source>
         <extracomment>Error message. %1 = first failed index, %2 = total number of targets</extracomment>
@@ -6536,19 +6536,19 @@ Solved %1 of %2 targets</source>
 %1 von %2 Zielen gelöst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1024"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1011"/>
         <source>Tool %1 must be defined</source>
         <extracomment>Error message. %1 = first failed index, %2 = total number of targets</extracomment>
         <translation>Werkzeug %1 muss definiert werden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1037"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1024"/>
         <source>Path solved successfully in %1 ms</source>
         <extracomment>Status message. %1 = time in milliseconds</extracomment>
         <translation>Pfad erfolgreich in %1 ms gelöst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1061"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1048"/>
         <source>Failed to configure max distance at index %1
 No new targets were added
 </source>
@@ -6558,7 +6558,7 @@ Keine neuen Ziele wurden hinzugefügt
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1077"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1064"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
@@ -6566,7 +6566,7 @@ Keine neuen Ziele wurden hinzugefügt
 1 neues Ziel wurde hinzugefügt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1086"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1073"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
@@ -6574,7 +6574,7 @@ Keine neuen Ziele wurden hinzugefügt
 %1 neue Ziele wurden hinzugefügt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1092"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1079"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
@@ -6582,13 +6582,13 @@ No new targets were added</source>
 Keine neuen Ziele wurden hinzugefügt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1110"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1097"/>
         <source>Failed to find max distance</source>
         <extracomment>Error message from find max distance</extracomment>
         <translation>Maximale Entfernung konnte nicht gefunden werden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1130"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1117"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
@@ -6596,13 +6596,13 @@ Found %1 possible solutions within the specified parameters</source>
 %1 mögliche Lösungen innerhalb der angegebenen Parameter gefunden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1136"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1123"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation>Optimierer ist auf ein Problem gestoßen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1145"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1132"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
@@ -6610,7 +6610,7 @@ No solutions found with the specified parameters</source>
 Keine Lösungen mit den angegebenen Parametern gefunden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1151"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1138"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
@@ -7028,25 +7028,25 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
 <context>
     <name>SettingsInterface</name>
     <message>
-        <location filename="../../../backend/settings/src/settingsinterface.cpp" line="139"/>
+        <location filename="../../../backend/settings/src/settingsinterface.cpp" line="145"/>
         <source>Failed to translate language to %1</source>
         <extracomment>Error message. %1 = language</extracomment>
         <translation>Fehler beim Übersetzen der Sprache in %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/settings/src/settingsinterface.cpp" line="150"/>
+        <location filename="../../../backend/settings/src/settingsinterface.cpp" line="156"/>
         <source>Language changed</source>
         <extracomment>Status message</extracomment>
         <translation>Sprache geändert</translation>
     </message>
     <message>
-        <location filename="../../../backend/settings/src/settingsinterface.cpp" line="325"/>
+        <location filename="../../../backend/settings/src/settingsinterface.cpp" line="331"/>
         <source>Failed to save settings for %1</source>
         <extracomment>Error message: %1 = full name (of user)</extracomment>
         <translation>Fehler beim Speichern der Einstellungen für %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/settings/src/settingsinterface.cpp" line="331"/>
+        <location filename="../../../backend/settings/src/settingsinterface.cpp" line="337"/>
         <source>Settings for %1 saved</source>
         <extracomment>Status message. %1 = full name (of user)</extracomment>
         <translation>Einstellungen für %1 gespeichert</translation>
@@ -7528,67 +7528,67 @@ Label: Does the solution use a wrist-down configuration</extracomment>
 <context>
     <name>StationInterface</name>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="442"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="439"/>
         <source>No changes detected in project</source>
         <extracomment>Notification message that is displayed if the user attempst to save project, but the project has not changed since last save</extracomment>
         <translation>Keine Änderungen im Projekt erkannt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="474"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="471"/>
         <source>Failed to confirm that the project was saved to the cloud (the project may or may not have been saved)</source>
         <extracomment>Error message</extracomment>
         <translation>Konnte nicht bestätigen, dass das Projekt in der Cloud gespeichert wurde (das Projekt wurde möglicherweise nicht gespeichert)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="513"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="510"/>
         <source>Autosave for project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Autosave für Projekt %1 gespeichert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="519"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="516"/>
         <source>Project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Projekt %1 gespeichert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="663"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="660"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Herunterladen des Projekts aus der Cloud</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="868"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="865"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Projekt freigegeben</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="911"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="908"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Konnte nicht bestätigen, dass das Projekt aus der Cloud gelöscht wurde (das Projekt wurde möglicherweise nicht gelöscht)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="936"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="933"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projekt %1 wurde aus der Cloud gelöscht</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1019"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1016"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Konnte nicht bestätigen, dass das Projekt geteilt wurde</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1042"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1039"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projekt %1 wurde mit %2 geteilt.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1082"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1079"/>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -7596,50 +7596,50 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Größere Pfade können importiert werden, indem die APT-Datei in kleinere Dateien aufgeteilt und die Option &apos;append&apos; verwendet wird</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1106"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1103"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Fehler beim Starten des Cloud-Jobs %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1137"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1134"/>
         <source>Failed to get parsed APT %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Fehler beim Abrufen des geparsten APT %1 aus der Cloud</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1183"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1180"/>
         <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>Die Anzahl der Dezimalstellen in der APT-Datei %1 beträgt %2 (geringe numerische Präzision).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1199"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1196"/>
         <source>Failed to import APT file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Fehler beim Importieren der APT-Datei %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1207"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1204"/>
         <source>Path imported from APT %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation>Pfad aus APT %1 importiert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1272"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1304"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1269"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1301"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Abrufen des Roboter-Codes aus der Cloud</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1457"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1454"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Wiederherstellen des gespeicherten Projekts</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1469"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1466"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -7647,7 +7647,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dies kann auf eine Speicherung aus einer älteren Version von IRBCAM zurückzuführen sein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1477"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1474"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -7655,62 +7655,62 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dies kann auf eine Speicherung aus einer älteren Version von IRBCAM zurückzuführen sein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1544"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1541"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Abrufen der Benutzer-Frame-Daten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1562"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1559"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Laden der Benutzer-Frame-Daten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1572"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1569"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Abruf der Objektrahmendaten fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1581"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1578"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Objekt-Frame-Daten konnten nicht geladen werden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1649"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1657"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1667"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1646"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1654"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1664"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>Roboter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1676"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1842"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1848"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1673"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1839"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1845"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>Werkzeug</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1741"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1749"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1759"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1738"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1746"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1756"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>Drehtisch</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1771"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1779"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1768"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1776"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>Lineare Schiene</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1495"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1492"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Fehlende Informationen im aus der Cloud abgerufenen Projekt</translation>
@@ -7723,7 +7723,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dies kann auf eine Speicherung aus einer älteren Version von IRBCAM zurückzuführen sein</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1534"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1531"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Laden der Projektdaten</translation>
@@ -7734,7 +7734,7 @@ Dies kann auf eine Speicherung aus einer älteren Version von IRBCAM zurückzuf�
         <translation type="vanished">DH-Tabelleninformationen fehlen im gespeicherten Projekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1881"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1878"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projekt %1 geladen</translation>
@@ -7745,20 +7745,20 @@ Dies kann auf eine Speicherung aus einer älteren Version von IRBCAM zurückzuf�
         <translation type="vanished">Fehlende Versionsinformationen im aus der Cloud abgerufenen Projekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1614"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1611"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Fehlende oder beschädigte Pfadinformationen im gespeicherten Projekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1633"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1630"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>Pfadimport</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1792"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1799"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1789"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1796"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH-Tabelle</translation>
@@ -7767,44 +7767,44 @@ Dies kann auf eine Speicherung aus einer älteren Version von IRBCAM zurückzuf�
 <context>
     <name>StationViewer</name>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="320"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="330"/>
         <source>Failed to load visualization settings</source>
         <extracomment>Warning message</extracomment>
         <translation>Fehler beim Laden der Visualisierungseinstellungen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="616"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="626"/>
         <source>Inverse kinematics could not be solved with this value (x=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation>Inverse Kinematik konnte mit diesem Wert nicht gelöst werden (x=%1 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="634"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="652"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="644"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="662"/>
         <source>Inverse kinematics could not be solved with this value (y=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation>Inverse Kinematik konnte mit diesem Wert nicht gelöst werden (y=%1 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="671"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="681"/>
         <source>Inverse kinematics could not be solved with this value (rz1=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Inverse Kinematik konnte mit diesem Wert nicht gelöst werden (rz1=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="691"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="701"/>
         <source>Inverse kinematics could not be solved with this value (ry=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Inverse Kinematik konnte mit diesem Wert nicht gelöst werden (ry=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="714"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="724"/>
         <source>Inverse kinematics could not be solved with this value (rz2=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Inverse Kinematik konnte mit diesem Wert nicht gelöst werden (rz2=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1091"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1101"/>
         <source>Animation aborted
 Target at 0 is unreachable</source>
         <extracomment>Warning message</extracomment>
@@ -7812,7 +7812,7 @@ Target at 0 is unreachable</source>
 Ziel bei 0 ist unerreichbar</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1244"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1254"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -7820,7 +7820,7 @@ Target at index %1 has zero velocity</source>
 Ziel am Index %1 hat die Geschwindigkeit Null</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1373"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1383"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -7828,7 +7828,7 @@ Target at index %1 is not solved</source>
 Ziel am Index %1 ist nicht gelöst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1683"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1693"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
@@ -8859,55 +8859,55 @@ Button text</extracomment>
 <context>
     <name>ToolModel</name>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1087"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1084"/>
         <source>Custom tool upload failed</source>
         <extracomment>Error message</extracomment>
         <translation>Hochladen des benutzerdefinierten Tools fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1092"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1089"/>
         <source>Custom tool %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
         <translation>Benutzerdefiniertes Werkzeug %1 erfolgreich hochgeladen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1127"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1124"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Konnte nicht bestätigen, dass %1 aus der Cloud gelöscht wurde (das Element wurde möglicherweise gelöscht oder auch nicht)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1157"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1154"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 wurde aus der Cloud gelöscht</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1571"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1568"/>
         <source>Failed to download tool from cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Tool konnte nicht aus der Cloud heruntergeladen werden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1687"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1684"/>
         <source>Failed to download tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Herunterladen des Tools aus der Cloud</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1722"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1719"/>
         <source>Failed to unpack tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Entpacken des Tools aus der Cloud</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1866"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1863"/>
         <source>Failed to load %1 mesh</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Fehler beim Laden des %1-Mesh</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1955"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1952"/>
         <source>Tool %1 mesh loaded from %2</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Werkzeug %1 Mesh von %2 geladen</translation>
