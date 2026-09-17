@@ -729,13 +729,13 @@ Please sign in to see the list</source>
         <translation>Échec de l&apos;envoi du rapport</translation>
     </message>
     <message>
-        <location filename="../../../backend/api/src/bugreportdata.cpp" line="32"/>
+        <location filename="../../../backend/api/src/bugreportdata.cpp" line="33"/>
         <source>Attachment should be less than %1 MB</source>
         <extracomment>Error message. %1 = size in MB</extracomment>
         <translation>La pièce jointe doit faire moins de %1 MB</translation>
     </message>
     <message>
-        <location filename="../../../backend/api/src/bugreportdata.cpp" line="81"/>
+        <location filename="../../../backend/api/src/bugreportdata.cpp" line="82"/>
         <source>Report sent</source>
         <extracomment>Status message: Referring to sending a feedback report</extracomment>
         <translation>Rapport envoyé</translation>
@@ -2900,13 +2900,13 @@ Placeholder text in text imput: regex</extracomment>
 <context>
     <name>ImportPathInterface</name>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="39"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="33"/>
         <source>File is empty</source>
         <extracomment>Error message: Attempting to load en empty file</extracomment>
         <translation>Le fichier est vide</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="46"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="40"/>
         <source>File is not a valid UTF-8 file
 Only UTF-8 encoded files are supported</source>
         <extracomment>Error message: The file has invalid encoding</extracomment>
@@ -2914,7 +2914,7 @@ Only UTF-8 encoded files are supported</source>
 Seuls les fichiers encodés en UTF-8 sont supportés</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="60"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="54"/>
         <source>Unsupported file type &apos;%1&apos;</source>
         <extracomment>Error message. %1 = file type</extracomment>
         <translation>Type de fichier non supporté &apos;%1&apos;</translation>
