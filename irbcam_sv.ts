@@ -80,43 +80,42 @@
 <context>
     <name>AdditionalObjectEditor</name>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="20"/>
         <source>Additional Objects</source>
         <extracomment>Title: Referring to user-imported 3D objects</extracomment>
-        <translation>Ytterligare Objekt</translation>
+        <translation type="vanished">Ytterligare Objekt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="40"/>
+        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="31"/>
         <source>Add</source>
         <extracomment>Button: Add additional object</extracomment>
         <translation>Lägg til</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="57"/>
+        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="48"/>
         <source>User-defined</source>
         <extracomment>Dropdown menu item: Select which kind of 3D object should be added</extracomment>
         <translation>Användardefinierad</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="59"/>
+        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="50"/>
         <source>Cuboid</source>
         <extracomment>Dropdown menu item: Select which kind of 3D object should be added</extracomment>
         <translation>Rätblock</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="61"/>
+        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="52"/>
         <source>Spheroid</source>
         <extracomment>Dropdown menu item: Select which kind of 3D object should be added</extracomment>
         <translation>Sfäroid</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="63"/>
+        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="54"/>
         <source>Cylinder</source>
         <extracomment>Dropdown menu item: Select which kind of 3D object should be added</extracomment>
         <translation>Cylinder</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="65"/>
+        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="56"/>
         <source>Cone</source>
         <extracomment>Dropdown menu item: Select which kind of 3D object should be added</extracomment>
         <translation>Kon</translation>
@@ -125,33 +124,33 @@
 <context>
     <name>AdditionalObjectEditorDelegate</name>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="73"/>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="81"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="76"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="84"/>
         <source>mm</source>
         <extracomment>Unit: millimetres</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="141"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="144"/>
         <source>Name</source>
         <extracomment>Label for a text field: Lets the user name their additional object</extracomment>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="148"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="151"/>
         <source>Enter name</source>
         <extracomment>Placeholder text for when no object name is entered</extracomment>
         <translation>Ange namn</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="173"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="176"/>
         <source>Source</source>
         <extracomment>Label for a button: Select a source geometry for the object</extracomment>
         <translation>Källa</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="175"/>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="221"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="178"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="224"/>
         <source>Color</source>
         <extracomment>Label for a colour selector. Select colour for the additional object
 ----------
@@ -159,43 +158,43 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation>Färg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="185"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="188"/>
         <source>Custom</source>
         <extracomment>Dropdown menu item: Select a colour</extracomment>
         <translation>Anpassad</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="187"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="190"/>
         <source>Light Gray</source>
         <extracomment>Dropdown menu item: Select a colour</extracomment>
         <translation>Ljusgrå</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="189"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="192"/>
         <source>Red</source>
         <extracomment>Dropdown menu item: Select a colour</extracomment>
         <translation>Röd</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="191"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="194"/>
         <source>Green</source>
         <extracomment>Dropdown menu item: Select a colour</extracomment>
         <translation>Grön</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="193"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="196"/>
         <source>Blue</source>
         <extracomment>Dropdown menu item: Select a colour</extracomment>
         <translation>Blå</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="224"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="227"/>
         <source>Any valid SVG color name (eg. &apos;blue&apos;) or hex rgb triplet (eg. &apos;#808080&apos;)</source>
         <extracomment>Tool tip for text field. Remember, SVG colour names are not translated: https://johndecember.com/html/spec/colorsvg.html</extracomment>
         <translation>Alla giltiga SVG-färgnamn (t.ex. &apos;blue&apos;) eller hex RGB-trippel (t.ex. &apos;#808080&apos;)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="323"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="294"/>
         <source>Robot flange</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Robotfläns</translation>
@@ -206,37 +205,37 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="vanished">Välj färg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="286"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="257"/>
         <source>No source selected</source>
         <extracomment>Button: Shown when no source geometry is selected for this object</extracomment>
         <translation>Ingen källa har valts</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="292"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="263"/>
         <source>Parent frame</source>
         <extracomment>Label for a dropdown menu: Select which frame (coordinate system) the object should be placed in relation to</extracomment>
         <translation>Föräldrakoordinatram</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="303"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="274"/>
         <source>Global</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Global</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="308"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="279"/>
         <source>Robot base</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Robot bas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="313"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="284"/>
         <source>User frame</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Användarens koordinatram</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="318"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="289"/>
         <source>Object frame</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Objektkoordinatram</translation>
@@ -247,61 +246,61 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="vanished">Verktygskoordinatram</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="337"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="308"/>
         <source>Show mesh</source>
         <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
         <translation>Vis maska</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="345"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="316"/>
         <source>Transparent</source>
         <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
         <translation>Genomskinlig</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="357"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="328"/>
         <source>Linear</source>
         <extracomment>Collapsible section: In this section the user will adjust position and scale of the object</extracomment>
         <translation>Linjär</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="371"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="342"/>
         <source>Position</source>
         <extracomment>Label for text fields: Set the position in space (displacement/translation) for the object</extracomment>
         <translation>Position</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="393"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="367"/>
         <source>Scale</source>
         <extracomment>Label for text fields: Set the scaling multiplicator (in x, y, z) to scale the object size</extracomment>
         <translation>Skala</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="395"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="369"/>
         <source>Size</source>
         <extracomment>Label for text fields: Set the size (in x, y, z) of the the object</extracomment>
         <translation>Storlek</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="421"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="398"/>
         <source>Rotation</source>
         <extracomment>Collapsible section: In this section the user will adjust the rotation of the object</extracomment>
         <translation>Rotation</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="438"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="415"/>
         <source>Yaw angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
         <translation>Girvinkel</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="448"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="425"/>
         <source>Pitch angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
         <translation>Stigningsvinkel</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="458"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="435"/>
         <source>Roll angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
         <translation>Rullvinkel</translation>
@@ -352,43 +351,43 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="vanished">Rull</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="467"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="444"/>
         <source>Normalize</source>
         <extracomment>Button: Normalise the rotation quaternion</extracomment>
         <translation>Normalisera</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="477"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="454"/>
         <source>Normalize quaternion</source>
         <extracomment>Tool tip for normalize button</extracomment>
         <translation>Normalisera quaternion</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="484"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="461"/>
         <source>Quaternion scalar</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Kvaternion skalär</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="494"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="471"/>
         <source>Quaternion i</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Quaternion i</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="504"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="481"/>
         <source>Quaternion j</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Quaternion j</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="514"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="491"/>
         <source>Quaternion k</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Quaternion k</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="531"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="508"/>
         <source>The geometry %1 looks too large. You may want to scale it down. If the model is using millimeters, you can scale down by 0.001. Do you want to scale down by 0.001?</source>
         <extracomment>Confirmation popup. %1 = geometry name</extracomment>
         <translation>Geometrin %1 ser för stor ut. Du kanske vill skala ner. Om modellen använder millimeter kan du skala ner med 0.001. Vill du skala ner med 0.001?</translation>
@@ -401,43 +400,43 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>AdditionalObjectsModel</name>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1188"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1150"/>
         <source>Custom geometry upload failed</source>
         <extracomment>Error message</extracomment>
         <translation>Egen geometriuppladdning misslyckades</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1193"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1155"/>
         <source>Custom geometry %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
         <translation>Egen geometri %1 uppladdad framgångsrikt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1236"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1198"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Det gick inte att bekräfta att %1 togs bort från molnet (objektet kan ha tagits bort eller inte)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1266"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1228"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 togs bort från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1486"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1448"/>
         <source>Failed to download geometry from cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att ladda ner geometri från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1581"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1543"/>
         <source>Failed to download geometry from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att ladda ner geometri från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1616"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1578"/>
         <source>Failed to unpack geometry from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att packa upp geometri från molnet</translation>
@@ -448,7 +447,7 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="vanished">Kunde inte öppna mappen: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1744"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1706"/>
         <source>Custom geometry %1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Egen geometri %1 laddad</translation>
@@ -740,38 +739,38 @@ Logga in för att se listan</translation>
 <context>
     <name>BaseNetworkDataInterface</name>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="365"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="250"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Det gick inte att bekräfta att %1 togs bort från molnet (objektet kan ha tagits bort eller inte)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="398"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="283"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message. %1 = Name</extracomment>
         <translation>%1 togs bort från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="496"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="367"/>
         <source>Failed to load %1</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Det gick inte att ladda %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="602"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="429"/>
         <source>%1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 har laddats</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="637"/>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="733"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="464"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="560"/>
         <source>Failed to download item from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att ladda ner objektet från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="756"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="583"/>
         <source>Failed to unpack item</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att packa upp objektet</translation>
@@ -1084,37 +1083,37 @@ Logga in för att se listan</translation>
         <translation type="vanished">Exportera robotkod</translation>
     </message>
     <message>
-        <location filename="../../Views/ConfigurePathView.qml" line="169"/>
+        <location filename="../../Views/ConfigurePathView.qml" line="167"/>
         <source>Export robot code</source>
         <extracomment>Button: Open popup to export robot code</extracomment>
         <translation>Exportera robotkod</translation>
     </message>
     <message>
-        <location filename="../../Views/ConfigurePathView.qml" line="171"/>
+        <location filename="../../Views/ConfigurePathView.qml" line="169"/>
         <source>Solve Path</source>
         <extracomment>Button: Attempt to solve path</extracomment>
         <translation>Lös Verktygsbana</translation>
     </message>
     <message>
-        <location filename="../../Views/ConfigurePathView.qml" line="184"/>
+        <location filename="../../Views/ConfigurePathView.qml" line="182"/>
         <source>Busy</source>
         <extracomment>Tool tip. Application is busy</extracomment>
         <translation>Upptagen</translation>
     </message>
     <message>
-        <location filename="../../Views/ConfigurePathView.qml" line="187"/>
+        <location filename="../../Views/ConfigurePathView.qml" line="185"/>
         <source>The active subscription does not provide access to exporting robot code&lt;br&gt;Click %1here%2 to manage subscriptions</source>
         <extracomment>Tool tip. %1 = start of link, %2 = end of link</extracomment>
         <translation>Den aktiva prenumerationen ger inte åtkomst till export av robotkod&lt;br&gt;Klicka %1här%2 för att hantera prenumerationer</translation>
     </message>
     <message>
-        <location filename="../../Views/ConfigurePathView.qml" line="189"/>
+        <location filename="../../Views/ConfigurePathView.qml" line="187"/>
         <source>The active subscription does not provide access to exporting 5-axis robot code&lt;br&gt;Click %1here%2 to manage subscriptions</source>
         <extracomment>Tool tip. %1 = start of link, %2 = end of link</extracomment>
         <translation>Den aktiva prenumerationen ger inte åtkomst till export av 5-axlig robotkod&lt;br&gt;Klicka %1här%2 för att hantera prenumerationer</translation>
     </message>
     <message>
-        <location filename="../../Views/ConfigurePathView.qml" line="212"/>
+        <location filename="../../Views/ConfigurePathView.qml" line="210"/>
         <source>Status: </source>
         <extracomment>Label: Referring to status of solving the path</extracomment>
         <translation>Status: </translation>
@@ -2011,43 +2010,42 @@ Button text</extracomment>
 <context>
     <name>DHTableEditor</name>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="22"/>
         <source>DH Table</source>
         <extracomment>Title</extracomment>
-        <translation>DH-tabell</translation>
+        <translation type="vanished">DH-tabell</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="63"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="60"/>
         <source>Visualization Settings</source>
         <extracomment>Collapsible section: Visualization settings for the Robot described by DH parameters</extracomment>
         <translation>Visualiseringsinställningar</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="76"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="73"/>
         <source>Show Base Frame</source>
         <extracomment>Checkbox: Show base frame</extracomment>
         <translation>Visa baskoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="82"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="79"/>
         <source>Show All Joint Frames</source>
         <extracomment>Checkbox: Show all joint frames</extracomment>
         <translation>Visa alla ledkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="93"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="90"/>
         <source>Link Width</source>
         <extracomment>Label: Link width</extracomment>
         <translation>Länkbredd</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="98"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="95"/>
         <source>Joint Width</source>
         <extracomment>Label: Joint width</extracomment>
         <translation>Ledbredd</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="103"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="100"/>
         <source>Axis Scale</source>
         <extracomment>Label: Axis width</extracomment>
         <translation type="unfinished"></translation>
@@ -2058,37 +2056,37 @@ Button text</extracomment>
         <translation type="vanished">Axelbredd</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="156"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="153"/>
         <source>The active subscription does not provide access to custom assets. You can only visualize the robot but cannot import the robot into the project. Click %1here%2 to manage subscriptions.</source>
         <extracomment>Label: %1 = start of link, %2 = end of link</extracomment>
         <translation>Den aktiva prenumerationen ger inte tillgång till egna objekt. Du kan bara visualisera roboten men kan inte importera roboten till projektet. Klicka %1här%2 för att hantera prenumerationer.</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="168"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="165"/>
         <source>Upload robot</source>
         <extracomment>Button: Upload robot</extracomment>
         <translation>Ladda upp robot</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="177"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="174"/>
         <source>The active subscription does not provide access to this feature.</source>
         <extracomment>ToolTip text</extracomment>
         <translation>Den aktiva prenumerationen ger inte åtkomst till denna funktion.</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="179"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="176"/>
         <source>The dof of robot must be greater than 1.</source>
         <extracomment>ToolTip text</extracomment>
         <translation>Robotens dof måste vara större än 1.</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="185"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="182"/>
         <source>Use Classic Parameters</source>
         <extracomment>Checkbox: Use classic parameters</extracomment>
         <translation>Använd klassiska parametrar</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="193"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="190"/>
         <source>Add Row/Joint</source>
         <extracomment>Button: Add row or joint</extracomment>
         <translation>Lägg till rad/led</translation>
@@ -2372,19 +2370,19 @@ Placeholder for when no procedure name is entered</extracomment>
         <translation type="vanished">Anpassade mallar</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportRobotCode.qml" line="106"/>
+        <location filename="../../Popups/ExportRobotCode.qml" line="104"/>
         <source>Path must be configured before it can be exported</source>
         <extracomment>Warns the user that code cannot be exported before the path is solved</extracomment>
         <translation>Verktygsbanan måste konfigureras innan den kan exporteras</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportRobotCode.qml" line="115"/>
+        <location filename="../../Popups/ExportRobotCode.qml" line="113"/>
         <source>One or more options are not valid</source>
         <extracomment>Warns the user that code cannot be exported with the current options</extracomment>
         <translation>Ett eller flera alternativ är inte giltiga</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportRobotCode.qml" line="124"/>
+        <location filename="../../Popups/ExportRobotCode.qml" line="122"/>
         <source>Robot must be activated before generating robot code</source>
         <extracomment>Warns the user that the selected robot must be activated before exporting robot code</extracomment>
         <translation>Roboten måste aktiveras innan robotkod genereras</translation>
@@ -2395,79 +2393,79 @@ Placeholder for when no procedure name is entered</extracomment>
         <translation type="obsolete">Den aktiva prenumerationen tillåter inte export av robotkod för KUKA VKRC4-styrenhet. Du kan kontakta oss för att uppgradera din prenumeration %1här%2</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportRobotCode.qml" line="133"/>
+        <location filename="../../Popups/ExportRobotCode.qml" line="131"/>
         <source>One or more tools are invalid</source>
         <extracomment>Warns the user that the tools are not valid</extracomment>
         <translation>Ett eller flera verktyg är ogiltiga</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportRobotCode.qml" line="143"/>
+        <location filename="../../Popups/ExportRobotCode.qml" line="141"/>
         <source>The active subscription does not allow exporting robot code for KUKA VKRC4/VKRC5 controller. You can contact us to upgrade your subscription %1here%2</source>
         <extracomment>Warns the user that the selected robot must be activated before exporting robot code</extracomment>
         <translation>Den aktiva prenumerationen tillåter inte export av robotkod för KUKA VKRC4/VKRC5-styrenhet. Du kan kontakta oss för att uppgradera din prenumeration %1här%2</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportRobotCode.qml" line="155"/>
+        <location filename="../../Popups/ExportRobotCode.qml" line="153"/>
         <source>You cannot generate robot code in the trial version of IRBCAM. You can end the trial version and subscribe to the paid version before generating robot code %1 here %2</source>
         <extracomment>Warns the user that the selected robot must be activated before exporting robot code</extracomment>
         <translation>Du kan inte generera robotkod i testversionen av IRBCAM. Du kan avsluta testversionen och prenumerera på den betalda versionen innan du genererar robotkoden %1 här %2</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportRobotCode.qml" line="168"/>
+        <location filename="../../Popups/ExportRobotCode.qml" line="166"/>
         <source>Reset Export Options</source>
         <extracomment>Popup title</extracomment>
         <translation>Återställ exportalternativ</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportRobotCode.qml" line="170"/>
+        <location filename="../../Popups/ExportRobotCode.qml" line="168"/>
         <source>Are you sure you want reset export options to default values?</source>
         <extracomment>Popup text</extracomment>
         <translation>Är du säker på att du vill återställa exportalternativen till standardvärden?</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportRobotCode.qml" line="183"/>
+        <location filename="../../Popups/ExportRobotCode.qml" line="181"/>
         <source>Reset</source>
         <extracomment>Button: Reset</extracomment>
         <translation>Återställa</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportRobotCode.qml" line="202"/>
+        <location filename="../../Popups/ExportRobotCode.qml" line="200"/>
         <source>Open robot list</source>
         <extracomment>Button: This is shown instead of &quot;Export&quot; if the user has to activate the selected robot</extracomment>
         <translation>Öppna robotlistan</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportRobotCode.qml" line="205"/>
+        <location filename="../../Popups/ExportRobotCode.qml" line="203"/>
         <source>Open tool list</source>
         <extracomment>Button: This is shown instead of &quot;Export&quot; if the user has invalid tools</extracomment>
         <translation>Öppna verktygslista</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportRobotCode.qml" line="207"/>
+        <location filename="../../Popups/ExportRobotCode.qml" line="205"/>
         <source>Export</source>
         <extracomment>Button: Click here to export robot code</extracomment>
         <translation>Exportera</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportRobotCode.qml" line="231"/>
+        <location filename="../../Popups/ExportRobotCode.qml" line="229"/>
         <source>Generating robot code</source>
         <extracomment>Status message. Shown while waiting for robot code</extracomment>
         <translation>Genererar robotkod</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportRobotCode.qml" line="233"/>
+        <location filename="../../Popups/ExportRobotCode.qml" line="231"/>
         <source>Robot code received. Save to file?</source>
         <extracomment>This question is displayed in a popup after robot code is generated</extracomment>
         <translation>Robotkod mottagen. Spara till fil?</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportRobotCode.qml" line="253"/>
+        <location filename="../../Popups/ExportRobotCode.qml" line="251"/>
         <source>Cancel</source>
         <extracomment>Cancel button</extracomment>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportRobotCode.qml" line="262"/>
+        <location filename="../../Popups/ExportRobotCode.qml" line="260"/>
         <source>Save</source>
         <extracomment>Save button</extracomment>
         <translation>Spara</translation>
@@ -3135,55 +3133,55 @@ Placeholder text where users input scaling multiplier</extracomment>
 <context>
     <name>ImportPath</name>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="46"/>
+        <location filename="../../Popups/ImportPath.qml" line="44"/>
         <source>This option is not available for %1 files</source>
         <extracomment>Tool tip for disabled checkbox.</extracomment>
         <translation>Det här alternativet är inte tillgängligt för %1 filer</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="61"/>
+        <location filename="../../Popups/ImportPath.qml" line="59"/>
         <source>All supported files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>Alla filer som stöds</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="63"/>
+        <location filename="../../Popups/ImportPath.qml" line="61"/>
         <source>APT files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>APT-filer</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="65"/>
+        <location filename="../../Popups/ImportPath.qml" line="63"/>
         <source>JSON files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>JSON filer</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="67"/>
+        <location filename="../../Popups/ImportPath.qml" line="65"/>
         <source>CSV files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>CSV filer</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="69"/>
+        <location filename="../../Popups/ImportPath.qml" line="67"/>
         <source>GCODE files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>GCODE-filer</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="71"/>
+        <location filename="../../Popups/ImportPath.qml" line="69"/>
         <source>SVG files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>SVG-filer</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="73"/>
+        <location filename="../../Popups/ImportPath.qml" line="71"/>
         <source>Open file</source>
         <extracomment>Name of the file interface window</extracomment>
         <translation>Öppna fil</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="115"/>
+        <location filename="../../Popups/ImportPath.qml" line="113"/>
         <source>Import Path</source>
         <extracomment>Title</extracomment>
         <translation>Importera Verktygsbana</translation>
@@ -3194,224 +3192,224 @@ Placeholder text where users input scaling multiplier</extracomment>
         <translation type="vanished">Den aktiva prenumerationen ger inte åtkomst till APT-parser. Klicka %1här%2 för att hantera prenumerationer</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="126"/>
+        <location filename="../../Popups/ImportPath.qml" line="124"/>
         <source>The active subscription does not provide access to GCODE/APT parser. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation>Den aktiva prenumerationen ger inte åtkomst till GCODE/APT-parser. Klicka %1här%2 för att hantera prenumerationer</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="150"/>
+        <location filename="../../Popups/ImportPath.qml" line="148"/>
         <source>Documentation</source>
         <extracomment>Separator label. This section contains a link to the documentation</extracomment>
         <translation>Dokumentation</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="159"/>
+        <location filename="../../Popups/ImportPath.qml" line="157"/>
         <source>Supported file formats are:</source>
         <extracomment>Label. Supported file formats are listed below this line</extracomment>
         <translation>Filformat som stöds är:</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="172"/>
+        <location filename="../../Popups/ImportPath.qml" line="170"/>
         <source>Reference documentation for JSON and CSV format is in  %1our forum%2</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation>Referensdokumentation för JSON- och CSV-format finns i %1vårt forum%2</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="183"/>
+        <location filename="../../Popups/ImportPath.qml" line="181"/>
         <source>Select File</source>
         <extracomment>Section separator label</extracomment>
         <translation>Välj Fil</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="191"/>
+        <location filename="../../Popups/ImportPath.qml" line="189"/>
         <source>File name: </source>
         <extracomment>Label</extracomment>
         <translation>Filnamn: </translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="200"/>
+        <location filename="../../Popups/ImportPath.qml" line="198"/>
         <source>No file selected</source>
         <extracomment>Placeholder file name until a file is selected</extracomment>
         <translation>Ingen fil vald</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="204"/>
+        <location filename="../../Popups/ImportPath.qml" line="202"/>
         <source>Invalid file type. Only .apt, .gcode, .nc, .json, .csv, and .svg files are supported</source>
         <extracomment>Tool tip: Invalid file type is selected</extracomment>
         <translation>Ogiltig filtyp. Endast .apt-, .gcode-, .nc-, .json-, .csv- och .svg-filer stöds</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="219"/>
+        <location filename="../../Popups/ImportPath.qml" line="217"/>
         <source>%1 Import Options</source>
         <extracomment>Additional options when importing file. %1 = APT, GCODE, JSON, CSV or SVG depending on what type of file is selected</extracomment>
         <translation>%1 Importalternativ</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="226"/>
+        <location filename="../../Popups/ImportPath.qml" line="224"/>
         <source>Minimum distance (mm)</source>
         <extracomment>Description for a text field where the user inputs the minimum distance between targets</extracomment>
         <translation>Minsta avstånd (mm)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="228"/>
+        <location filename="../../Popups/ImportPath.qml" line="226"/>
         <source>Minimum distance between targets. Range: 0.1 - 10 (mm). For distances smaller than 1, arc moves are converted to linear</source>
         <extracomment>Tool tip: Displayed when hovering over minimum distance label</extracomment>
         <translation>Minsta avstånd mellan mål. Område: 0.1 - 10 (mm). För avstånd mindre än 1 omvandlas bågrörelser till linjära</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="257"/>
+        <location filename="../../Popups/ImportPath.qml" line="255"/>
         <source>Append</source>
         <extracomment>Checkbox: Select to append targets to existing path</extracomment>
         <translation>Lägg till</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="261"/>
+        <location filename="../../Popups/ImportPath.qml" line="259"/>
         <source>Add to existing path instead of replacing</source>
         <extracomment>Tool tip for append checkbox.</extracomment>
         <translation>Lägg till i befintlig bana istället för att ersätta</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="268"/>
+        <location filename="../../Popups/ImportPath.qml" line="266"/>
         <source>Reverse INDIRV</source>
         <extracomment>Checkbox: Select to reverse INDIRV (initial direction vector). This is primarily for Catia users</extracomment>
         <translation>Omvänd INDIRV</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="272"/>
+        <location filename="../../Popups/ImportPath.qml" line="270"/>
         <source>Reverse direction of vector (Catia)</source>
         <extracomment>Tool tip for Reverse INDIRV checkbox</extracomment>
         <translation>Omvänd riktning av vektorn (Catia)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="278"/>
+        <location filename="../../Popups/ImportPath.qml" line="276"/>
         <source>No arcs</source>
         <extracomment>Checkbox: Select to disable arc moves</extracomment>
         <translation>Inga bågar</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="282"/>
+        <location filename="../../Popups/ImportPath.qml" line="280"/>
         <source>Arcs are split into linear moves</source>
         <extracomment>Tool tip for no arcs checkbox</extracomment>
         <translation>Bågar delas upp i linjära rörelser</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="290"/>
+        <location filename="../../Popups/ImportPath.qml" line="288"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
         <translation>Pistol på/av</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="302"/>
+        <location filename="../../Popups/ImportPath.qml" line="300"/>
         <source>Include gun on/off. This is useful if selecting &apos;Gun on/off&apos; when exporting</source>
         <extracomment>Tool tip for Gun on/off checkbox</extracomment>
         <translation>Inkludera pistol på/av. Detta är användbart om du väljer &apos;Pistol på/av&apos; vid export</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="313"/>
+        <location filename="../../Popups/ImportPath.qml" line="311"/>
         <source>Use velocities</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
         <translation>Använd hastigheter</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="318"/>
+        <location filename="../../Popups/ImportPath.qml" line="316"/>
         <source>Convert all feed speeds to rapid moves, except for cutting speed</source>
         <extracomment>Tool tip for Gun on/off Velocity checkbox</extracomment>
         <translation>Konvertera alla matningshastigheter till snabbgångar, förutom skärhastighet</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="324"/>
+        <location filename="../../Popups/ImportPath.qml" line="322"/>
         <source>Use M8/M9</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
         <translation>Använd M8/M9</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="329"/>
+        <location filename="../../Popups/ImportPath.qml" line="327"/>
         <source>Import M8 as gun on and M9 as gun off</source>
         <extracomment>Tool tip for Gun on/off M8/M9 checkbox</extracomment>
         <translation>Importera M8 som gun on och M9 som gun off</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="337"/>
+        <location filename="../../Popups/ImportPath.qml" line="335"/>
         <source>Split Path</source>
         <extracomment>Separator label: Options to split path in different ways</extracomment>
         <translation>Dela bana</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="347"/>
+        <location filename="../../Popups/ImportPath.qml" line="345"/>
         <source>On coordinate frame change</source>
         <extracomment>Label: Split path on cooridnate frame change</extracomment>
         <translation>Vid ändring av koordinatram</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="363"/>
+        <location filename="../../Popups/ImportPath.qml" line="361"/>
         <source>On comment</source>
         <extracomment>Label: Split path on comment</extracomment>
         <translation>På kommentar</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="377"/>
+        <location filename="../../Popups/ImportPath.qml" line="375"/>
         <source>Disabled</source>
         <extracomment>Drop-down menu option. Split path on comment disabled</extracomment>
         <translation>Inaktiverad</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="379"/>
+        <location filename="../../Popups/ImportPath.qml" line="377"/>
         <source>Any</source>
         <extracomment>Drop-down menu option. Split path on any comment</extracomment>
         <translation>Någon</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="381"/>
+        <location filename="../../Popups/ImportPath.qml" line="379"/>
         <source>Layer Start</source>
         <extracomment>Drop-down menu option. Split path on comment Layer Start</extracomment>
         <translation>Lagerstart</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="383"/>
+        <location filename="../../Popups/ImportPath.qml" line="381"/>
         <source>Path</source>
         <extracomment>Drop-down menu option. Split path on comment Path:</extracomment>
         <translation>Bana</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="385"/>
+        <location filename="../../Popups/ImportPath.qml" line="383"/>
         <source>User Defined</source>
         <extracomment>Drop-down menu option. Split path on user defined comment</extracomment>
         <translation>Användardefinierad</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="396"/>
+        <location filename="../../Popups/ImportPath.qml" line="394"/>
         <source>Splitting paths on comments is disabled</source>
         <extracomment>Tool-tip for drop-down option &apos;Disabled&apos;</extracomment>
         <translation>Uppdelning av banor på kommentarer är inaktiverad</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="398"/>
+        <location filename="../../Popups/ImportPath.qml" line="396"/>
         <source>Split path on any comment</source>
         <extracomment>Tool-tip for drop-down option &apos;Any&apos;</extracomment>
         <translation>Dela bana på valfri kommentar</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="400"/>
+        <location filename="../../Popups/ImportPath.qml" line="398"/>
         <source>Split path on any comment that matches the form: %1. The part in the paranthesis () will be used as the path name. E.g. the comment %2 will create a path named %3</source>
         <extracomment>Tool-tip for drop-down option &apos;Layer Start&apos;</extracomment>
         <translation>Dela upp banan på alla kommentarer som matchar formen: %1. Den del som står inom parenteserna () kommer att användas som banans namn. T.ex. kommer kommentaren %2 att skapa en bana med namnet %3</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="403"/>
+        <location filename="../../Popups/ImportPath.qml" line="401"/>
         <source>Split path on any comment that matches the form: %1. The part in the paranthesis () will be used as the path name. This mode is case insensitive. E.g. the comment %2 will create a path named %3</source>
         <extracomment>Tool-tip for drop-down option &apos;Path&apos;</extracomment>
         <translation>Dela upp banan på alla kommentarer som matchar formen: %1. Den del som står inom parentesen () kommer att användas som banans namn. Detta läge är skiftlägesokänsligt. T.ex. kommer kommentaren %2 att skapa en bana med namnet %3</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="406"/>
+        <location filename="../../Popups/ImportPath.qml" line="404"/>
         <source>User defined regex used to match comments that should be treated as path separators. It follows the syntax of google re2 (https://github.com/google/re2/wiki/Syntax)</source>
         <extracomment>Tool-tip for drop-down option &apos;User Defined&apos;</extracomment>
         <translation>Användardefinierad regex som används för att matcha kommentarer som ska behandlas som sökvägsseparatorer. Den följer syntaxen för google re2 (https://github.com/google/re2/wiki/Syntax)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="424"/>
-        <location filename="../../Popups/ImportPath.qml" line="434"/>
+        <location filename="../../Popups/ImportPath.qml" line="422"/>
+        <location filename="../../Popups/ImportPath.qml" line="432"/>
         <source>Regular expression</source>
         <extracomment>Label: regex
 ----------
@@ -3419,7 +3417,7 @@ Placeholder text in text imput: regex</extracomment>
         <translation>Reguljärt uttryck</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="438"/>
+        <location filename="../../Popups/ImportPath.qml" line="436"/>
         <source>Regular expression used to capture comments that will generate different paths. Capture group 1 will be used to generate the name of the path. If capture group 1 does not exist then the whole matching expression will be used to generate the name</source>
         <extracomment>Tooltip: Description of how the regular expression is used to separate paths</extracomment>
         <translation>Reguljärt uttryck som används för att fånga kommentarer som kommer att generera olika sökvägar. Fångstgrupp 1 kommer att användas för att generera namnet på sökvägen. Om fångstgrupp 1 inte finns kommer hela det matchande uttrycket att användas för att generera namnet</translation>
@@ -3430,31 +3428,31 @@ Placeholder text in text imput: regex</extracomment>
         <translation type="vanished">Konvertera alla matningshastigheter till snabba rörelser, förutom skärhastigheten. Detta är användbart om du väljer &quot;Pistor på/av&quot; vid export</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="450"/>
+        <location filename="../../Popups/ImportPath.qml" line="448"/>
         <source>Column separator</source>
         <extracomment>Which character to use for separating CSV columns</extracomment>
         <translation>Kolumnavskiljare</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="462"/>
+        <location filename="../../Popups/ImportPath.qml" line="460"/>
         <source>Comma &apos;,&apos;</source>
         <extracomment>Item in dropdown menu. Referring to using a comma character to separate columns in a CSV file</extracomment>
         <translation>Komma &apos;,&apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="467"/>
+        <location filename="../../Popups/ImportPath.qml" line="465"/>
         <source>Space &apos; &apos;</source>
         <extracomment>Item in dropdown menu. Referring to using a space character to separate columns in a CSV file</extracomment>
         <translation>Mellanslag &apos; &apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="477"/>
+        <location filename="../../Popups/ImportPath.qml" line="475"/>
         <source>Row separator</source>
         <extracomment>Which character to use for separating CSV rows</extracomment>
         <translation>Radavskiljare</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="489"/>
+        <location filename="../../Popups/ImportPath.qml" line="487"/>
         <source>Newline &apos;
 &apos;</source>
         <extracomment>Item in dropdown menu. Referring to a new line in a CSV file</extracomment>
@@ -3462,73 +3460,73 @@ Placeholder text in text imput: regex</extracomment>
 &apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="494"/>
+        <location filename="../../Popups/ImportPath.qml" line="492"/>
         <source>Semicolon &apos;;&apos;</source>
         <extracomment>Item in dropdown menu. Referring to the semicolon symbol</extracomment>
         <translation>Semikolon &apos;;&apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="508"/>
+        <location filename="../../Popups/ImportPath.qml" line="506"/>
         <source>Additional Transformations</source>
         <extracomment>Collapsible section title</extracomment>
         <translation>Ytterligare transformationer</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="530"/>
+        <location filename="../../Popups/ImportPath.qml" line="528"/>
         <source>Scaling presets</source>
         <extracomment>Title for drop-down menu where scaling presets may be selected</extracomment>
         <translation>Skalningsförinställningar</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="545"/>
+        <location filename="../../Popups/ImportPath.qml" line="543"/>
         <source>User defined</source>
         <extracomment>Drop-down menu item. Refers to user defined position units</extracomment>
         <translation>Användardefinierad</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="550"/>
+        <location filename="../../Popups/ImportPath.qml" line="548"/>
         <source>From mm (no scaling)</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Från mm (ingen skalning)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="555"/>
+        <location filename="../../Popups/ImportPath.qml" line="553"/>
         <source>From cm</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Från cm</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="560"/>
+        <location filename="../../Popups/ImportPath.qml" line="558"/>
         <source>From m</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Från m</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="565"/>
+        <location filename="../../Popups/ImportPath.qml" line="563"/>
         <source>From inches</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Från tum</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="570"/>
+        <location filename="../../Popups/ImportPath.qml" line="568"/>
         <source>From feet</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Från fot</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="596"/>
+        <location filename="../../Popups/ImportPath.qml" line="594"/>
         <source>Apply rotation to targets</source>
         <extracomment>Checkbox: Refers to applying rotation on individual targets in addition to rotating the whole imported path</extracomment>
         <translation>Tillämpa rotation på mål</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="600"/>
+        <location filename="../../Popups/ImportPath.qml" line="598"/>
         <source>Apply rotation locally to individual targets</source>
         <extracomment>Tool tip for apply rotation to targets checkbox.</extracomment>
         <translation>Tillämpa rotation lokalt på individuella mål</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="620"/>
+        <location filename="../../Popups/ImportPath.qml" line="618"/>
         <source>Import</source>
         <extracomment>Import button</extracomment>
         <translation>Importera</translation>
@@ -3770,43 +3768,49 @@ Tool tip for text field.</extracomment>
         <translation type="obsolete">Ok</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="107"/>
+        <location filename="../../Irbcam.qml" line="121"/>
         <source>Untitled</source>
         <extracomment>Header. Placeholder if the project has no name (it is not saved yet)</extracomment>
         <translation>Utan titel</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="114"/>
+        <location filename="../../Irbcam.qml" line="125"/>
+        <source>%1 (Read only)</source>
+        <extracomment>Header: %1 = project name, &apos;read only&apos; refers to that the user does not have write permission for this project</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Irbcam.qml" line="132"/>
         <source>No project loaded</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Inget projekt laddat</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="116"/>
+        <location filename="../../Irbcam.qml" line="134"/>
         <source>Currenly loded project</source>
         <extracomment>Tool tip text</extracomment>
         <translation>För närvarande laddat projekt</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="118"/>
+        <location filename="../../Irbcam.qml" line="136"/>
         <source>Contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Innehåller osparade ändringar</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="151"/>
+        <location filename="../../Irbcam.qml" line="169"/>
         <source>Clear all</source>
         <extracomment>Button. Clear (acknowledge) all acknowledgeable messages</extracomment>
         <translation>Rensa alla</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="392"/>
+        <location filename="../../Irbcam.qml" line="401"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Skriva över %1</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="394"/>
+        <location filename="../../Irbcam.qml" line="403"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Är du säker på att du vill skriva över projektet %1?&lt;br&gt;&lt;br&gt;Detta projekt sparades tidigare med version %2&lt;br&gt;&lt;br&gt;Om du skriver över det kan det vara omöjligt att öppna det igen med IRBCAM %2&lt;br&gt;&lt;br&gt;Om du vill behålla en kopia kan du spara projektet med ett nytt namn</translation>
@@ -3878,49 +3882,49 @@ Tool tip for text field.</extracomment>
         <translation type="vanished">Adjö </translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="89"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="91"/>
         <source>Failed to sign in user %1</source>
         <extracomment>Error message. %1 = user name</extracomment>
         <translation>Det gick inte att logga in användaren %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="156"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="158"/>
         <source>Goodbye %1</source>
         <extracomment>Status message shown on logout. %1 = full name</extracomment>
         <translation>Adjö %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="226"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="228"/>
         <source>Failed to validate session token</source>
         <extracomment>Error message</extracomment>
         <translation>Misslyckades med att validera sessions-token</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="266"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="268"/>
         <source>Failed to get admin details</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att hämta administratörsinformation</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="517"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="519"/>
         <source>Failed to check for updates</source>
         <extracomment>Warning message: Shown if the client is unable to check for updates</extracomment>
         <translation>Det gick inte att söka efter uppdateringar</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="903"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="938"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>okänd användare</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="912"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="947"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>okänt användarnamn</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="964"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="999"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -3930,37 +3934,37 @@ Vissa inställningar var inte tillgängliga i molnet. Detta beror troligen på a
 De berörda inställningarna har ställts in på sina standardvärden</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="974"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1009"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation>Det gick inte att läsa in inställningarna för %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="982"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1017"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation>Inställningar för %1 laddade</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="992"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1027"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation>Välkommen %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1014"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1049"/>
         <source>Failed to get user details</source>
         <extracomment>Error message.</extracomment>
         <translation>Det gick inte att hämta användardetaljer</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1124"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1159"/>
         <source>Network error: The response contained no data</source>
         <extracomment>Error message.</extracomment>
         <translation>Nätverksfel: Svaret innehöll inga data</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1143"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1178"/>
         <source>Network error: Failed to parse response</source>
         <extracomment>Error message.</extracomment>
         <translation>Nätverksfel: Kunde inte tolka svaret</translation>
@@ -3971,13 +3975,13 @@ De berörda inställningarna har ställts in på sina standardvärden</translati
         <translation type="vanished">Ett nätverksfel inträffade</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1184"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1219"/>
         <source>Your session has expired. Please sign in again.</source>
         <extracomment>Error message.</extracomment>
         <translation>Din session har gått ut. Vänligen logga in igen.</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1195"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1230"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
@@ -3985,20 +3989,128 @@ code: %2</source>
 kod: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1209"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1244"/>
         <source>Network error: %1</source>
         <extracomment>Error message: %1 = message</extracomment>
         <translation>Nätverksfel: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1216"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1251"/>
         <source>Network error: %1
 code: %2</source>
         <extracomment>Error message: %1 = message, %2 = code</extracomment>
         <translation>Nätverksfel: %1 kod: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1340"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1288"/>
+        <source>Uninitialized</source>
+        <extracomment>Network status: Connection is not initialised</extracomment>
+        <translation type="unfinished">Oinitierad</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1291"/>
+        <source>Idle</source>
+        <extracomment>Network status: Network is ready for a new connection</extracomment>
+        <translation type="unfinished">Inaktivt</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1294"/>
+        <source>Fetching description</source>
+        <extracomment>Network status: Fetching info from server</extracomment>
+        <translation type="unfinished">Hämtar beskrivning</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1297"/>
+        <source>Downloading</source>
+        <extracomment>Network status: Downloading</extracomment>
+        <translation type="unfinished">Laddar ner</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1300"/>
+        <source>Unpacking</source>
+        <extracomment>Network status: Unpacking downloaded content</extracomment>
+        <translation type="unfinished">Uppackning</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1303"/>
+        <source>Loading</source>
+        <extracomment>Network status: Loading downloaded content</extracomment>
+        <translation type="unfinished">Laddar</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1306"/>
+        <source>Deleting</source>
+        <extracomment>Network status: Deleting data from server</extracomment>
+        <translation type="unfinished">Raderar</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1309"/>
+        <source>Uploading</source>
+        <extracomment>Network status: Uploading data to server</extracomment>
+        <translation type="unfinished">Laddar upp</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1312"/>
+        <source>Fetching list</source>
+        <extracomment>Network status: Fetching list data from server</extracomment>
+        <translation type="unfinished">Hämtar lista</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1315"/>
+        <source>Decoding</source>
+        <extracomment>Network status: Decoding downloaded content</extracomment>
+        <translation type="unfinished">Avkodning</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1318"/>
+        <source>Verifying</source>
+        <extracomment>Network status: Verifying downloaded content</extracomment>
+        <translation type="unfinished">Verifierar</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1321"/>
+        <source>Loading assets</source>
+        <extracomment>Network status: Downloading/loading additional assets</extracomment>
+        <translation type="unfinished">Laddar tillgångar</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1324"/>
+        <source>Processing</source>
+        <extracomment>Network status: Server is processing uploaded content</extracomment>
+        <translation type="unfinished">Bearbetar</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1327"/>
+        <source>Error</source>
+        <extracomment>Network status: An error has ocurred</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1330"/>
+        <source>Awaiting user input</source>
+        <extracomment>Network status</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1333"/>
+        <source>Waiting for server</source>
+        <extracomment>Network status: Waiting for a response from the server</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1336"/>
+        <source>Sharing</source>
+        <extracomment>Network status: Sharing asset/project</extracomment>
+        <translation type="unfinished">Delar</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1342"/>
+        <source>Unknown</source>
+        <extracomment>Network status</extracomment>
+        <translation type="unfinished">Okänd</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1438"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
@@ -4006,7 +4118,7 @@ Save your work and reload page to get the newest features</source>
 Spara ditt arbete och ladda om sidan för att få de senaste funktionerna</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1346"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1444"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -4016,7 +4128,7 @@ Vissa funktioner kan vara otillgängliga förrän sidan laddas om.
 Spara ditt arbete och ladda om sidan så snart som möjligt</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1368"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1466"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att få molnjobbstatus</translation>
@@ -4567,22 +4679,19 @@ Tool tip for text field</extracomment>
         <translation type="obsolete">Välj Linjär Bana</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/LinearTrackEditor.qml" line="18"/>
-        <location filename="../../Sidebar/LinearTrackEditor.qml" line="77"/>
+        <location filename="../../Sidebar/LinearTrackEditor.qml" line="58"/>
         <source>Linear Tracks</source>
-        <extracomment>Title
-----------
-Collapsible item in tree view. This is the root item, indicating that the list contains linear tracks</extracomment>
+        <extracomment>Collapsible item in tree view. This is the root item, indicating that the list contains linear tracks</extracomment>
         <translation>Linjära Banor</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/LinearTrackEditor.qml" line="61"/>
+        <location filename="../../Sidebar/LinearTrackEditor.qml" line="42"/>
         <source>Linear track is incompatible with stationary tool</source>
         <extracomment>Label: Shown if stationary tool is selected in tool editor</extracomment>
         <translation>Linjärbana är inte kompatibelt med stasjonärt verktyg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/LinearTrackEditor.qml" line="88"/>
+        <location filename="../../Sidebar/LinearTrackEditor.qml" line="69"/>
         <source>Import</source>
         <extracomment>Collapsible section: This section contains tools to import a custom linear track</extracomment>
         <translation>Importera</translation>
@@ -4801,6 +4910,45 @@ Ett eller flera projekt måste tas bort för att kunna skapa nya projekt</transl
     <message>
         <source>Add</source>
         <translation type="obsolete">Lägg til</translation>
+    </message>
+</context>
+<context>
+    <name>LoadingState</name>
+    <message>
+        <location filename="../../Views/LoadingState.qml" line="183"/>
+        <source>Station</source>
+        <extracomment>Title of loading state indicator</extracomment>
+        <translation type="unfinished">Station</translation>
+    </message>
+    <message>
+        <location filename="../../Views/LoadingState.qml" line="190"/>
+        <source>Robot</source>
+        <extracomment>Title of loading state indicator</extracomment>
+        <translation type="unfinished">Robot</translation>
+    </message>
+    <message>
+        <location filename="../../Views/LoadingState.qml" line="197"/>
+        <source>Tool</source>
+        <extracomment>Title of loading state indicator</extracomment>
+        <translation type="unfinished">Verktyg</translation>
+    </message>
+    <message>
+        <location filename="../../Views/LoadingState.qml" line="204"/>
+        <source>Linear Track</source>
+        <extracomment>Title of loading state indicator</extracomment>
+        <translation type="unfinished">Linjär bana</translation>
+    </message>
+    <message>
+        <location filename="../../Views/LoadingState.qml" line="211"/>
+        <source>Rotary Table</source>
+        <extracomment>Title of loading state indicator</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Views/LoadingState.qml" line="218"/>
+        <source>Additional Objects</source>
+        <extracomment>Title of loading state indicator</extracomment>
+        <translation type="unfinished">Ytterligare Objekt</translation>
     </message>
 </context>
 <context>
@@ -5537,7 +5685,7 @@ Tooltip for to-target field</extracomment>
 <context>
     <name>Menus</name>
     <message>
-        <location filename="../../Menus.qml" line="124"/>
+        <location filename="../../Menus.qml" line="122"/>
         <source>&amp;File</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Fil</translation>
@@ -5600,13 +5748,13 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Avsluta (CTRL+Q)</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="210"/>
+        <location filename="../../Menus.qml" line="208"/>
         <source>&amp;Edit</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Redigera</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="215"/>
+        <location filename="../../Menus.qml" line="213"/>
         <source>&amp;User Frame</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Användarkoordinatsystem</translation>
@@ -5618,37 +5766,37 @@ Tooltip for to-target field</extracomment>
         <translation>&amp;Objektkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="231"/>
+        <location filename="../../Menus.qml" line="232"/>
         <source>&amp;Robot</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Robot</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="255"/>
+        <location filename="../../Menus.qml" line="249"/>
         <source>&amp;Linear Track</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Linjärbana</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="271"/>
+        <location filename="../../Menus.qml" line="265"/>
         <source>&amp;Additional Objects</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Ytterligare objekt</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="280"/>
+        <location filename="../../Menus.qml" line="274"/>
         <source>Tar&amp;gets</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Punkter</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="428"/>
+        <location filename="../../Menus.qml" line="412"/>
         <source>User Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Användarkoordinater</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="436"/>
+        <location filename="../../Menus.qml" line="420"/>
         <source>Object Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Objektkoordinater</translation>
@@ -5662,7 +5810,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Mekanism</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="444"/>
+        <location filename="../../Menus.qml" line="428"/>
         <source>Robot</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Robot</translation>
@@ -5676,7 +5824,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Välj Robot</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="500"/>
+        <location filename="../../Menus.qml" line="468"/>
         <source>Linear Track</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Linjär bana</translation>
@@ -5718,14 +5866,16 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Välj Bord</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="468"/>
+        <location filename="../../Menus.qml" line="444"/>
         <source>Tool</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Verktyg</translation>
     </message>
     <message>
+        <location filename="../../Menus.qml" line="452"/>
         <source>Tool Base</source>
-        <translation type="obsolete">Verktygsbas</translation>
+        <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
+        <translation type="unfinished">Verktygsbas</translation>
     </message>
     <message>
         <source>Select Tool</source>
@@ -5780,7 +5930,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Radera Mål</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="247"/>
+        <location filename="../../Menus.qml" line="241"/>
         <source>&amp;Tool</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Verktyg</translation>
@@ -5794,7 +5944,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Optimera</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="170"/>
+        <location filename="../../Menus.qml" line="168"/>
         <source>&amp;Import Path</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Importera Bana</translation>
@@ -5812,7 +5962,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Maksimum Avstånd</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="127"/>
+        <location filename="../../Menus.qml" line="125"/>
         <source>&amp;New</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Ny</translation>
@@ -5826,19 +5976,19 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Orientering</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="42"/>
+        <location filename="../../Menus.qml" line="41"/>
         <source>New Project Wizard</source>
         <extracomment>Title of a dialog box</extracomment>
         <translation>Nytt Projekt Guide</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="44"/>
+        <location filename="../../Menus.qml" line="43"/>
         <source>New Empty Project</source>
         <extracomment>Title of a dialog box</extracomment>
         <translation>Nytt Tomt Projekt</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="46"/>
+        <location filename="../../Menus.qml" line="45"/>
         <source>This action will remove all unsaved changes in the current project
 
 Do you want to continue?</source>
@@ -5848,148 +5998,147 @@ Do you want to continue?</source>
 Vill du fortsätta?</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="132"/>
+        <location filename="../../Menus.qml" line="130"/>
         <source>&amp;Empty Project</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Tomt Projekt</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="147"/>
+        <location filename="../../Menus.qml" line="145"/>
         <source>&amp;Open Project</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Öppna Projekt</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="155"/>
+        <location filename="../../Menus.qml" line="153"/>
         <source>&amp;Save Project</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Spara Projekt</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="164"/>
+        <location filename="../../Menus.qml" line="162"/>
         <source>Save Project &amp;As ...</source>
         <extracomment>Menu item</extracomment>
         <translation>Sp&amp;ara Projekt Som ...</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="140"/>
+        <location filename="../../Menus.qml" line="138"/>
         <source>&amp;Project Wizard</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Projekt Guide</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="76"/>
+        <location filename="../../Menus.qml" line="75"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Denna modul innehåller osparade ändringar</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="179"/>
+        <location filename="../../Menus.qml" line="177"/>
         <source>S&amp;ettings</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Inställningar</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="186"/>
+        <location filename="../../Menus.qml" line="184"/>
         <source>Project &amp;Info</source>
         <extracomment>Menu item</extracomment>
         <translation>Projekt &amp;Info</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="263"/>
+        <location filename="../../Menus.qml" line="257"/>
         <source>Rotary Ta&amp;ble</source>
         <extracomment>Menu item</extracomment>
         <translation>Rotasions&amp;bord</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="291"/>
+        <location filename="../../Menus.qml" line="283"/>
         <source>&amp;Export Options</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Exportalternativ</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="308"/>
+        <location filename="../../Menus.qml" line="300"/>
         <source>&amp;Analyze</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Analysera</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="311"/>
+        <location filename="../../Menus.qml" line="303"/>
         <source>&amp;Optimizer</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Optimerare</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="330"/>
+        <location filename="../../Menus.qml" line="314"/>
         <source>&amp;View</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Vy</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="333"/>
+        <location filename="../../Menus.qml" line="317"/>
         <source>Camera</source>
         <extracomment>Sub-menu View/Camera</extracomment>
         <translation>Kamera</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="338"/>
+        <location filename="../../Menus.qml" line="322"/>
         <source>Reset</source>
         <extracomment>Menu item: Reset camera to default location</extracomment>
         <translation>Återställa</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="342"/>
+        <location filename="../../Menus.qml" line="326"/>
         <source>Reset camera to default</source>
         <extracomment>Tooltip for &quot;Reset&quot;</extracomment>
         <translation>Återställ kamera till standard</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="346"/>
+        <location filename="../../Menus.qml" line="330"/>
         <source>Home</source>
         <extracomment>Menu item: Reset camera to last saved location</extracomment>
         <translation>Hem</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="349"/>
+        <location filename="../../Menus.qml" line="333"/>
         <source>Reset camera to last saved position</source>
         <extracomment>Tooltip for &quot;Home&quot;</extracomment>
         <translation>Återställ kamera till senast sparade position</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="386"/>
+        <location filename="../../Menus.qml" line="370"/>
         <source>Station</source>
         <extracomment>Menu item</extracomment>
         <translation>Station</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="398"/>
+        <location filename="../../Menus.qml" line="382"/>
         <source>2D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation>2D Plot</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="404"/>
+        <location filename="../../Menus.qml" line="388"/>
         <source>3D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation>3D Plot</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="420"/>
+        <location filename="../../Menus.qml" line="404"/>
         <source>Global</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Global</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="452"/>
+        <location filename="../../Menus.qml" line="436"/>
         <source>Robot Flange</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Robotfläns</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="476"/>
         <source>Stationary Tool Base</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
-        <translation>Stationär verktygsbas</translation>
+        <translation type="vanished">Stationär verktygsbas</translation>
     </message>
     <message>
         <location filename="../../Menus.qml" line="484"/>
@@ -5998,25 +6147,25 @@ Vill du fortsätta?</translation>
         <translation>Scenens fokuspunkt</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="492"/>
+        <location filename="../../Menus.qml" line="460"/>
         <source>Rotary Table</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Rotasionsbord</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="508"/>
+        <location filename="../../Menus.qml" line="476"/>
         <source>Target</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Punkt</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="519"/>
+        <location filename="../../Menus.qml" line="496"/>
         <source>No plugins are enabled</source>
         <extracomment>Tool tip to explain why plugins are greyed out</extracomment>
         <translation>Inga plugins är aktiverade</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="547"/>
+        <location filename="../../Menus.qml" line="524"/>
         <source>This plugin does not have valid source content</source>
         <extracomment>Tool tip to explain why button is greyed out</extracomment>
         <translation>Denna plugin har inte giltigt källinnehåll</translation>
@@ -6027,7 +6176,7 @@ Vill du fortsätta?</translation>
         <translation type="vanished">Användarvillkor</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="606"/>
+        <location filename="../../Menus.qml" line="583"/>
         <source>Feedback</source>
         <extracomment>Menu item</extracomment>
         <translation>Feed-back</translation>
@@ -6041,7 +6190,7 @@ Vill du fortsätta?</translation>
         <translation type="obsolete">Ortogonala Vyer</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="392"/>
+        <location filename="../../Menus.qml" line="376"/>
         <source>Combination View</source>
         <extracomment>Menu item</extracomment>
         <translation>Kombinationsvisning</translation>
@@ -6063,7 +6212,7 @@ Vill du fortsätta?</translation>
         <translation type="obsolete">Animera Bakåt</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="526"/>
+        <location filename="../../Menus.qml" line="503"/>
         <source>&amp;Plugins</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Plugins</translation>
@@ -6077,7 +6226,7 @@ Vill du fortsätta?</translation>
         <translation type="vanished">Detta plugin är inte tillgängligt: </translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="589"/>
+        <location filename="../../Menus.qml" line="566"/>
         <source>Forum</source>
         <extracomment>Menu item</extracomment>
         <translation>Forum</translation>
@@ -6099,7 +6248,7 @@ Vill du fortsätta?</translation>
         <translation type="vanished">Plugin-inställningar</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="576"/>
+        <location filename="../../Menus.qml" line="553"/>
         <source>&amp;Help</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Hjälp</translation>
@@ -6109,7 +6258,7 @@ Vill du fortsätta?</translation>
         <translation type="obsolete">3D-Navigation</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="415"/>
+        <location filename="../../Menus.qml" line="399"/>
         <source>Coordinate Systems</source>
         <extracomment>Menu title</extracomment>
         <translation>Koordinatsystemer</translation>
@@ -6123,7 +6272,7 @@ Vill du fortsätta?</translation>
         <translation type="obsolete">Språk / Enheter</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="600"/>
+        <location filename="../../Menus.qml" line="577"/>
         <source>About IRBCAM</source>
         <extracomment>Menu item</extracomment>
         <translation>Om IRBCAM</translation>
@@ -6132,13 +6281,13 @@ Vill du fortsätta?</translation>
 <context>
     <name>MenusAdditional</name>
     <message>
-        <location filename="../../MenusAdditional.qml" line="27"/>
+        <location filename="../../MenusAdditional.qml" line="26"/>
         <source>&amp;DH Table</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;DH-tabell</translation>
     </message>
     <message>
-        <location filename="../../MenusAdditional.qml" line="39"/>
+        <location filename="../../MenusAdditional.qml" line="38"/>
         <source>S&amp;hare Project</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Dela Projekt</translation>
@@ -6195,19 +6344,19 @@ Vill du fortsätta?</translation>
 <context>
     <name>NotSignedIn</name>
     <message>
-        <location filename="../../Popups/NotSignedIn.qml" line="12"/>
+        <location filename="../../Popups/NotSignedIn.qml" line="13"/>
         <source>Sign In</source>
         <extracomment>Popup title: Sign in to account</extracomment>
         <translation>Logga in</translation>
     </message>
     <message>
-        <location filename="../../Popups/NotSignedIn.qml" line="54"/>
+        <location filename="../../Popups/NotSignedIn.qml" line="55"/>
         <source>Sign in</source>
         <extracomment>Button text: Sign in to account</extracomment>
         <translation>Logga in</translation>
     </message>
     <message>
-        <location filename="../../Popups/NotSignedIn.qml" line="44"/>
+        <location filename="../../Popups/NotSignedIn.qml" line="45"/>
         <source>Sign in to save your work and use premium features</source>
         <extracomment>Information text</extracomment>
         <translation>Logga in för att spara ditt arbete och använda premiumfunktioner</translation>
@@ -6236,10 +6385,9 @@ Vill du fortsätta?</translation>
         <translation type="vanished">Redigera objektkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ObjectFrameEditor.qml" line="12"/>
         <source>Object Frame</source>
         <extracomment>Title</extracomment>
-        <translation>Objektkoordinater</translation>
+        <translation type="vanished">Objektkoordinater</translation>
     </message>
 </context>
 <context>
@@ -6837,13 +6985,12 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
 <context>
     <name>Optimizer</name>
     <message>
-        <location filename="../../Sidebar/Optimizer.qml" line="22"/>
         <source>Parameter Optimizer</source>
         <extracomment>Title</extracomment>
-        <translation>Parameteroptimerare</translation>
+        <translation type="vanished">Parameteroptimerare</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Optimizer.qml" line="32"/>
+        <location filename="../../Sidebar/Optimizer.qml" line="28"/>
         <source>Warning</source>
         <extracomment>Confirmation popup title</extracomment>
         <translation>Varning</translation>
@@ -6854,79 +7001,79 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="vanished">Den aktuella konfigurationen kommer att försöka lösa banan %1 gånger. Detta kan ta ett tag och användargränssnittet kommer inte att svara medan optimeringen körs. Vill du fortsätta?</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Optimizer.qml" line="34"/>
+        <location filename="../../Sidebar/Optimizer.qml" line="30"/>
         <source>The current configuration will attempt to solve the path %1 times. This might take a while. Do you want to continue?</source>
         <extracomment>Confirmation popup body. %1 = number of attempted solves</extracomment>
         <translation>Den aktuella konfigurationen kommer att försöka lösa sökvägen %1 gånger. Det här kan ta ett tag. Vill du fortsätta?</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Optimizer.qml" line="46"/>
+        <location filename="../../Sidebar/Optimizer.qml" line="42"/>
         <source>Optimization Parameters (max 3)</source>
         <extracomment>Section title. Section contains a number of checkboxes for different parameters</extracomment>
         <translation>Optimeringsparametrar (max 3)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Optimizer.qml" line="87"/>
+        <location filename="../../Sidebar/Optimizer.qml" line="83"/>
         <source>Optimization Options</source>
         <extracomment>Section title. Section contains a number of checkboxes for different parameters</extracomment>
         <translation>Optimeringalternativ</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Optimizer.qml" line="93"/>
+        <location filename="../../Sidebar/Optimizer.qml" line="89"/>
         <source>Reachability Check</source>
         <extracomment>Checkbox: Optimization option</extracomment>
         <translation>Räckviddskontroll</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Optimizer.qml" line="100"/>
+        <location filename="../../Sidebar/Optimizer.qml" line="96"/>
         <source>If this option is enabled the optimizer will check all targets for reachability if the path fails to solve normally</source>
         <extracomment>Tooltip text related to &quot;Reachablility Check&quot; checkbox</extracomment>
         <translation>Om det här alternativet är aktiverat kommer optimeraren att kontrollera alla mål för nåbarhet om vägen misslyckas att lösas normalt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Optimizer.qml" line="107"/>
+        <location filename="../../Sidebar/Optimizer.qml" line="103"/>
         <source>Output Threshold</source>
         <extracomment>Label next to input field</extracomment>
         <translation>Utdatatröskel</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Optimizer.qml" line="128"/>
+        <location filename="../../Sidebar/Optimizer.qml" line="124"/>
         <source>Set the minimum percentage of targets that must be solved/reachable for a configuration to be included in the optimization output</source>
         <extracomment>Tooltip text related to &quot;Output Threashold&quot; input</extracomment>
         <translation>Ställ in den minsta procentandelen av mål som måste lösas/nås för att en konfiguration ska inkluderas i optimeringsutdata</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Optimizer.qml" line="136"/>
+        <location filename="../../Sidebar/Optimizer.qml" line="132"/>
         <source>Optimization Constraints</source>
         <extracomment>Section title. Section contains a number of checkboxes for different parameters</extracomment>
         <translation>Optimeringsbegränsningar</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Optimizer.qml" line="155"/>
+        <location filename="../../Sidebar/Optimizer.qml" line="151"/>
         <source>Optimize</source>
         <extracomment>Button. Starts the optimizer</extracomment>
         <translation>Optimera</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Optimizer.qml" line="177"/>
+        <location filename="../../Sidebar/Optimizer.qml" line="173"/>
         <source>No targets in path</source>
         <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
         <translation>Inga mål i banan</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Optimizer.qml" line="185"/>
+        <location filename="../../Sidebar/Optimizer.qml" line="181"/>
         <source>No robot loaded</source>
         <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
         <translation>Ingen robot laddad</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Optimizer.qml" line="193"/>
+        <location filename="../../Sidebar/Optimizer.qml" line="189"/>
         <source>No optimization parameters selected</source>
         <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
         <translation>Inga optimeringsparametrar valda</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Optimizer.qml" line="201"/>
+        <location filename="../../Sidebar/Optimizer.qml" line="197"/>
         <source>Another operation is currently in progress</source>
         <extracomment>Tooltip text: Reson why optimizer button is disabled</extracomment>
         <translation>En annan operation pågår för närvarande</translation>
@@ -6935,73 +7082,73 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
 <context>
     <name>Overlay3D</name>
     <message>
-        <location filename="../../Views/Overlay3D.qml" line="78"/>
+        <location filename="../../Views/Overlay3D.qml" line="72"/>
         <source>3D view navigation</source>
         <extracomment>Info card title</extracomment>
         <translation>3D-vyns navigering</translation>
     </message>
     <message>
-        <location filename="../../Views/Overlay3D.qml" line="81"/>
+        <location filename="../../Views/Overlay3D.qml" line="75"/>
         <source>Hide 3D view navigation</source>
         <extracomment>Info card tooltip when expanded</extracomment>
         <translation>Dölj 3D-navigering</translation>
     </message>
     <message>
-        <location filename="../../Views/Overlay3D.qml" line="83"/>
+        <location filename="../../Views/Overlay3D.qml" line="77"/>
         <source>Show 3D view navigation</source>
         <extracomment>Info card tooltip when collapsed</extracomment>
         <translation>Visa 3D-vy-navigering</translation>
     </message>
     <message>
-        <location filename="../../Views/Overlay3D.qml" line="87"/>
+        <location filename="../../Views/Overlay3D.qml" line="81"/>
         <source>Rotate view</source>
         <extracomment>Info card action</extracomment>
         <translation>Rotera vy</translation>
     </message>
     <message>
-        <location filename="../../Views/Overlay3D.qml" line="89"/>
+        <location filename="../../Views/Overlay3D.qml" line="83"/>
         <source>Left click + drag</source>
         <extracomment>Info card operation: Rotate view</extracomment>
         <translation>Vänsterklick + dra</translation>
     </message>
     <message>
-        <location filename="../../Views/Overlay3D.qml" line="93"/>
+        <location filename="../../Views/Overlay3D.qml" line="87"/>
         <source>Pan view</source>
         <extracomment>Info card action</extracomment>
         <translation>Panorera</translation>
     </message>
     <message>
-        <location filename="../../Views/Overlay3D.qml" line="95"/>
+        <location filename="../../Views/Overlay3D.qml" line="89"/>
         <source>Right click + drag</source>
         <extracomment>Info card operation: Pan view</extracomment>
         <translation>Högerklick + dra</translation>
     </message>
     <message>
-        <location filename="../../Views/Overlay3D.qml" line="99"/>
+        <location filename="../../Views/Overlay3D.qml" line="93"/>
         <source>Zoom in/out</source>
         <extracomment>Info card action</extracomment>
         <translation>Zooma in/ut</translation>
     </message>
     <message>
-        <location filename="../../Views/Overlay3D.qml" line="101"/>
+        <location filename="../../Views/Overlay3D.qml" line="95"/>
         <source>Mouse wheel</source>
         <extracomment>Info card operation: Zoom in/out</extracomment>
         <translation>Mushjul</translation>
     </message>
     <message>
-        <location filename="../../Views/Overlay3D.qml" line="105"/>
+        <location filename="../../Views/Overlay3D.qml" line="99"/>
         <source>Select target</source>
         <extracomment>Info card action</extracomment>
         <translation>Välj mål</translation>
     </message>
     <message>
-        <location filename="../../Views/Overlay3D.qml" line="107"/>
+        <location filename="../../Views/Overlay3D.qml" line="101"/>
         <source>Left click on target</source>
         <extracomment>Info card operation: Select target</extracomment>
         <translation>Vänsterklicka på målet</translation>
     </message>
     <message>
-        <location filename="../../Views/Overlay3D.qml" line="109"/>
+        <location filename="../../Views/Overlay3D.qml" line="103"/>
         <source>Only available if &apos;Visualization Settings&apos; → &apos;Targets&apos; is enabled</source>
         <extracomment>Info card detail: Select target</extracomment>
         <translation>Endast tillgänglig om &apos;Visualization Settings&apos; → &apos;Targets&apos; är aktiverat</translation>
@@ -7015,61 +7162,61 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
 <context>
     <name>PathContextMenu</name>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="52"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="47"/>
         <source>Copy paths</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopiera banor</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="54"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="49"/>
         <source>Copy targets in paths</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopiera punkter i banor</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="58"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="53"/>
         <source>Copy path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopiera bana</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="60"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="55"/>
         <source>Copy targets in path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopiera punkter i bana</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="67"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="62"/>
         <source>Copy selected targets</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopiera valda punkter</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="71"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="66"/>
         <source>Copy target</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopiera punkt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="88"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="99"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="83"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="94"/>
         <source>Paste paths</source>
         <extracomment>Context menu item</extracomment>
         <translation>Klistra in banor</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="92"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="101"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="87"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="96"/>
         <source>Paste path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Klistra in bana</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="104"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="148"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="172"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="183"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="226"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="99"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="143"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="167"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="178"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="221"/>
         <source>Before</source>
         <extracomment>Context menu sub-item: Paste path(s) -&gt; Before
 ----------
@@ -7083,11 +7230,11 @@ Context menu sub-item: Split path -&gt; Before</extracomment>
         <translation>Före</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="106"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="154"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="174"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="185"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="230"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="101"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="149"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="169"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="180"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="225"/>
         <source>After</source>
         <extracomment>Context menu sub-item: Paste path(s) -&gt; After
 ----------
@@ -7101,176 +7248,176 @@ Context menu sub-item: Split path -&gt; After</extracomment>
         <translation>Efter</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="119"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="114"/>
         <source>Paste targets in a new path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Klistra in punkter i en ny bana</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="121"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="116"/>
         <source>Paste target in a new path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Klistra in punkt i en ny bana</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="133"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="128"/>
         <source>Paste targets at the beginning of path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Klistra in punkter i början av banan</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="135"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="130"/>
         <source>Paste target at the beginning of path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Klistra in punkt i början av banan</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="143"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="138"/>
         <source>Paste targets</source>
         <extracomment>Context menu item</extracomment>
         <translation>Klistra in punkter</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="145"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="140"/>
         <source>Paste target</source>
         <extracomment>Context menu item</extracomment>
         <translation>Klistra in punkt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="151"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="146"/>
         <source>Replace</source>
         <extracomment>Context menu sub-item: Paste target(s) -&gt; Replace</extracomment>
         <translation>Ersätta</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="167"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="162"/>
         <source>Add new</source>
         <extracomment>Context menu item</extracomment>
         <translation>Lägga till ny</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="170"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="165"/>
         <source>Path</source>
         <extracomment>Context menu sub-item: Add new -&gt; Path</extracomment>
         <translation>Bana</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="176"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="171"/>
         <source>Target</source>
         <extracomment>Context menu sub-item: Add new -&gt; Target</extracomment>
         <translation>Punkt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="181"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="176"/>
         <source>Add new target</source>
         <extracomment>Context menu item</extracomment>
         <translation>Lägga till ny punkt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="192"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="187"/>
         <source>Add new path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Lägga till ny bana</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="205"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="200"/>
         <source>Combine selected paths</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kombinera valda banor</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="214"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="209"/>
         <source>Split path after</source>
         <extracomment>Context menu item</extracomment>
         <translation>Dela bana efter</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="219"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="214"/>
         <source>Split path before</source>
         <extracomment>Context menu item</extracomment>
         <translation>Dela bana före</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="224"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="219"/>
         <source>Split path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Dela bana</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="245"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="240"/>
         <source>Delete selected</source>
         <extracomment>Context menu item</extracomment>
         <translation>Ta bort valda</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="252"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="247"/>
         <source>Delete path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Ta bort bana</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="258"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="253"/>
         <source>Delete target</source>
         <extracomment>Context menu item</extracomment>
         <translation>Ta bort punkt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="272"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="267"/>
         <source>Rename path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Byt namn på bana</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="281"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="276"/>
         <source>Close max distance editor</source>
         <extracomment>Context menu item</extracomment>
         <translation>Stäng maxavståndsredigeraren</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="283"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="278"/>
         <source>Open max distance editor</source>
         <extracomment>Context menu item</extracomment>
         <translation>Öppna maxavståndsredigeraren</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="289"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="284"/>
         <source>Go to target</source>
         <extracomment>Context menu item. Opens a popup with go to target index</extracomment>
         <translation>Gå till punkt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="298"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="293"/>
         <source>Import Path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Importera Verktygsbana</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="304"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="299"/>
         <source>Open project</source>
         <extracomment>Context menu item</extracomment>
         <translation>Öppna projekt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="318"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="313"/>
         <source>Expand all</source>
         <extracomment>Context menu item: Expand all items in list</extracomment>
         <translation>Expandera alla</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="320"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="315"/>
         <source>Collapse all</source>
         <extracomment>Context menu item: Collapse all items in list</extracomment>
         <translation>Komprimera alla</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="325"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="320"/>
         <source>Expand</source>
         <extracomment>Context menu</extracomment>
         <translation>Expandera</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="327"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="342"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="322"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="337"/>
         <source>Current</source>
         <extracomment>Context menu sub-item: Expand -&gt; Current
 ----------
@@ -7278,8 +7425,8 @@ Context menu sub-item: Collapse -&gt; Current</extracomment>
         <translation>Aktuell</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="330"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="345"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="325"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="340"/>
         <source>Targets</source>
         <extracomment>Context menu sub-item: Expand -&gt; Targets
 ----------
@@ -7287,8 +7434,8 @@ Context menu sub-item: Collapse -&gt; Targets</extracomment>
         <translation>Punkter</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="334"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="349"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="329"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="344"/>
         <source>Selection</source>
         <extracomment>Context menu sub-item: Expand -&gt; Selection
 ----------
@@ -7296,8 +7443,8 @@ Context menu sub-item: Collapse -&gt; Selection</extracomment>
         <translation>Urval</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="337"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="352"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="332"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="347"/>
         <source>All</source>
         <extracomment>Context menu sub-item: Expand -&gt; All
 ----------
@@ -7305,7 +7452,7 @@ Context menu sub-item: Collapse -&gt; All</extracomment>
         <translation>Alla</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="340"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="335"/>
         <source>Collapse</source>
         <extracomment>Context menu</extracomment>
         <translation>Komprimera</translation>
@@ -7447,13 +7594,12 @@ Context menu sub-item: Collapse -&gt; All</extracomment>
         <translation type="obsolete">Avbryt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="46"/>
         <source>Targets</source>
         <extracomment>Title</extracomment>
-        <translation>Punkter</translation>
+        <translation type="vanished">Punkter</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="386"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="361"/>
         <source>The path list is empty
 Right click to see available options for populating the path</source>
         <extracomment>Placeholder text for empty path</extracomment>
@@ -7461,139 +7607,139 @@ Right click to see available options for populating the path</source>
 Högerklicka för att se tillgängliga alternativ för att fylla banan</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="397"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="372"/>
         <source>Target list navigation</source>
         <extracomment>Info card title</extracomment>
         <translation>Navigering av mållista</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="400"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="375"/>
         <source>Hide navigation info</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
         <translation>Dölj navigationsinfo</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="402"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="377"/>
         <source>Show navigation info</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
         <translation>Visa navigationsinfo</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="406"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="381"/>
         <source>Selection</source>
         <extracomment>Info card action</extracomment>
         <translation>Urval</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="409"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="384"/>
         <source>Left click</source>
         <extracomment>Info card operation: Selection</extracomment>
         <translation>Vänsterklick</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="411"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="386"/>
         <source>Up/down arrow keys</source>
         <extracomment>Info card operation: Selection</extracomment>
         <translation>Uppåt-/nedåtpiltangenterna</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="413"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="388"/>
         <source>Modifiers:</source>
         <extracomment>Info card operation: Selection sub category</extracomment>
         <translation>Modifierare:</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="417"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="392"/>
         <source>%1 - Select range</source>
         <extracomment>Info card detail: Modifiers - %1 = shift</extracomment>
         <translation>%1 - Välj intervall</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="419"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="394"/>
         <source>%1 - Select additional (mouse only)</source>
         <extracomment>Info card detail: Modifiers - %1 = ctrl</extracomment>
         <translation>%1 - Välj ytterligare (endast mus)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="421"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="396"/>
         <source>%1 + %2 - Select additional range</source>
         <extracomment>Info card detail: Modifiers - %1 = shift, %2 = ctrl</extracomment>
         <translation>%1 + %2 - Välj ytterligare intervall</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="426"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="401"/>
         <source>Open context menu</source>
         <extracomment>Info card action</extracomment>
         <translation>Öppna snabbmeny</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="428"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="403"/>
         <source>Right click</source>
         <extracomment>Info card operation: Open context menu</extracomment>
         <translation>Högerklicka</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="430"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="405"/>
         <source>Content of the context menu will depend on what element is clicked</source>
         <extracomment>Info card detail: Right click</extracomment>
         <translation>Innehållet i snabbmenyn beror på vilket element som klickas på</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="434"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="409"/>
         <source>Expand/collapse</source>
         <extracomment>Info card action</extracomment>
         <translation>Utvidga/kollapsa</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="437"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="412"/>
         <source>Double click</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
         <translation>Dubbelklick</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="439"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="414"/>
         <source>Right arrow key (expand)</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
         <translation>Höger piltangent (expandera)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="441"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="416"/>
         <source>Left arrow key (collapse)</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
         <translation>Vänster piltangent (fäll ihop)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="446"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="421"/>
         <source>Copy selected</source>
         <extracomment>Info card action</extracomment>
         <translation>Kopiera markerat</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="451"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="426"/>
         <source>Paste copied</source>
         <extracomment>Info card action</extracomment>
         <translation>Klistra in kopierad</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="454"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="429"/>
         <source>Pastes after the selected element</source>
         <extracomment>Info card detail: Paste copied</extracomment>
         <translation>Klistrar in efter det valda elementet</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="458"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="433"/>
         <source>Delete selected</source>
         <extracomment>Info card action</extracomment>
         <translation>Ta bort valda</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="463"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="438"/>
         <source>Undo last action</source>
         <extracomment>Info card action</extracomment>
         <translation>Ångra senaste åtgärd</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="468"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="443"/>
         <source>Redo last action</source>
         <extracomment>Info card action</extracomment>
         <translation>Gör om senaste åtgärd</translation>
@@ -7602,88 +7748,86 @@ Högerklicka för att se tillgängliga alternativ för att fylla banan</translat
 <context>
     <name>PathInfo</name>
     <message>
-        <location filename="../../Popups/Assets/PathInfo.qml" line="27"/>
+        <location filename="../../Popups/Assets/PathInfo.qml" line="18"/>
         <source>File</source>
         <extracomment>Label: Refers to file name of imported path</extracomment>
         <translation>Fil</translation>
     </message>
     <message>
-        <location filename="../../Popups/Assets/PathInfo.qml" line="31"/>
+        <location filename="../../Popups/Assets/PathInfo.qml" line="24"/>
         <source>No path imported</source>
         <extracomment>Placeholder file name for when no path is imported</extracomment>
         <translation>Ingen bana importerad</translation>
     </message>
     <message>
-        <location filename="../../Popups/Assets/PathInfo.qml" line="36"/>
+        <location filename="../../Popups/Assets/PathInfo.qml" line="29"/>
         <source>Targets</source>
         <extracomment>Label: Refers to the number of targets in the path</extracomment>
         <translation>Mål</translation>
     </message>
     <message>
-        <location filename="../../Popups/Assets/PathInfo.qml" line="45"/>
         <source>Tools</source>
         <extracomment>Label. Refers to a list of the tools in the path. This is shown if there are multiple tools</extracomment>
-        <translation>Verktyg</translation>
+        <translation type="vanished">Verktyg</translation>
     </message>
     <message>
-        <location filename="../../Popups/Assets/PathInfo.qml" line="47"/>
         <source>Tool</source>
         <extracomment>Label. Refers to a list of the tools in the path. This is shown if there is a singular tool</extracomment>
-        <translation>Verktyg</translation>
+        <translation type="vanished">Verktyg</translation>
     </message>
     <message>
-        <location filename="../../Popups/Assets/PathInfo.qml" line="78"/>
+        <location filename="../../Popups/Assets/PathInfo.qml" line="64"/>
         <source>Tool %1</source>
         <extracomment>Label: %1 = Tool number</extracomment>
         <translation>Verktyg %1</translation>
     </message>
     <message>
-        <location filename="../../Popups/Assets/PathInfo.qml" line="85"/>
+        <location filename="../../Popups/Assets/PathInfo.qml" line="74"/>
         <source>Defined</source>
         <extracomment>Label: Refers to Tool number defined/undefined</extracomment>
         <translation>Definierad</translation>
     </message>
     <message>
-        <location filename="../../Popups/Assets/PathInfo.qml" line="87"/>
+        <location filename="../../Popups/Assets/PathInfo.qml" line="76"/>
         <source>Undefined</source>
         <extracomment>Label: Refers to Tool number</extracomment>
         <translation>Odefinierad</translation>
     </message>
     <message>
-        <location filename="../../Popups/Assets/PathInfo.qml" line="90"/>
+        <location filename="../../Popups/Assets/PathInfo.qml" line="79"/>
         <source>Tool %1 is defined</source>
         <extracomment>Tool tip: %1 = Tool number</extracomment>
         <translation>Verktyg %1 är definierat</translation>
     </message>
     <message>
-        <location filename="../../Popups/Assets/PathInfo.qml" line="92"/>
+        <location filename="../../Popups/Assets/PathInfo.qml" line="81"/>
         <source>Tool %1 must be defined</source>
         <extracomment>Tool tip: %1 = Tool number</extracomment>
         <translation>Verktyg %1 måste definieras</translation>
     </message>
     <message>
-        <location filename="../../Popups/Assets/PathInfo.qml" line="100"/>
+        <location filename="../../Popups/Assets/PathInfo.qml" line="88"/>
         <source>Click %1here%2 to add this tool</source>
-        <extracomment>Label: Refers to Tool number defined Label: Refers to Tool number undefined</extracomment>
+        <extracomment>Label: Refers to Tool number undefined</extracomment>
         <translation>Klicka %1här%2 för att lägga till detta verktyg</translation>
     </message>
 </context>
 <context>
     <name>PathInfoPopup</name>
     <message>
-        <location filename="../../Popups/PathInfoPopup.qml" line="22"/>
+        <location filename="../../Popups/PathInfoPopup.qml" line="21"/>
         <source>Path and Tool Info</source>
         <extracomment>Title</extracomment>
         <translation>Bana och verktygsinfo</translation>
     </message>
     <message>
-        <location filename="../../Popups/PathInfoPopup.qml" line="56"/>
+        <location filename="../../Popups/PathInfoPopup.qml" line="54"/>
         <source>Path</source>
         <extracomment>Collapsible section: Path information</extracomment>
         <translation>Bana</translation>
     </message>
     <message>
-        <location filename="../../Popups/PathInfoPopup.qml" line="75"/>
+        <location filename="../../Popups/PathInfoPopup.qml" line="71"/>
         <source>Existing Tools</source>
         <extracomment>Collapsible section: Tools information</extracomment>
         <translation>Befintliga verktyg</translation>
@@ -7692,55 +7836,55 @@ Högerklicka för att se tillgängliga alternativ för att fylla banan</translat
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1666"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1662"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>Det gick inte att importera CSV-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1672"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1668"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Banan importerad från CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1685"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1681"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att tolka JSON-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1708"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1704"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att läsa in banan</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1714"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1710"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Verktygsbana laddad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2246"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2242"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopierad punkt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2251"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2247"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Kopierade %1 punkter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2292"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2288"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopierad bana</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2297"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2293"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Kopierade %1 banor</translation>
@@ -8843,49 +8987,48 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="obsolete">OK</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="20"/>
         <source>Robots</source>
         <extracomment>Title</extracomment>
-        <translation>Robotar</translation>
+        <translation type="vanished">Robotar</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="73"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="50"/>
         <source>Robot must be activated in order to export robot code</source>
         <extracomment>Text in popup.</extracomment>
         <translation>Robot måste vara aktiverad för att kunna exportera robotkod</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="79"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="56"/>
         <source>Your list of activated robots is full. You must remove one or more robots in order to activate new ones</source>
         <extracomment>Text in popup</extracomment>
         <translation>Din lista över aktiverade robotar är full. Du måste ta bort en eller flera robotar för att kunna aktivera nya</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="81"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="58"/>
         <source>Click to confirm activating %1</source>
         <extracomment>Text in popup. %1 = name of robot</extracomment>
         <translation>Klicka för att bekräfta aktiveringen av %1</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="113"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="90"/>
         <source>This robot has been activated for robot code export</source>
         <extracomment>Text in popup</extracomment>
         <translation>Denna robot har aktiverats för robotkodexport</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="75"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="52"/>
         <source>You have currently activated %1 of %2 robots</source>
         <extracomment>Text in popup: %1 = number of activated robots, %2 = max number of activated robots</extracomment>
         <translation>Du har för närvarande aktiverat %1 av %2 robotar</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="102"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="79"/>
         <source>Deactivate</source>
         <extracomment>Button. Used to deactivate a robot</extracomment>
         <translation>Avaktivera</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="115"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="92"/>
         <source>It can be deactivated in:
 %1</source>
         <extracomment>Text in popup. %1 = time (e.g. 1 month 2 days)</extracomment>
@@ -8893,31 +9036,31 @@ Column name. Refers to which date the items were modified</extracomment>
 %1</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="123"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="100"/>
         <source>Activated date: %1</source>
         <extracomment>Label. %1 = date</extracomment>
         <translation>Aktiverat datum: %1</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="128"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="105"/>
         <source>Unlocked date: %1</source>
         <extracomment>Label. %1 = date</extracomment>
         <translation>Upplåst datum: %1</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="242"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="219"/>
         <source>Activation info</source>
         <extracomment>Tool tip: Shown when hovering above the checkmark button on an activated robot</extracomment>
         <translation>Aktiveringsinformation</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="244"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="221"/>
         <source>Activate robot</source>
         <extracomment>Tool tip: Shown when hovering above the checkmark button on an inactive (not activated) robot</extracomment>
         <translation>Aktivera robot</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="265"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="242"/>
         <source>Import</source>
         <extracomment>Collapsible section. This section contains tools to import a custom robot</extracomment>
         <translation>Importera</translation>
@@ -9612,22 +9755,19 @@ Inga nya punkter har lagts till</translation>
 <context>
     <name>RotaryTableEditor</name>
     <message>
-        <location filename="../../Sidebar/RotaryTableEditor.qml" line="18"/>
-        <location filename="../../Sidebar/RotaryTableEditor.qml" line="74"/>
+        <location filename="../../Sidebar/RotaryTableEditor.qml" line="50"/>
         <source>Rotary Tables</source>
-        <extracomment>Title
-----------
-Collapsible list section. This section contains all rotary tables</extracomment>
+        <extracomment>Collapsible list section. This section contains all rotary tables</extracomment>
         <translation>Rotationsbord</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RotaryTableEditor.qml" line="58"/>
+        <location filename="../../Sidebar/RotaryTableEditor.qml" line="34"/>
         <source>Rotary table is incompatible with stationary tool</source>
         <extracomment>Label: This is shown if stationary tool is selected in tool editor</extracomment>
         <translation>Roterande bord är inte kompatibelt med stationära verktyg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RotaryTableEditor.qml" line="85"/>
+        <location filename="../../Sidebar/RotaryTableEditor.qml" line="61"/>
         <source>Import</source>
         <extracomment>Collapsible section. This section contains tools to import rotary tables</extracomment>
         <translation>Importera</translation>
@@ -10156,8 +10296,28 @@ Klicka igen för att skriva över</translation>
 <context>
     <name>Sidebar</name>
     <message>
+        <location filename="../../Sidebar/Sidebar.qml" line="154"/>
+        <source>Remove shortcut</source>
+        <extracomment>Context menu item, remove sidebar shortcut</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Sidebar.qml" line="159"/>
+        <source>Reset to default</source>
+        <extracomment>Context menu item, reset all sidebar shortcuts to default</extracomment>
+        <translation type="unfinished">Återställ till standard</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Sidebar.qml" line="222"/>
         <source>Back</source>
-        <translation type="vanished">Tillbaka</translation>
+        <extracomment>Button: Navigate back</extracomment>
+        <translation>Tillbaka</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Sidebar.qml" line="233"/>
+        <source>Project Wizard</source>
+        <extracomment>Title</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
@@ -10168,35 +10328,97 @@ Klicka igen för att skriva över</translation>
         <translation type="vanished">Avsluta</translation>
     </message>
     <message>
+        <location filename="../../Sidebar/Sidebar.qml" line="241"/>
         <source>Next</source>
-        <translation type="vanished">Nästa</translation>
+        <extracomment>Button: Navigate to next view</extracomment>
+        <translation>Nästa</translation>
     </message>
 </context>
 <context>
     <name>SidebarItem</name>
     <message>
-        <location filename="../../Sidebar/SidebarItem.qml" line="131"/>
+        <location filename="../../Sidebar/SidebarItem.qml" line="84"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip: &apos;module&apos; in this case refers to a particular sidebar. For example the &apos;Targets&apos; sidebar or the &apos;Robot&apos; sidebar</extracomment>
         <translation>Denna modul innehåller osparade ändringar</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/SidebarItem.qml" line="195"/>
         <source>Back</source>
         <extracomment>Button: Navigate back</extracomment>
-        <translation>Tillbaka</translation>
+        <translation type="vanished">Tillbaka</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/SidebarItem.qml" line="197"/>
         <source>Close</source>
         <extracomment>Button: Close sidebar</extracomment>
-        <translation>Stäng</translation>
+        <translation type="vanished">Stäng</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/SidebarItem.qml" line="211"/>
         <source>Next</source>
         <extracomment>Button: Navigate to next view</extracomment>
-        <translation>Nästa</translation>
+        <translation type="vanished">Nästa</translation>
+    </message>
+</context>
+<context>
+    <name>SidebarModel</name>
+    <message>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="231"/>
+        <source>Additional Objects</source>
+        <extracomment>Title: Referring to user-imported 3D objects</extracomment>
+        <translation type="unfinished">Ytterligare Objekt</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="237"/>
+        <source>DH Table</source>
+        <extracomment>Title</extracomment>
+        <translation type="unfinished">DH-tabell</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="249"/>
+        <source>Linear Track</source>
+        <extracomment>Title</extracomment>
+        <translation type="unfinished">Linjär bana</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="255"/>
+        <source>Object Frame</source>
+        <extracomment>Title</extracomment>
+        <translation type="unfinished">Objektkoordinater</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="261"/>
+        <source>Optimizer</source>
+        <extracomment>Title</extracomment>
+        <translation type="unfinished">Optimera</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="267"/>
+        <source>Targets</source>
+        <extracomment>Title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="273"/>
+        <source>Robot</source>
+        <extracomment>Title</extracomment>
+        <translation type="unfinished">Robot</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="279"/>
+        <source>Rotary Table</source>
+        <extracomment>Title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="285"/>
+        <source>Tool</source>
+        <extracomment>Title</extracomment>
+        <translation type="unfinished">Verktyg</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="291"/>
+        <source>User Frame</source>
+        <extracomment>Title</extracomment>
+        <translation type="unfinished">Användarkoordinater</translation>
     </message>
 </context>
 <context>
@@ -10386,31 +10608,31 @@ Klicka igen för att skriva över</translation>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="30"/>
+        <location filename="../../Popups/StationInfo.qml" line="28"/>
         <source>Project Info</source>
         <extracomment>Title of a popup: Information about current project</extracomment>
         <translation>Projektinfo</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="66"/>
+        <location filename="../../Popups/StationInfo.qml" line="64"/>
         <source>Project</source>
         <extracomment>Collapsible section: Project information</extracomment>
         <translation>Projekt</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="80"/>
+        <location filename="../../Popups/StationInfo.qml" line="78"/>
         <source>Name</source>
         <extracomment>Project name</extracomment>
         <translation>Namn</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="85"/>
+        <location filename="../../Popups/StationInfo.qml" line="84"/>
         <source>(Unsaved project)</source>
         <extracomment>Label. Placeholder project name before it has been saved</extracomment>
         <translation>(Osparat projekt)</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="90"/>
+        <location filename="../../Popups/StationInfo.qml" line="89"/>
         <source>Save version</source>
         <extracomment>The currently loaded project was last saved with version</extracomment>
         <translation>Spara version</translation>
@@ -10422,19 +10644,19 @@ Klicka igen för att skriva över</translation>
         <translation>Station</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="126"/>
+        <location filename="../../Popups/StationInfo.qml" line="118"/>
         <source>Robot</source>
         <extracomment>Robot name</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="130"/>
+        <location filename="../../Popups/StationInfo.qml" line="123"/>
         <source>No robot selected</source>
         <extracomment>Placeholder text instead of name for when no robot is loaded</extracomment>
         <translation>Ingen robot har valts</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="151"/>
+        <location filename="../../Popups/StationInfo.qml" line="128"/>
         <source>Tool</source>
         <extracomment>Label. Refers to a list of the tools in the project</extracomment>
         <translation>Verktyg</translation>
@@ -10455,49 +10677,49 @@ Klicka igen för att skriva över</translation>
         <translation type="vanished">Inget verktyg valt</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="165"/>
+        <location filename="../../Popups/StationInfo.qml" line="143"/>
         <source>Geometries</source>
         <extracomment>Label. Refers to a list of the geometries in the project. This is shown if there are multiple geometries</extracomment>
         <translation>Geometrier</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="167"/>
+        <location filename="../../Popups/StationInfo.qml" line="145"/>
         <source>Geometry</source>
         <extracomment>Label. Refers to a list of the geometries in the project. This is shown if there is a singular geometry</extracomment>
         <translation>Geometri</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="174"/>
+        <location filename="../../Popups/StationInfo.qml" line="154"/>
         <source>No geometry selected</source>
         <extracomment>Placeholder name. Used when no geometry is selected</extracomment>
         <translation>Ingen geometri har valts</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="189"/>
+        <location filename="../../Popups/StationInfo.qml" line="170"/>
         <source>Linear track</source>
         <extracomment>Label: Refers to which linear track is selected</extracomment>
         <translation>Linjärbana</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="193"/>
+        <location filename="../../Popups/StationInfo.qml" line="175"/>
         <source>No linear track selected</source>
         <extracomment>Placeholder name for when no linear track is selected</extracomment>
         <translation>Ingen linjärbana har valts</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="198"/>
+        <location filename="../../Popups/StationInfo.qml" line="180"/>
         <source>Rotary table</source>
         <extracomment>Label: Refers to which linear track is selected</extracomment>
         <translation>Rotationsbord</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="202"/>
+        <location filename="../../Popups/StationInfo.qml" line="185"/>
         <source>No rotary table selected</source>
         <extracomment>Placeholder name for when no rotary table is selected</extracomment>
         <translation>Inget roterande bord valt</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="213"/>
+        <location filename="../../Popups/StationInfo.qml" line="196"/>
         <source>Path</source>
         <extracomment>Collapsible section: Path information</extracomment>
         <translation>Bana</translation>
@@ -10518,45 +10740,45 @@ Klicka igen för att skriva över</translation>
         <translation type="vanished">Punkter</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="157"/>
+        <location filename="../../Popups/StationInfo.qml" line="135"/>
         <source>Stationary tool</source>
         <extracomment>Additional info for user to know that stationary tool is selected.</extracomment>
         <translation>Stationärt verktyg</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="159"/>
+        <location filename="../../Popups/StationInfo.qml" line="137"/>
         <source>Robot holds the tool</source>
         <extracomment>Additional info for user to know that The robot holds the tool.</extracomment>
         <translation>Roboten håller verktyget</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="232"/>
+        <location filename="../../Popups/StationInfo.qml" line="213"/>
         <source>Existing Tools</source>
         <extracomment>Collapsible section: Tools information</extracomment>
         <translation>Befintliga verktyg</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="249"/>
+        <location filename="../../Popups/StationInfo.qml" line="230"/>
         <source>Solution</source>
         <extracomment>Collapsible section: Contains info about the solution of the path</extracomment>
         <translation>Lösning</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="263"/>
+        <location filename="../../Popups/StationInfo.qml" line="244"/>
         <source>Status</source>
         <extracomment>Label: Status of the solution</extracomment>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="271"/>
+        <location filename="../../Popups/StationInfo.qml" line="253"/>
         <source>Bending backwards</source>
         <extracomment>Label: Does the solution use a bending-backwards configuration</extracomment>
         <translation>Böjer sig bakåt</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="275"/>
-        <location filename="../../Popups/StationInfo.qml" line="286"/>
-        <location filename="../../Popups/StationInfo.qml" line="297"/>
+        <location filename="../../Popups/StationInfo.qml" line="258"/>
+        <location filename="../../Popups/StationInfo.qml" line="270"/>
+        <location filename="../../Popups/StationInfo.qml" line="282"/>
         <source>Yes</source>
         <extracomment>Label: Does the solution use a bending-backwards configuration
 ----------
@@ -10566,9 +10788,9 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation>Ja</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="277"/>
-        <location filename="../../Popups/StationInfo.qml" line="288"/>
-        <location filename="../../Popups/StationInfo.qml" line="299"/>
+        <location filename="../../Popups/StationInfo.qml" line="260"/>
+        <location filename="../../Popups/StationInfo.qml" line="272"/>
+        <location filename="../../Popups/StationInfo.qml" line="284"/>
         <source>No</source>
         <extracomment>Label: Does the solution use a bending-backwards configuration
 ----------
@@ -10578,55 +10800,55 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation>Nej</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="282"/>
+        <location filename="../../Popups/StationInfo.qml" line="265"/>
         <source>Elbow down</source>
         <extracomment>Label: Does the solution use an elbow-down configuration</extracomment>
         <translation>Armbågen ner</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="293"/>
+        <location filename="../../Popups/StationInfo.qml" line="277"/>
         <source>Wrist down</source>
         <extracomment>Label: Does the solution use a wrist-down configuration</extracomment>
         <translation>Handled ner</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="304"/>
+        <location filename="../../Popups/StationInfo.qml" line="289"/>
         <source>Tool roll mode</source>
         <extracomment>Label: Which rotation mode does the tool use in the solution</extracomment>
         <translation>Verktygsrulleläge</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="313"/>
+        <location filename="../../Popups/StationInfo.qml" line="299"/>
         <source>Tool roll angle</source>
         <extracomment>Label: Only shown if tool roll is static. Which roll angle is set on the tool</extracomment>
         <translation>Verktygsrullvinkel</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="323"/>
+        <location filename="../../Popups/StationInfo.qml" line="310"/>
         <source>Rotatry table mode</source>
         <extracomment>Label: Which rotation mode does the rotary table use in the solution</extracomment>
         <translation>Rotationsbordläge</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="333"/>
+        <location filename="../../Popups/StationInfo.qml" line="321"/>
         <source>Rotatry table angle</source>
         <extracomment>Label: Which angle is set on the rotary table</extracomment>
         <translation>Roterande bordsvinkel</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="343"/>
+        <location filename="../../Popups/StationInfo.qml" line="332"/>
         <source>Linear track mode</source>
         <extracomment>Label: Which motion mode does the linear track use in the solution</extracomment>
         <translation>Linjärbanaläge</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="353"/>
+        <location filename="../../Popups/StationInfo.qml" line="343"/>
         <source>Linear track offset</source>
         <extracomment>Label: Refers to an offset in millimetres</extracomment>
         <translation>Linjärbana offset</translation>
     </message>
     <message>
-        <location filename="../../Popups/StationInfo.qml" line="364"/>
+        <location filename="../../Popups/StationInfo.qml" line="354"/>
         <source>mm</source>
         <extracomment>Postfix: mm - millimeters</extracomment>
         <translation>mm</translation>
@@ -10731,67 +10953,67 @@ Detta kan bero på att sparfilen kommer från en äldre version</translation>
         <translation type="vanished">Sökväg laddad från </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="439"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="608"/>
         <source>No changes detected in project</source>
         <extracomment>Notification message that is displayed if the user attempst to save project, but the project has not changed since last save</extracomment>
         <translation>Inga ändringar upptäcktes i projektet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="471"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="640"/>
         <source>Failed to confirm that the project was saved to the cloud (the project may or may not have been saved)</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att bekräfta att projektet sparades i molnet (projektet kan ha sparats eller inte)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="510"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="679"/>
         <source>Autosave for project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Autospara för projektet %1 har sparats</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="516"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="685"/>
         <source>Project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Projekt %1 sparad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="660"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="829"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att ladda ner projektet från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="865"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1034"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Projektet rensas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="908"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1077"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att bekräfta att projektet togs bort från molnet (projektet kan ha tagits bort eller inte)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="933"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1102"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projekt %1 togs bort från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1016"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1185"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att bekräfta att projektet delades</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1039"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1208"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projekt %1 delades med %2.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1079"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1248"/>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -10799,50 +11021,50 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Större banor kan importeras genom att dela upp APT-filen i mindre filer och använda alternativet &apos;lägg till&apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1103"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1272"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Det gick inte att starta molnjobbet %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1134"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1303"/>
         <source>Failed to get parsed APT %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Det gick inte att få analyserad APT %1 från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1180"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1349"/>
         <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>Antalet decimaler som används i APT-filen %1 är %2 (låg numerisk precision).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1196"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1365"/>
         <source>Failed to import APT file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Det gick inte att importera APT-filen %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1204"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1373"/>
         <source>Path imported from APT %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation>Verktygsbana importerad från APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1269"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1301"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1438"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1470"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att hämta robotkod från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1454"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1623"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att återställa sparat projekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1466"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1635"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -10850,7 +11072,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Detta kan bero på att lagringen kommer från en äldre version av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1474"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1643"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -10858,93 +11080,93 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Detta kan bero på att lagringen kommer från en äldre version av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1492"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1661"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Saknar information i projektet hämtat från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1531"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1700"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att läsa in projektdata</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1541"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1710"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att hämta data för användarkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1559"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1728"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att ladda data för användarkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1569"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1738"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att hämta data för objektkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1578"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1747"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att ladda data för objektkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1611"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1780"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Saknad eller korrupt baninformation från sparat projekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1630"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1799"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>bana import</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1646"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1654"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1664"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1815"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1823"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1833"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1673"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1839"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1845"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1842"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="2008"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="2014"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>verktyg</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1738"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1746"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1756"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1907"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1915"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1925"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>rotationsbord</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1768"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1776"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1937"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1945"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>linjärbana</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1789"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1796"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1958"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1965"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH-tabell</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1878"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="2047"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projekt %1 laddad</translation>
@@ -10958,44 +11180,44 @@ Detta kan bero på att lagringen kommer från en äldre version av IRBCAM</trans
 <context>
     <name>StationViewer</name>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="330"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="340"/>
         <source>Failed to load visualization settings</source>
         <extracomment>Warning message</extracomment>
         <translation>Kunde inte ladda visualiseringsinställningar</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="626"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="636"/>
         <source>Inverse kinematics could not be solved with this value (x=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation>Invers kinematik kunde inte lösas med detta värde (x=%1 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="644"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="662"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="654"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="672"/>
         <source>Inverse kinematics could not be solved with this value (y=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation>Invers kinematik kunde inte lösas med detta värde (y=%1 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="681"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="691"/>
         <source>Inverse kinematics could not be solved with this value (rz1=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Invers kinematik kunde inte lösas med detta värde (rz1=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="701"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="711"/>
         <source>Inverse kinematics could not be solved with this value (ry=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Invers kinematik kunde inte lösas med detta värde (ry=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="724"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="734"/>
         <source>Inverse kinematics could not be solved with this value (rz2=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Invers kinematik kunde inte lösas med detta värde (rz2=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1101"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1111"/>
         <source>Animation aborted
 Target at 0 is unreachable</source>
         <extracomment>Warning message</extracomment>
@@ -11003,7 +11225,7 @@ Target at 0 is unreachable</source>
 Målet på 0 går inte att nå</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1254"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1877"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -11011,7 +11233,7 @@ Target at index %1 has zero velocity</source>
 Mål vid index %1 har noll hastighet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1383"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="2006"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -11019,7 +11241,7 @@ Target at index %1 is not solved</source>
 Målet för index %1 är inte löst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1693"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1339"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
@@ -11881,13 +12103,13 @@ Button. Import custom tool</extracomment>
 <context>
     <name>ToolEditorDelegate</name>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="91"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="90"/>
         <source>mm</source>
         <extracomment>Unit: millimetres</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="104"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="103"/>
         <source>Tool</source>
         <extracomment>prefix for text</extracomment>
         <translation>Verktyg</translation>
@@ -11898,19 +12120,19 @@ Button. Import custom tool</extracomment>
         <translation type="obsolete">Namn</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="223"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="222"/>
         <source>No tool selected</source>
         <extracomment>Button: Shown when no tool is selected</extracomment>
         <translation>Inget verktyg valt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="258"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="257"/>
         <source>Tool number</source>
         <extracomment>Tool tip</extracomment>
         <translation>Verktygsnummer</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="213"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="212"/>
         <source>Source</source>
         <extracomment>Label for a text field: Lets the user name their additional object</extracomment>
         <translation>Källa</translation>
@@ -11966,151 +12188,151 @@ Button. Import custom tool</extracomment>
         <translation type="obsolete">Quaternion k</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="286"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="285"/>
         <source>Tool Type</source>
         <extracomment>Label over input field</extracomment>
         <translation>Verktygstyp</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="298"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="297"/>
         <source>Invalid type</source>
         <extracomment>Dropdown menu display text showing invalid selection.</extracomment>
         <translation>Ogiltig typ</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="313"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="312"/>
         <source>Weldgun</source>
         <extracomment>Dropdown menu item.</extracomment>
         <translation>Svetspistol</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="308"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="307"/>
         <source>Spindle</source>
         <extracomment>Dropdown menu item.</extracomment>
         <translation>Spindel</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="240"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="239"/>
         <source>Number</source>
         <extracomment>Label for text fields</extracomment>
         <translation>Nummer</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="269"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="268"/>
         <source>TCP</source>
         <extracomment>Collapsible section: In this section the user will adjust position and scale of the object</extracomment>
         <translation>TCP</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="303"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="302"/>
         <source>Generic/Analog</source>
         <extracomment>Dropdown menu item.</extracomment>
         <translation>Generisk/Analog</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="318"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="317"/>
         <source>On/Off</source>
         <extracomment>Dropdown menu item.</extracomment>
         <translation>På/Av</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="323"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="322"/>
         <source>Passive</source>
         <extracomment>Dropdown menu item.</extracomment>
         <translation>Passiv</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="339"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="338"/>
         <source>Show mesh</source>
         <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
         <translation>Vis maska</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="345"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="344"/>
         <source>Transparent</source>
         <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
         <translation>Genomskinlig</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="355"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="354"/>
         <source>Base</source>
         <extracomment>Collapsible section: In this section the user will adjust position and scale of the object</extracomment>
         <translation>Bas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="376"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="375"/>
         <source>Generic Tool</source>
         <extracomment>Collapsible section. Contains options for generic tool</extracomment>
         <translation>Generiskt verktyg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="395"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="394"/>
         <source>Diameter</source>
         <extracomment>Label for text field. Adjust generic tool diameter</extracomment>
         <translation>Diameter</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="400"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="399"/>
         <source>Cone length</source>
         <extracomment>Label for text field. Adjust cone length on the generic tool</extracomment>
         <translation>Konlängd</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="405"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="404"/>
         <source>Color</source>
         <extracomment>Label for button. Adjust generic tool colour</extracomment>
         <translation>Färg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="445"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="444"/>
         <source>Select color</source>
         <extracomment>Title for colour picker dialog box</extracomment>
         <translation>Välj färg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="471"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="470"/>
         <source>Export Data</source>
         <extracomment>Collapsible section. Contains options for export data</extracomment>
         <translation>Exportera data</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="493"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="492"/>
         <source>Export Name</source>
         <extracomment>Label for text field. weight</extracomment>
         <translation>Export namn</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="503"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="502"/>
         <source>Tool Export Name</source>
         <extracomment>Placeholder for when no tool export name has been entered</extracomment>
         <translation>Verktygs Exportnamn</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="518"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="517"/>
         <source>Weight</source>
         <extracomment>Label for text field. weight</extracomment>
         <translation>Vikt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="531"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="530"/>
         <source>kg</source>
         <extracomment>Unit: millimetres</extracomment>
         <translation>kg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="542"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="541"/>
         <source>cogX</source>
         <extracomment>Label for text field. COG</extracomment>
         <translation>cogX</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="548"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="547"/>
         <source>cogY</source>
         <extracomment>Label for button. COG</extracomment>
         <translation>tyngdpunktY</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="554"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="553"/>
         <source>cogZ</source>
         <extracomment>Label for button. COG</extracomment>
         <translation>cogZ</translation>
@@ -12230,55 +12452,55 @@ Button text</extracomment>
 <context>
     <name>ToolModel</name>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1084"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1070"/>
         <source>Custom tool upload failed</source>
         <extracomment>Error message</extracomment>
         <translation>Uppladdning av anpassat verktyg misslyckades</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1089"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1075"/>
         <source>Custom tool %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
         <translation>Anpassat verktyg %1 har laddats upp</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1124"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1110"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Det gick inte att bekräfta att %1 togs bort från molnet (objektet kan ha tagits bort eller inte)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1154"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1140"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 togs bort från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1568"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1554"/>
         <source>Failed to download tool from cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kunde inte ladda ner verktyg från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1684"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1670"/>
         <source>Failed to download tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Misslyckades att ladda ner verktyg från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1719"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1705"/>
         <source>Failed to unpack tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kunde inte packa upp verktyget från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1863"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1849"/>
         <source>Failed to load %1 mesh</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Kunde inte ladda %1 mesh</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1952"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1938"/>
         <source>Tool %1 mesh loaded from %2</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Verktyg %1 mesh laddat från %2</translation>
@@ -12287,97 +12509,97 @@ Button text</extracomment>
 <context>
     <name>ToolPointViewer</name>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="24"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="23"/>
         <source>Tool-point</source>
         <extracomment>Title. This is the top left drawer in the station view, where the user can see the tool-point</extracomment>
         <translation>Verktygspunkt</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="26"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="25"/>
         <source>No tool-point to show</source>
         <extracomment>Label. Only visible if tool-point is available</extracomment>
         <translation>Ingen verktygspunkt att visa</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="56"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="55"/>
         <source> mm</source>
         <extracomment>postfix after a number (millimeters)</extracomment>
         <translation> mm</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="237"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="236"/>
         <source>Press ctrl + c to copy to clipboard</source>
         <extracomment>label</extracomment>
         <translation>Tryck på ctrl + c för att kopiera till urklipp</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="409"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="408"/>
         <source>Insert</source>
         <extracomment>Button: Insert target</extracomment>
         <translation>Infoga</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="411"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="410"/>
         <source>Insert Before</source>
         <extracomment>Button: Insert target before selected target in the list</extracomment>
         <translation>Infoga Före</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="444"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="443"/>
         <source>Relative to</source>
         <extracomment>label next to a drop-down menu</extracomment>
         <translation>I förhållande till</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="453"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="452"/>
         <source>Global origin</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Globalt ursprung</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="455"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="454"/>
         <source>Robot base</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Robot bas</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="457"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="456"/>
         <source>User frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Användarkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="459"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="458"/>
         <source>Object frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Objektkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="568"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="567"/>
         <source>Copy</source>
         <extracomment>Button</extracomment>
         <translation>Kopiera</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="205"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="204"/>
         <source>Current tool-point</source>
         <extracomment>Label</extracomment>
         <translation>Aktuell verktygspunkt</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="217"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="216"/>
         <source>Relative to object frame</source>
         <extracomment>Tool-tip</extracomment>
         <translation>I förhållande till objektkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="251"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="250"/>
         <source>Targets</source>
         <extracomment>Label</extracomment>
         <translation>Punkter</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="400"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="399"/>
         <source>Replace</source>
         <extracomment>Button: Replace selected target</extracomment>
         <translation>Ersätta</translation>
@@ -12388,13 +12610,13 @@ Button text</extracomment>
         <translation type="vanished">Sätt in före</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="424"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="423"/>
         <source>Insert after</source>
         <extracomment>Button: Insert after selected target</extracomment>
         <translation>Sätt in efter</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="183"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="182"/>
         <source>Reference frame: %1
 Translation (mm)
 [x, y, z]: [%2, %3, %4]
@@ -12408,7 +12630,7 @@ Rotation (rad)
 [z1, y, z2]: [%5, %6, %7]</translation>
     </message>
     <message>
-        <location filename="../../Views/ToolPointViewer.qml" line="195"/>
+        <location filename="../../Views/ToolPointViewer.qml" line="194"/>
         <source>Relative pose copied to clipboard</source>
         <extracomment>Notification message</extracomment>
         <translation>Relativ position/orientering kopierad till urklipp</translation>
@@ -12535,92 +12757,91 @@ Rotation (rad)
 <context>
     <name>ToolSettingEditor</name>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="28"/>
         <source>Tools</source>
         <extracomment>Title: Referring to user-imported 3D objects</extracomment>
-        <translation>Verktyg</translation>
+        <translation type="vanished">Verktyg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="55"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="50"/>
         <source>Stationary tool is incompatible with rotary tables and linear tracks</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if both rotary table and linear track is selected</extracomment>
         <translation>Stationärt verktyg är inte kompatibelt med roterande bord och linjärbanor</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="57"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="52"/>
         <source>Stationary tool is incompatible with %1</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
         <translation>Stationärt verktyg är inkompatibelt med %1</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="59"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="54"/>
         <source>rotary tables</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
         <translation>Roterande bord</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="61"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="56"/>
         <source>linear tracks</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
         <translation>Linjärbanor</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="69"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="64"/>
         <source>Stationary Tool</source>
         <extracomment>Checkbox. Select if robot should hold work object instead of tool</extracomment>
         <translation>Stationära Verktyg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="88"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="83"/>
         <source>Multiple Tools</source>
         <extracomment>Checkbox. Select if robot should hold work object instead of tool</extracomment>
         <translation>Flera verktyg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="101"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="96"/>
         <source>Allow adding multiple tools in the project</source>
         <extracomment>Tool tip. Shown when hovering over multiple tools checkbox</extracomment>
         <translation>Tillåt att lägga till flera verktyg i projektet</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="110"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="105"/>
         <source>This configuration will delete all tools except Tool %1. Are you sure you want to proceed?</source>
         <extracomment>Content for confirmation popup.</extracomment>
         <translation>Denna konfiguration kommer att ta bort alla verktyg utom Verktyg %1. Är du säker på att du vill fortsätta?</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="114"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="109"/>
         <source>A desired tool must be selected before disabling this option. All other tools will be deleted from the project</source>
         <extracomment>Content for confirmation popup. Content for confirmation popup.</extracomment>
         <translation>Ett önskat verktyg måste väljas innan detta alternativ inaktiveras. Alla andra verktyg kommer att tas bort från projektet</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="116"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="111"/>
         <source>This configuration will disable using multiple tools. Are you sure you want to proceed?</source>
         <extracomment>Content for confirmation popup.</extracomment>
         <translation>Denna konfiguration kommer att inaktivera användningen av flera verktyg. Är du säker på att du vill fortsätta?</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="120"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="115"/>
         <source>Cancel</source>
         <extracomment>Cancel button for confirmation popup</extracomment>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="122"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="117"/>
         <source>Ok</source>
         <extracomment>Acknowledge button for confirmation popup</extracomment>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="147"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="142"/>
         <source>Add</source>
         <extracomment>Button: Add additional object</extracomment>
         <translation>Lägg til</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="157"/>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="187"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="152"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="182"/>
         <source>Multi tools must be enabled to add more tools</source>
         <extracomment>Tool tip Tool tip
 ----------
@@ -12628,13 +12849,13 @@ Tool tip</extracomment>
         <translation>Multiverktyg måste aktiveras för att lägga till fler verktyg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="159"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="154"/>
         <source>Tool number must be unique</source>
         <extracomment>Tool tip</extracomment>
         <translation>Verktygsnummer måste vara unikt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="167"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="162"/>
         <source>Tool Number</source>
         <extracomment>Label for text fields</extracomment>
         <translation>Verktygsnummer</translation>
@@ -12736,25 +12957,25 @@ Tool tip</extracomment>
 <context>
     <name>ToolsInfo</name>
     <message>
-        <location filename="../../Popups/Assets/ToolsInfo.qml" line="27"/>
+        <location filename="../../Popups/Assets/ToolsInfo.qml" line="29"/>
         <source>Tool %1</source>
         <extracomment>Label: %1 = Tool number</extracomment>
         <translation>Verktyg %1</translation>
     </message>
     <message>
-        <location filename="../../Popups/Assets/ToolsInfo.qml" line="43"/>
+        <location filename="../../Popups/Assets/ToolsInfo.qml" line="47"/>
         <source>Click %1here%2 to use this tool in all targets</source>
         <extracomment>Label: Refers to Tool number undefined</extracomment>
         <translation>Klicka %1här%2 för att använda detta verktyg i alla mål</translation>
     </message>
     <message>
-        <location filename="../../Popups/Assets/ToolsInfo.qml" line="63"/>
+        <location filename="../../Popups/Assets/ToolsInfo.qml" line="66"/>
         <source>Overwrite Tool Number</source>
         <extracomment>Popup title: %1 = tool number</extracomment>
         <translation>Skriv över verktygsnummer</translation>
     </message>
     <message>
-        <location filename="../../Popups/Assets/ToolsInfo.qml" line="65"/>
+        <location filename="../../Popups/Assets/ToolsInfo.qml" line="68"/>
         <source>Are you sure you want to overwrite tool number of all targets to %1?</source>
         <extracomment>Popup content text: %1 = name of geometry</extracomment>
         <translation>Är du säker på att du vill skriva över verktygsnumret för alla mål till %1?</translation>
@@ -13019,10 +13240,9 @@ Error message. %1 = name</extracomment>
         <translation type="vanished">Redigera användarkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/UserFrameEditor.qml" line="13"/>
         <source>User Frame</source>
         <extracomment>Title</extracomment>
-        <translation>Användarkoordinater</translation>
+        <translation type="vanished">Användarkoordinater</translation>
     </message>
 </context>
 <context>
@@ -13218,170 +13438,205 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
 <context>
     <name>VisualizationSettings</name>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="90"/>
         <source>Reset value to default</source>
         <extracomment>Tool-tip for reset button</extracomment>
-        <translation>Återställ värde till standard</translation>
+        <translation type="vanished">Återställ värde till standard</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="220"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="77"/>
+        <source>Reset %1 values to default</source>
+        <extracomment>Tool-tip for reset button: %1 = category</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Views/VisualizationSettings.qml" line="219"/>
         <source>Visualization Settings</source>
         <extracomment>Header</extracomment>
         <translation>Visualiseringsinställningar</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="228"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="227"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Denna modul innehåller osparade ändringar</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="290"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="288"/>
         <source>Enable tool animation</source>
         <extracomment>Checkbox label</extracomment>
         <translation>Aktivera verktygsanimation</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="292"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="290"/>
         <source>Enable visualization of tool activation in the 3D scene. Currently only available for tool type &apos;Weldgun&apos;, for other tool types this setting will have no effect (more animations will be added in the future)</source>
         <extracomment>Tool-tip describing the effects of &quot;Enable tool animation&quot; checkbox</extracomment>
         <translation>Aktivera visualisering av verktygsaktivering i 3D-scenen. För närvarande endast tillgänglig för verktygstyp &apos;Weldgun&apos;, för andra verktygstyper kommer denna inställning inte att ha någon effekt (fler animationer kommer att läggas till i framtiden)</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="306"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="297"/>
         <source>Enable tool trace</source>
         <extracomment>Checkbox label</extracomment>
         <translation>Aktivera verktygsspår</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="308"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="299"/>
         <source>Enable/disable visualization of the tool trace in the 3D scene</source>
         <extracomment>Tool-tip describing the effects of &quot;Enable tool trace&quot; checkbox</extracomment>
         <translation>Aktivera/inaktivera visualisering av verktygsspåret i 3D-scenen</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="323"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="306"/>
         <source>Show targets</source>
         <extracomment>Checkbox label</extracomment>
         <translation>Visa mål</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="325"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="308"/>
         <source>Enable/disable visualization of the targets in the 3D scene</source>
         <extracomment>Tool-tip for &quot;Show targets&quot; checkbox</extracomment>
         <translation>Aktivera/inaktivera visualisering av målen i 3D-scenen</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="346"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="319"/>
+        <source>Coordinate Systems</source>
+        <extracomment>Category separator label</extracomment>
+        <translation type="unfinished">Koordinatsystemer</translation>
+    </message>
+    <message>
+        <location filename="../../Views/VisualizationSettings.qml" line="327"/>
+        <source>Arrow length</source>
+        <extracomment>Number input label</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Views/VisualizationSettings.qml" line="329"/>
+        <source>Change the arrow length of all coordinate systems in the 3D scene</source>
+        <extracomment>Tool-tip describing the effects of &quot;Coordinate systems length&quot; input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Views/VisualizationSettings.qml" line="341"/>
+        <source>Arrow thickness</source>
+        <extracomment>Number input label</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Views/VisualizationSettings.qml" line="343"/>
+        <source>Change the arrow thickness of all coordinate systems in the 3D scene</source>
+        <extracomment>Tool-tip describing the effects of &quot;Coordinate systems thickness&quot; input</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Views/VisualizationSettings.qml" line="360"/>
         <source>Tool Trace</source>
         <extracomment>Category separator label</extracomment>
         <translation>Verktygsspårning</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="351"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="366"/>
         <source>Mode</source>
         <extracomment>Drop-down menu label. Referring to tool trace mode</extracomment>
         <translation>Läge</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="353"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="368"/>
         <source>Tool trace mode</source>
         <extracomment>Tool-tip for tool trace mode</extracomment>
         <translation>Verktygsspårsläge</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="361"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="375"/>
         <source>Show full path</source>
         <extracomment>Drop-down menu alternative: Tool Trace -&gt; Mode</extracomment>
         <translation>Visa fullständig sökväg</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="363"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="377"/>
         <source>Show the entire path and highliht animation progress</source>
         <extracomment>Tool-tip description of: Tool Trace -&gt; Mode -&gt; Show full path</extracomment>
         <translation>Visa hela banan och markera animationsframsteg</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="368"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="382"/>
         <source>Show progress</source>
         <extracomment>Drop-down menu alternative: Tool Trace -&gt; Mode</extracomment>
         <translation>Visa framsteg</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="370"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="384"/>
         <source>Only show animation progress</source>
         <extracomment>Tool-tip description of: Tool Trace -&gt; Mode -&gt; Show progress</extracomment>
         <translation>Visa endast animeringsframsteg</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="378"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="392"/>
         <source>Show rapid moves</source>
         <extracomment>Checkbox label</extracomment>
         <translation>Visa snabba rörelser</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="380"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="394"/>
         <source>If this setting is disabled then rapid moves will not be shown in the tool trace. Only available if &apos;Tool trace mode&apos; is set to &apos;Show progress&apos;, otherwise this setting will have no effect</source>
         <extracomment>Tool-tip for &quot;Show rapid moves&quot;</extracomment>
         <translation>Om den här inställningen är inaktiverad kommer snabbgångar inte att visas i verktygsspåret. Endast tillgänglig om &apos;Tool trace mode&apos; är inställd på &apos;Show progress&apos;, annars har den här inställningen ingen effekt</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="391"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="403"/>
         <source>Show tool off moves</source>
         <extracomment>Checkbox label</extracomment>
         <translation>Visa rörelser med verktyg av</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="393"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="405"/>
         <source>If this setting is disabled then moves where the tool is turned off will not be shown in the tool trace. Only available if &apos;Tool trace mode&apos; is set to &apos;Show progress&apos;, otherwise this setting will have no effect</source>
         <extracomment>Tool-tip for &quot;Show tool off moves&quot;</extracomment>
         <translation>Om den här inställningen är inaktiverad visas inte rörelser där verktyget är avstängt i verktygsspåret. Endast tillgänglig om &apos;Tool trace mode&apos; är inställt på &apos;Show progress&apos;, annars har den här inställningen ingen effekt</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="404"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="414"/>
         <source>Width</source>
         <extracomment>Numeric input label. Refers to the thickness of the tool trace lines</extracomment>
         <translation>Bredd</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="406"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="416"/>
         <source>The thickness of the tool trace lines drawn in the 3D scene</source>
         <extracomment>Tool-tip for Tool trace &quot;Width&quot;</extracomment>
         <translation>Tjockleken på verktygsspårlinjerna som ritas i 3D-scenen</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="424"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="429"/>
         <source>Arc segment resolution</source>
         <extracomment>Numeric input label. Category Tool trace</extracomment>
         <translation>Bågsegmentupplösning</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="426"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="431"/>
         <source>The resolution of the tool trace arc moves drawn in the 3D scene. A smaller number will make arcs look smoother, but can have a significant impact on the 3D scene frame rate for large paths with many arc moves. This setting is for visualization only, it has no effect on generated robot code</source>
         <extracomment>Tool-tip for Tool trace &quot;Arc segment resolution&quot;</extracomment>
         <translation>Upplösningen för verktygsspårets bågrörelser som ritas i 3D-scenen. Ett mindre värde gör att bågarna ser jämnare ut, men kan ha en betydande inverkan på 3D-scenens bildfrekvens för stora banor med många bågrörelser. Denna inställning är endast för visualisering, den har ingen effekt på genererad robotkod</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="443"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="444"/>
         <source>Joint move resolution</source>
         <extracomment>Numeric input label. Category Tool trace</extracomment>
         <translation>Ledrörelseupplösning</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="445"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="446"/>
         <source>The resolution of the tool trace joint moves drawn in the 3D scene. A smaller number will make joint moves look smoother, but can have a significant impact on the 3D scene frame rate for large paths with many joint moves. This setting is for visualization only, it has no effect on generated robot code</source>
         <extracomment>Tool-tip for Tool trace &quot;Joint move resolution&quot;</extracomment>
         <translation>Upplösningen för de ledrörelser i verktygsspåret som ritas i 3D-scenen. Ett mindre värde gör att ledrörelserna ser jämnare ut, men kan ha en betydande inverkan på bildfrekvensen i 3D-scenen för stora banor med många ledrörelser. Denna inställning är endast för visualisering, den har ingen effekt på genererad robotkod</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="467"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="464"/>
         <source>Targets</source>
         <extracomment>Category separator label</extracomment>
         <translation>Mål</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="473"/>
-        <location filename="../../Views/VisualizationSettings.qml" line="544"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="472"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="534"/>
         <source>Size</source>
         <extracomment>Numeric input label. Refers to the size of targets visualized in the 3D scene
 ----------
@@ -13389,79 +13644,79 @@ Numeric input label. Refers to the total size of the floor</extracomment>
         <translation>Storlek</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="475"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="474"/>
         <source>The size of targets visualized in the 3D scene</source>
         <extracomment>Tool-tip for Targets &quot;Size&quot;</extracomment>
         <translation>Storleken på mål visualiserade i 3D-scenen</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="492"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="488"/>
         <source>Color</source>
         <extracomment>Numeric input label. Refers to the color of targets visualized in the 3D scene</extracomment>
         <translation>Färg</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="494"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="490"/>
         <source>The color of targets visualized in the 3D scene</source>
         <extracomment>Tool-tip for Targets &quot;Color&quot;</extracomment>
         <translation>Färgen på mål som visualiseras i 3D-scenen</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="508"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="501"/>
         <source>Highlight color</source>
         <extracomment>Numeric input label. Refers to the color of highlighted targets visualized in the 3D scene</extracomment>
         <translation>Markeringsfärg</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="510"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="503"/>
         <source>The color of selected targets visualized in the 3D scene. By default this is a brightened version of the &apos;Color&apos; setting, if this value is set then this behaviour is overridden</source>
         <extracomment>Tool-tip for Targets &quot;Highlight color&quot;</extracomment>
         <translation>Färgen på valda mål som visualiseras i 3D-scenen. Som standard är detta en ljusare version av inställningen &apos;Color&apos;, om detta värde är inställt åsidosätts detta beteende</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="525"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="514"/>
         <source>Floor</source>
         <extracomment>Category separator label</extracomment>
         <translation>Golv</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="530"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="521"/>
         <source>Show floor</source>
         <extracomment>Checkbox</extracomment>
         <translation>Visa golv</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="546"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="536"/>
         <source>The desired length of one side of the floor (the floor is always square). Note that the actual size of the floor is dependant on the &apos;Cell size&apos; setting. The actual size is calculated as the nearest floored even multiple of &apos;Cell size&apos; (minimum 2). You can hover the input field to see the calculated actual size of the floor</source>
         <extracomment>Tool-tip for Floor &quot;Size&quot;</extracomment>
         <translation>Den önskade längden på en sida av golvet (golvet är alltid kvadratiskt). Observera att den faktiska storleken på golvet beror på inställningen &apos;Cell size&apos;. Den faktiska storleken beräknas som den närmaste jämna multipeln av &apos;Cell size&apos; (nedavrundad) (minimum 2). Du kan hålla muspekaren över inmatningsfältet för att se den beräknade faktiska storleken på golvet</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="562"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="549"/>
         <source>Actual size: %1 mm</source>
         <extracomment>Tool-tip: %1 calculated size of the floor</extracomment>
         <translation>Verklig storlek: %1 mm</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="569"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="556"/>
         <source>Cell size</source>
         <extracomment>Numeric input label. Refers to the size of one cell in the floor</extracomment>
         <translation>Cellstorlek</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="571"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="558"/>
         <source>The length of one side of a floor cell (the floor cells are always square)</source>
         <extracomment>Tool-tip for Floor &quot;Cell size&quot;</extracomment>
         <translation>Längden på en sida av en golvcell (golvcellerna är alltid kvadratiska)</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="587"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="571"/>
         <source>Z-offset</source>
         <extracomment>Numeric input label. Refers to the height offset of the floor</extracomment>
         <translation>Z-förskjutning</translation>
     </message>
     <message>
-        <location filename="../../Views/VisualizationSettings.qml" line="589"/>
+        <location filename="../../Views/VisualizationSettings.qml" line="573"/>
         <source>Z-offset (height) for the floor. Use this if you want to lift/lower the floor in the 3D scene</source>
         <extracomment>Tool-tip for Floor &quot;Z-offset&quot;</extracomment>
         <translation>Z-offset (höjd) för golvet. Använd detta om du vill höja/sänka golvet i 3D-scenen</translation>
