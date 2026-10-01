@@ -2048,7 +2048,7 @@ Button text</extracomment>
         <location filename="../../Sidebar/DHTableEditor.qml" line="100"/>
         <source>Axis Scale</source>
         <extracomment>Label: Axis width</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Axel Skala</translation>
     </message>
     <message>
         <source>Axis Width</source>
@@ -3777,7 +3777,7 @@ Tool tip for text field.</extracomment>
         <location filename="../../Irbcam.qml" line="125"/>
         <source>%1 (Read only)</source>
         <extracomment>Header: %1 = project name, &apos;read only&apos; refers to that the user does not have write permission for this project</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Skrivskyddad)</translation>
     </message>
     <message>
         <location filename="../../Irbcam.qml" line="132"/>
@@ -4005,109 +4005,109 @@ code: %2</source>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1288"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
-        <translation type="unfinished">Oinitierad</translation>
+        <translation>Oinitierad</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1291"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
-        <translation type="unfinished">Inaktivt</translation>
+        <translation>Inaktivt</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1294"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
-        <translation type="unfinished">Hämtar beskrivning</translation>
+        <translation>Hämtar beskrivning</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1297"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
-        <translation type="unfinished">Laddar ner</translation>
+        <translation>Laddar ner</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1300"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
-        <translation type="unfinished">Uppackning</translation>
+        <translation>Uppackning</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1303"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
-        <translation type="unfinished">Laddar</translation>
+        <translation>Laddar</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1306"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
-        <translation type="unfinished">Raderar</translation>
+        <translation>Raderar</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1309"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
-        <translation type="unfinished">Laddar upp</translation>
+        <translation>Laddar upp</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1312"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
-        <translation type="unfinished">Hämtar lista</translation>
+        <translation>Hämtar lista</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1315"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
-        <translation type="unfinished">Avkodning</translation>
+        <translation>Avkodning</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1318"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
-        <translation type="unfinished">Verifierar</translation>
+        <translation>Verifierar</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1321"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
-        <translation type="unfinished">Laddar tillgångar</translation>
+        <translation>Laddar tillgångar</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1324"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
-        <translation type="unfinished">Bearbetar</translation>
+        <translation>Bearbetar</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1327"/>
         <source>Error</source>
         <extracomment>Network status: An error has ocurred</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fel</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1330"/>
         <source>Awaiting user input</source>
         <extracomment>Network status</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Väntar på användarens inmatning</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1333"/>
         <source>Waiting for server</source>
         <extracomment>Network status: Waiting for a response from the server</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Väntar på server</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1336"/>
         <source>Sharing</source>
         <extracomment>Network status: Sharing asset/project</extracomment>
-        <translation type="unfinished">Delar</translation>
+        <translation>Delar</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1342"/>
         <source>Unknown</source>
         <extracomment>Network status</extracomment>
-        <translation type="unfinished">Okänd</translation>
+        <translation>Okänd</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1438"/>
@@ -4918,37 +4918,37 @@ Ett eller flera projekt måste tas bort för att kunna skapa nya projekt</transl
         <location filename="../../Views/LoadingState.qml" line="183"/>
         <source>Station</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Station</translation>
+        <translation>Station</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="190"/>
         <source>Robot</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Robot</translation>
+        <translation>Robot</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="197"/>
         <source>Tool</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Verktyg</translation>
+        <translation>Verktyg</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="204"/>
         <source>Linear Track</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Linjär bana</translation>
+        <translation>Linjär bana</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="211"/>
         <source>Rotary Table</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Roterande bord</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="218"/>
         <source>Additional Objects</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Ytterligare Objekt</translation>
+        <translation>Ytterligare Objekt</translation>
     </message>
 </context>
 <context>
@@ -5875,7 +5875,7 @@ Tooltip for to-target field</extracomment>
         <location filename="../../Menus.qml" line="452"/>
         <source>Tool Base</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
-        <translation type="unfinished">Verktygsbas</translation>
+        <translation>Verktygsbas</translation>
     </message>
     <message>
         <source>Select Tool</source>
@@ -10299,13 +10299,13 @@ Klicka igen för att skriva över</translation>
         <location filename="../../Sidebar/Sidebar.qml" line="154"/>
         <source>Remove shortcut</source>
         <extracomment>Context menu item, remove sidebar shortcut</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort genväg</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Sidebar.qml" line="159"/>
         <source>Reset to default</source>
         <extracomment>Context menu item, reset all sidebar shortcuts to default</extracomment>
-        <translation type="unfinished">Återställ till standard</translation>
+        <translation>Återställ till standard</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Sidebar.qml" line="222"/>
@@ -10317,7 +10317,7 @@ Klicka igen för att skriva över</translation>
         <location filename="../../Sidebar/Sidebar.qml" line="233"/>
         <source>Project Wizard</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Projektguiden</translation>
     </message>
     <message>
         <source>Close</source>
@@ -10364,61 +10364,61 @@ Klicka igen för att skriva över</translation>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="231"/>
         <source>Additional Objects</source>
         <extracomment>Title: Referring to user-imported 3D objects</extracomment>
-        <translation type="unfinished">Ytterligare Objekt</translation>
+        <translation>Ytterligare Objekt</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="237"/>
         <source>DH Table</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">DH-tabell</translation>
+        <translation>DH-tabell</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="249"/>
         <source>Linear Track</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Linjär bana</translation>
+        <translation>Linjär bana</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="255"/>
         <source>Object Frame</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Objektkoordinater</translation>
+        <translation>Objektkoordinater</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="261"/>
         <source>Optimizer</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Optimera</translation>
+        <translation>Optimera</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="267"/>
         <source>Targets</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mål</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="273"/>
         <source>Robot</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Robot</translation>
+        <translation>Robot</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="279"/>
         <source>Rotary Table</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Roterande bord</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="285"/>
         <source>Tool</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Verktyg</translation>
+        <translation>Verktyg</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="291"/>
         <source>User Frame</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Användarkoordinater</translation>
+        <translation>Användarkoordinater</translation>
     </message>
 </context>
 <context>
@@ -13446,7 +13446,7 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../Views/VisualizationSettings.qml" line="77"/>
         <source>Reset %1 values to default</source>
         <extracomment>Tool-tip for reset button: %1 = category</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Återställ %1-värden till standard</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="219"/>
@@ -13500,31 +13500,31 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../Views/VisualizationSettings.qml" line="319"/>
         <source>Coordinate Systems</source>
         <extracomment>Category separator label</extracomment>
-        <translation type="unfinished">Koordinatsystemer</translation>
+        <translation>Koordinatsystemer</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="327"/>
         <source>Arrow length</source>
         <extracomment>Number input label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pilens längd</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="329"/>
         <source>Change the arrow length of all coordinate systems in the 3D scene</source>
         <extracomment>Tool-tip describing the effects of &quot;Coordinate systems length&quot; input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ändra längden på pilarna för alla koordinatsystem i 3D-scenen</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="341"/>
         <source>Arrow thickness</source>
         <extracomment>Number input label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Piltjocklek</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="343"/>
         <source>Change the arrow thickness of all coordinate systems in the 3D scene</source>
         <extracomment>Tool-tip describing the effects of &quot;Coordinate systems thickness&quot; input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ändra pilarnas tjocklek för alla koordinatsystem i 3D-scenen</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="360"/>
@@ -13928,3 +13928,4 @@ Hittade du en bugg eller har du en bra idé för en ny funktion? Använd feedbac
     </message>
 </context>
 </TS>
+
