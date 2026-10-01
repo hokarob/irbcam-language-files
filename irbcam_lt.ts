@@ -1697,7 +1697,7 @@ Button text</extracomment>
         <location filename="../../Sidebar/DHTableEditor.qml" line="100"/>
         <source>Axis Scale</source>
         <extracomment>Label: Axis width</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ašies skalė</translation>
     </message>
     <message>
         <source>Axis Width</source>
@@ -2948,7 +2948,7 @@ Palaikomi tik UTF-8 koduoti failai</translation>
         <location filename="../../Irbcam.qml" line="125"/>
         <source>%1 (Read only)</source>
         <extracomment>Header: %1 = project name, &apos;read only&apos; refers to that the user does not have write permission for this project</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Tik skaitymui)</translation>
     </message>
     <message>
         <location filename="../../Irbcam.qml" line="132"/>
@@ -3171,109 +3171,109 @@ code: %2</source>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1288"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
-        <translation type="unfinished">Neinicijuotas</translation>
+        <translation>Neinicijuotas</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1291"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Neveikiantis</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1294"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
-        <translation type="unfinished">Gaunamas aprašymas</translation>
+        <translation>Gaunamas aprašymas</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1297"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Atsisiunčiama</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1300"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
-        <translation type="unfinished">Išpakavimas</translation>
+        <translation>Išpakavimas</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1303"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
-        <translation type="unfinished">Kraunama</translation>
+        <translation>Kraunama</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1306"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
-        <translation type="unfinished">Trinama</translation>
+        <translation>Trinama</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1309"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
-        <translation type="unfinished">Įkeliama</translation>
+        <translation>Įkeliama</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1312"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
-        <translation type="unfinished">Gaunamas sąrašas</translation>
+        <translation>Gaunamas sąrašas</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1315"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
-        <translation type="unfinished">Dekodavimas</translation>
+        <translation>Dekodavimas</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1318"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
-        <translation type="unfinished">Tikrinama</translation>
+        <translation>Tikrinama</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1321"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
-        <translation type="unfinished">Kraunami ištekliai</translation>
+        <translation>Kraunami ištekliai</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1324"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
-        <translation type="unfinished">Apdorojimas</translation>
+        <translation>Apdorojimas</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1327"/>
         <source>Error</source>
         <extracomment>Network status: An error has ocurred</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1330"/>
         <source>Awaiting user input</source>
         <extracomment>Network status</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Laukiama vartotojo įvesties</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1333"/>
         <source>Waiting for server</source>
         <extracomment>Network status: Waiting for a response from the server</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Laukiama serverio</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1336"/>
         <source>Sharing</source>
         <extracomment>Network status: Sharing asset/project</extracomment>
-        <translation type="unfinished">Dalijimasis</translation>
+        <translation>Dalijimasis</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1342"/>
         <source>Unknown</source>
         <extracomment>Network status</extracomment>
-        <translation type="unfinished">Nežinoma</translation>
+        <translation>Nežinoma</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1438"/>
@@ -3961,37 +3961,37 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <location filename="../../Views/LoadingState.qml" line="183"/>
         <source>Station</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Stotis</translation>
+        <translation>Stotis</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="190"/>
         <source>Robot</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Robot</translation>
+        <translation>Robot</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="197"/>
         <source>Tool</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Įrankis</translation>
+        <translation>Įrankis</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="204"/>
         <source>Linear Track</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Tiesinė trajektorija</translation>
+        <translation>Tiesinė trajektorija</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="211"/>
         <source>Rotary Table</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Sukamasis stalas</translation>
+        <translation>Sukamasis stalas</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="218"/>
         <source>Additional Objects</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Papildomi objektai</translation>
+        <translation>Papildomi objektai</translation>
     </message>
 </context>
 <context>
@@ -4854,7 +4854,7 @@ Tooltip for to-target field</extracomment>
         <location filename="../../Menus.qml" line="452"/>
         <source>Tool Base</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
-        <translation type="unfinished">Įrankio pagrindas</translation>
+        <translation>Įrankio pagrindas</translation>
     </message>
     <message>
         <source>Select Tool</source>
@@ -8926,25 +8926,25 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
         <location filename="../../Sidebar/Sidebar.qml" line="154"/>
         <source>Remove shortcut</source>
         <extracomment>Context menu item, remove sidebar shortcut</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pašalinti nuorodą</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Sidebar.qml" line="159"/>
         <source>Reset to default</source>
         <extracomment>Context menu item, reset all sidebar shortcuts to default</extracomment>
-        <translation type="unfinished">Atstatyti į numatytuosius</translation>
+        <translation>Atstatyti į numatytuosius</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Sidebar.qml" line="222"/>
         <source>Back</source>
         <extracomment>Button: Navigate back</extracomment>
-        <translation type="unfinished">Atgal</translation>
+        <translation>Atgal</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Sidebar.qml" line="233"/>
         <source>Project Wizard</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Projekto vedlys</translation>
     </message>
     <message>
         <source>Close</source>
@@ -8958,7 +8958,7 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
         <location filename="../../Sidebar/Sidebar.qml" line="241"/>
         <source>Next</source>
         <extracomment>Button: Navigate to next view</extracomment>
-        <translation type="unfinished">Kitas</translation>
+        <translation>Kitas</translation>
     </message>
 </context>
 <context>
@@ -8991,61 +8991,61 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="231"/>
         <source>Additional Objects</source>
         <extracomment>Title: Referring to user-imported 3D objects</extracomment>
-        <translation type="unfinished">Papildomi objektai</translation>
+        <translation>Papildomi objektai</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="237"/>
         <source>DH Table</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">DH lentelė</translation>
+        <translation>DH lentelė</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="249"/>
         <source>Linear Track</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Tiesinė trajektorija</translation>
+        <translation>Tiesinė trajektorija</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="255"/>
         <source>Object Frame</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Objekto koordinačių sistema</translation>
+        <translation>Objekto koordinačių sistema</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="261"/>
         <source>Optimizer</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Optimizavimo priemonė</translation>
+        <translation>Optimizavimo priemonė</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="267"/>
         <source>Targets</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Taškai</translation>
+        <translation>Taškai</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="273"/>
         <source>Robot</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Robot</translation>
+        <translation>Robot</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="279"/>
         <source>Rotary Table</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Sukamasis stalas</translation>
+        <translation>Sukamasis stalas</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="285"/>
         <source>Tool</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Įrankis</translation>
+        <translation>Įrankis</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="291"/>
         <source>User Frame</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Naudotojo koordinačių sistema</translation>
+        <translation>Naudotojo koordinačių sistema</translation>
     </message>
 </context>
 <context>
@@ -11785,7 +11785,7 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../Views/VisualizationSettings.qml" line="77"/>
         <source>Reset %1 values to default</source>
         <extracomment>Tool-tip for reset button: %1 = category</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Atstatyti %1 reikšmes į numatytąsias</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="219"/>
@@ -11839,31 +11839,31 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../Views/VisualizationSettings.qml" line="319"/>
         <source>Coordinate Systems</source>
         <extracomment>Category separator label</extracomment>
-        <translation type="unfinished">Koordinačių sistemos</translation>
+        <translation>Koordinačių sistemos</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="327"/>
         <source>Arrow length</source>
         <extracomment>Number input label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rodyklės ilgis</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="329"/>
         <source>Change the arrow length of all coordinate systems in the 3D scene</source>
         <extracomment>Tool-tip describing the effects of &quot;Coordinate systems length&quot; input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Keisti visų koordinačių sistemų rodyklių ilgį 3D scenoje</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="341"/>
         <source>Arrow thickness</source>
         <extracomment>Number input label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rodyklės storis</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="343"/>
         <source>Change the arrow thickness of all coordinate systems in the 3D scene</source>
         <extracomment>Tool-tip describing the effects of &quot;Coordinate systems thickness&quot; input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pakeisti visų koordinačių sistemų rodyklių storį 3D scenoje</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="360"/>
