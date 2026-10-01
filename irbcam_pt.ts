@@ -1627,7 +1627,7 @@ Button text</extracomment>
         <location filename="../../Sidebar/DHTableEditor.qml" line="100"/>
         <source>Axis Scale</source>
         <extracomment>Label: Axis width</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Escala do Eixo</translation>
     </message>
     <message>
         <source>Axis Width</source>
@@ -2857,7 +2857,7 @@ Apenas arquivos codificados em UTF-8 são suportados</translation>
         <location filename="../../Irbcam.qml" line="125"/>
         <source>%1 (Read only)</source>
         <extracomment>Header: %1 = project name, &apos;read only&apos; refers to that the user does not have write permission for this project</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Somente leitura)</translation>
     </message>
     <message>
         <location filename="../../Irbcam.qml" line="132"/>
@@ -3080,109 +3080,109 @@ code: %2</source>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1288"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
-        <translation type="unfinished">Não inicializado</translation>
+        <translation>Não inicializado</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1291"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
-        <translation type="unfinished">Ocioso</translation>
+        <translation>Ocioso</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1294"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
-        <translation type="unfinished">Buscando descrição</translation>
+        <translation>Buscando descrição</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1297"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
-        <translation type="unfinished">Baixando</translation>
+        <translation>Baixando</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1300"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Descompactando</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1303"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
-        <translation type="unfinished">Carregando</translation>
+        <translation>Carregando</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1306"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
-        <translation type="unfinished">Excluindo</translation>
+        <translation>Excluindo</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1309"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Enviando</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1312"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
-        <translation type="unfinished">Buscando lista</translation>
+        <translation>Buscando lista</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1315"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
-        <translation type="unfinished">Decodificação</translation>
+        <translation>Decodificação</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1318"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
-        <translation type="unfinished">Verificando</translation>
+        <translation>Verificando</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1321"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
-        <translation type="unfinished">Carregando ativos</translation>
+        <translation>Carregando ativos</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1324"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
-        <translation type="unfinished">Processando</translation>
+        <translation>Processando</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1327"/>
         <source>Error</source>
         <extracomment>Network status: An error has ocurred</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1330"/>
         <source>Awaiting user input</source>
         <extracomment>Network status</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aguardando a entrada do usuário</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1333"/>
         <source>Waiting for server</source>
         <extracomment>Network status: Waiting for a response from the server</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aguardando servidor</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1336"/>
         <source>Sharing</source>
         <extracomment>Network status: Sharing asset/project</extracomment>
-        <translation type="unfinished">Compartilhar</translation>
+        <translation>Compartilhar</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1342"/>
         <source>Unknown</source>
         <extracomment>Network status</extracomment>
-        <translation type="unfinished">Desconhecido</translation>
+        <translation>Desconhecido</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1438"/>
@@ -3862,37 +3862,37 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <location filename="../../Views/LoadingState.qml" line="183"/>
         <source>Station</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Estação</translation>
+        <translation>Estação</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="190"/>
         <source>Robot</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Robô</translation>
+        <translation>Robô</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="197"/>
         <source>Tool</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Ferramentas</translation>
+        <translation>Ferramentas</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="204"/>
         <source>Linear Track</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Carril Linear</translation>
+        <translation>Carril Linear</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="211"/>
         <source>Rotary Table</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Mesa Rotativa</translation>
+        <translation>Mesa Rotativa</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="218"/>
         <source>Additional Objects</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Objetos Adicionais</translation>
+        <translation>Objetos Adicionais</translation>
     </message>
 </context>
 <context>
@@ -4762,7 +4762,7 @@ Tooltip for to-target field</extracomment>
         <location filename="../../Menus.qml" line="452"/>
         <source>Tool Base</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
-        <translation type="unfinished">Ferramenta estacionária</translation>
+        <translation>Ferramenta estacionária</translation>
     </message>
     <message>
         <source>Select Tool</source>
@@ -8830,13 +8830,13 @@ Clique novamente para substituir</translation>
         <location filename="../../Sidebar/Sidebar.qml" line="154"/>
         <source>Remove shortcut</source>
         <extracomment>Context menu item, remove sidebar shortcut</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Remover atalho</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Sidebar.qml" line="159"/>
         <source>Reset to default</source>
         <extracomment>Context menu item, reset all sidebar shortcuts to default</extracomment>
-        <translation type="unfinished">Restaurar padrões</translation>
+        <translation>Restaurar padrões</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Sidebar.qml" line="222"/>
@@ -8848,7 +8848,7 @@ Clique novamente para substituir</translation>
         <location filename="../../Sidebar/Sidebar.qml" line="233"/>
         <source>Project Wizard</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Assistente de Projeto</translation>
     </message>
     <message>
         <source>Close</source>
@@ -8895,61 +8895,61 @@ Clique novamente para substituir</translation>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="231"/>
         <source>Additional Objects</source>
         <extracomment>Title: Referring to user-imported 3D objects</extracomment>
-        <translation type="unfinished">Objetos Adicionais</translation>
+        <translation>Objetos Adicionais</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="237"/>
         <source>DH Table</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Tabela DH</translation>
+        <translation>Tabela DH</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="249"/>
         <source>Linear Track</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Carril Linear</translation>
+        <translation>Carril Linear</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="255"/>
         <source>Object Frame</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Referêncial do Objecto</translation>
+        <translation>Referêncial do Objecto</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="261"/>
         <source>Optimizer</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Optimizador</translation>
+        <translation>Optimizador</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="267"/>
         <source>Targets</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Pontos</translation>
+        <translation>Pontos</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="273"/>
         <source>Robot</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Robô</translation>
+        <translation>Robô</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="279"/>
         <source>Rotary Table</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Mesa Rotativa</translation>
+        <translation>Mesa Rotativa</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="285"/>
         <source>Tool</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Ferramentas</translation>
+        <translation>Ferramentas</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="291"/>
         <source>User Frame</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Referêncial do Utilizador</translation>
+        <translation>Referêncial do Utilizador</translation>
     </message>
 </context>
 <context>
@@ -11662,7 +11662,7 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../Views/VisualizationSettings.qml" line="77"/>
         <source>Reset %1 values to default</source>
         <extracomment>Tool-tip for reset button: %1 = category</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Redefinir valores de %1 para o padrão</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="219"/>
@@ -11716,31 +11716,31 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../Views/VisualizationSettings.qml" line="319"/>
         <source>Coordinate Systems</source>
         <extracomment>Category separator label</extracomment>
-        <translation type="unfinished">Sistemas de Coordenadas</translation>
+        <translation>Sistemas de Coordenadas</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="327"/>
         <source>Arrow length</source>
         <extracomment>Number input label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Comprimento da seta</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="329"/>
         <source>Change the arrow length of all coordinate systems in the 3D scene</source>
         <extracomment>Tool-tip describing the effects of &quot;Coordinate systems length&quot; input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Alterar o comprimento da seta de todos os sistemas de coordenadas na cena 3D</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="341"/>
         <source>Arrow thickness</source>
         <extracomment>Number input label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Espessura da seta</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="343"/>
         <source>Change the arrow thickness of all coordinate systems in the 3D scene</source>
         <extracomment>Tool-tip describing the effects of &quot;Coordinate systems thickness&quot; input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Alterar a espessura da seta de todos os sistemas de coordenadas na cena 3D</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="360"/>
