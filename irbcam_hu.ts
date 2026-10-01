@@ -1672,7 +1672,7 @@ Button text</extracomment>
         <location filename="../../Sidebar/DHTableEditor.qml" line="100"/>
         <source>Axis Scale</source>
         <extracomment>Label: Axis width</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tengely skála</translation>
     </message>
     <message>
         <source>Axis Width</source>
@@ -2910,7 +2910,7 @@ Csak UTF-8 kódolású fájlok támogatottak</translation>
         <location filename="../../Irbcam.qml" line="125"/>
         <source>%1 (Read only)</source>
         <extracomment>Header: %1 = project name, &apos;read only&apos; refers to that the user does not have write permission for this project</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 (Csak olvasható)</translation>
     </message>
     <message>
         <location filename="../../Irbcam.qml" line="132"/>
@@ -3132,109 +3132,109 @@ code: %2</source>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1288"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Inicializálatlan</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1291"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
-        <translation type="unfinished">Tétlen</translation>
+        <translation>Tétlen</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1294"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
-        <translation type="unfinished">Leírás lekérése</translation>
+        <translation>Leírás lekérése</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1297"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
-        <translation type="unfinished">Letöltés</translation>
+        <translation>Letöltés</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1300"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
-        <translation type="unfinished">Kicsomagolás</translation>
+        <translation>Kicsomagolás</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1303"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
-        <translation type="unfinished">Betöltés</translation>
+        <translation>Betöltés</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1306"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
-        <translation type="unfinished">Törlés</translation>
+        <translation>Törlés</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1309"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
-        <translation type="unfinished">Feltöltés</translation>
+        <translation>Feltöltés</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1312"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
-        <translation type="unfinished">Lista lekérése</translation>
+        <translation>Lista lekérése</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1315"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
-        <translation type="unfinished">Dekódolás</translation>
+        <translation>Dekódolás</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1318"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
-        <translation type="unfinished">Ellenőrzés</translation>
+        <translation>Ellenőrzés</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1321"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
-        <translation type="unfinished">Eszközök betöltése</translation>
+        <translation>Eszközök betöltése</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1324"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
-        <translation type="unfinished">Feldolgozás</translation>
+        <translation>Feldolgozás</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1327"/>
         <source>Error</source>
         <extracomment>Network status: An error has ocurred</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hiba</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1330"/>
         <source>Awaiting user input</source>
         <extracomment>Network status</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Várakozás a felhasználói bevitelre</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1333"/>
         <source>Waiting for server</source>
         <extracomment>Network status: Waiting for a response from the server</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Várakozás a szerverre</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1336"/>
         <source>Sharing</source>
         <extracomment>Network status: Sharing asset/project</extracomment>
-        <translation type="unfinished">Megosztás</translation>
+        <translation>Megosztás</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1342"/>
         <source>Unknown</source>
         <extracomment>Network status</extracomment>
-        <translation type="unfinished">Ismeretlen</translation>
+        <translation>Ismeretlen</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/networking.cpp" line="1438"/>
@@ -3923,37 +3923,37 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <location filename="../../Views/LoadingState.qml" line="183"/>
         <source>Station</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Állomás</translation>
+        <translation>Állomás</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="190"/>
         <source>Robot</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Robot</translation>
+        <translation>Robot</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="197"/>
         <source>Tool</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Kiválasztás</translation>
+        <translation>Kiválasztás</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="204"/>
         <source>Linear Track</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Lineáris egység</translation>
+        <translation>Lineáris egység</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="211"/>
         <source>Rotary Table</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">Forgóasztal</translation>
+        <translation>Forgóasztal</translation>
     </message>
     <message>
         <location filename="../../Views/LoadingState.qml" line="218"/>
         <source>Additional Objects</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished">További objektumok</translation>
+        <translation>További objektumok</translation>
     </message>
 </context>
 <context>
@@ -4823,7 +4823,7 @@ Tooltip for to-target field</extracomment>
         <location filename="../../Menus.qml" line="452"/>
         <source>Tool Base</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
-        <translation type="unfinished">Álló eszköz</translation>
+        <translation>Álló eszköz</translation>
     </message>
     <message>
         <source>Select Tool</source>
@@ -8977,13 +8977,13 @@ Kattintson újra a felülíráshoz</translation>
         <location filename="../../Sidebar/Sidebar.qml" line="154"/>
         <source>Remove shortcut</source>
         <extracomment>Context menu item, remove sidebar shortcut</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Parancsikon eltávolítása</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Sidebar.qml" line="159"/>
         <source>Reset to default</source>
         <extracomment>Context menu item, reset all sidebar shortcuts to default</extracomment>
-        <translation type="unfinished">Visszaállítás alapértelmezettre</translation>
+        <translation>Visszaállítás alapértelmezettre</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Sidebar.qml" line="222"/>
@@ -8995,7 +8995,7 @@ Kattintson újra a felülíráshoz</translation>
         <location filename="../../Sidebar/Sidebar.qml" line="233"/>
         <source>Project Wizard</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Projekt varázsló</translation>
     </message>
     <message>
         <source>Close</source>
@@ -9042,61 +9042,61 @@ Kattintson újra a felülíráshoz</translation>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="231"/>
         <source>Additional Objects</source>
         <extracomment>Title: Referring to user-imported 3D objects</extracomment>
-        <translation type="unfinished">További objektumok</translation>
+        <translation>További objektumok</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="237"/>
         <source>DH Table</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">DH táblázat</translation>
+        <translation>DH táblázat</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="249"/>
         <source>Linear Track</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Lineáris egység</translation>
+        <translation>Lineáris egység</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="255"/>
         <source>Object Frame</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Munkadarab rendszer</translation>
+        <translation>Munkadarab rendszer</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="261"/>
         <source>Optimizer</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Optimalizáló</translation>
+        <translation>Optimalizáló</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="267"/>
         <source>Targets</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Célpontok</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="273"/>
         <source>Robot</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Robot</translation>
+        <translation>Robot</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="279"/>
         <source>Rotary Table</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Forgóasztal</translation>
+        <translation>Forgóasztal</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="285"/>
         <source>Tool</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Kiválasztás</translation>
+        <translation>Kiválasztás</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="291"/>
         <source>User Frame</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished">Felhasználói rendszer</translation>
+        <translation>Felhasználói rendszer</translation>
     </message>
 </context>
 <context>
@@ -11852,7 +11852,7 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../Views/VisualizationSettings.qml" line="77"/>
         <source>Reset %1 values to default</source>
         <extracomment>Tool-tip for reset button: %1 = category</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Visszaállítás %1 értékek alapértelmezettre</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="219"/>
@@ -11906,31 +11906,31 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <location filename="../../Views/VisualizationSettings.qml" line="319"/>
         <source>Coordinate Systems</source>
         <extracomment>Category separator label</extracomment>
-        <translation type="unfinished">Koordináta rendszerek</translation>
+        <translation>Koordináta rendszerek</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="327"/>
         <source>Arrow length</source>
         <extracomment>Number input label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nyíl hossza</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="329"/>
         <source>Change the arrow length of all coordinate systems in the 3D scene</source>
         <extracomment>Tool-tip describing the effects of &quot;Coordinate systems length&quot; input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Változtasd meg az összes koordinátarendszer nyilainak hosszát a 3D jelenetben</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="341"/>
         <source>Arrow thickness</source>
         <extracomment>Number input label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nyíl vastagsága</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="343"/>
         <source>Change the arrow thickness of all coordinate systems in the 3D scene</source>
         <extracomment>Tool-tip describing the effects of &quot;Coordinate systems thickness&quot; input</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Változtasd meg az összes koordinátarendszer nyilainak vastagságát a 3D jelenetben</translation>
     </message>
     <message>
         <location filename="../../Views/VisualizationSettings.qml" line="360"/>
