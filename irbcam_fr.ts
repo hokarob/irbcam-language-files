@@ -4341,7 +4341,7 @@ Placeholder for when no move control group 3 is entered</extracomment>
         <extracomment>Referring to maximum acceleration
 ----------
 Placeholder for when no value is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Accélération max (m/s²)</translation>
     </message>
     <message>
         <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="835"/>
@@ -8881,7 +8881,8 @@ Des longs chemins peuvent être importés en les découpant en plus petits fichi
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Taille maximale du fichier (%1 Mo) dépassée. Taille actuelle du fichier (après compression) : %2 Mo
+Des trajectoires plus grandes peuvent être importées en divisant le fichier en fichiers plus petits et en utilisant l&apos;option &apos;append&apos;</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1103"/>
@@ -8991,51 +8992,51 @@ Cela peut arriver si la sauvegarde vient d&apos;une version d&apos;IRBCAM plus a
         <location filename="../../../backend/src/stationinterface.cpp" line="1134"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Échec de la récupération de %1 parsé depuis le cloud</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1180"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Le nombre de décimales utilisées dans le fichier %1 est %2 (faible précision numérique).</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1201"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 cibles sont filtrées du fichier %2 : elles sont plus proches que le seuil de distance minimale de %3 mm.</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1215"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 cible est filtrée du fichier %2 : elle est plus proche que le seuil de distance minimale de %3 mm.</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1236"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Échec de l&apos;importation du fichier %1</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1244"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Chemin importé depuis %1</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1298"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="1446"/>
         <source>Blend radius is overlapping at target %1. Try reducing the target velocity or increasing the maximum acceleration</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Le rayon de lissage chevauche à la cible %1. Essayez de réduire la vitesse cible ou d&apos;augmenter l&apos;accélération maximale</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1307"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="1455"/>
         <source>Target %1 is too close. Try reimporting the path with minimum distance between targets &gt;= %2 mm or manually adjust the target so that the distance between two consecutive targets &gt;=  %2 mm</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cible %1 est trop proche. Essayez de réimporter le chemin avec une distance minimale entre les cibles &gt;= %2 mm ou ajustez manuellement la cible afin que la distance entre deux cibles consécutives soit &gt;= %2 mm</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1742"/>
