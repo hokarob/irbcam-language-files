@@ -2256,163 +2256,163 @@ Placeholder text where users input scaling multiplier</extracomment>
 <context>
     <name>ImportPath</name>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="46"/>
+        <location filename="../../Popups/ImportPath.qml" line="47"/>
         <source>This option is not available for %1 files</source>
         <extracomment>Tool tip for disabled checkbox.</extracomment>
         <translation>Esta opção não está disponível para arquivos %1</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="61"/>
+        <location filename="../../Popups/ImportPath.qml" line="62"/>
         <source>All supported files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>Todos os arquivos suportados</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="63"/>
+        <location filename="../../Popups/ImportPath.qml" line="64"/>
         <source>APT files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>Arquivos APT</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="65"/>
+        <location filename="../../Popups/ImportPath.qml" line="66"/>
         <source>JSON files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>Arquivos JSON</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="67"/>
+        <location filename="../../Popups/ImportPath.qml" line="68"/>
         <source>CSV files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>Arquivos CSV</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="69"/>
+        <location filename="../../Popups/ImportPath.qml" line="70"/>
         <source>GCODE files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>Arquivos GCODE</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="71"/>
+        <location filename="../../Popups/ImportPath.qml" line="72"/>
         <source>SVG files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>Arquivos SVG</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="73"/>
+        <location filename="../../Popups/ImportPath.qml" line="74"/>
         <source>Open file</source>
         <extracomment>Name of the file interface window</extracomment>
         <translation>Abrir arquivo</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="115"/>
+        <location filename="../../Popups/ImportPath.qml" line="116"/>
         <source>Import Path</source>
         <extracomment>Title</extracomment>
         <translation>Caminho de Importação</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="150"/>
+        <location filename="../../Popups/ImportPath.qml" line="151"/>
         <source>Documentation</source>
         <extracomment>Separator label. This section contains a link to the documentation</extracomment>
         <translation>Documentação</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="159"/>
+        <location filename="../../Popups/ImportPath.qml" line="160"/>
         <source>Supported file formats are:</source>
         <extracomment>Label. Supported file formats are listed below this line</extracomment>
         <translation>Os formatos de arquivo suportados são:</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="172"/>
+        <location filename="../../Popups/ImportPath.qml" line="173"/>
         <source>Reference documentation for JSON and CSV format is in  %1our forum%2</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation>Documentação de referência para os formatos JSON e CSV está no %1nosso fórum%2</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="183"/>
+        <location filename="../../Popups/ImportPath.qml" line="184"/>
         <source>Select File</source>
         <extracomment>Section separator label</extracomment>
         <translation>Selecionar Arquivo</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="191"/>
+        <location filename="../../Popups/ImportPath.qml" line="192"/>
         <source>File name: </source>
         <extracomment>Label</extracomment>
         <translation>Nome do arquivo: </translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="200"/>
+        <location filename="../../Popups/ImportPath.qml" line="201"/>
         <source>No file selected</source>
         <extracomment>Placeholder file name until a file is selected</extracomment>
         <translation>Nenhum arquivo selecionado</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="126"/>
+        <location filename="../../Popups/ImportPath.qml" line="127"/>
         <source>The active subscription does not provide access to GCODE/APT parser. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation>A assinatura ativa não fornece acesso ao analisador GCODE/APT. Clique %1aqui%2 para gerenciar assinaturas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="204"/>
+        <location filename="../../Popups/ImportPath.qml" line="205"/>
         <source>Invalid file type. Only .apt, .gcode, .nc, .json, .csv, and .svg files are supported</source>
         <extracomment>Tool tip: Invalid file type is selected</extracomment>
         <translation>Tipo de arquivo inválido. Apenas arquivos .apt, .gcode, .nc, .json, .csv e .svg são suportados</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="219"/>
+        <location filename="../../Popups/ImportPath.qml" line="220"/>
         <source>%1 Import Options</source>
         <extracomment>Additional options when importing file. %1 = APT, GCODE, JSON, CSV or SVG depending on what type of file is selected</extracomment>
         <translation>%1 Opções de Importação</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="226"/>
+        <location filename="../../Popups/ImportPath.qml" line="227"/>
         <source>Minimum distance (mm)</source>
         <extracomment>Description for a text field where the user inputs the minimum distance between targets</extracomment>
         <translation>Distância mínima (mm)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="228"/>
+        <location filename="../../Popups/ImportPath.qml" line="229"/>
         <source>Minimum distance between targets. Range: 0.1 - 10 (mm). For distances smaller than 1, arc moves are converted to linear</source>
         <extracomment>Tool tip: Displayed when hovering over minimum distance label</extracomment>
         <translation>Distância mínima entre alvos. Intervalo: 0,1 - 10 (mm). Para distâncias menores que 1, os movimentos em arco são convertidos para lineares</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="257"/>
+        <location filename="../../Popups/ImportPath.qml" line="258"/>
         <source>Append</source>
         <extracomment>Checkbox: Select to append targets to existing path</extracomment>
         <translation>Anexar</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="261"/>
+        <location filename="../../Popups/ImportPath.qml" line="262"/>
         <source>Add to existing path instead of replacing</source>
         <extracomment>Tool tip for append checkbox.</extracomment>
         <translation>Adicionar ao caminho existente em vez de substituir</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="268"/>
+        <location filename="../../Popups/ImportPath.qml" line="269"/>
         <source>Reverse INDIRV</source>
         <extracomment>Checkbox: Select to reverse INDIRV (initial direction vector). This is primarily for Catia users</extracomment>
         <translation>Inverter INDIRV</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="272"/>
+        <location filename="../../Popups/ImportPath.qml" line="273"/>
         <source>Reverse direction of vector (Catia)</source>
         <extracomment>Tool tip for Reverse INDIRV checkbox</extracomment>
         <translation>Inverter direção do vetor (Catia)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="278"/>
+        <location filename="../../Popups/ImportPath.qml" line="279"/>
         <source>No arcs</source>
         <extracomment>Checkbox: Select to disable arc moves</extracomment>
         <translation>Sem arcos</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="282"/>
+        <location filename="../../Popups/ImportPath.qml" line="283"/>
         <source>Arcs are split into linear moves</source>
         <extracomment>Tool tip for no arcs checkbox</extracomment>
         <translation>Arcos são divididos em movimentos lineares</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="290"/>
+        <location filename="../../Popups/ImportPath.qml" line="291"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
         <translation>Arma ligada/desligada</translation>
@@ -2423,116 +2423,116 @@ Placeholder text where users input scaling multiplier</extracomment>
         <translation type="vanished">Converter todas as velocidades de avanço para movimentos rápidos, exceto para velocidade de corte. Isso é útil ao selecionar &quot;Gun on/off&quot; ao exportar</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="302"/>
+        <location filename="../../Popups/ImportPath.qml" line="303"/>
         <source>Include gun on/off. This is useful if selecting &apos;Gun on/off&apos; when exporting</source>
         <extracomment>Tool tip for Gun on/off checkbox</extracomment>
         <translation>Incluir ligar/desligar da pistola. Isso é útil se selecionar &apos;Ligar/desligar da pistola&apos; ao exportar</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="313"/>
+        <location filename="../../Popups/ImportPath.qml" line="314"/>
         <source>Use velocities</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
         <translation>Usar velocidades</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="318"/>
+        <location filename="../../Popups/ImportPath.qml" line="319"/>
         <source>Convert all feed speeds to rapid moves, except for cutting speed</source>
         <extracomment>Tool tip for Gun on/off Velocity checkbox</extracomment>
         <translation>Converter todas as velocidades de avanço para movimentos rápidos, exceto a velocidade de corte</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="324"/>
+        <location filename="../../Popups/ImportPath.qml" line="325"/>
         <source>Use M8/M9</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
         <translation>Utilize M8/M9</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="329"/>
+        <location filename="../../Popups/ImportPath.qml" line="330"/>
         <source>Import M8 as gun on and M9 as gun off</source>
         <extracomment>Tool tip for Gun on/off M8/M9 checkbox</extracomment>
         <translation>Importar M8 como pistola ligada e M9 como pistola desligada</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="337"/>
+        <location filename="../../Popups/ImportPath.qml" line="338"/>
         <source>Split Path</source>
         <extracomment>Separator label: Options to split path in different ways</extracomment>
         <translation>Dividir Caminho</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="347"/>
+        <location filename="../../Popups/ImportPath.qml" line="348"/>
         <source>On coordinate frame change</source>
         <extracomment>Label: Split path on cooridnate frame change</extracomment>
         <translation>Na mudança do frame de coordenadas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="363"/>
+        <location filename="../../Popups/ImportPath.qml" line="364"/>
         <source>On comment</source>
         <extracomment>Label: Split path on comment</extracomment>
         <translation>No comentário</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="377"/>
+        <location filename="../../Popups/ImportPath.qml" line="378"/>
         <source>Disabled</source>
         <extracomment>Drop-down menu option. Split path on comment disabled</extracomment>
         <translation>Desativado</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="379"/>
+        <location filename="../../Popups/ImportPath.qml" line="380"/>
         <source>Any</source>
         <extracomment>Drop-down menu option. Split path on any comment</extracomment>
         <translation>Qualquer</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="381"/>
+        <location filename="../../Popups/ImportPath.qml" line="382"/>
         <source>Layer Start</source>
         <extracomment>Drop-down menu option. Split path on comment Layer Start</extracomment>
         <translation>Início da Camada</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="383"/>
+        <location filename="../../Popups/ImportPath.qml" line="384"/>
         <source>Path</source>
         <extracomment>Drop-down menu option. Split path on comment Path:</extracomment>
         <translation>Caminho</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="385"/>
+        <location filename="../../Popups/ImportPath.qml" line="386"/>
         <source>User Defined</source>
         <extracomment>Drop-down menu option. Split path on user defined comment</extracomment>
         <translation>Definido pelo usuário</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="396"/>
+        <location filename="../../Popups/ImportPath.qml" line="397"/>
         <source>Splitting paths on comments is disabled</source>
         <extracomment>Tool-tip for drop-down option &apos;Disabled&apos;</extracomment>
         <translation>A divisão de caminhos por comentários está desativada</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="398"/>
+        <location filename="../../Popups/ImportPath.qml" line="399"/>
         <source>Split path on any comment</source>
         <extracomment>Tool-tip for drop-down option &apos;Any&apos;</extracomment>
         <translation>Dividir o caminho em qualquer comentário</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="400"/>
+        <location filename="../../Popups/ImportPath.qml" line="401"/>
         <source>Split path on any comment that matches the form: %1. The part in the paranthesis () will be used as the path name. E.g. the comment %2 will create a path named %3</source>
         <extracomment>Tool-tip for drop-down option &apos;Layer Start&apos;</extracomment>
         <translation>Dividir o caminho em qualquer comentário que corresponda à forma: %1. A parte entre parênteses () será usada como o nome do caminho. Por exemplo, o comentário %2 criará um caminho chamado %3</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="403"/>
+        <location filename="../../Popups/ImportPath.qml" line="404"/>
         <source>Split path on any comment that matches the form: %1. The part in the paranthesis () will be used as the path name. This mode is case insensitive. E.g. the comment %2 will create a path named %3</source>
         <extracomment>Tool-tip for drop-down option &apos;Path&apos;</extracomment>
         <translation>Dividir o caminho em qualquer comentário que corresponda ao formato: %1. A parte entre parênteses () será usada como o nome do caminho. Este modo não diferencia maiúsculas de minúsculas. Por exemplo, o comentário %2 criará um caminho chamado %3</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="406"/>
+        <location filename="../../Popups/ImportPath.qml" line="407"/>
         <source>User defined regex used to match comments that should be treated as path separators. It follows the syntax of google re2 (https://github.com/google/re2/wiki/Syntax)</source>
         <extracomment>Tool-tip for drop-down option &apos;User Defined&apos;</extracomment>
         <translation>Regex definido pelo usuário usado para corresponder a comentários que devem ser tratados como separadores de caminho. Segue a sintaxe do google re2 (https://github.com/google/re2/wiki/Syntax)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="424"/>
-        <location filename="../../Popups/ImportPath.qml" line="434"/>
+        <location filename="../../Popups/ImportPath.qml" line="425"/>
+        <location filename="../../Popups/ImportPath.qml" line="435"/>
         <source>Regular expression</source>
         <extracomment>Label: regex
 ----------
@@ -2540,37 +2540,37 @@ Placeholder text in text imput: regex</extracomment>
         <translation>Expressão regular</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="438"/>
+        <location filename="../../Popups/ImportPath.qml" line="439"/>
         <source>Regular expression used to capture comments that will generate different paths. Capture group 1 will be used to generate the name of the path. If capture group 1 does not exist then the whole matching expression will be used to generate the name</source>
         <extracomment>Tooltip: Description of how the regular expression is used to separate paths</extracomment>
         <translation>Expressão regular usada para capturar comentários que gerarão caminhos diferentes. O grupo de captura 1 será usado para gerar o nome do caminho. Se o grupo de captura 1 não existir então a expressão correspondente inteira será usada para gerar o nome</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="450"/>
+        <location filename="../../Popups/ImportPath.qml" line="451"/>
         <source>Column separator</source>
         <extracomment>Which character to use for separating CSV columns</extracomment>
         <translation>Separador de coluna</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="462"/>
+        <location filename="../../Popups/ImportPath.qml" line="463"/>
         <source>Comma &apos;,&apos;</source>
         <extracomment>Item in dropdown menu. Referring to using a comma character to separate columns in a CSV file</extracomment>
         <translation>Vírgula &apos;,&apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="467"/>
+        <location filename="../../Popups/ImportPath.qml" line="468"/>
         <source>Space &apos; &apos;</source>
         <extracomment>Item in dropdown menu. Referring to using a space character to separate columns in a CSV file</extracomment>
         <translation>Espaço &apos; &apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="477"/>
+        <location filename="../../Popups/ImportPath.qml" line="478"/>
         <source>Row separator</source>
         <extracomment>Which character to use for separating CSV rows</extracomment>
         <translation>Separador de linha</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="489"/>
+        <location filename="../../Popups/ImportPath.qml" line="490"/>
         <source>Newline &apos;
 &apos;</source>
         <extracomment>Item in dropdown menu. Referring to a new line in a CSV file</extracomment>
@@ -2578,73 +2578,73 @@ Placeholder text in text imput: regex</extracomment>
 &apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="494"/>
+        <location filename="../../Popups/ImportPath.qml" line="495"/>
         <source>Semicolon &apos;;&apos;</source>
         <extracomment>Item in dropdown menu. Referring to the semicolon symbol</extracomment>
         <translation>Ponto e vírgula &apos;;&apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="508"/>
+        <location filename="../../Popups/ImportPath.qml" line="509"/>
         <source>Additional Transformations</source>
         <extracomment>Collapsible section title</extracomment>
         <translation>Transformações Adicionais</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="530"/>
+        <location filename="../../Popups/ImportPath.qml" line="531"/>
         <source>Scaling presets</source>
         <extracomment>Title for drop-down menu where scaling presets may be selected</extracomment>
         <translation>Predefinições de escala</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="545"/>
+        <location filename="../../Popups/ImportPath.qml" line="546"/>
         <source>User defined</source>
         <extracomment>Drop-down menu item. Refers to user defined position units</extracomment>
         <translation>Definido pelo usuário</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="550"/>
+        <location filename="../../Popups/ImportPath.qml" line="551"/>
         <source>From mm (no scaling)</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>De mm (sem escalonamento)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="555"/>
+        <location filename="../../Popups/ImportPath.qml" line="556"/>
         <source>From cm</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>De cm</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="560"/>
+        <location filename="../../Popups/ImportPath.qml" line="561"/>
         <source>From m</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>De m</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="565"/>
+        <location filename="../../Popups/ImportPath.qml" line="566"/>
         <source>From inches</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>De polegadas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="570"/>
+        <location filename="../../Popups/ImportPath.qml" line="571"/>
         <source>From feet</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Dos pés</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="596"/>
+        <location filename="../../Popups/ImportPath.qml" line="597"/>
         <source>Apply rotation to targets</source>
         <extracomment>Checkbox: Refers to applying rotation on individual targets in addition to rotating the whole imported path</extracomment>
         <translation>Aplicar rotação aos alvos</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="600"/>
+        <location filename="../../Popups/ImportPath.qml" line="601"/>
         <source>Apply rotation locally to individual targets</source>
         <extracomment>Tool tip for apply rotation to targets checkbox.</extracomment>
         <translation>Aplicar rotação localmente aos alvos individuais</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="620"/>
+        <location filename="../../Popups/ImportPath.qml" line="621"/>
         <source>Import</source>
         <extracomment>Import button</extracomment>
         <translation>Importar</translation>
@@ -4403,67 +4403,76 @@ Placeholder for when no move control group 3 is entered</extracomment>
 }</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="805"/>
+        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="639"/>
+        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="648"/>
+        <source>Max acceleration (m/s²)</source>
+        <extracomment>Referring to maximum acceleration
+----------
+Placeholder for when no value is entered</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="835"/>
         <source>ABB Options</source>
         <extracomment>Collapsible section: Options specific for ABB robots</extracomment>
         <translation>Opções ABB</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="845"/>
+        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="875"/>
         <source>KUKA Options</source>
         <extracomment>Collapsible section: Options specific for KUKA robots</extracomment>
         <translation>Opções KUKA</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="883"/>
+        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="913"/>
         <source>FANUC Options</source>
         <extracomment>Collapsible section: Options specific for FANUC robots</extracomment>
         <translation>Opções FANUC</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="905"/>
+        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="935"/>
         <source>MOTOMAN Options</source>
         <extracomment>Collapsible section: Options specific for MOTOMAN robots</extracomment>
         <translation>MOTOMAN Opções</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="956"/>
+        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="986"/>
         <source>Generic Options</source>
         <extracomment>Collapsible section: Options for generic robots</extracomment>
         <translation>Opções Genéricas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="973"/>
+        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="1003"/>
         <source>UR Options</source>
         <extracomment>Collapsible section: Options for UR robots</extracomment>
         <translation>Opções UR</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="984"/>
+        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="1016"/>
         <source>COMAU Options</source>
         <extracomment>Collapsible section: Options for COMAU robots</extracomment>
         <translation>Opções COMAU</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="995"/>
+        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="1027"/>
         <source>DENSO Options</source>
         <extracomment>Collapsible section: Options for DENSO robots</extracomment>
         <translation>DENSO Opções</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="1012"/>
+        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="1044"/>
         <source>DOBOT Options</source>
         <extracomment>Collapsible section: Options for DOBOT robots</extracomment>
         <translation>Opções DOBOT</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="1025"/>
+        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="1057"/>
         <source>KAWASAKI Options</source>
         <extracomment>Collapsible section: Options specific for KAWASAKI robots</extracomment>
         <translation>Opções KAWASAKI</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="1036"/>
+        <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="1068"/>
         <source>STAUBLI Options</source>
         <extracomment>Collapsible section: Options specific for STAUBLI robots</extracomment>
         <translation>STAUBLI Opções</translation>
@@ -9422,11 +9431,10 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation>Projeto %1 foi compartilhado com %2.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1079"/>
         <source>Maximum APT file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the APT file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
-        <translation>Tamanho máximo do arquivo APT (%1 MB) excedido. Tamanho atual do arquivo (após compressão): %2 MB
+        <translation type="vanished">Tamanho máximo do arquivo APT (%1 MB) excedido. Tamanho atual do arquivo (após compressão): %2 MB
 Caminhos maiores podem ser importados dividindo o arquivo APT em arquivos menores e usando a opção &apos;append&apos;</translation>
     </message>
     <message>
@@ -9436,44 +9444,40 @@ Caminhos maiores podem ser importados dividindo o arquivo APT em arquivos menore
         <translation>Falha ao iniciar trabalho na nuvem %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1134"/>
         <source>Failed to get parsed APT %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
-        <translation>Falha ao obter APT %1 analisado da nuvem</translation>
+        <translation type="vanished">Falha ao obter APT %1 analisado da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1180"/>
         <source>The number of decimal places used in the APT file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation>O número de casas decimais usado no arquivo APT %1 é %2 (baixa precisão numérica).</translation>
+        <translation type="vanished">O número de casas decimais usado no arquivo APT %1 é %2 (baixa precisão numérica).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1196"/>
         <source>Failed to import APT file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
-        <translation>Falha ao importar arquivo APT %1</translation>
+        <translation type="vanished">Falha ao importar arquivo APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1204"/>
         <source>Path imported from APT %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
-        <translation>Caminho importado de APT %1</translation>
+        <translation type="vanished">Caminho importado de APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1269"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1301"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1337"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1369"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao obter código do robô da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1454"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1550"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao recuperar projeto salvo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1466"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1562"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -9481,56 +9485,56 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Isto pode ser devido ao salvamento vindo de uma versão mais antiga do IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1492"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1588"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Informação faltante no projeto recuperado da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1541"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1637"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao obter dados do quadro do usuário</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1559"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1655"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao carregar dados do quadro do usuário</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1569"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1665"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao obter dados do quadro do objeto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1578"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1674"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao carregar dados do quadro do objeto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1611"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1707"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Informações de caminho ausentes ou corrompidas do projeto salvo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1630"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1726"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>caminho de importação</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1789"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1796"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1885"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1892"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>Tabela DH</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1474"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1570"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -9538,44 +9542,101 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Isso pode ser devido ao salvamento vindo de uma versão mais antiga do IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1646"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1654"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1664"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1079"/>
+        <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
+Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
+        <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1134"/>
+        <source>Failed to get parsed %1 from the cloud</source>
+        <extracomment>Error message: %1 = file name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1180"/>
+        <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
+        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1201"/>
+        <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
+        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1215"/>
+        <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
+        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1236"/>
+        <source>Failed to import file %1</source>
+        <extracomment>Error message. %1 = file name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1244"/>
+        <source>Path imported from %1</source>
+        <extracomment>Notification. %1 = file name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1298"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1446"/>
+        <source>Blend radius is overlapping at target %1. Try reducing the target velocity or increasing the maximum acceleration</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1307"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1455"/>
+        <source>Target %1 is too close. Try reimporting the path with minimum distance between targets &gt;= %2 mm or manually adjust the target so that the distance between two consecutive targets &gt;=  %2 mm</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1742"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1750"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1760"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robô</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1673"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1839"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1845"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1769"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1935"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1941"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>ferramenta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1738"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1746"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1756"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1834"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1842"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1852"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>mesa rotativa</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1531"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1627"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao carregar dados do projeto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1878"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1974"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projeto %1 carregado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1768"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1776"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1864"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1872"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>trilho linear</translation>
