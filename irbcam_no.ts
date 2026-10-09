@@ -3814,7 +3814,7 @@ Lagre arbeidet ditt og last nettsiden på nytt</translation>
         <location filename="../../Popups/IrbcamSettings.qml" line="219"/>
         <source>Speeds</source>
         <extracomment>Collapsible setcion within station settings: Speed related settings</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hastigheter</translation>
     </message>
     <message>
         <location filename="../../Popups/IrbcamSettings.qml" line="227"/>
