@@ -3516,7 +3516,7 @@ Placeholder for when no move control group 3 is entered</extracomment>
         <extracomment>Referring to maximum acceleration
 ----------
 Placeholder for when no value is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Beschleunigung (m/s²)</translation>
     </message>
     <message>
         <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="835"/>
@@ -7848,57 +7848,58 @@ Größere Pfade können importiert werden, indem die APT-Datei in kleinere Datei
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maximale Dateigröße (%1 MB) überschritten. Aktuelle Dateigröße (nach Komprimierung): %2 MB
+Größere Pfade können importiert werden, indem die Datei in kleinere Dateien aufgeteilt und die &apos;Anhängen&apos;-Option verwendet wird</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1134"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Abrufen des geparsten %1 aus der Cloud</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1180"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Die Anzahl der in der Datei %1 verwendeten Dezimalstellen ist %2 (niedrige numerische Präzision).</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1201"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 Ziele werden aus der Datei %2 herausgefiltert: sie sind näher als der Schwellenwert für den Mindestabstand von %3 mm.</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1215"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1-Ziel wird aus der Datei %2 ausgefiltert: Es ist näher als der Mindestabstandsschwellenwert von %3 mm.</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1236"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Datei %1 konnte nicht importiert werden</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1244"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pfad aus %1 importiert</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1298"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="1446"/>
         <source>Blend radius is overlapping at target %1. Try reducing the target velocity or increasing the maximum acceleration</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Der Blendradius überlappt am Ziel %1. Versuchen Sie, die Zielgeschwindigkeit zu reduzieren oder die maximale Beschleunigung zu erhöhen</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1307"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="1455"/>
         <source>Target %1 is too close. Try reimporting the path with minimum distance between targets &gt;= %2 mm or manually adjust the target so that the distance between two consecutive targets &gt;=  %2 mm</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ziel %1 ist zu nah. Versuchen Sie, den Pfad mit einem Mindestabstand zwischen den Zielen von &gt;= %2 mm neu zu importieren oder passen Sie das Ziel manuell so an, dass der Abstand zwischen zwei aufeinanderfolgenden Zielen &gt;= %2 mm</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1337"/>
