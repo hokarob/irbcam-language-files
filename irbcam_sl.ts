@@ -3579,10 +3579,15 @@ Prosimo, da shranite svoje delo in čim prej znova naložite stran</translation>
         <translation>Spremembe nastavitev postaje se ne shranijo samodejno. Shranjeni so v postaji in zato shranjeni in naloženi s projektom</translation>
     </message>
     <message>
-        <location filename="../../Popups/IrbcamSettings.qml" line="219"/>
         <source>Simulation Speeds</source>
         <extracomment>Collapsible setcion within station settings: Speed related settings</extracomment>
-        <translation>Hitrosti simulacije</translation>
+        <translation type="vanished">Hitrosti simulacije</translation>
+    </message>
+    <message>
+        <location filename="../../Popups/IrbcamSettings.qml" line="219"/>
+        <source>Speeds</source>
+        <extracomment>Collapsible setcion within station settings: Speed related settings</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../Popups/IrbcamSettings.qml" line="227"/>

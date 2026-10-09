@@ -3412,10 +3412,9 @@ Prašome išsaugoti savo darbą ir perkraudykite puslapį kuo greičiau</transla
         <translation>Stotis</translation>
     </message>
     <message>
-        <location filename="../../Popups/IrbcamSettings.qml" line="219"/>
         <source>Simulation Speeds</source>
         <extracomment>Collapsible setcion within station settings: Speed related settings</extracomment>
-        <translation>Simuliacijos greičiai</translation>
+        <translation type="vanished">Simuliacijos greičiai</translation>
     </message>
     <message>
         <location filename="../../Popups/IrbcamSettings.qml" line="229"/>
@@ -3576,6 +3575,12 @@ Prašome išsaugoti savo darbą ir perkraudykite puslapį kuo greičiau</transla
         <source>Changes to station settings are not saved automatically. They are saved in the station and therefore saved and loaded with the project</source>
         <extracomment>Clarification on what station settings are</extracomment>
         <translation>Pakeitimai stoties nustatymuose nėra išsaugomi automatiškai. Jie išsaugomi stotyje ir todėl išsaugomi bei įkeliami kartu su projektu</translation>
+    </message>
+    <message>
+        <location filename="../../Popups/IrbcamSettings.qml" line="219"/>
+        <source>Speeds</source>
+        <extracomment>Collapsible setcion within station settings: Speed related settings</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../Popups/IrbcamSettings.qml" line="251"/>

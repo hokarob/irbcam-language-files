@@ -2869,10 +2869,9 @@ Bitte speichern Sie Ihre Arbeit und laden Sie die Seite so schnell wie möglich 
         <translation>Station</translation>
     </message>
     <message>
-        <location filename="../../Popups/IrbcamSettings.qml" line="219"/>
         <source>Simulation Speeds</source>
         <extracomment>Collapsible setcion within station settings: Speed related settings</extracomment>
-        <translation>Simulationsgeschwindigkeiten</translation>
+        <translation type="vanished">Simulationsgeschwindigkeiten</translation>
     </message>
     <message>
         <location filename="../../Popups/IrbcamSettings.qml" line="229"/>
@@ -3039,6 +3038,12 @@ Bitte speichern Sie Ihre Arbeit und laden Sie die Seite so schnell wie möglich 
         <source>Changes to station settings are not saved automatically. They are saved in the station and therefore saved and loaded with the project</source>
         <extracomment>Clarification on what station settings are</extracomment>
         <translation>Änderungen an den Stationseinstellungen werden nicht automatisch gespeichert. Sie werden in der Station gespeichert und daher mit dem Projekt gespeichert und geladen</translation>
+    </message>
+    <message>
+        <location filename="../../Popups/IrbcamSettings.qml" line="219"/>
+        <source>Speeds</source>
+        <extracomment>Collapsible setcion within station settings: Speed related settings</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../Popups/IrbcamSettings.qml" line="251"/>

@@ -3372,10 +3372,9 @@ Kérjük, mentse el munkáját, és töltse újra az oldalt a lehető leghamarab
         <translation>Állomás</translation>
     </message>
     <message>
-        <location filename="../../Popups/IrbcamSettings.qml" line="219"/>
         <source>Simulation Speeds</source>
         <extracomment>Collapsible setcion within station settings: Speed related settings</extracomment>
-        <translation>Szimulációs sebességek</translation>
+        <translation type="vanished">Szimulációs sebességek</translation>
     </message>
     <message>
         <location filename="../../Popups/IrbcamSettings.qml" line="229"/>
@@ -3536,6 +3535,12 @@ Kérjük, mentse el munkáját, és töltse újra az oldalt a lehető leghamarab
         <source>Changes to station settings are not saved automatically. They are saved in the station and therefore saved and loaded with the project</source>
         <extracomment>Clarification on what station settings are</extracomment>
         <translation>A munkaállomás beállításainak módosításai nem kerülnek automatikusan mentésre. Ezek a munkaállomásban kerülnek mentésre, és ezért a projekttel együtt kerülnek mentésre és betöltésre</translation>
+    </message>
+    <message>
+        <location filename="../../Popups/IrbcamSettings.qml" line="219"/>
+        <source>Speeds</source>
+        <extracomment>Collapsible setcion within station settings: Speed related settings</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../Popups/IrbcamSettings.qml" line="251"/>
