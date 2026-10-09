@@ -3580,7 +3580,7 @@ Prašome išsaugoti savo darbą ir perkraudykite puslapį kuo greičiau</transla
         <location filename="../../Popups/IrbcamSettings.qml" line="219"/>
         <source>Speeds</source>
         <extracomment>Collapsible setcion within station settings: Speed related settings</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Greitiai</translation>
     </message>
     <message>
         <location filename="../../Popups/IrbcamSettings.qml" line="251"/>
@@ -4513,7 +4513,7 @@ Placeholder for when no move control group 3 is entered</extracomment>
         <extracomment>Referring to maximum acceleration
 ----------
 Placeholder for when no value is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maksimalus pagreitis (m/s²)</translation>
     </message>
     <message>
         <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="835"/>
@@ -9647,57 +9647,58 @@ Tai gali būti dėl to, kad išsaugojimas yra iš senesnės IRBCAM versijos</tra
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Viršytas maksimalus failo dydis (%1 MB). Dabartinis failo dydis (po suspaudimo): %2 MB
+Didesnius kelius galima importuoti padalijus failą į mažesnius failus ir naudojant „append“ parinktį</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1134"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko gauti išanalizuoto %1 iš debesies</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1180"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Faile %1 naudojamų dešimtainių skaitmenų skaičius yra %2 (žemas skaitinis tikslumas).</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1201"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 taikinių yra išfiltruota iš failo %2: jie yra arčiau nei minimalus atstumo slenkstis %3 mm.</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1215"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 taikinys yra išfiltruotas iš failo %2: jis yra arčiau nei minimalus atstumo slenkstis %3 mm.</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1236"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nepavyko importuoti failo %1</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1244"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kelias importuotas iš %1</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1298"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="1446"/>
         <source>Blend radius is overlapping at target %1. Try reducing the target velocity or increasing the maximum acceleration</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maišymo spindulys persidengia taikinyje %1. Pabandykite sumažinti taikinio greitį arba padidinti maksimalųjį pagreitį</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1307"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="1455"/>
         <source>Target %1 is too close. Try reimporting the path with minimum distance between targets &gt;= %2 mm or manually adjust the target so that the distance between two consecutive targets &gt;=  %2 mm</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Taikinys %1 yra per arti. Bandykite pakartotinai importuoti kelią su minimaliu atstumu tarp taikinių &gt;= %2 mm arba rankiniu būdu pakoreguokite taikinį taip, kad atstumas tarp dviejų iš eilės einančių taikinių &gt;= %2 mm</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1742"/>
