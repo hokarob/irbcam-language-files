@@ -1,0 +1,36 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x  # Choose the version you need
+
+      - name: Install dependencies
+        run: pip install -r .github/workflows/requirements.txt  # Create a requirements.txt file for your "requests" module
+
+      - name: Generate website
+        run: python .github/workflows/badges.py  # Replace with the actual name of your Python script
+
+      - name: Deploy to GitHub Pages
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git branch -D gh-pages || true
+          git checkout --orphan gh-pages
+          git add -A
+          git commit -m "Auto-deploy to GitHub Pages"
+          git push -f origin gh-pages
+
