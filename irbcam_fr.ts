@@ -3714,7 +3714,7 @@ Veuillez enregistrer votre travail et recharger la page dès que possible</trans
         <location filename="../../Popups/IrbcamSettings.qml" line="219"/>
         <source>Speeds</source>
         <extracomment>Collapsible setcion within station settings: Speed related settings</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vitesses</translation>
     </message>
     <message>
         <location filename="../../Popups/IrbcamSettings.qml" line="251"/>
