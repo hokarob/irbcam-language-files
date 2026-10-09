@@ -4470,7 +4470,7 @@ Placeholder for when no move control group 3 is entered</extracomment>
         <extracomment>Referring to maximum acceleration
 ----------
 Placeholder for when no value is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maximális gyorsulás (m/s²)</translation>
     </message>
     <message>
         <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="835"/>
@@ -9693,57 +9693,58 @@ Ez lehetséges, hogy a mentés egy régebbi IRBCAM-verzióból származik</trans
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maximális fájlméret (%1 MB) túllépve. Jelenlegi fájlméret (tömörítés után): %2 MB
+Nagyobb pályák importálhatók a fájl kisebb fájlokra bontásával és az &apos;append&apos; opció használatával</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1134"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült lekérni az elemzett %1-et a felhőből</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1180"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A %1 fájlban használt tizedesjegyek száma %2 (alacsony numerikus pontosság).</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1201"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 célpont kiszűrve a %2 fájlból: közelebb vannak, mint a minimális távolságküszöb (%3 mm).</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1215"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 célpont ki van szűrve a %2 fájlból: közelebb van, mint a minimális távolságküszöb %3 mm.</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1236"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült importálni a(z) %1 fájlt</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1244"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Útvonal importálva %1-ből</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1298"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="1446"/>
         <source>Blend radius is overlapping at target %1. Try reducing the target velocity or increasing the maximum acceleration</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A keverési sugár átfedésben van a %1 célpontnál. Próbálja csökkenteni a célsebességet vagy növelni a maximális gyorsulást</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1307"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="1455"/>
         <source>Target %1 is too close. Try reimporting the path with minimum distance between targets &gt;= %2 mm or manually adjust the target so that the distance between two consecutive targets &gt;=  %2 mm</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A %1 célpont túl közel van. Próbálja meg újraimportálni az útvonalat a célpontok közötti minimális távolsággal &gt;= %2 mm vagy állítsa be manuálisan a célpontot úgy, hogy a két egymást követő célpont közötti távolság &gt;= %2 mm</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1742"/>
