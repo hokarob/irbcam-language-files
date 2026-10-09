@@ -3587,7 +3587,7 @@ Prosimo, da shranite svoje delo in čim prej znova naložite stran</translation>
         <location filename="../../Popups/IrbcamSettings.qml" line="219"/>
         <source>Speeds</source>
         <extracomment>Collapsible setcion within station settings: Speed related settings</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hitrosti</translation>
     </message>
     <message>
         <location filename="../../Popups/IrbcamSettings.qml" line="227"/>
@@ -4387,7 +4387,7 @@ Placeholder for when no move control group 3 is entered</extracomment>
         <extracomment>Referring to maximum acceleration
 ----------
 Placeholder for when no value is entered</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Maks. pospešek (m/s²)</translation>
     </message>
     <message>
         <location filename="../../Popups/ExportOptions/Manufacturer.qml" line="835"/>
@@ -9070,57 +9070,59 @@ To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Presežena največja velikost datoteke (%1 MB). Trenutna velikost datoteke (po stiskanju): %2 MB
+
+Večje poti lahko uvozite z razdelitvijo datoteke na manjše datoteke in uporabo možnosti &apos;append&apos;</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1134"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pridobivanje parsiranega %1 iz oblaka ni uspelo</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1180"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Število decimalnih mest, uporabljenih v datoteki %1, je %2 (nizka numerična natančnost).</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1201"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 ciljev je izločenih iz datoteke %2: so bližji kot minimalni prag razdalje %3 mm.</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1215"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 cilj je izločen iz datoteke %2: bližji je kot minimalni prag razdalje %3 mm.</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1236"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni uspelo uvoziti datoteko %1</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1244"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pot uvožena iz %1</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1298"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="1446"/>
         <source>Blend radius is overlapping at target %1. Try reducing the target velocity or increasing the maximum acceleration</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Polmer mešanja se prekriva pri cilju %1. Poskusite zmanjšati ciljno hitrost ali povečati največji pospešek</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1307"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="1455"/>
         <source>Target %1 is too close. Try reimporting the path with minimum distance between targets &gt;= %2 mm or manually adjust the target so that the distance between two consecutive targets &gt;=  %2 mm</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cilj %1 je preblizu. Poskusite ponovno uvoziti pot z minimalno razdaljo med cilji &gt;= %2 mm ali ročno prilagodite cilj tako, da je razdalja med dvema zaporednima ciljema &gt;= %2 mm</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1707"/>
