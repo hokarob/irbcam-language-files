@@ -85,113 +85,107 @@
         <translation type="vanished">Papildomi objektai</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="31"/>
         <source>Add</source>
         <extracomment>Button: Add additional object</extracomment>
-        <translation>Papildyti</translation>
+        <translation type="vanished">Papildyti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="48"/>
         <source>User-defined</source>
         <extracomment>Dropdown menu item: Select which kind of 3D object should be added</extracomment>
-        <translation>Vartotojo apibrėžtas</translation>
+        <translation type="vanished">Vartotojo apibrėžtas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="50"/>
         <source>Cuboid</source>
         <extracomment>Dropdown menu item: Select which kind of 3D object should be added</extracomment>
-        <translation>Kuboidas</translation>
+        <translation type="vanished">Kuboidas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="52"/>
         <source>Spheroid</source>
         <extracomment>Dropdown menu item: Select which kind of 3D object should be added</extracomment>
-        <translation>Sferoidas</translation>
+        <translation type="vanished">Sferoidas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="54"/>
         <source>Cylinder</source>
         <extracomment>Dropdown menu item: Select which kind of 3D object should be added</extracomment>
-        <translation>Cilindras</translation>
+        <translation type="vanished">Cilindras</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="56"/>
         <source>Cone</source>
         <extracomment>Dropdown menu item: Select which kind of 3D object should be added</extracomment>
-        <translation>Kūgis</translation>
+        <translation type="vanished">Kūgis</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="33"/>
+        <source>New geometry</source>
+        <extracomment>Placeholder text when adding a new geometry</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="138"/>
+        <source>Add a new geometry</source>
+        <extracomment>Button: Add additional object</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AdditionalObjectEditorDelegate</name>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="76"/>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="84"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="72"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="80"/>
         <source>mm</source>
         <extracomment>Unit: millimetres</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="144"/>
         <source>Name</source>
         <extracomment>Label for a text field: Lets the user name their additional object</extracomment>
-        <translation>Vardas</translation>
+        <translation type="vanished">Vardas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="151"/>
         <source>Enter name</source>
         <extracomment>Placeholder text for when no object name is entered</extracomment>
-        <translation>Įveskite vardą</translation>
+        <translation type="vanished">Įveskite vardą</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="176"/>
         <source>Source</source>
         <extracomment>Label for a button: Select a source geometry for the object</extracomment>
-        <translation>Šaltinis</translation>
+        <translation type="vanished">Šaltinis</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="178"/>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="224"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="163"/>
         <source>Color</source>
-        <extracomment>Label for a colour selector. Select colour for the additional object
-----------
-Placeholder in a text field. Shown when no colour is entered</extracomment>
+        <extracomment>Label for a colour selector. Select colour for the additional object</extracomment>
         <translation>Spalva</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="188"/>
         <source>Custom</source>
         <extracomment>Dropdown menu item: Select a colour</extracomment>
-        <translation>Pasirinktinis</translation>
+        <translation type="vanished">Pasirinktinis</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="190"/>
         <source>Light Gray</source>
         <extracomment>Dropdown menu item: Select a colour</extracomment>
-        <translation>Šviesiai pilkas</translation>
+        <translation type="vanished">Šviesiai pilkas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="192"/>
         <source>Red</source>
         <extracomment>Dropdown menu item: Select a colour</extracomment>
-        <translation>Raudona</translation>
+        <translation type="vanished">Raudona</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="194"/>
         <source>Green</source>
         <extracomment>Dropdown menu item: Select a colour</extracomment>
-        <translation>Žalias</translation>
+        <translation type="vanished">Žalias</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="196"/>
         <source>Blue</source>
         <extracomment>Dropdown menu item: Select a colour</extracomment>
-        <translation>Mėlynas</translation>
+        <translation type="vanished">Mėlynas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="227"/>
         <source>Any valid SVG color name (eg. &apos;blue&apos;) or hex rgb triplet (eg. &apos;#808080&apos;)</source>
         <extracomment>Tool tip for text field. Remember, SVG colour names are not translated: https://johndecember.com/html/spec/colorsvg.html</extracomment>
-        <translation>Bet koks tinkamas SVG spalvos pavadinimas (pvz., &apos;blue&apos;) arba šešioliktainis rgb trispalvis (pvz., &apos;#808080&apos;)</translation>
+        <translation type="vanished">Bet koks tinkamas SVG spalvos pavadinimas (pvz., &apos;blue&apos;) arba šešioliktainis rgb trispalvis (pvz., &apos;#808080&apos;)</translation>
     </message>
     <message>
         <source>Select color</source>
@@ -199,37 +193,36 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="vanished">Pasirinkite spalvą</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="257"/>
         <source>No source selected</source>
         <extracomment>Button: Shown when no source geometry is selected for this object</extracomment>
-        <translation>Nėra pasirinkto šaltinio</translation>
+        <translation type="vanished">Nėra pasirinkto šaltinio</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="263"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="197"/>
         <source>Parent frame</source>
         <extracomment>Label for a dropdown menu: Select which frame (coordinate system) the object should be placed in relation to</extracomment>
         <translation>Tėvinis rėmas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="274"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="208"/>
         <source>Global</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Globalus</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="279"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="213"/>
         <source>Robot base</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Roboto bazė</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="284"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="218"/>
         <source>User frame</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Vartotojo rėmas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="289"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="223"/>
         <source>Object frame</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Objekto rėmas</translation>
@@ -240,67 +233,79 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="vanished">Įrankio rėmas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="308"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="242"/>
         <source>Show mesh</source>
         <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
         <translation>Rodyti tinklelį</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="316"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="250"/>
         <source>Transparent</source>
         <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
         <translation>Skaidrus</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="328"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="262"/>
         <source>Linear</source>
         <extracomment>Collapsible section: In this section the user will adjust position and scale of the object</extracomment>
         <translation>Linijinis</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="415"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="349"/>
         <source>Yaw angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
         <translation>Yaw kampas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="425"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="359"/>
         <source>Pitch angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
         <translation>Pakreipimo kampas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="435"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="369"/>
         <source>Roll angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
         <translation>Ritimo kampas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="342"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="276"/>
         <source>Position</source>
         <extracomment>Label for text fields: Set the position in space (displacement/translation) for the object</extracomment>
         <translation>Padėtis</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="294"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="180"/>
+        <source>Mesh</source>
+        <extracomment>Label for a button: Select a source geometry mesh for the object</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="190"/>
+        <source>No mesh selected</source>
+        <extracomment>Button: Shown when no source geometry is selected for this object</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="228"/>
         <source>Robot flange</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Roboto flanšas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="367"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="301"/>
         <source>Scale</source>
         <extracomment>Label for text fields: Set the scaling multiplicator (in x, y, z) to scale the object size</extracomment>
         <translation>Mastelis</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="369"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="303"/>
         <source>Size</source>
         <extracomment>Label for text fields: Set the size (in x, y, z) of the the object</extracomment>
         <translation>Dydis</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="398"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="332"/>
         <source>Rotation</source>
         <extracomment>Collapsible section: In this section the user will adjust the rotation of the object</extracomment>
         <translation>Rotacija</translation>
@@ -321,47 +326,46 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="obsolete">Roll</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="444"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="378"/>
         <source>Normalize</source>
         <extracomment>Button: Normalise the rotation quaternion</extracomment>
         <translation>Normalizuoti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="454"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="388"/>
         <source>Normalize quaternion</source>
         <extracomment>Tool tip for normalize button</extracomment>
         <translation>Normalizuoti kvaternioną</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="508"/>
         <source>The geometry %1 looks too large. You may want to scale it down. If the model is using millimeters, you can scale down by 0.001. Do you want to scale down by 0.001?</source>
         <extracomment>Confirmation popup. %1 = geometry name</extracomment>
-        <translation>Geometrija %1 atrodo per didelė. Galbūt norėsite ją sumažinti. Jei modelis naudoja milimetrus, galite sumažinti 0,001 kartų. Ar norite sumažinti 0,001 kartų?</translation>
+        <translation type="vanished">Geometrija %1 atrodo per didelė. Galbūt norėsite ją sumažinti. Jei modelis naudoja milimetrus, galite sumažinti 0,001 kartų. Ar norite sumažinti 0,001 kartų?</translation>
     </message>
     <message>
         <source>Normalize quaternions</source>
         <translation type="obsolete">Normalizuokite ketvirčius</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="461"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="395"/>
         <source>Quaternion scalar</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Kvarterninis skaliaras</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="471"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="405"/>
         <source>Quaternion i</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Ketvirtadienis i</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="481"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="415"/>
         <source>Quaternion j</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Ketvirtadienis j</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="491"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="425"/>
         <source>Quaternion k</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Ketvirtadienis k</translation>
@@ -370,49 +374,49 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>AdditionalObjectsModel</name>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1150"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="918"/>
         <source>Custom geometry upload failed</source>
         <extracomment>Error message</extracomment>
         <translation>Pasirinktinės geometrijos įkėlimas nepavyko</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1155"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="924"/>
         <source>Custom geometry %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
         <translation>Tinkinta geometrija %1 sėkmingai įkelta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1198"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="968"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Nepavyko patvirtinti, kad %1 buvo ištrintas iš debesies (elementas gali būti ištrintas arba ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1228"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1001"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 buvo ištrintas iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1448"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1265"/>
         <source>Failed to download geometry from cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko atsisiųsti geometrijos iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1543"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1358"/>
         <source>Failed to download geometry from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko atsisiųsti geometrijos iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1578"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1392"/>
         <source>Failed to unpack geometry from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko išpakuoti geometrijos iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1706"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1517"/>
         <source>Custom geometry %1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Tinkinta geometrija %1 įkelta</translation>
@@ -470,31 +474,31 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
         <translation type="obsolete">Pašalinti</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetItemTreeView.qml" line="86"/>
+        <location filename="../../Controls/AssetItemTreeView.qml" line="58"/>
         <source>Delete %1</source>
         <extracomment>Title. %1 = asset name</extracomment>
         <translation>Ištrinti %1</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetItemTreeView.qml" line="88"/>
+        <location filename="../../Controls/AssetItemTreeView.qml" line="60"/>
         <source>This action will permanently delete %1 from the cloud</source>
         <extracomment>Dialog box text: %1 = asset name</extracomment>
         <translation>Šis veiksmas visam laikui ištrins %1 iš debesies</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetItemTreeView.qml" line="136"/>
+        <location filename="../../Controls/AssetItemTreeView.qml" line="137"/>
         <source>Edit</source>
         <extracomment>Collapsible section: Edit position/rotation</extracomment>
         <translation>Redaguoti</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetItemTreeView.qml" line="152"/>
+        <location filename="../../Controls/AssetItemTreeView.qml" line="153"/>
         <source>Show mesh</source>
         <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
         <translation>Rodyti tinklelį</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetItemTreeView.qml" line="158"/>
+        <location filename="../../Controls/AssetItemTreeView.qml" line="159"/>
         <source>Transparent</source>
         <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
         <translation>Skaidrus</translation>
@@ -503,125 +507,127 @@ Placeholder in a text field. Shown when no colour is entered</extracomment>
 <context>
     <name>AssetTreeDelegate</name>
     <message>
-        <location filename="../../Controls/AssetTreeDelegate.qml" line="259"/>
         <source>See details (Open external window)</source>
         <extracomment>Tool tip: Shown when hovering above the external link button on assets</extracomment>
-        <translation>Žiūrėti detales (Atidaryti išoriniame lange)</translation>
+        <translation type="vanished">Žiūrėti detales (Atidaryti išoriniame lange)</translation>
+    </message>
+</context>
+<context>
+    <name>AssetTreeModel</name>
+    <message>
+        <location filename="../../../backend/models/src/assettreemodel.cpp" line="60"/>
+        <source>Name</source>
+        <extracomment>List column header</extracomment>
+        <translation type="unfinished">Vardas</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/models/src/assettreemodel.cpp" line="63"/>
+        <source>Modified</source>
+        <extracomment>List column header</extracomment>
+        <translation type="unfinished">Modifikuotas</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/models/include/assettreemodel.h" line="185"/>
+        <source>An error occurred when fetching list</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished">Įvyko klaida gaunant sąrašą</translation>
     </message>
 </context>
 <context>
     <name>AssetTreeView</name>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="77"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
-        <translation>Neinicijuotas</translation>
+        <translation type="vanished">Neinicijuotas</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="80"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
-        <translation>Tuščias</translation>
+        <translation type="vanished">Tuščias</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="83"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
-        <translation>Gaunamas aprašymas</translation>
+        <translation type="vanished">Gaunamas aprašymas</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="86"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
-        <translation>Atsisiunčiama</translation>
+        <translation type="vanished">Atsisiunčiama</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="89"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
-        <translation>Išpakavimas</translation>
+        <translation type="vanished">Išpakavimas</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="92"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
-        <translation>Kraunama</translation>
+        <translation type="vanished">Kraunama</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="95"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
-        <translation>Trinama</translation>
+        <translation type="vanished">Trinama</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="98"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
-        <translation>Įkeliama</translation>
+        <translation type="vanished">Įkeliama</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="101"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
-        <translation>Gaunamas sąrašas</translation>
+        <translation type="vanished">Gaunamas sąrašas</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="104"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
-        <translation>Dekodavimas</translation>
+        <translation type="vanished">Dekodavimas</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="107"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
-        <translation>Tikrinama</translation>
+        <translation type="vanished">Tikrinama</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="110"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
-        <translation>Kraunami ištekliai</translation>
+        <translation type="vanished">Kraunami ištekliai</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="113"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
-        <translation>Apdorojimas</translation>
+        <translation type="vanished">Apdorojimas</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="116"/>
         <source>Waiting for response</source>
         <extracomment>Network status: Waitong for response from server</extracomment>
-        <translation>Laukiama atsakymo</translation>
+        <translation type="vanished">Laukiama atsakymo</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="122"/>
         <source>Unknown</source>
         <extracomment>Network status: Unknown state</extracomment>
-        <translation>Nežinoma</translation>
+        <translation type="vanished">Nežinoma</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="301"/>
         <source>A network error was encountered while getting asset data
 
 Please make sure you are connected to the internet and try again</source>
         <extracomment>Error message</extracomment>
-        <translation>Tinklo klaida įvyko gaunant turto duomenis Prašome įsitikinti, kad esate prisijungę prie interneto, ir bandyti dar kartą</translation>
+        <translation type="vanished">Tinklo klaida įvyko gaunant turto duomenis Prašome įsitikinti, kad esate prisijungę prie interneto, ir bandyti dar kartą</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="303"/>
         <source>No items in list</source>
         <extracomment>Placeholder for empty list</extracomment>
-        <translation>Sąraše nėra elementų</translation>
+        <translation type="vanished">Sąraše nėra elementų</translation>
     </message>
     <message>
-        <location filename="../../Controls/AssetTreeView.qml" line="305"/>
         <source>You are not signed in
 
 Please sign in to see the list</source>
         <extracomment>Error message</extracomment>
-        <translation>Jūs nesate prisijungę. Prašome prisijungti, kad pamatytumėte sąrašą</translation>
+        <translation type="vanished">Jūs nesate prisijungę. Prašome prisijungti, kad pamatytumėte sąrašą</translation>
     </message>
 </context>
 <context>
@@ -702,38 +708,38 @@ Please sign in to see the list</source>
 <context>
     <name>BaseNetworkDataInterface</name>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="250"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="259"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Nepavyko patvirtinti, kad %1 buvo ištrintas iš debesies (elementas gali būti ištrintas arba ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="283"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="292"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message. %1 = Name</extracomment>
         <translation>%1 buvo ištrintas iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="367"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="376"/>
         <source>Failed to load %1</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Nepavyko įkelti %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="429"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="438"/>
         <source>%1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="464"/>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="560"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="473"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="573"/>
         <source>Failed to download item from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko atsisiųsti elemento iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="583"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="596"/>
         <source>Failed to unpack item</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko išpakuoti elemento</translation>
@@ -1105,13 +1111,13 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
 <context>
     <name>ConfirmDialog</name>
     <message>
-        <location filename="../../Popups/Assets/ConfirmDialog.qml" line="105"/>
+        <location filename="../../Popups/Assets/ConfirmDialog.qml" line="107"/>
         <source>Cancel</source>
         <extracomment>Cancel button</extracomment>
         <translation>Nutraukti</translation>
     </message>
     <message>
-        <location filename="../../Popups/Assets/ConfirmDialog.qml" line="120"/>
+        <location filename="../../Popups/Assets/ConfirmDialog.qml" line="122"/>
         <source>Confirm</source>
         <extracomment>Confirm button</extracomment>
         <translation>Patvirtinti</translation>
@@ -1345,22 +1351,19 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
 <context>
     <name>CustomGeometry</name>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="20"/>
         <source>User Geometries</source>
         <extracomment>Title</extracomment>
-        <translation>Naudotojo geometrijos</translation>
+        <translation type="vanished">Naudotojo geometrijos</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="79"/>
         <source>Geometries</source>
         <extracomment>List category separator</extracomment>
-        <translation>Geometrijos</translation>
+        <translation type="vanished">Geometrijos</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="165"/>
         <source>Name</source>
         <extracomment>Title for a textfield</extracomment>
-        <translation>Vardas</translation>
+        <translation type="vanished">Vardas</translation>
     </message>
     <message>
         <source>Last Updated</source>
@@ -1371,85 +1374,139 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="obsolete">Nežinoma</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="120"/>
         <source>Select</source>
         <extracomment>Button text: Select item</extracomment>
-        <translation>Pasirinkti</translation>
+        <translation type="vanished">Pasirinkti</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="131"/>
-        <location filename="../../Popups/CustomGeometry.qml" line="218"/>
         <source>Upload</source>
         <extracomment>Collapsible button title: Open/close upload section
 ----------
 Button text</extracomment>
-        <translation>Įkelti</translation>
+        <translation type="vanished">Įkelti</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="152"/>
         <source>The active subscription does not provide access to custom assets. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
-        <translation>Aktyvi prenumerata nesuteikia prieigos prie pasirinktinių išteklių. Spustelėkite %1čia%2 norėdami valdyti prenumeratas</translation>
+        <translation type="vanished">Aktyvi prenumerata nesuteikia prieigos prie pasirinktinių išteklių. Spustelėkite %1čia%2 norėdami valdyti prenumeratas</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="173"/>
         <source>Geometry name</source>
         <extracomment>Placeholder text for an empty textfield</extracomment>
-        <translation>Geometrijos pavadinimas</translation>
+        <translation type="vanished">Geometrijos pavadinimas</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="197"/>
         <source>File</source>
         <extracomment>Title for a textfield</extracomment>
-        <translation>Failas</translation>
+        <translation type="vanished">Failas</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="202"/>
         <source>No file selected</source>
         <extracomment>This will be shown as a file name if no file is selected</extracomment>
-        <translation>Failas nepasirinktas</translation>
+        <translation type="vanished">Failas nepasirinktas</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="231"/>
         <source>Asset files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation>Išteklių failai</translation>
+        <translation type="vanished">Išteklių failai</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="239"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title: %1 = name of geometry</extracomment>
-        <translation>Perrašyti %1</translation>
+        <translation type="vanished">Perrašyti %1</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="241"/>
         <source>Are you sure you want to overwrite user geometry %1?</source>
         <extracomment>Popup content text: %1 = name of geometry</extracomment>
-        <translation>Ar tikrai norite perrašyti vartotojo geometriją %1?</translation>
+        <translation type="vanished">Ar tikrai norite perrašyti vartotojo geometriją %1?</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="253"/>
         <source>Ok</source>
         <extracomment>Popup text.</extracomment>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="256"/>
         <source>You cannot overwrite to the readonly asset %1.</source>
         <extracomment>Popup content text: %1 = name of geometry</extracomment>
-        <translation>Jūs negalite perrašyti tik skaitymui skirto ištekliaus %1.</translation>
+        <translation type="vanished">Jūs negalite perrašyti tik skaitymui skirto ištekliaus %1.</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="279"/>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="39"/>
+        <source>Back</source>
+        <extracomment>Button text</extracomment>
+        <translation type="unfinished">Atgal</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="136"/>
+        <source>Cuboid</source>
+        <extracomment>List item: Select which kind of 3D object should be used</extracomment>
+        <translation type="unfinished">Kuboidas</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="138"/>
+        <source>Spheroid</source>
+        <extracomment>List item: Select which kind of 3D object should be used</extracomment>
+        <translation type="unfinished">Sferoidas</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="140"/>
+        <source>Cylinder</source>
+        <extracomment>List item: Select which kind of 3D object should be used</extracomment>
+        <translation type="unfinished">Cilindras</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="142"/>
+        <source>Cone</source>
+        <extracomment>List item: Select which kind of 3D object should be used</extracomment>
+        <translation type="unfinished">Kūgis</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="146"/>
+        <source>Built-in</source>
+        <extracomment>List category separator</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="148"/>
+        <source>My geometries</source>
+        <extracomment>List category separator</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="151"/>
+        <source>Shared with me</source>
+        <extracomment>List category separator</extracomment>
+        <translation type="unfinished">Bendrinama su manimi</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="164"/>
+        <source>Import</source>
+        <extracomment>Collapsible section. This section contains tools to import a custom robot</extracomment>
+        <translation type="unfinished">Importuoti</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="181"/>
+        <source>Mesh files (%1)</source>
+        <extracomment>Accepted file types. %1 = list of accepted file endings</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="206"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = name of geometry</extracomment>
         <translation>Ištrinti %1</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="281"/>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="208"/>
         <source>Are you sure you want to delete user geometry %1?</source>
         <extracomment>Popup content text. %1 = name of geometry</extracomment>
         <translation>Ar tikrai norite ištrinti vartotojo geometriją %1?</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="261"/>
+        <source>The geometry %1 looks very large&lt;br /&gt;(%2 x %3 x %4 m)&lt;br /&gt;You may want to scale it down. If the model is using millimeters, you can scale down by 0.001&lt;br /&gt;&lt;br /&gt;Do you want to scale down by 0.001?</source>
+        <extracomment>Confirmation popup. %1 = geometry name</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1457,10 +1514,9 @@ Button text</extracomment>
         <translation type="obsolete">Pašalinti</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomGeometry.qml" line="216"/>
         <source>Overwrite</source>
         <extracomment>Button text</extracomment>
-        <translation>Perrašyti</translation>
+        <translation type="vanished">Perrašyti</translation>
     </message>
     <message>
         <source>Warning!</source>
@@ -1470,82 +1526,98 @@ Button text</extracomment>
 <context>
     <name>CustomRobotList</name>
     <message>
-        <location filename="../../Popups/CustomRobotList.qml" line="19"/>
         <source>User Robots</source>
         <extracomment>Title</extracomment>
-        <translation>Naudotojo robotai</translation>
+        <translation type="vanished">Naudotojo robotai</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomRobotList.qml" line="50"/>
         <source>Robots</source>
         <extracomment>List category separator</extracomment>
-        <translation>Robotai</translation>
+        <translation type="vanished">Robotai</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomRobotList.qml" line="101"/>
         <source>The active subscription does not provide access to custom assets. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
-        <translation>Aktyvi prenumerata nesuteikia prieigos prie pasirinktinių išteklių. Spustelėkite %1čia%2, kad valdytumėte prenumeratas</translation>
+        <translation type="vanished">Aktyvi prenumerata nesuteikia prieigos prie pasirinktinių išteklių. Spustelėkite %1čia%2, kad valdytumėte prenumeratas</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomRobotList.qml" line="114"/>
         <source>Name</source>
         <extracomment>Title for a textfield</extracomment>
-        <translation>Vardas</translation>
+        <translation type="vanished">Vardas</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomRobotList.qml" line="121"/>
+        <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="82"/>
+        <source>Are you sure you want to overwrite user robot %1?</source>
+        <extracomment>Popup content text: %1 = name of geometry</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="105"/>
+        <source>Are you sure you want to delete user robot %1?</source>
+        <extracomment>Popup content text. %1 = name of geometry</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="132"/>
+        <source>Back</source>
+        <extracomment>Button text</extracomment>
+        <translation type="unfinished">Atgal</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="154"/>
+        <source>My robots</source>
+        <extracomment>List category separator</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="193"/>
         <source>Robot name</source>
         <extracomment>Placeholder text for an empty textfield</extracomment>
         <translation>Roboto pavadinimas</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomRobotList.qml" line="153"/>
+        <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="211"/>
         <source>Overwrite</source>
         <extracomment>Button text</extracomment>
         <translation>Perrašyti</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomRobotList.qml" line="155"/>
+        <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="213"/>
         <source>Upload</source>
         <extracomment>Button text</extracomment>
         <translation>Įkelti</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomRobotList.qml" line="170"/>
+        <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="80"/>
         <source>Overwrite %1</source>
-        <extracomment>Popup title: %1 = name of geometry</extracomment>
+        <extracomment>Popup title: %1 = name of robot</extracomment>
         <translation>Perrašyti %1</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomRobotList.qml" line="172"/>
         <source>Are you sure you want to overwrite user geometry %1?</source>
         <extracomment>Popup content text: %1 = name of geometry</extracomment>
-        <translation>Ar tikrai norite perrašyti vartotojo geometriją %1?</translation>
+        <translation type="vanished">Ar tikrai norite perrašyti vartotojo geometriją %1?</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomRobotList.qml" line="184"/>
         <source>Ok</source>
         <extracomment>Popup text.</extracomment>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomRobotList.qml" line="187"/>
         <source>You cannot overwrite to the readonly asset %1.</source>
         <extracomment>Popup content text: %1 = name of geometry</extracomment>
-        <translation>Jūs negalite perrašyti tik skaitymui skirto ištekliaus %1.</translation>
+        <translation type="vanished">Jūs negalite perrašyti tik skaitymui skirto ištekliaus %1.</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomRobotList.qml" line="210"/>
+        <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="103"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = name of geometry</extracomment>
         <translation>Ištrinti %1</translation>
     </message>
     <message>
-        <location filename="../../Popups/CustomRobotList.qml" line="212"/>
         <source>Are you sure you want to delete user geometry %1?</source>
         <extracomment>Popup content text. %1 = name of geometry</extracomment>
-        <translation>Ar tikrai norite ištrinti vartotojo geometriją %1?</translation>
+        <translation type="vanished">Ar tikrai norite ištrinti vartotojo geometriją %1?</translation>
     </message>
 </context>
 <context>
@@ -1579,6 +1651,69 @@ Button text</extracomment>
         <source>Footer</source>
         <extracomment>Footer in the exported robot code</extracomment>
         <translation>Poraštė</translation>
+    </message>
+</context>
+<context>
+    <name>CustomTool</name>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomTool.qml" line="53"/>
+        <source>Back</source>
+        <extracomment>Button text</extracomment>
+        <translation type="unfinished">Atgal</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomTool.qml" line="154"/>
+        <source>Tools</source>
+        <extracomment>Collapsible list section. This section contains public tools</extracomment>
+        <translation type="unfinished">Įrankiai</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomTool.qml" line="156"/>
+        <source>My tools</source>
+        <extracomment>Collapsible item in tree view. This section contains tools made by this user</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomTool.qml" line="159"/>
+        <source>Shared with me</source>
+        <extracomment>Collapsible item in tree view. This section contains tools that are shared with the user</extracomment>
+        <translation type="unfinished">Bendrinama su manimi</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomTool.qml" line="171"/>
+        <source>Reset tool data</source>
+        <extracomment>Checkbox</extracomment>
+        <translation type="unfinished">Atstatyti įrankio duomenis</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomTool.qml" line="174"/>
+        <source>If this checkbox is checked then the tool deta will be reset to the default values for the selected tool mesh when the mesh is changed. If not then the current tool data will be retained</source>
+        <extracomment>Tool-tip for &quot;Reset tool data&quot; checkbox</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomTool.qml" line="183"/>
+        <source>Import</source>
+        <extracomment>Collapsible section. This section contains tools to import a custom tool</extracomment>
+        <translation type="unfinished">Importuoti</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomTool.qml" line="200"/>
+        <source>Mesh files (%1)</source>
+        <extracomment>Accepted file types. %1 = list of accepted file endings</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomTool.qml" line="227"/>
+        <source>Delete %1</source>
+        <extracomment>Popup title. %1 = name of geometry</extracomment>
+        <translation type="unfinished">Ištrinti %1</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/CustomTool.qml" line="229"/>
+        <source>Are you sure you want to delete user tool %1?</source>
+        <extracomment>Popup content text. %1 = name of geometry</extracomment>
+        <translation type="unfinished">Ar tikrai norite ištrinti vartotojo įrankį %1?</translation>
     </message>
 </context>
 <context>
@@ -1664,37 +1799,37 @@ Button text</extracomment>
         <translation type="vanished">DH lentelė</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="60"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="69"/>
         <source>Visualization Settings</source>
         <extracomment>Collapsible section: Visualization settings for the Robot described by DH parameters</extracomment>
         <translation>Vizualizacijos nustatymai</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="73"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="82"/>
         <source>Show Base Frame</source>
         <extracomment>Checkbox: Show base frame</extracomment>
         <translation>Rodyti bazinį rėmą</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="79"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="88"/>
         <source>Show All Joint Frames</source>
         <extracomment>Checkbox: Show all joint frames</extracomment>
         <translation>Rodyti visus jungčių rėmus</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="90"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="99"/>
         <source>Link Width</source>
         <extracomment>Label: Link width</extracomment>
         <translation>Sąsajos plotis</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="95"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="104"/>
         <source>Joint Width</source>
         <extracomment>Label: Joint width</extracomment>
         <translation>Sąnario plotis</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="100"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="109"/>
         <source>Axis Scale</source>
         <extracomment>Label: Axis width</extracomment>
         <translation>Ašies skalė</translation>
@@ -1705,37 +1840,37 @@ Button text</extracomment>
         <translation type="vanished">Ašies plotis</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="153"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="162"/>
         <source>The active subscription does not provide access to custom assets. You can only visualize the robot but cannot import the robot into the project. Click %1here%2 to manage subscriptions.</source>
         <extracomment>Label: %1 = start of link, %2 = end of link</extracomment>
         <translation>Aktyvi prenumerata nesuteikia prieigos prie pasirinktinių išteklių. Galite tik vizualizuoti robotą, tačiau negalite jo importuoti į projektą. Spustelėkite %1čia%2, kad valdytumėte prenumeratas.</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="165"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="174"/>
         <source>Upload robot</source>
         <extracomment>Button: Upload robot</extracomment>
         <translation>Įkelti robotą</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="174"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="184"/>
         <source>The active subscription does not provide access to this feature.</source>
         <extracomment>ToolTip text</extracomment>
         <translation>Aktyvus prenumerata nesuteikia prieigos prie šios funkcijos.</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="176"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="186"/>
         <source>The dof of robot must be greater than 1.</source>
         <extracomment>ToolTip text</extracomment>
         <translation>Roboto laisvės laipsnių skaičius turi būti didesnis nei 1.</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="182"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="192"/>
         <source>Use Classic Parameters</source>
         <extracomment>Checkbox: Use classic parameters</extracomment>
         <translation>Naudoti klasikinius parametrus</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/DHTableEditor.qml" line="190"/>
+        <location filename="../../Sidebar/DHTableEditor.qml" line="200"/>
         <source>Add Row/Joint</source>
         <extracomment>Button: Add row or joint</extracomment>
         <translation>Pridėti eilutę/sąnarį</translation>
@@ -1744,7 +1879,7 @@ Button text</extracomment>
 <context>
     <name>DHTableModel</name>
     <message>
-        <location filename="../../../backend/src/dhtablemodel.cpp" line="244"/>
+        <location filename="../../../backend/src/dhtablemodel.cpp" line="242"/>
         <source>Failed to upload %1</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Nepavyko įkelti %1</translation>
@@ -2062,9 +2197,30 @@ Placeholder for when no external axis name is entered</extracomment>
     </message>
 </context>
 <context>
+    <name>FileDropArea</name>
+    <message>
+        <location filename="../../Controls/FileDropArea.qml" line="47"/>
+        <source>Unsupported file type &apos;%1&apos;</source>
+        <extracomment>Warning message. The user tried to upload an unsupported file type. %1 = the file ending of the attempted uploaded file</extracomment>
+        <translation type="unfinished">Nepalaikomas failo tipas &apos;%1&apos;</translation>
+    </message>
+    <message>
+        <location filename="../../Controls/FileDropArea.qml" line="73"/>
+        <source>Drag and drop file here to upload</source>
+        <extracomment>Text indicationg a drag-and-drop area</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Controls/FileDropArea.qml" line="99"/>
+        <source>Accepted file types are: %1</source>
+        <extracomment>Accepted file types. %1 = list of accepted file endings</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FileInterface</name>
     <message>
-        <location filename="../../../backend/utilities/src/fileinterface.cpp" line="74"/>
+        <location filename="../../../backend/utilities/src/fileinterface.cpp" line="56"/>
         <source>Failed to open file: %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Nepavyko atidaryti failo: %1</translation>
@@ -2192,6 +2348,31 @@ Placeholder for when no up number is entered</extracomment>
     </message>
 </context>
 <context>
+    <name>GenericTreeView</name>
+    <message>
+        <location filename="../../Controls/GenericTreeView.qml" line="117"/>
+        <source>A network error was encountered while getting asset data
+
+Please make sure you are connected to the internet and try again</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished">Tinklo klaida įvyko gaunant turto duomenis Prašome įsitikinti, kad esate prisijungę prie interneto, ir bandyti dar kartą</translation>
+    </message>
+    <message>
+        <location filename="../../Controls/GenericTreeView.qml" line="119"/>
+        <source>No items in list</source>
+        <extracomment>Placeholder for empty list</extracomment>
+        <translation type="unfinished">Sąraše nėra elementų</translation>
+    </message>
+    <message>
+        <location filename="../../Controls/GenericTreeView.qml" line="121"/>
+        <source>You are not signed in
+
+Please sign in to see the list</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished">Jūs nesate prisijungę. Prašome prisijungti, kad pamatytumėte sąrašą</translation>
+    </message>
+</context>
+<context>
     <name>GoToTargetPopup</name>
     <message>
         <location filename="../../Sidebar/Assets/GoToTargetPopup.qml" line="24"/>
@@ -2298,6 +2479,69 @@ Placeholder text where users input scaling multiplier</extracomment>
     </message>
 </context>
 <context>
+    <name>ImportAsset</name>
+    <message>
+        <location filename="../../Controls/ImportAsset.qml" line="38"/>
+        <source>Overwrite %1</source>
+        <extracomment>Title for confirmation popup. %1 = robot name</extracomment>
+        <translation type="unfinished">Perrašyti %1</translation>
+    </message>
+    <message>
+        <location filename="../../Controls/ImportAsset.qml" line="40"/>
+        <source>Are you sure you want to overwrite %1?</source>
+        <extracomment>Content for confirmation popup. %1 = robot name</extracomment>
+        <translation type="unfinished">Ar tikrai norite perrašyti %1?</translation>
+    </message>
+    <message>
+        <location filename="../../Controls/ImportAsset.qml" line="53"/>
+        <source>The active subscription does not provide access to custom assets. Click %1here%2 to manage subscriptions</source>
+        <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Controls/ImportAsset.qml" line="67"/>
+        <source>Open file</source>
+        <extracomment>Title for file browser.</extracomment>
+        <translation type="unfinished">Atidaryti failą</translation>
+    </message>
+    <message>
+        <location filename="../../Controls/ImportAsset.qml" line="78"/>
+        <source>File</source>
+        <extracomment>Label: Referring to file name for selected file</extracomment>
+        <translation type="unfinished">Failas</translation>
+    </message>
+    <message>
+        <location filename="../../Controls/ImportAsset.qml" line="85"/>
+        <source>No file selected</source>
+        <extracomment>Placeholder for file name when no file is selected</extracomment>
+        <translation type="unfinished">Failas nepasirinktas</translation>
+    </message>
+    <message>
+        <location filename="../../Controls/ImportAsset.qml" line="103"/>
+        <source>Name</source>
+        <extracomment>Label for text field: Enter a name for the asset after uploading</extracomment>
+        <translation type="unfinished">Vardas</translation>
+    </message>
+    <message>
+        <location filename="../../Controls/ImportAsset.qml" line="123"/>
+        <source>Name of the custom 3D model</source>
+        <extracomment>Placeholder text for when no name is entered</extracomment>
+        <translation type="unfinished">Tinkinto 3D modelio pavadinimas</translation>
+    </message>
+    <message>
+        <location filename="../../Controls/ImportAsset.qml" line="137"/>
+        <source>Overwrite</source>
+        <extracomment>Button: Referring to overwriting an asset</extracomment>
+        <translation type="unfinished">Perrašyti</translation>
+    </message>
+    <message>
+        <location filename="../../Controls/ImportAsset.qml" line="139"/>
+        <source>Import</source>
+        <extracomment>Button: Import asset</extracomment>
+        <translation type="unfinished">Importuoti</translation>
+    </message>
+</context>
+<context>
     <name>ImportCsv</name>
     <message>
         <source>File: </source>
@@ -2336,163 +2580,157 @@ Placeholder text where users input scaling multiplier</extracomment>
 <context>
     <name>ImportPath</name>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="45"/>
+        <location filename="../../Popups/ImportPath.qml" line="55"/>
         <source>This option is not available for %1 files</source>
         <extracomment>Tool tip for disabled checkbox.</extracomment>
         <translation>Ši parinktis neprieinama %1 failams</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="60"/>
+        <location filename="../../Popups/ImportPath.qml" line="70"/>
         <source>All supported files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
         <translation>Visi palaikomi failai</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="62"/>
         <source>APT files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation>APT failai</translation>
+        <translation type="vanished">APT failai</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="64"/>
         <source>JSON files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation>JSON failai</translation>
+        <translation type="vanished">JSON failai</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="66"/>
         <source>CSV files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation>CSV failai</translation>
+        <translation type="vanished">CSV failai</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="68"/>
         <source>GCODE files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation>GCODE failai</translation>
+        <translation type="vanished">GCODE failai</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="70"/>
         <source>SVG files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation>SVG failai</translation>
+        <translation type="vanished">SVG failai</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="72"/>
+        <location filename="../../Popups/ImportPath.qml" line="108"/>
         <source>Open file</source>
         <extracomment>Name of the file interface window</extracomment>
         <translation>Atidaryti failą</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="114"/>
+        <location filename="../../Popups/ImportPath.qml" line="150"/>
         <source>Import Path</source>
         <extracomment>Title</extracomment>
         <translation>Importo kelias</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="149"/>
+        <location filename="../../Popups/ImportPath.qml" line="187"/>
         <source>Documentation</source>
         <extracomment>Separator label. This section contains a link to the documentation</extracomment>
         <translation>Dokumentacija</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="158"/>
+        <location filename="../../Popups/ImportPath.qml" line="196"/>
         <source>Supported file formats are:</source>
         <extracomment>Label. Supported file formats are listed below this line</extracomment>
         <translation>Palaikomi failų formatai yra:</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="171"/>
+        <location filename="../../Popups/ImportPath.qml" line="224"/>
         <source>Reference documentation for JSON and CSV format is in  %1our forum%2</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation>Nuorodinė dokumentacija JSON ir CSV formatams yra %1mūsų forume%2</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="182"/>
+        <location filename="../../Popups/ImportPath.qml" line="235"/>
         <source>Select File</source>
         <extracomment>Section separator label</extracomment>
         <translation>Pasirinkti failą</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="190"/>
+        <location filename="../../Popups/ImportPath.qml" line="243"/>
         <source>File name: </source>
         <extracomment>Label</extracomment>
         <translation>Failo pavadinimas: </translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="199"/>
+        <location filename="../../Popups/ImportPath.qml" line="252"/>
         <source>No file selected</source>
         <extracomment>Placeholder file name until a file is selected</extracomment>
         <translation>Failas nepasirinktas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="125"/>
+        <location filename="../../Popups/ImportPath.qml" line="163"/>
         <source>The active subscription does not provide access to GCODE/APT parser. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation>Aktyvus prenumerata nesuteikia prieigos prie GCODE/APT analizatoriaus. Spustelėkite %1čia%2, norėdami tvarkyti prenumeratas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="203"/>
         <source>Invalid file type. Only .apt, .gcode, .nc, .json, .csv, and .svg files are supported</source>
         <extracomment>Tool tip: Invalid file type is selected</extracomment>
-        <translation>Netinkamas failo tipas. Palaikomi tik .apt, .gcode, .nc, .json, .csv ir .svg failai</translation>
+        <translation type="vanished">Netinkamas failo tipas. Palaikomi tik .apt, .gcode, .nc, .json, .csv ir .svg failai</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="218"/>
+        <location filename="../../Popups/ImportPath.qml" line="278"/>
         <source>%1 Import Options</source>
         <extracomment>Additional options when importing file. %1 = APT, GCODE, JSON, CSV or SVG depending on what type of file is selected</extracomment>
         <translation>%1 Importavimo parinktys</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="225"/>
+        <location filename="../../Popups/ImportPath.qml" line="285"/>
         <source>Minimum distance (mm)</source>
         <extracomment>Description for a text field where the user inputs the minimum distance between targets</extracomment>
         <translation>Minimalus atstumas (mm)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="227"/>
+        <location filename="../../Popups/ImportPath.qml" line="287"/>
         <source>Minimum distance between targets. Range: 0.1 - 10 (mm). For distances smaller than 1, arc moves are converted to linear</source>
         <extracomment>Tool tip: Displayed when hovering over minimum distance label</extracomment>
         <translation>Minimalus atstumas tarp taikinių. Diapazonas: 0,1 - 10 (mm). Atstumams, mažesniems nei 1, lankiniai judesiai konvertuojami į tiesinius</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="256"/>
+        <location filename="../../Popups/ImportPath.qml" line="316"/>
         <source>Append</source>
         <extracomment>Checkbox: Select to append targets to existing path</extracomment>
         <translation>Pridėti</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="260"/>
+        <location filename="../../Popups/ImportPath.qml" line="320"/>
         <source>Add to existing path instead of replacing</source>
         <extracomment>Tool tip for append checkbox.</extracomment>
         <translation>Pridėti prie esamo kelio vietoj pakeitimo</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="267"/>
+        <location filename="../../Popups/ImportPath.qml" line="327"/>
         <source>Reverse INDIRV</source>
         <extracomment>Checkbox: Select to reverse INDIRV (initial direction vector). This is primarily for Catia users</extracomment>
         <translation>Apversti INDIRV</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="271"/>
+        <location filename="../../Popups/ImportPath.qml" line="331"/>
         <source>Reverse direction of vector (Catia)</source>
         <extracomment>Tool tip for Reverse INDIRV checkbox</extracomment>
         <translation>Apversti vektoriaus kryptį (Catia)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="277"/>
+        <location filename="../../Popups/ImportPath.qml" line="337"/>
         <source>No arcs</source>
         <extracomment>Checkbox: Select to disable arc moves</extracomment>
         <translation>Nėra arkų</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="281"/>
+        <location filename="../../Popups/ImportPath.qml" line="341"/>
         <source>Arcs are split into linear moves</source>
         <extracomment>Tool tip for no arcs checkbox</extracomment>
         <translation>Arkos yra padalijamos į tiesinius judesius</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="289"/>
+        <location filename="../../Popups/ImportPath.qml" line="349"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
         <translation>Ginklas įjungtas/išjungtas</translation>
@@ -2503,116 +2741,134 @@ Placeholder text where users input scaling multiplier</extracomment>
         <translation type="vanished">Konvertuoti visus padavimo greičius į greitus judesius, išskyrus pjovimo greitį. Tai naudinga, jei pasirenkant „Gun on/off“ eksportuojant</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="301"/>
+        <location filename="../../Popups/ImportPath.qml" line="99"/>
+        <source>%1 files</source>
+        <extracomment>This will be seen in the file type filter in the file interface: %1 = file type. E.g. JSON files</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Popups/ImportPath.qml" line="256"/>
+        <source>Invalid file type</source>
+        <extracomment>Tool tip: Invalid file type is selected</extracomment>
+        <translation type="unfinished">Netinkamas failo tipas</translation>
+    </message>
+    <message>
+        <location filename="../../Popups/ImportPath.qml" line="271"/>
+        <source>Click the ... button to browse for file or drag and drop a file anywhere in this window</source>
+        <extracomment>Label</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Popups/ImportPath.qml" line="361"/>
         <source>Include gun on/off. This is useful if selecting &apos;Gun on/off&apos; when exporting</source>
         <extracomment>Tool tip for Gun on/off checkbox</extracomment>
         <translation>Įtraukti pistoleto įjungimą/išjungimą. Tai naudinga, jei eksportuojant pasirenkate &apos;Gun on/off&apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="312"/>
+        <location filename="../../Popups/ImportPath.qml" line="372"/>
         <source>Use velocities</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
         <translation>Naudoti greičius</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="317"/>
+        <location filename="../../Popups/ImportPath.qml" line="377"/>
         <source>Convert all feed speeds to rapid moves, except for cutting speed</source>
         <extracomment>Tool tip for Gun on/off Velocity checkbox</extracomment>
         <translation>Konvertuoti visus padavimo greičius į greituosius judesius, išskyrus pjovimo greitį</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="323"/>
+        <location filename="../../Popups/ImportPath.qml" line="383"/>
         <source>Use M8/M9</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
         <translation>Naudokite M8/M9</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="328"/>
+        <location filename="../../Popups/ImportPath.qml" line="388"/>
         <source>Import M8 as gun on and M9 as gun off</source>
         <extracomment>Tool tip for Gun on/off M8/M9 checkbox</extracomment>
         <translation>Importuoti M8 kaip pistoleto įjungimą ir M9 kaip pistoleto išjungimą</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="336"/>
+        <location filename="../../Popups/ImportPath.qml" line="396"/>
         <source>Split Path</source>
         <extracomment>Separator label: Options to split path in different ways</extracomment>
         <translation>Skaidyti kelią</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="346"/>
+        <location filename="../../Popups/ImportPath.qml" line="406"/>
         <source>On coordinate frame change</source>
         <extracomment>Label: Split path on cooridnate frame change</extracomment>
         <translation>Keičiant koordinačių rėmą</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="362"/>
+        <location filename="../../Popups/ImportPath.qml" line="422"/>
         <source>On comment</source>
         <extracomment>Label: Split path on comment</extracomment>
         <translation>Komentaro atveju</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="376"/>
+        <location filename="../../Popups/ImportPath.qml" line="436"/>
         <source>Disabled</source>
         <extracomment>Drop-down menu option. Split path on comment disabled</extracomment>
         <translation>Išjungta</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="378"/>
+        <location filename="../../Popups/ImportPath.qml" line="438"/>
         <source>Any</source>
         <extracomment>Drop-down menu option. Split path on any comment</extracomment>
         <translation>Bet koks</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="380"/>
+        <location filename="../../Popups/ImportPath.qml" line="440"/>
         <source>Layer Start</source>
         <extracomment>Drop-down menu option. Split path on comment Layer Start</extracomment>
         <translation>Sluoksnio pradžia</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="382"/>
+        <location filename="../../Popups/ImportPath.qml" line="442"/>
         <source>Path</source>
         <extracomment>Drop-down menu option. Split path on comment Path:</extracomment>
         <translation>Kelias</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="384"/>
+        <location filename="../../Popups/ImportPath.qml" line="444"/>
         <source>User Defined</source>
         <extracomment>Drop-down menu option. Split path on user defined comment</extracomment>
         <translation>Vartotojo apibrėžtas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="395"/>
+        <location filename="../../Popups/ImportPath.qml" line="455"/>
         <source>Splitting paths on comments is disabled</source>
         <extracomment>Tool-tip for drop-down option &apos;Disabled&apos;</extracomment>
         <translation>Kelių skaidymas pagal komentarus išjungtas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="397"/>
+        <location filename="../../Popups/ImportPath.qml" line="457"/>
         <source>Split path on any comment</source>
         <extracomment>Tool-tip for drop-down option &apos;Any&apos;</extracomment>
         <translation>Padalinti kelią pagal bet kokį komentarą</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="399"/>
+        <location filename="../../Popups/ImportPath.qml" line="459"/>
         <source>Split path on any comment that matches the form: %1. The part in the paranthesis () will be used as the path name. E.g. the comment %2 will create a path named %3</source>
         <extracomment>Tool-tip for drop-down option &apos;Layer Start&apos;</extracomment>
         <translation>Skaidyti kelią pagal bet kokį komentarą, kuris atitinka formą: %1. Skliausteliuose () esanti dalis bus naudojama kaip kelio pavadinimas. Pvz. komentaras %2 sukurs kelią pavadinimu %3</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="402"/>
+        <location filename="../../Popups/ImportPath.qml" line="462"/>
         <source>Split path on any comment that matches the form: %1. The part in the paranthesis () will be used as the path name. This mode is case insensitive. E.g. the comment %2 will create a path named %3</source>
         <extracomment>Tool-tip for drop-down option &apos;Path&apos;</extracomment>
         <translation>Padalinti kelią bet kuriame komentare, atitinkančiame formą: %1. Sklausteliuose esanti dalis () bus naudojama kaip kelio pavadinimas. Šis režimas yra nejautrus didžiosioms ir mažosioms raidėms. Pvz. komentaras %2 sukurs kelią pavadinimu %3</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="405"/>
+        <location filename="../../Popups/ImportPath.qml" line="465"/>
         <source>User defined regex used to match comments that should be treated as path separators. It follows the syntax of google re2 (https://github.com/google/re2/wiki/Syntax)</source>
         <extracomment>Tool-tip for drop-down option &apos;User Defined&apos;</extracomment>
         <translation>Vartotojo apibrėžtas reguliarusis reiškinys, naudojamas atitikti komentarus, kurie turėtų būti traktuojami kaip kelio skirtukai. Jis atitinka google re2 sintaksę (https://github.com/google/re2/wiki/Syntax)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="423"/>
-        <location filename="../../Popups/ImportPath.qml" line="433"/>
+        <location filename="../../Popups/ImportPath.qml" line="483"/>
+        <location filename="../../Popups/ImportPath.qml" line="493"/>
         <source>Regular expression</source>
         <extracomment>Label: regex
 ----------
@@ -2620,37 +2876,37 @@ Placeholder text in text imput: regex</extracomment>
         <translation>Reguliarusis reiškinys</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="437"/>
+        <location filename="../../Popups/ImportPath.qml" line="497"/>
         <source>Regular expression used to capture comments that will generate different paths. Capture group 1 will be used to generate the name of the path. If capture group 1 does not exist then the whole matching expression will be used to generate the name</source>
         <extracomment>Tooltip: Description of how the regular expression is used to separate paths</extracomment>
         <translation>Reguliarusis reiškinys, naudojamas komentarus, kurie sukurs skirtingus kelius, užfiksuoti. 1-oji užfiksavimo grupė bus naudojama kelio pavadinimui generuoti. Jei 1-oji užfiksavimo grupė neegzistuoja, tada visas atitinkantis reiškinys bus naudojamas pavadinimui generuoti</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="449"/>
+        <location filename="../../Popups/ImportPath.qml" line="509"/>
         <source>Column separator</source>
         <extracomment>Which character to use for separating CSV columns</extracomment>
         <translation>Stulpelių skirtukas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="461"/>
+        <location filename="../../Popups/ImportPath.qml" line="521"/>
         <source>Comma &apos;,&apos;</source>
         <extracomment>Item in dropdown menu. Referring to using a comma character to separate columns in a CSV file</extracomment>
         <translation>Kablelis &apos;,&apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="466"/>
+        <location filename="../../Popups/ImportPath.qml" line="526"/>
         <source>Space &apos; &apos;</source>
         <extracomment>Item in dropdown menu. Referring to using a space character to separate columns in a CSV file</extracomment>
         <translation>Tarpas &apos; &apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="476"/>
+        <location filename="../../Popups/ImportPath.qml" line="536"/>
         <source>Row separator</source>
         <extracomment>Which character to use for separating CSV rows</extracomment>
         <translation>Eilučių skirtukas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="488"/>
+        <location filename="../../Popups/ImportPath.qml" line="548"/>
         <source>Newline &apos;
 &apos;</source>
         <extracomment>Item in dropdown menu. Referring to a new line in a CSV file</extracomment>
@@ -2658,73 +2914,73 @@ Placeholder text in text imput: regex</extracomment>
 &apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="493"/>
+        <location filename="../../Popups/ImportPath.qml" line="553"/>
         <source>Semicolon &apos;;&apos;</source>
         <extracomment>Item in dropdown menu. Referring to the semicolon symbol</extracomment>
         <translation>Kabliataškis &apos;;&apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="507"/>
+        <location filename="../../Popups/ImportPath.qml" line="567"/>
         <source>Additional Transformations</source>
         <extracomment>Collapsible section title</extracomment>
         <translation>Papildomos transformacijos</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="529"/>
+        <location filename="../../Popups/ImportPath.qml" line="589"/>
         <source>Scaling presets</source>
         <extracomment>Title for drop-down menu where scaling presets may be selected</extracomment>
         <translation>Mastelio išankstiniai nustatymai</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="544"/>
+        <location filename="../../Popups/ImportPath.qml" line="604"/>
         <source>User defined</source>
         <extracomment>Drop-down menu item. Refers to user defined position units</extracomment>
         <translation>Vartotojo apibrėžtas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="549"/>
+        <location filename="../../Popups/ImportPath.qml" line="609"/>
         <source>From mm (no scaling)</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Nuo mm (be mastelio)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="554"/>
+        <location filename="../../Popups/ImportPath.qml" line="614"/>
         <source>From cm</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Nuo cm</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="559"/>
+        <location filename="../../Popups/ImportPath.qml" line="619"/>
         <source>From m</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Nuo m</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="564"/>
+        <location filename="../../Popups/ImportPath.qml" line="624"/>
         <source>From inches</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Nuo colių</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="569"/>
+        <location filename="../../Popups/ImportPath.qml" line="629"/>
         <source>From feet</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
         <translation>Nuo pėdų</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="595"/>
+        <location filename="../../Popups/ImportPath.qml" line="655"/>
         <source>Apply rotation to targets</source>
         <extracomment>Checkbox: Refers to applying rotation on individual targets in addition to rotating the whole imported path</extracomment>
         <translation>Pritaikyti sukimą taikiniams</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="599"/>
+        <location filename="../../Popups/ImportPath.qml" line="659"/>
         <source>Apply rotation locally to individual targets</source>
         <extracomment>Tool tip for apply rotation to targets checkbox.</extracomment>
         <translation>Taikyti sukimą lokaliai atskiriems taikiniams</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="619"/>
+        <location filename="../../Popups/ImportPath.qml" line="679"/>
         <source>Import</source>
         <extracomment>Import button</extracomment>
         <translation>Importuoti</translation>
@@ -2760,70 +3016,59 @@ Palaikomi tik UTF-8 koduoti failai</translation>
         <translation type="obsolete">Nežinoma</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ImportUrdf.qml" line="161"/>
         <source>Overwrite</source>
         <extracomment>Button: Referring to overwriting an asset</extracomment>
-        <translation>Perrašyti</translation>
+        <translation type="vanished">Perrašyti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ImportUrdf.qml" line="60"/>
         <source>Overwrite %1</source>
         <extracomment>Title for confirmation popup. %1 = robot name</extracomment>
-        <translation>Perrašyti %1</translation>
+        <translation type="vanished">Perrašyti %1</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ImportUrdf.qml" line="62"/>
         <source>Are you sure you want to overwrite %1?</source>
         <extracomment>Content for confirmation popup. %1 = robot name</extracomment>
-        <translation>Ar tikrai norite perrašyti %1?</translation>
+        <translation type="vanished">Ar tikrai norite perrašyti %1?</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ImportUrdf.qml" line="75"/>
         <source>The active subscription does not provide access to custom assets. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
-        <translation>Aktyvus prenumeratos planas nesuteikia prieigos prie pasirinktinių išteklių. Spustelėkite %1čia%2, kad valdytumėte prenumeratas</translation>
+        <translation type="vanished">Aktyvus prenumeratos planas nesuteikia prieigos prie pasirinktinių išteklių. Spustelėkite %1čia%2, kad valdytumėte prenumeratas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ImportUrdf.qml" line="89"/>
         <source>Open file</source>
         <extracomment>Title for file browser.</extracomment>
-        <translation>Atidaryti failą</translation>
+        <translation type="vanished">Atidaryti failą</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ImportUrdf.qml" line="91"/>
         <source>Asset files</source>
         <extracomment>File browser filter - Full sentence: Asset files(*.zip)</extracomment>
-        <translation>Turtų failai</translation>
+        <translation type="vanished">Turtų failai</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ImportUrdf.qml" line="101"/>
         <source>File</source>
         <extracomment>Label: Referring to file name for selected file</extracomment>
-        <translation>Failas</translation>
+        <translation type="vanished">Failas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ImportUrdf.qml" line="108"/>
         <source>No file selected</source>
         <extracomment>Placeholder for file name when no file is selected</extracomment>
-        <translation>Failas nepasirinktas</translation>
+        <translation type="vanished">Failas nepasirinktas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ImportUrdf.qml" line="126"/>
         <source>Name</source>
         <extracomment>Label for text field: Enter a name for the asset after uploading</extracomment>
-        <translation>Vardas</translation>
+        <translation type="vanished">Vardas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ImportUrdf.qml" line="141"/>
         <source>Name of the custom 3D model</source>
         <extracomment>Placeholder text for when no name is entered</extracomment>
-        <translation>Tinkinto 3D modelio pavadinimas</translation>
+        <translation type="vanished">Tinkinto 3D modelio pavadinimas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ImportUrdf.qml" line="163"/>
         <source>Import</source>
         <extracomment>Button: Import asset</extracomment>
-        <translation>Importuoti</translation>
+        <translation type="vanished">Importuoti</translation>
     </message>
 </context>
 <context>
@@ -2975,13 +3220,13 @@ Palaikomi tik UTF-8 koduoti failai</translation>
         <translation>Išvalyti viską</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="401"/>
+        <location filename="../../Irbcam.qml" line="402"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Perrašyti %1</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="403"/>
+        <location filename="../../Irbcam.qml" line="404"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Ar tikrai norite perrašyti projektą %1?&lt;br&gt;&lt;br&gt;Šis projektas buvo anksčiau išsaugotas su versija %2&lt;br&gt;&lt;br&gt;Jei jį perrašysite, tada gali būti neįmanoma jį vėl atidaryti su IRBCAM %2&lt;br&gt;&lt;br&gt;Jei norite išsaugoti kopiją, tada galite išsaugoti projektą su nauju pavadinimu</translation>
@@ -3637,22 +3882,19 @@ Prašome išsaugoti savo darbą ir perkraudykite puslapį kuo greičiau</transla
 <context>
     <name>ItemListModel</name>
     <message>
-        <location filename="../../../backend/utilities/src/itemlistmodel.cpp" line="11"/>
         <source>User Created</source>
         <extracomment>External name of an Item list model</extracomment>
-        <translation>Naudotojo Sukurtas</translation>
+        <translation type="vanished">Naudotojo Sukurtas</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/itemlistmodel.cpp" line="13"/>
         <source>Shared</source>
         <extracomment>Shared name of an Item list model</extracomment>
-        <translation>Bendras</translation>
+        <translation type="vanished">Bendras</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/itemlistmodel.cpp" line="167"/>
         <source>An error occurred when fetching list</source>
         <extracomment>Error message. Referring to fetching items to show in a list (e.g. list of robots)</extracomment>
-        <translation>Įvyko klaida gaunant sąrašą</translation>
+        <translation type="vanished">Įvyko klaida gaunant sąrašą</translation>
     </message>
 </context>
 <context>
@@ -3821,19 +4063,31 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <translation type="obsolete">Pasirinkite tiesinę vėžę</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/LinearTrackEditor.qml" line="58"/>
+        <location filename="../../Sidebar/LinearTrackEditor.qml" line="92"/>
         <source>Linear Tracks</source>
-        <extracomment>Collapsible item in tree view. This is the root item, indicating that the list contains linear tracks</extracomment>
+        <extracomment>Collapsible item in tree view. This section contains public linear tracks</extracomment>
         <translation>Tiesiniai takai</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/LinearTrackEditor.qml" line="42"/>
+        <location filename="../../Sidebar/LinearTrackEditor.qml" line="40"/>
         <source>Linear track is incompatible with stationary tool</source>
         <extracomment>Label: Shown if stationary tool is selected in tool editor</extracomment>
         <translation>Tiesinis bėgis nesuderinamas su stacionariu įrankiu</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/LinearTrackEditor.qml" line="69"/>
+        <location filename="../../Sidebar/LinearTrackEditor.qml" line="94"/>
+        <source>My tracks</source>
+        <extracomment>Collapsible item in tree view. This section contains linear tracks made by this user</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/LinearTrackEditor.qml" line="96"/>
+        <source>Shared with me</source>
+        <extracomment>Collapsible item in tree view. This section contains linear tracks that are shared with the user</extracomment>
+        <translation type="unfinished">Bendrinama su manimi</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/LinearTrackEditor.qml" line="108"/>
         <source>Import</source>
         <extracomment>Collapsible section: This section contains tools to import a custom linear track</extracomment>
         <translation>Importuoti</translation>
@@ -3963,40 +4217,46 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
 <context>
     <name>LoadingState</name>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="183"/>
+        <location filename="../../Views/LoadingState.qml" line="137"/>
         <source>Station</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Stotis</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="190"/>
+        <location filename="../../Views/LoadingState.qml" line="143"/>
         <source>Robot</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="197"/>
+        <location filename="../../Views/LoadingState.qml" line="149"/>
         <source>Tool</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Įrankis</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="204"/>
+        <location filename="../../Views/LoadingState.qml" line="155"/>
         <source>Linear Track</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Tiesinė trajektorija</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="211"/>
+        <location filename="../../Views/LoadingState.qml" line="161"/>
         <source>Rotary Table</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Sukamasis stalas</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="218"/>
+        <location filename="../../Views/LoadingState.qml" line="167"/>
         <source>Additional Objects</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Papildomi objektai</translation>
+    </message>
+    <message>
+        <location filename="../../Views/LoadingState.qml" line="174"/>
+        <source>Asset upload</source>
+        <extracomment>Title of loading state indicator</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4747,16 +5007,14 @@ Tooltip for to-target field</extracomment>
         <translation>&amp;Redaguoti</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="213"/>
         <source>&amp;User Frame</source>
         <extracomment>Menu item</extracomment>
-        <translation>&amp;Vartotojo rėmas</translation>
+        <translation type="vanished">&amp;Vartotojo rėmas</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="223"/>
         <source>&amp;Object Frame</source>
         <extracomment>Menu item</extracomment>
-        <translation>&amp;Objekto rėmas</translation>
+        <translation type="vanished">&amp;Objekto rėmas</translation>
     </message>
     <message>
         <location filename="../../Menus.qml" line="232"/>
@@ -5069,6 +5327,12 @@ Ar norite tęsti?</translation>
         <source>Project &amp;Info</source>
         <extracomment>Menu item</extracomment>
         <translation>Projektas ir informacija</translation>
+    </message>
+    <message>
+        <location filename="../../Menus.qml" line="213"/>
+        <source>&amp;Frames</source>
+        <extracomment>Menu item</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../Menus.qml" line="257"/>
@@ -6373,147 +6637,158 @@ Context menu sub-item: Collapse -&gt; All</extracomment>
         <translation type="vanished">Taškai</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="361"/>
         <source>The path list is empty
 Right click to see available options for populating the path</source>
         <extracomment>Placeholder text for empty path</extracomment>
-        <translation>Kelio sąrašas yra tuščias
+        <translation type="vanished">Kelio sąrašas yra tuščias
 Dešiniuoju pelės mygtuku spustelėkite, kad pamatytumėte galimas parinktis kelio užpildymui</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="372"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="363"/>
+        <source>The path list is empty
+
+Right click to see available options for populating the path
+
+or
+
+Drag and drop a file anywhere in this window to open the import path dialog</source>
+        <extracomment>Placeholder text for empty path</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/PathEditor.qml" line="374"/>
         <source>Target list navigation</source>
         <extracomment>Info card title</extracomment>
         <translation>Tikslų sąrašo navigacija</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="375"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="377"/>
         <source>Hide navigation info</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
         <translation>Slėpti navigacijos informaciją</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="377"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="379"/>
         <source>Show navigation info</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
         <translation>Rodyti navigacijos informaciją</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="381"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="383"/>
         <source>Selection</source>
         <extracomment>Info card action</extracomment>
         <translation>Pasirinkimas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="384"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="386"/>
         <source>Left click</source>
         <extracomment>Info card operation: Selection</extracomment>
         <translation>Kairysis spustelėjimas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="386"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="388"/>
         <source>Up/down arrow keys</source>
         <extracomment>Info card operation: Selection</extracomment>
         <translation>Aukštyn/žemyn rodyklių klavišai</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="388"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="390"/>
         <source>Modifiers:</source>
         <extracomment>Info card operation: Selection sub category</extracomment>
         <translation>Modifikatoriai:</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="392"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="394"/>
         <source>%1 - Select range</source>
         <extracomment>Info card detail: Modifiers - %1 = shift</extracomment>
         <translation>%1 - Pasirinkti diapazoną</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="394"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="396"/>
         <source>%1 - Select additional (mouse only)</source>
         <extracomment>Info card detail: Modifiers - %1 = ctrl</extracomment>
         <translation>%1 - Pasirinkti papildomus (tik pele)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="396"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="398"/>
         <source>%1 + %2 - Select additional range</source>
         <extracomment>Info card detail: Modifiers - %1 = shift, %2 = ctrl</extracomment>
         <translation>%1 + %2 - Pasirinkti papildomą diapazoną</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="401"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="403"/>
         <source>Open context menu</source>
         <extracomment>Info card action</extracomment>
         <translation>Atidaryti kontekstinį meniu</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="403"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="405"/>
         <source>Right click</source>
         <extracomment>Info card operation: Open context menu</extracomment>
         <translation>Dešinysis spustelėjimas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="405"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="407"/>
         <source>Content of the context menu will depend on what element is clicked</source>
         <extracomment>Info card detail: Right click</extracomment>
         <translation>Kontekstinio meniu turinys priklausys nuo to, koks elementas yra spustelėtas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="409"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="411"/>
         <source>Expand/collapse</source>
         <extracomment>Info card action</extracomment>
         <translation>Išplėsti/Sutraukti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="412"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="414"/>
         <source>Double click</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
         <translation>Dukart spustelėti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="414"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="416"/>
         <source>Right arrow key (expand)</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
         <translation>Dešinioji rodyklės klaviša (išplėsti)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="416"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="418"/>
         <source>Left arrow key (collapse)</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
         <translation>Kairės rodyklės klavišas (suskleisti)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="421"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="423"/>
         <source>Copy selected</source>
         <extracomment>Info card action</extracomment>
         <translation>Kopijuoti pasirinktus</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="426"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="428"/>
         <source>Paste copied</source>
         <extracomment>Info card action</extracomment>
         <translation>Įklijuoti nukopijuota</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="429"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="431"/>
         <source>Pastes after the selected element</source>
         <extracomment>Info card detail: Paste copied</extracomment>
         <translation>Įklijuoja po pasirinktu elementu</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="433"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="435"/>
         <source>Delete selected</source>
         <extracomment>Info card action</extracomment>
         <translation>Ištrinti pasirinktus</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="438"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="440"/>
         <source>Undo last action</source>
         <extracomment>Info card action</extracomment>
         <translation>Atšaukti paskutinį veiksmą</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="443"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="445"/>
         <source>Redo last action</source>
         <extracomment>Info card action</extracomment>
         <translation>Pakartoti paskutinį veiksmą</translation>
@@ -6934,37 +7209,37 @@ Placeholder text until an icon has been selected</extracomment>
 <context>
     <name>PopupItem</name>
     <message>
-        <location filename="../../Popups/PopupItem.qml" line="96"/>
+        <location filename="../../Popups/PopupItem.qml" line="97"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip: &apos;module&apos; in this case refers to a particular popup. For example the &apos;Export Robot Code&apos; popup or the &apos;Settings&apos; popup</extracomment>
         <translation>Šis modulis turi neišsaugotų pakeitimų</translation>
     </message>
     <message>
-        <location filename="../../Popups/PopupItem.qml" line="132"/>
+        <location filename="../../Popups/PopupItem.qml" line="134"/>
         <source>Cancel</source>
         <extracomment>Button text: Cancel operation</extracomment>
         <translation>Nutraukti</translation>
     </message>
     <message>
-        <location filename="../../Popups/PopupItem.qml" line="134"/>
+        <location filename="../../Popups/PopupItem.qml" line="136"/>
         <source>Back</source>
         <extracomment>Button text: Go back to previous page</extracomment>
         <translation>Atgal</translation>
     </message>
     <message>
-        <location filename="../../Popups/PopupItem.qml" line="150"/>
+        <location filename="../../Popups/PopupItem.qml" line="152"/>
         <source>Finish</source>
         <extracomment>Button text: Finish operation</extracomment>
         <translation>Baigti</translation>
     </message>
     <message>
-        <location filename="../../Popups/PopupItem.qml" line="152"/>
+        <location filename="../../Popups/PopupItem.qml" line="154"/>
         <source>Next</source>
         <extracomment>Button text: Go to next page</extracomment>
         <translation>Toliau</translation>
     </message>
     <message>
-        <location filename="../../Popups/PopupItem.qml" line="154"/>
+        <location filename="../../Popups/PopupItem.qml" line="156"/>
         <source>Ok</source>
         <extracomment>Button text</extracomment>
         <translation>Ok</translation>
@@ -7575,16 +7850,14 @@ Prašome įsitikinti, kad esate prisijungę prie interneto, ir bandyti dar kart�
         <translation>metai</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="248"/>
         <source>months</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; months</extracomment>
-        <translation>mėnesiai</translation>
+        <translation type="vanished">mėnesiai</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="250"/>
         <source>month</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 month</extracomment>
-        <translation>mėnuo</translation>
+        <translation type="vanished">mėnuo</translation>
     </message>
     <message>
         <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="263"/>
@@ -7649,40 +7922,51 @@ Prašome įsitikinti, kad esate prisijungę prie interneto, ir bandyti dar kart�
         <translation>1 sekundė</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/robotlistmodel.cpp" line="648"/>
-        <location filename="../../../backend/utilities/src/simplelistmodel.cpp" line="27"/>
         <source>Name</source>
         <extracomment>List column
 ----------
 Column name.</extracomment>
-        <translation>Vardas</translation>
+        <translation type="vanished">Vardas</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/robotlistmodel.cpp" line="651"/>
-        <location filename="../../../backend/utilities/src/simplelistmodel.cpp" line="30"/>
         <source>Modified</source>
         <extracomment>List column
 ----------
 Column name. Refers to which date the items were modified</extracomment>
-        <translation>Modifikuotas</translation>
+        <translation type="vanished">Modifikuotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/robotlistmodel.cpp" line="395"/>
         <source>Activated Robots</source>
         <extracomment>Collapsible section in list. Contains robots which are activated</extracomment>
-        <translation>Aktyvuoti robotai</translation>
+        <translation type="vanished">Aktyvuoti robotai</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/robotlistmodel.cpp" line="696"/>
         <source>%1 (user created)</source>
         <extracomment>Appended to robot name in search results if it is imported by the user. %1=robot name. Example: My Robot (user created)</extracomment>
-        <translation>%1 (vartotojo sukurtas)</translation>
+        <translation type="vanished">%1 (vartotojo sukurtas)</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/simplelistmodel.cpp" line="267"/>
         <source>user created</source>
         <extracomment>Appended to item name in search results if it was user-created. Example: My Item (user created)</extracomment>
-        <translation>naudotojo sukurtas</translation>
+        <translation type="vanished">naudotojo sukurtas</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/models/src/assettreeitem.cpp" line="73"/>
+        <source>User created</source>
+        <extracomment>postfix added to search results for user created assets</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/models/src/assettreeitem.cpp" line="77"/>
+        <source>Shared</source>
+        <extracomment>postfix added to search results for assets that are shared with the user</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/models/src/customgeometrytreemodel.cpp" line="57"/>
+        <source>%1 (built-in)</source>
+        <extracomment>Postfix added to assets that are built into the application. %1 = asset name</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7754,48 +8038,49 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="obsolete">OK</translation>
     </message>
     <message>
+        <location filename="../../Sidebar/RobotEditor.qml" line="183"/>
         <source>Robots</source>
-        <extracomment>Title</extracomment>
-        <translation type="vanished">Robotai</translation>
+        <extracomment>Collapsible list section. This section contains public robots</extracomment>
+        <translation>Robotai</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="50"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="53"/>
         <source>Robot must be activated in order to export robot code</source>
         <extracomment>Text in popup.</extracomment>
         <translation>Robotas turi būti aktyvuotas, kad būtų galima eksportuoti roboto kodą</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="56"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="59"/>
         <source>Your list of activated robots is full. You must remove one or more robots in order to activate new ones</source>
         <extracomment>Text in popup</extracomment>
         <translation>Jūsų aktyvuotų robotų sąrašas yra pilnas. Turite pašalinti vieną ar daugiau robotų, kad aktyvuotumėte naujus</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="58"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="61"/>
         <source>Click to confirm activating %1</source>
         <extracomment>Text in popup. %1 = name of robot</extracomment>
         <translation>Spustelėkite, kad patvirtintumėte %1 aktyvavimą</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="90"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="102"/>
         <source>This robot has been activated for robot code export</source>
         <extracomment>Text in popup</extracomment>
         <translation>Šis robotas buvo aktyvuotas roboto kodo eksportui</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="52"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="55"/>
         <source>You have currently activated %1 of %2 robots</source>
         <extracomment>Text in popup: %1 = number of activated robots, %2 = max number of activated robots</extracomment>
         <translation>Šiuo metu esate aktyvavę %1 iš %2 robotų</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="79"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="91"/>
         <source>Deactivate</source>
         <extracomment>Button. Used to deactivate a robot</extracomment>
         <translation>Deaktyvuoti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="92"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="104"/>
         <source>It can be deactivated in:
 %1</source>
         <extracomment>Text in popup. %1 = time (e.g. 1 month 2 days)</extracomment>
@@ -7803,31 +8088,47 @@ Column name. Refers to which date the items were modified</extracomment>
 %1</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="100"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="113"/>
         <source>Activated date: %1</source>
         <extracomment>Label. %1 = date</extracomment>
         <translation>Aktyvavimo data: %1</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="105"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="119"/>
         <source>Unlocked date: %1</source>
         <extracomment>Label. %1 = date</extracomment>
         <translation>Atrakinta data: %1</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="219"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="185"/>
+        <source>My robots</source>
+        <extracomment>Collapsible item in tree view. This section contains robots made by this user</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/RobotEditor.qml" line="187"/>
+        <source>Shared with me</source>
+        <extracomment>Collapsible item in tree view. This section contains robots that are shared with the user</extracomment>
+        <translation type="unfinished">Bendrinama su manimi</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/RobotEditor.qml" line="214"/>
+        <source>Compressed urdf format (*.zip)</source>
+        <extracomment>File type filter</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Activation info</source>
         <extracomment>Tool tip: Shown when hovering above the checkmark button on an activated robot</extracomment>
-        <translation>Aktyvacijos informacija</translation>
+        <translation type="vanished">Aktyvacijos informacija</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="221"/>
         <source>Activate robot</source>
         <extracomment>Tool tip: Shown when hovering above the checkmark button on an inactive (not activated) robot</extracomment>
-        <translation>Aktyvuoti robotą</translation>
+        <translation type="vanished">Aktyvuoti robotą</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="242"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="198"/>
         <source>Import</source>
         <extracomment>Collapsible section. This section contains tools to import a custom robot</extracomment>
         <translation>Importuoti</translation>
@@ -7836,40 +8137,71 @@ Column name. Refers to which date the items were modified</extracomment>
 <context>
     <name>RobotListModel</name>
     <message>
-        <location filename="../../../backend/utilities/src/robotlistmodel.cpp" line="253"/>
         <source>Robots</source>
         <extracomment>Main collapsible section in list. This section contains all the robots</extracomment>
-        <translation>Robotai</translation>
+        <translation type="vanished">Robotai</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/robotlistmodel.cpp" line="255"/>
         <source>User Created</source>
         <extracomment>Collapsible section in list. Contains robots created by this user</extracomment>
-        <translation>Vartotojo sukurtas</translation>
+        <translation type="vanished">Vartotojo sukurtas</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/robotlistmodel.cpp" line="257"/>
         <source>Shared</source>
         <extracomment>Collapsible section in list. Contains robots shared with this user</extracomment>
-        <translation>Bendras</translation>
+        <translation type="vanished">Bendras</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/robotlistmodel.cpp" line="300"/>
         <source>An error occurred when fetching robot list</source>
         <extracomment>Error message</extracomment>
-        <translation>Įvyko klaida gaunant robotų sąrašą</translation>
+        <translation type="vanished">Įvyko klaida gaunant robotų sąrašą</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/robotlistmodel.cpp" line="866"/>
         <source>%1 has been deactivated</source>
         <extracomment>Status message: %1 = name</extracomment>
-        <translation>%1 buvo deaktyvuotas</translation>
+        <translation type="vanished">%1 buvo deaktyvuotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/robotlistmodel.cpp" line="925"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
-        <translation>%1 buvo aktyvuotas</translation>
+        <translation type="vanished">%1 buvo aktyvuotas</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="41"/>
+        <source>An error occurred when fetching list</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished">Įvyko klaida gaunant sąrašą</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="157"/>
+        <source>%1 has been activated</source>
+        <comment>Status message: %1 = name</comment>
+        <translation type="unfinished">%1 buvo aktyvuotas</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="168"/>
+        <source>Failed to verify if %1 has been activated. Refresh the list to check if it was successful</source>
+        <comment>Warning message: %1 = name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="216"/>
+        <source>%1 has been deactivated</source>
+        <comment>Status message: %1 = name</comment>
+        <translation type="unfinished">%1 buvo deaktyvuotas</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="226"/>
+        <source>Failed to verify if %1 has been deactivated. Refresh the list to check if it was successful</source>
+        <comment>Warning message: %1 = name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="277"/>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="293"/>
+        <source>Activated robots (%1/%2)</source>
+        <extracomment>Collapsible section in list. Contains robots which are activated</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8421,19 +8753,31 @@ Naujų tikslų nepridėta</translation>
 <context>
     <name>RotaryTableEditor</name>
     <message>
-        <location filename="../../Sidebar/RotaryTableEditor.qml" line="50"/>
+        <location filename="../../Sidebar/RotaryTableEditor.qml" line="80"/>
         <source>Rotary Tables</source>
-        <extracomment>Collapsible list section. This section contains all rotary tables</extracomment>
+        <extracomment>Collapsible list section. This section contains public rotary tables</extracomment>
         <translation>Sukimo stalai</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RotaryTableEditor.qml" line="34"/>
+        <location filename="../../Sidebar/RotaryTableEditor.qml" line="32"/>
         <source>Rotary table is incompatible with stationary tool</source>
         <extracomment>Label: This is shown if stationary tool is selected in tool editor</extracomment>
         <translation>Sukamasis stalas nesuderinamas su stacionariu įrankiu</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RotaryTableEditor.qml" line="61"/>
+        <location filename="../../Sidebar/RotaryTableEditor.qml" line="82"/>
+        <source>User created</source>
+        <extracomment>Collapsible item in tree view. This section contains rotary tables made by this user</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/RotaryTableEditor.qml" line="84"/>
+        <source>Shared with me</source>
+        <extracomment>Collapsible item in tree view. This section contains rotary tables that are shared with the user</extracomment>
+        <translation type="unfinished">Bendrinama su manimi</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/RotaryTableEditor.qml" line="96"/>
         <source>Import</source>
         <extracomment>Collapsible section. This section contains tools to import rotary tables</extracomment>
         <translation>Importuoti</translation>
@@ -8807,7 +9151,7 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
 <context>
     <name>SearchTextField</name>
     <message>
-        <location filename="../../Controls/SearchTextField.qml" line="36"/>
+        <location filename="../../Controls/SearchTextField.qml" line="29"/>
         <source>Search</source>
         <extracomment>Placeholder text for a search field</extracomment>
         <translation>Paieška</translation>
@@ -8937,25 +9281,25 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
 <context>
     <name>Sidebar</name>
     <message>
-        <location filename="../../Sidebar/Sidebar.qml" line="154"/>
+        <location filename="../../Sidebar/Sidebar.qml" line="172"/>
         <source>Remove shortcut</source>
         <extracomment>Context menu item, remove sidebar shortcut</extracomment>
         <translation>Pašalinti nuorodą</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Sidebar.qml" line="159"/>
+        <location filename="../../Sidebar/Sidebar.qml" line="177"/>
         <source>Reset to default</source>
         <extracomment>Context menu item, reset all sidebar shortcuts to default</extracomment>
         <translation>Atstatyti į numatytuosius</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Sidebar.qml" line="222"/>
+        <location filename="../../Sidebar/Sidebar.qml" line="240"/>
         <source>Back</source>
         <extracomment>Button: Navigate back</extracomment>
         <translation>Atgal</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Sidebar.qml" line="233"/>
+        <location filename="../../Sidebar/Sidebar.qml" line="251"/>
         <source>Project Wizard</source>
         <extracomment>Title</extracomment>
         <translation>Projekto vedlys</translation>
@@ -8969,7 +9313,7 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
         <translation type="obsolete">Baigti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Sidebar.qml" line="241"/>
+        <location filename="../../Sidebar/Sidebar.qml" line="259"/>
         <source>Next</source>
         <extracomment>Button: Navigate to next view</extracomment>
         <translation>Kitas</translation>
@@ -8978,7 +9322,7 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
 <context>
     <name>SidebarItem</name>
     <message>
-        <location filename="../../Sidebar/SidebarItem.qml" line="84"/>
+        <location filename="../../Sidebar/SidebarItem.qml" line="79"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip: &apos;module&apos; in this case refers to a particular sidebar. For example the &apos;Targets&apos; sidebar or the &apos;Robot&apos; sidebar</extracomment>
         <translation>Šis modulis turi neišsaugotų pakeitimų</translation>
@@ -9002,10 +9346,9 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
 <context>
     <name>SidebarModel</name>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="231"/>
         <source>Additional Objects</source>
         <extracomment>Title: Referring to user-imported 3D objects</extracomment>
-        <translation>Papildomi objektai</translation>
+        <translation type="vanished">Papildomi objektai</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="237"/>
@@ -9020,10 +9363,15 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
         <translation>Tiesinė trajektorija</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="255"/>
         <source>Object Frame</source>
         <extracomment>Title</extracomment>
-        <translation>Objekto koordinačių sistema</translation>
+        <translation type="vanished">Objekto koordinačių sistema</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="231"/>
+        <source>Custom Geometries</source>
+        <extracomment>Title: Referring to user-imported 3D objects</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="261"/>
@@ -9057,30 +9405,32 @@ Spustelėkite dar kartą, kad perrašytumėte</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="291"/>
+        <source>Frames</source>
+        <extracomment>Title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Frame</source>
         <extracomment>Title</extracomment>
-        <translation>Naudotojo koordinačių sistema</translation>
+        <translation type="vanished">Naudotojo koordinačių sistema</translation>
     </message>
 </context>
 <context>
     <name>SimpleListModel</name>
     <message>
-        <location filename="../../../backend/utilities/src/simplelistmodel.cpp" line="8"/>
         <source>User Created</source>
         <extracomment>Collapsible section: Contains all user-created items</extracomment>
-        <translation>Vartotojo sukurtas</translation>
+        <translation type="vanished">Vartotojo sukurtas</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/simplelistmodel.cpp" line="10"/>
         <source>Shared</source>
         <extracomment>Collapsible section: Contains all shared items</extracomment>
-        <translation>Bendrinis</translation>
+        <translation type="vanished">Bendrinis</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/simplelistmodel.cpp" line="191"/>
         <source>An error occurred when fetching list</source>
         <extracomment>Error message</extracomment>
-        <translation>Įvyko klaida gaunant sąrašą</translation>
+        <translation type="vanished">Įvyko klaida gaunant sąrašą</translation>
     </message>
 </context>
 <context>
@@ -9495,61 +9845,61 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation type="obsolete">Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="685"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="540"/>
         <source>Project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Projektas %1 išsaugotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1034"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="889"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Projektas išvalytas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="640"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="495"/>
         <source>Failed to confirm that the project was saved to the cloud (the project may or may not have been saved)</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko patvirtinti, kad projektas buvo išsaugotas debesyje (projektas gali būti išsaugotas arba ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="608"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="463"/>
         <source>No changes detected in project</source>
         <extracomment>Notification message that is displayed if the user attempst to save project, but the project has not changed since last save</extracomment>
         <translation>Projekte nepastebėta jokių pakeitimų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="679"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="534"/>
         <source>Autosave for project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Automatinis išsaugojimas projektui %1 išsaugotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="829"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="684"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko atsisiųsti projekto iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1077"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="932"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko patvirtinti, kad projektas buvo ištrintas iš debesies (projektas gali būti ištrintas arba ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1102"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="957"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projektas %1 buvo ištrintas iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1185"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1040"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko patvirtinti, kad projektas buvo pasidalintas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1208"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1063"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projektas %1 buvo pasidalintas su %2.</translation>
@@ -9562,7 +9912,7 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Didesni keliai gali būti importuoti padalijant APT failą į mažesnius failus ir naudojant „papildymo“ parinktį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1272"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1127"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Nepavyko pradėti debesų užduoties %1</translation>
@@ -9588,20 +9938,20 @@ Didesni keliai gali būti importuoti padalijant APT failą į mažesnius failus 
         <translation type="vanished">Kelias importuotas iš APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1506"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1538"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1361"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1393"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko gauti roboto kodo iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1719"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1574"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko atkurti išsaugoto projekto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1731"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1586"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -9609,56 +9959,56 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Tai gali būti dėl to, kad išsaugojimas yra iš senesnės IRBCAM versijos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1757"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1612"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Trūkstama informacija projekte, gautame iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1806"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1661"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko gauti vartotojo rėmo duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1824"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1679"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti vartotojo rėmo duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1834"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1689"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko gauti objekto rėmo duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1843"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1698"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti objekto kadro duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1876"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1731"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Trūksta arba sugadinta kelio informacija iš išsaugoto projekto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1895"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1750"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>kelio importas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="2054"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="2061"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1909"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1916"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH lentelė</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1739"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1594"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -9666,7 +10016,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Tai gali būti dėl to, kad išsaugojimas yra iš senesnės IRBCAM versijos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1248"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1103"/>
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -9674,94 +10024,94 @@ Larger paths can be imported by splitting the file into smaller files and using 
 Didesnius kelius galima importuoti padalijus failą į mažesnius failus ir naudojant „append“ parinktį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1303"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1158"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Nepavyko gauti išanalizuoto %1 iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1349"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1204"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>Faile %1 naudojamų dešimtainių skaitmenų skaičius yra %2 (žemas skaitinis tikslumas).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1370"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1225"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>%1 taikinių yra išfiltruota iš failo %2: jie yra arčiau nei minimalus atstumo slenkstis %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1384"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1239"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>%1 taikinys yra išfiltruotas iš failo %2: jis yra arčiau nei minimalus atstumo slenkstis %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1405"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1260"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Nepavyko importuoti failo %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1413"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1268"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation>Kelias importuotas iš %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1467"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1615"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1322"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1470"/>
         <source>Blend radius is overlapping at target %1. Try reducing the target velocity or increasing the maximum acceleration</source>
         <extracomment>Error message</extracomment>
         <translation>Maišymo spindulys persidengia taikinyje %1. Pabandykite sumažinti taikinio greitį arba padidinti maksimalųjį pagreitį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1476"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1624"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1331"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1479"/>
         <source>Target %1 is too close. Try reimporting the path with minimum distance between targets &gt;= %2 mm or manually adjust the target so that the distance between two consecutive targets &gt;=  %2 mm</source>
         <extracomment>Error message</extracomment>
         <translation>Taikinys %1 yra per arti. Bandykite pakartotinai importuoti kelią su minimaliu atstumu tarp taikinių &gt;= %2 mm arba rankiniu būdu pakoreguokite taikinį taip, kad atstumas tarp dviejų iš eilės einančių taikinių &gt;= %2 mm</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1911"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1919"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1929"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1766"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1774"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1784"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1938"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="2104"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="2110"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1793"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1959"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1965"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>įrankis</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="2003"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="2011"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="2021"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1858"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1866"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1876"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>sukimo stalas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1796"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1651"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti projekto duomenų</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="2143"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1998"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projektas %1 įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="2033"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="2041"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1888"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1896"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>tiesinis bėgis</translation>
@@ -10625,13 +10975,13 @@ Button. Import custom tool</extracomment>
 <context>
     <name>ToolEditorDelegate</name>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="90"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="91"/>
         <source>mm</source>
         <extracomment>Unit: millimetres</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="103"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="104"/>
         <source>Tool</source>
         <extracomment>prefix for text</extracomment>
         <translation>Įrankis</translation>
@@ -10642,10 +10992,9 @@ Button. Import custom tool</extracomment>
         <translation type="obsolete">Vardas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="212"/>
         <source>Source</source>
         <extracomment>Label for a text field: Lets the user name their additional object</extracomment>
-        <translation>Šaltinis</translation>
+        <translation type="vanished">Šaltinis</translation>
     </message>
     <message>
         <source>No source selected</source>
@@ -10693,31 +11042,37 @@ Button. Import custom tool</extracomment>
         <translation type="obsolete">Ketvirtadienis k</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="285"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="281"/>
         <source>Tool Type</source>
         <extracomment>Label over input field</extracomment>
         <translation>Įrankio tipas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="297"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="293"/>
         <source>Invalid type</source>
         <extracomment>Dropdown menu display text showing invalid selection.</extracomment>
         <translation>Neteisingas tipas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="312"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="308"/>
         <source>Weldgun</source>
         <extracomment>Dropdown menu item.</extracomment>
         <translation>Suvirinimo pistoletas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="307"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="303"/>
         <source>Spindle</source>
         <extracomment>Dropdown menu item.</extracomment>
         <translation>Spindelis</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="222"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="211"/>
+        <source>Mesh</source>
+        <extracomment>Label for a button, select mesh</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="221"/>
         <source>No tool selected</source>
         <extracomment>Button: Shown when no tool is selected</extracomment>
         <translation>Nėra pasirinkto įrankio</translation>
@@ -10735,289 +11090,278 @@ Button. Import custom tool</extracomment>
         <translation>Įrankio numeris</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="268"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="269"/>
         <source>TCP</source>
         <extracomment>Collapsible section: In this section the user will adjust position and scale of the object</extracomment>
         <translation>Įrankio centro taškas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="302"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="298"/>
         <source>Generic/Analog</source>
         <extracomment>Dropdown menu item.</extracomment>
         <translation>Bendrinis/Analoginis</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="317"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="313"/>
         <source>On/Off</source>
         <extracomment>Dropdown menu item.</extracomment>
         <translation>Įjungta/Išjungta</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="322"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="318"/>
         <source>Passive</source>
         <extracomment>Dropdown menu item.</extracomment>
         <translation>Pasyvus</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="338"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="333"/>
         <source>Show mesh</source>
         <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
         <translation>Rodyti tinklelį</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="344"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="339"/>
         <source>Transparent</source>
         <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
         <translation>Skaidrus</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="354"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="351"/>
         <source>Base</source>
         <extracomment>Collapsible section: In this section the user will adjust position and scale of the object</extracomment>
         <translation>Bazė</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="375"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="365"/>
         <source>Generic Tool</source>
         <extracomment>Collapsible section. Contains options for generic tool</extracomment>
         <translation>Universalus įrankis</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="394"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="374"/>
         <source>Diameter</source>
         <extracomment>Label for text field. Adjust generic tool diameter</extracomment>
         <translation>Skersmuo</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="399"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="379"/>
         <source>Cone length</source>
         <extracomment>Label for text field. Adjust cone length on the generic tool</extracomment>
         <translation>Kūgio ilgis</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="404"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="384"/>
         <source>Color</source>
         <extracomment>Label for button. Adjust generic tool colour</extracomment>
         <translation>Spalva</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="444"/>
-        <source>Select color</source>
-        <extracomment>Title for colour picker dialog box</extracomment>
-        <translation>Pasirinkite spalvą</translation>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="492"/>
+        <source>CoG</source>
+        <extracomment>Label for text field. Centre of Gravity</extracomment>
+        <translation type="unfinished">Masės centras</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="470"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="494"/>
+        <source>Centre of Gravity</source>
+        <extracomment>Tool-tip for CoG</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select color</source>
+        <extracomment>Title for colour picker dialog box</extracomment>
+        <translation type="vanished">Pasirinkite spalvą</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="431"/>
         <source>Export Data</source>
         <extracomment>Collapsible section. Contains options for export data</extracomment>
         <translation>Eksportuoti duomenis</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="492"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="444"/>
         <source>Export Name</source>
         <extracomment>Label for text field. weight</extracomment>
         <translation>Eksporto pavadinimas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="502"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="453"/>
         <source>Tool Export Name</source>
         <extracomment>Placeholder for when no tool export name has been entered</extracomment>
         <translation>Įrankio eksporto pavadinimas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="517"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="468"/>
         <source>Weight</source>
         <extracomment>Label for text field. weight</extracomment>
         <translation>Svoris</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="530"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="480"/>
         <source>kg</source>
         <extracomment>Unit: millimetres</extracomment>
         <translation>kg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="541"/>
         <source>cogX</source>
         <extracomment>Label for text field. COG</extracomment>
-        <translation>cogX</translation>
+        <translation type="vanished">cogX</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="547"/>
         <source>cogY</source>
         <extracomment>Label for button. COG</extracomment>
-        <translation>svorio centro Y</translation>
+        <translation type="vanished">svorio centro Y</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="553"/>
         <source>cogZ</source>
         <extracomment>Label for button. COG</extracomment>
-        <translation>cogZ</translation>
+        <translation type="vanished">cogZ</translation>
     </message>
 </context>
 <context>
     <name>ToolList</name>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="30"/>
-        <location filename="../../Popups/ToolList.qml" line="101"/>
         <source>Tools</source>
         <extracomment>Title
 ----------
 List category separator</extracomment>
-        <translation>Įrankiai</translation>
+        <translation type="vanished">Įrankiai</translation>
     </message>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="146"/>
         <source>Reset tool data</source>
         <extracomment>Checkbox text: Reset data</extracomment>
-        <translation>Atstatyti įrankio duomenis</translation>
+        <translation type="vanished">Atstatyti įrankio duomenis</translation>
     </message>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="154"/>
         <source>Select</source>
         <extracomment>Button text: Select item</extracomment>
-        <translation>Pasirinkti</translation>
+        <translation type="vanished">Pasirinkti</translation>
     </message>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="166"/>
-        <location filename="../../Popups/ToolList.qml" line="255"/>
         <source>Upload</source>
         <extracomment>Collapsible button title: Open/close upload section
 ----------
 Button text</extracomment>
-        <translation>Įkelti</translation>
+        <translation type="vanished">Įkelti</translation>
     </message>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="187"/>
         <source>The active subscription does not provide access to custom assets. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
-        <translation>Aktyvi prenumerata nesuteikia prieigos prie pasirinktinių išteklių. Spustelėkite %1čia%2, kad tvarkytumėte prenumeratas</translation>
+        <translation type="vanished">Aktyvi prenumerata nesuteikia prieigos prie pasirinktinių išteklių. Spustelėkite %1čia%2, kad tvarkytumėte prenumeratas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="200"/>
         <source>Name</source>
         <extracomment>Title for a textfield</extracomment>
-        <translation>Vardas</translation>
+        <translation type="vanished">Vardas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="208"/>
         <source>Tool name</source>
         <extracomment>Placeholder text for an empty textfield</extracomment>
-        <translation>Įrankio pavadinimas</translation>
+        <translation type="vanished">Įrankio pavadinimas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="234"/>
         <source>File</source>
         <extracomment>Title for a textfield</extracomment>
-        <translation>Failas</translation>
+        <translation type="vanished">Failas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="239"/>
         <source>No file selected</source>
         <extracomment>This will be shown as a file name if no file is selected</extracomment>
-        <translation>Failas nepasirinktas</translation>
+        <translation type="vanished">Failas nepasirinktas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="253"/>
         <source>Overwrite</source>
         <extracomment>Button text</extracomment>
-        <translation>Perrašyti</translation>
+        <translation type="vanished">Perrašyti</translation>
     </message>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="268"/>
         <source>Asset files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation>Išteklių failai</translation>
+        <translation type="vanished">Išteklių failai</translation>
     </message>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="276"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title: %1 = name of tool</extracomment>
-        <translation>Perrašyti %1</translation>
+        <translation type="vanished">Perrašyti %1</translation>
     </message>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="278"/>
         <source>Are you sure you want to overwrite user tool %1?</source>
         <extracomment>Popup content text: %1 = name of tool</extracomment>
-        <translation>Ar tikrai norite perrašyti vartotojo įrankį %1?</translation>
+        <translation type="vanished">Ar tikrai norite perrašyti vartotojo įrankį %1?</translation>
     </message>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="290"/>
         <source>Ok</source>
         <extracomment>Popup text.</extracomment>
-        <translation>Ok</translation>
+        <translation type="vanished">Ok</translation>
     </message>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="293"/>
         <source>You cannot overwrite to the readonly asset %1.</source>
         <extracomment>Popup content text: %1 = name of tool</extracomment>
-        <translation>Jūs negalite perrašyti tik skaitymui skirto ištekliaus %1.</translation>
+        <translation type="vanished">Jūs negalite perrašyti tik skaitymui skirto ištekliaus %1.</translation>
     </message>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="316"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = name of tool</extracomment>
-        <translation>Ištrinti %1</translation>
+        <translation type="vanished">Ištrinti %1</translation>
     </message>
     <message>
-        <location filename="../../Popups/ToolList.qml" line="318"/>
         <source>Are you sure you want to delete user tool %1?</source>
         <extracomment>Popup content text. %1 = name of geometry</extracomment>
-        <translation>Ar tikrai norite ištrinti vartotojo įrankį %1?</translation>
+        <translation type="vanished">Ar tikrai norite ištrinti vartotojo įrankį %1?</translation>
     </message>
 </context>
 <context>
     <name>ToolModel</name>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1070"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1562"/>
         <source>Custom tool upload failed</source>
         <extracomment>Error message</extracomment>
         <translation>Pasirinktinio įrankio įkėlimas nepavyko</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1075"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1568"/>
         <source>Custom tool %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
         <translation>Pasirinktinis įrankis %1 sėkmingai įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1110"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1604"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Nepavyko patvirtinti, kad %1 buvo ištrintas iš debesies (elementas gali būti ištrintas arba ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1140"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1637"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 buvo ištrintas iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1554"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1782"/>
         <source>Failed to download tool from cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko atsisiųsti įrankio iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1670"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1901"/>
         <source>Failed to download tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko atsisiųsti įrankio iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1705"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1936"/>
         <source>Failed to unpack tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko išpakuoti įrankio iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1849"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2002"/>
         <source>Failed to load %1 mesh</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Nepavyko įkelti %1 tinklelio</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1938"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2109"/>
         <source>Tool %1 mesh loaded from %2</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Įrankio %1 tinklelis įkeltas iš %2</translation>
@@ -11206,103 +11550,106 @@ Sukimas (rad)
         <translation type="vanished">Įrankiai</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="50"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="88"/>
         <source>Stationary tool is incompatible with rotary tables and linear tracks</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if both rotary table and linear track is selected</extracomment>
         <translation>Stacionarus įrankis nesuderinamas su sukamaisiais stalais ir tiesiniais takais</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="52"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="90"/>
         <source>Stationary tool is incompatible with %1</source>
         <extracomment>Tool tip. Shown when hovering over stationary tool checkbox if either rotary table or linear track is selected. %1 = rotary tables/linear tracks</extracomment>
         <translation>Stacionarus įrankis nesuderinamas su %1</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="54"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="92"/>
         <source>rotary tables</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
         <translation>sukimo stalai</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="56"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="94"/>
         <source>linear tracks</source>
         <extracomment>Part of label. This is the %1 part of this sentence: Stationary tool is imcompatible with %1</extracomment>
         <translation>tiesiniai bėgiai</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="64"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="100"/>
         <source>Stationary Tool</source>
         <extracomment>Checkbox. Select if robot should hold work object instead of tool</extracomment>
         <translation>Stacionarus įrankis</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="83"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="118"/>
         <source>Multiple Tools</source>
         <extracomment>Checkbox. Select if robot should hold work object instead of tool</extracomment>
         <translation>Keli įrankiai</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="96"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="131"/>
         <source>Allow adding multiple tools in the project</source>
         <extracomment>Tool tip. Shown when hovering over multiple tools checkbox</extracomment>
         <translation>Leisti pridėti kelis įrankius projekte</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="105"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="171"/>
+        <source>Tool number</source>
+        <extracomment>Placeholder text for tool number</extracomment>
+        <translation type="unfinished">Įrankio numeris</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="44"/>
         <source>This configuration will delete all tools except Tool %1. Are you sure you want to proceed?</source>
         <extracomment>Content for confirmation popup.</extracomment>
         <translation>Ši konfigūracija ištrins visus įrankius, išskyrus įrankį %1. Ar tikrai norite tęsti?</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="109"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="48"/>
         <source>A desired tool must be selected before disabling this option. All other tools will be deleted from the project</source>
         <extracomment>Content for confirmation popup. Content for confirmation popup.</extracomment>
         <translation>Norimas įrankis turi būti pasirinktas prieš išjungiant šią parinktį. Visi kiti įrankiai bus ištrinti iš projekto</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="111"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="50"/>
         <source>This configuration will disable using multiple tools. Are you sure you want to proceed?</source>
         <extracomment>Content for confirmation popup.</extracomment>
         <translation>Ši konfigūracija išjungs kelių įrankių naudojimą. Ar tikrai norite tęsti?</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="115"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="54"/>
         <source>Cancel</source>
         <extracomment>Cancel button for confirmation popup</extracomment>
         <translation>Nutraukti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="117"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="56"/>
         <source>Ok</source>
         <extracomment>Acknowledge button for confirmation popup</extracomment>
         <translation>Ok</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="142"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="148"/>
         <source>Add</source>
         <extracomment>Button: Add additional object</extracomment>
         <translation>Papildyti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="152"/>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="182"/>
         <source>Multi tools must be enabled to add more tools</source>
         <extracomment>Tool tip Tool tip
 ----------
 Tool tip</extracomment>
-        <translation>Keli įrankiai turi būti įjungti, kad būtų galima pridėti daugiau įrankių</translation>
+        <translation type="vanished">Keli įrankiai turi būti įjungti, kad būtų galima pridėti daugiau įrankių</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="154"/>
+        <location filename="../../Sidebar/ToolSettingEditor.qml" line="156"/>
         <source>Tool number must be unique</source>
         <extracomment>Tool tip</extracomment>
         <translation>Įrankio numeris turi būti unikalus</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/ToolSettingEditor.qml" line="162"/>
         <source>Tool Number</source>
         <extracomment>Label for text fields</extracomment>
-        <translation>Įrankio numeris</translation>
+        <translation type="vanished">Įrankio numeris</translation>
     </message>
 </context>
 <context>
@@ -11623,7 +11970,7 @@ Placeholder text for a text field where you enter a name for your object</extrac
     <message>
         <location filename="../../../backend/src/urdfimporter.cpp" line="54"/>
         <location filename="../../../backend/src/urdfimporter.cpp" line="332"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="705"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="710"/>
         <source>Failed to build %1</source>
         <extracomment>Error message. %1 = name of rotation table
 ----------
@@ -11637,7 +11984,7 @@ Error message. %1 = name</extracomment>
         <translation>Nepavyko įkelti %1 į debesį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="1059"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="1069"/>
         <source>Failed to get custom 3D object from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko gauti pasirinktinio 3D objekto iš debesies</translation>
@@ -11654,6 +12001,18 @@ Error message. %1 = name</extracomment>
         <source>User Frame</source>
         <extracomment>Title</extracomment>
         <translation type="vanished">Naudotojo koordinačių sistema</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/UserFrameEditor.qml" line="26"/>
+        <source>User frame</source>
+        <extracomment>Separator label</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/UserFrameEditor.qml" line="41"/>
+        <source>Object frame</source>
+        <extracomment>Separator label</extracomment>
+        <translation type="unfinished">Objekto rėmas</translation>
     </message>
 </context>
 <context>
