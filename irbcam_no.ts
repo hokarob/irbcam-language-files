@@ -9903,7 +9903,7 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation>Prosjekt %1 lagret</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="889"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="890"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Prosjekt nullstilt</translation>
@@ -9936,63 +9936,63 @@ Større baner kan importeres ved å dele opp i flere mindre filer og velge &quot
         <translation type="vanished">Bane importert fra APT: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1158"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1159"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Klarte ikke å hente parset %1 fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1204"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1205"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>Antall desimalplasser som brukes i filen %1 er %2 (lav numerisk presisjon).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1225"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1226"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>%1 mål er filtrert ut fra filen %2: de er nærmere enn minimumsavstandsgrensen på %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1239"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1240"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>%1-målet filtreres ut fra filen %2: det er nærmere enn minimumsavstandsterskelen på %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1260"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1261"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Kunne ikke importere fil %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1268"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1269"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation>Bane importert fra %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1322"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1470"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1323"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1471"/>
         <source>Blend radius is overlapping at target %1. Try reducing the target velocity or increasing the maximum acceleration</source>
         <extracomment>Error message</extracomment>
         <translation>Blandingsradiusen overlapper ved mål %1. Prøv å redusere målhastigheten eller øke den maksimale akselerasjonen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1331"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1479"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1332"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1480"/>
         <source>Target %1 is too close. Try reimporting the path with minimum distance between targets &gt;= %2 mm or manually adjust the target so that the distance between two consecutive targets &gt;=  %2 mm</source>
         <extracomment>Error message</extracomment>
         <translation>Mål %1 er for nært. Prøv å reimportere banen med minimumsavstand mellom målene &gt;= %2 mm eller juster målet manuelt slik at avstanden mellom to påfølgende mål &gt;= %2 mm</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1574"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1575"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke gjenopprette lagret prosjekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1594"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1595"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -10000,56 +10000,56 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1661"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1662"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke hente bruker-koordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1679"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1680"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke laste bruker-koordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1689"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1690"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke hente objekt-koordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1698"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1699"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke laste objekt-koordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1766"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1774"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1784"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1767"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1775"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1785"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1793"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1959"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1965"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1794"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1960"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1966"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>verktøy</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1858"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1866"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1876"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1859"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1867"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1877"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>rotasjonsbord</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1888"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1896"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1889"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1897"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>lineærbane</translation>
@@ -10079,31 +10079,31 @@ Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</tran
         <translation>Kunne ikke laste ned prosjektet fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="932"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="933"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke bekrefte at prosjektet ble slettet fra skyen (det kan ha blitt slettet)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="957"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="958"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Prosjekt %1 ble slettet fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1040"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1041"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke bekrefte at prosjektet ble delt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1063"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1064"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Prosjekt %1 ble delt med %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1103"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1104"/>
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -10112,7 +10112,7 @@ Larger paths can be imported by splitting the file into smaller files and using 
 Større baner kan importeres ved å dele opp filen i mindre filer og bruke &apos;append&apos;-alternativet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1127"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1128"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Kunne ikke starte skyjobb %1</translation>
@@ -10123,14 +10123,14 @@ Større baner kan importeres ved å dele opp filen i mindre filer og bruke &apos
         <translation type="vanished">Kunne ikke hente analysert APT %1 fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1361"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1393"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1362"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1394"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke hente robotkode fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1586"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1587"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -10138,7 +10138,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dette kan være fordi objektet er lagret med en eldre versjon av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1612"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1613"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Mangler info i prosjekt hentet fra skyen</translation>
@@ -10151,7 +10151,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1651"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1652"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke laste prosjektdata</translation>
@@ -10167,7 +10167,7 @@ Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</tran
         <translation type="vanished">DH Tabellinformasjon mangler fra lagret prosjekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1998"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1999"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Prosjekt %1 lastet</translation>
@@ -10178,20 +10178,20 @@ Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</tran
         <translation type="vanished">Manglende versjonsinformasjon i prosjektet hentet fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1731"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1732"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Manglende eller ødelagt baneinformasjon fra lagret prosjekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1750"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1751"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>importer bane</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1909"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1916"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1910"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1917"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH-tabell</translation>
