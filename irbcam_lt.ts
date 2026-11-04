@@ -3220,13 +3220,13 @@ Palaikomi tik UTF-8 koduoti failai</translation>
         <translation>Išvalyti viską</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="402"/>
+        <location filename="../../Irbcam.qml" line="395"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Perrašyti %1</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="404"/>
+        <location filename="../../Irbcam.qml" line="397"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Ar tikrai norite perrašyti projektą %1?&lt;br&gt;&lt;br&gt;Šis projektas buvo anksčiau išsaugotas su versija %2&lt;br&gt;&lt;br&gt;Jei jį perrašysite, tada gali būti neįmanoma jį vėl atidaryti su IRBCAM %2&lt;br&gt;&lt;br&gt;Jei norite išsaugoti kopiją, tada galite išsaugoti projektą su nauju pavadinimu</translation>
@@ -7498,80 +7498,80 @@ Placeholder text until an icon has been selected</extracomment>
 <context>
     <name>ProjectListModel</name>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="994"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1000"/>
         <source>Recent</source>
         <extracomment>Collapsible section: Contains recent projects</extracomment>
         <translation>Neseniai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1002"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1008"/>
         <source>Examples</source>
         <extracomment>Collapsible section: Contains demo projects</extracomment>
         <translation>Pavyzdžiai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1000"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1006"/>
         <source>Shared with me</source>
         <extracomment>Collapsible section: Contains shared projects</extracomment>
         <translation>Bendrinama su manimi</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="79"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="75"/>
         <source>User does not have write permission for project %1</source>
         <extracomment>Error message</extracomment>
         <translation>Naudotojas neturi rašymo teisės projektui %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="189"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="185"/>
         <source>Name</source>
         <extracomment>List column header</extracomment>
         <translation>Vardas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="192"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="188"/>
         <source>Version</source>
         <extracomment>List column header</extracomment>
         <translation>Versija</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="195"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="191"/>
         <source>Created</source>
         <extracomment>List column header</extracomment>
         <translation>Sukurtas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="198"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="194"/>
         <source>Modified</source>
         <extracomment>List column header</extracomment>
         <translation>Modifikuotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="871"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="877"/>
         <source>Failed to parse project info</source>
         <extracomment>Warning message</extracomment>
         <translation>Nepavyko parsinti projekto informacijos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="877"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="883"/>
         <source>Failed to parse project info for project %1</source>
         <extracomment>Warning message</extracomment>
         <translation>Nepavyko išskaidyti projekto informacijos projektui %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="900"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="906"/>
         <source>autosave</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are autosaves</extracomment>
         <translation>automatinis išsaugojimas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="908"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="914"/>
         <source>Invalid project type for project %1</source>
         <extracomment>Warning message</extracomment>
         <translation>Netinkamas projekto tipas projektui %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="916"/>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="990"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="922"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="996"/>
         <source>example</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are public examples
 ----------
@@ -7579,8 +7579,8 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>pavyzdys</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="924"/>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="985"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="930"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="991"/>
         <source>shared</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are shared with user
 ----------
@@ -7588,13 +7588,13 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>bendras</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="998"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1004"/>
         <source>My projects (%1/%2)</source>
         <extracomment>Collapsible section: Contains user&apos;s projects</extracomment>
         <translation>Mano projektai (%1/%2)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1004"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1010"/>
         <source>Autosave</source>
         <extracomment>Collapsible section: Contains auto-saved projects</extracomment>
         <translation>Automatinis išsaugojimas</translation>
@@ -7603,223 +7603,223 @@ Contextual postfix to project name in list of recent projects. Appended to names
 <context>
     <name>ProjectManager</name>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="165"/>
+        <location filename="../../Popups/ProjectManager.qml" line="169"/>
         <source>Project contains unsaved changes</source>
         <extracomment>Popup title</extracomment>
         <translation>Projektas turi neišsaugotus pakeitimus</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="169"/>
+        <location filename="../../Popups/ProjectManager.qml" line="173"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Perrašyti %1</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="172"/>
+        <location filename="../../Popups/ProjectManager.qml" line="176"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Ištrinti %1</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="184"/>
+        <location filename="../../Popups/ProjectManager.qml" line="188"/>
         <source>Opening a new project will discard all unsaved changes&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Popup text</extracomment>
         <translation>Naujo projekto atidarymas panaikins visus neišsaugotus pakeitimus&lt;br&gt;&lt;br&gt;Ar norite tęsti?</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="187"/>
+        <location filename="../../Popups/ProjectManager.qml" line="191"/>
         <source>Opening a new project will discard all unsaved changes in project %1&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation>Naujo projekto atidarymas panaikins visus neišsaugotus pakeitimus projekte %1&lt;br&gt;&lt;br&gt;Ar norite tęsti?</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="190"/>
+        <location filename="../../Popups/ProjectManager.qml" line="194"/>
         <source>This action will permanently delete project %1 from the cloud</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation>Šis veiksmas visam laikui ištrins projektą %1 iš debesies</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="194"/>
+        <location filename="../../Popups/ProjectManager.qml" line="198"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Ar tikrai norite perrašyti projektą %1?&lt;br&gt;&lt;br&gt;Šis projektas buvo anksčiau išsaugotas su versija %2&lt;br&gt;&lt;br&gt;Jei jį perrašysite, tada gali būti neįmanoma jį vėl atidaryti su IRBCAM %2&lt;br&gt;&lt;br&gt;Jei norite išsaugoti kopiją, tada galite išsaugoti projektą su nauju pavadinimu</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="199"/>
+        <location filename="../../Popups/ProjectManager.qml" line="203"/>
         <source>Are you sure you want to overwrite project %1?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation>Ar tikrai norite perrašyti projektą %1?</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="241"/>
+        <location filename="../../Popups/ProjectManager.qml" line="245"/>
         <source>Save Project</source>
         <extracomment>Title</extracomment>
         <translation>Išsaugoti projektą</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="244"/>
+        <location filename="../../Popups/ProjectManager.qml" line="248"/>
         <source>Open Project</source>
         <extracomment>Title</extracomment>
         <translation>Atidaryti projektą</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="247"/>
+        <location filename="../../Popups/ProjectManager.qml" line="251"/>
         <source>Share Project</source>
         <extracomment>Title</extracomment>
         <translation>Bendrinti projektą</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="301"/>
+        <location filename="../../Popups/ProjectManager.qml" line="305"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation>Neinicijuotas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="304"/>
+        <location filename="../../Popups/ProjectManager.qml" line="308"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation>Laisvas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="307"/>
+        <location filename="../../Popups/ProjectManager.qml" line="311"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation>Gaunamas aprašymas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="310"/>
+        <location filename="../../Popups/ProjectManager.qml" line="314"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation>Atsisiuntimas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="313"/>
+        <location filename="../../Popups/ProjectManager.qml" line="317"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation>Išpakavimas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="316"/>
+        <location filename="../../Popups/ProjectManager.qml" line="320"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation>Kraunama</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="319"/>
+        <location filename="../../Popups/ProjectManager.qml" line="323"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation>Trinama</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="322"/>
+        <location filename="../../Popups/ProjectManager.qml" line="326"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation>Įkeliama</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="325"/>
+        <location filename="../../Popups/ProjectManager.qml" line="329"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation>Gaunamas sąrašas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="328"/>
+        <location filename="../../Popups/ProjectManager.qml" line="332"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation>Dekodavimas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="331"/>
+        <location filename="../../Popups/ProjectManager.qml" line="335"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation>Tikrinama</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="334"/>
+        <location filename="../../Popups/ProjectManager.qml" line="338"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation>Kraunami ištekliai</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="337"/>
+        <location filename="../../Popups/ProjectManager.qml" line="341"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation>Apdorojimas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="343"/>
+        <location filename="../../Popups/ProjectManager.qml" line="347"/>
         <source>Unknown</source>
         <extracomment>Network status: Unknown state</extracomment>
         <translation>Nežinoma</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="578"/>
+        <location filename="../../Popups/ProjectManager.qml" line="582"/>
         <source>Save name</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to save</extracomment>
         <translation>Išsaugoti vardą</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="582"/>
+        <location filename="../../Popups/ProjectManager.qml" line="586"/>
         <source>Search</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to search for</extracomment>
         <translation>Paieška</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="723"/>
+        <location filename="../../Popups/ProjectManager.qml" line="727"/>
         <source>Overwrite</source>
         <extracomment>Button text: Overwrite project</extracomment>
         <translation>Perrašyti</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="725"/>
+        <location filename="../../Popups/ProjectManager.qml" line="729"/>
         <source>Save</source>
         <extracomment>Button text: Save project</extracomment>
         <translation>Išsaugoti</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="728"/>
+        <location filename="../../Popups/ProjectManager.qml" line="732"/>
         <source>Open</source>
         <extracomment>Button text: Open project</extracomment>
         <translation>Atidaryti</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="731"/>
+        <location filename="../../Popups/ProjectManager.qml" line="735"/>
         <source>Share</source>
         <extracomment>Button text: Share project</extracomment>
         <translation>Dalintis</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="762"/>
+        <location filename="../../Popups/ProjectManager.qml" line="766"/>
         <source>You do not have write access to this project</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Jūs neturite rašymo prieigos prie šio projekto</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="767"/>
+        <location filename="../../Popups/ProjectManager.qml" line="771"/>
         <source>You have reached the maximum number of saved projects. A project must be deleted before a new one can be created</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Pasiekėte išsaugotų projektų maksimalų skaičių. Prieš kuriant naują, reikia ištrinti projektą</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="771"/>
+        <location filename="../../Popups/ProjectManager.qml" line="775"/>
         <source>The save name is invalid</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Išsaugojimo pavadinimas yra netinkamas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="774"/>
+        <location filename="../../Popups/ProjectManager.qml" line="778"/>
         <source>Select a project to open</source>
         <extracomment>Tool-tip: Explaining why the open button is disabled</extracomment>
         <translation>Pasirinkite projektą atidaryti</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="777"/>
+        <location filename="../../Popups/ProjectManager.qml" line="781"/>
         <source>Select a project to share</source>
         <extracomment>Tool-tip: Explaining why the share button is disabled</extracomment>
         <translation>Pasirinkite projektą bendrinti</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="797"/>
+        <location filename="../../Popups/ProjectManager.qml" line="801"/>
         <source>A network error was encountered while getting project info
 
 Please make sure you are connected to the internet and try again</source>
@@ -7829,7 +7829,7 @@ Please make sure you are connected to the internet and try again</source>
 Prašome įsitikinti, kad esate prisijungę prie interneto, ir bandyti dar kartą</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="799"/>
+        <location filename="../../Popups/ProjectManager.qml" line="803"/>
         <source>No saved projects</source>
         <extracomment>Placeholder text for an empty list</extracomment>
         <translation>Nėra išsaugotų projektų</translation>
@@ -8112,7 +8112,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="unfinished">Bendrinama su manimi</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="214"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="220"/>
         <source>Compressed urdf format (*.zip)</source>
         <extracomment>File type filter</extracomment>
         <translation type="unfinished"></translation>
@@ -8128,7 +8128,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="vanished">Aktyvuoti robotą</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="198"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="204"/>
         <source>Import</source>
         <extracomment>Collapsible section. This section contains tools to import a custom robot</extracomment>
         <translation>Importuoti</translation>
@@ -8185,20 +8185,20 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="216"/>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="217"/>
         <source>%1 has been deactivated</source>
         <comment>Status message: %1 = name</comment>
         <translation type="unfinished">%1 buvo deaktyvuotas</translation>
     </message>
     <message>
-        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="226"/>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="227"/>
         <source>Failed to verify if %1 has been deactivated. Refresh the list to check if it was successful</source>
         <comment>Warning message: %1 = name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="277"/>
-        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="293"/>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="280"/>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="296"/>
         <source>Activated robots (%1/%2)</source>
         <extracomment>Collapsible section in list. Contains robots which are activated</extracomment>
         <translation type="unfinished"></translation>

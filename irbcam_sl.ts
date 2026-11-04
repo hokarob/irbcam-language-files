@@ -3402,13 +3402,13 @@ Tool tip for text field.</extracomment>
         <translation>Počisti vse</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="402"/>
+        <location filename="../../Irbcam.qml" line="395"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Prepiši %1</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="404"/>
+        <location filename="../../Irbcam.qml" line="397"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Ali ste prepričani, da želite prepisati projekt %1?&lt;br&gt;&lt;br&gt;Ta projekt je bil prej shranjen z različico %2&lt;br&gt;&lt;br&gt;Če ga boste prepisali, potem morda ne bo več mogoče odpreti z IRBCAM %2&lt;br&gt;&lt;br&gt;Če želite obdržati kopijo, potem lahko shranite projekt z novim imenom</translation>
@@ -6955,62 +6955,62 @@ Placeholder text until an icon has been selected</extracomment>
 <context>
     <name>ProjectListModel</name>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="79"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="75"/>
         <source>User does not have write permission for project %1</source>
         <extracomment>Error message</extracomment>
         <translation>Uporabnik nima pravice za pisanje v projekt %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="189"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="185"/>
         <source>Name</source>
         <extracomment>List column header</extracomment>
         <translation>Ime</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="192"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="188"/>
         <source>Version</source>
         <extracomment>List column header</extracomment>
         <translation>Različica</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="195"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="191"/>
         <source>Created</source>
         <extracomment>List column header</extracomment>
         <translation>Ustvarjeno</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="198"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="194"/>
         <source>Modified</source>
         <extracomment>List column header</extracomment>
         <translation>Spremenjeno</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="871"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="877"/>
         <source>Failed to parse project info</source>
         <extracomment>Warning message</extracomment>
         <translation>Napaka pri razčlenjevanju informacij projekta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="877"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="883"/>
         <source>Failed to parse project info for project %1</source>
         <extracomment>Warning message</extracomment>
         <translation>Ni uspelo razčleniti informacij o projektu za projekt %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="900"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="906"/>
         <source>autosave</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are autosaves</extracomment>
         <translation>samodejno shranjevanje</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="908"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="914"/>
         <source>Invalid project type for project %1</source>
         <extracomment>Warning message</extracomment>
         <translation>Neveljavna vrsta projekta za projekt %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="916"/>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="990"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="922"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="996"/>
         <source>example</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are public examples
 ----------
@@ -7018,8 +7018,8 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>primer</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="924"/>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="985"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="930"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="991"/>
         <source>shared</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are shared with user
 ----------
@@ -7027,13 +7027,13 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>skupen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="994"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1000"/>
         <source>Recent</source>
         <extracomment>Collapsible section: Contains recent projects</extracomment>
         <translation>Nedavno</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="998"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1004"/>
         <source>My projects (%1/%2)</source>
         <extracomment>Collapsible section: Contains user&apos;s projects</extracomment>
         <translation>Moji projekti (%1/%2)</translation>
@@ -7044,13 +7044,13 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation type="vanished">Moji projekti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1002"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1008"/>
         <source>Examples</source>
         <extracomment>Collapsible section: Contains demo projects</extracomment>
         <translation>Primeri</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1000"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1006"/>
         <source>Shared with me</source>
         <extracomment>Collapsible section: Contains shared projects</extracomment>
         <translation>Deljeno z mano</translation>
@@ -7061,7 +7061,7 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation type="vanished">Shranjenih projektov iz oblaka ni bilo mogoče pridobiti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1004"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1010"/>
         <source>Autosave</source>
         <extracomment>Collapsible section: Contains auto-saved projects</extracomment>
         <translation>Samodejno shranjevanje</translation>
@@ -7080,223 +7080,223 @@ Contextual postfix to project name in list of recent projects. Appended to names
 <context>
     <name>ProjectManager</name>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="165"/>
+        <location filename="../../Popups/ProjectManager.qml" line="169"/>
         <source>Project contains unsaved changes</source>
         <extracomment>Popup title</extracomment>
         <translation>Projekt vsebuje neshranjene spremembe</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="169"/>
+        <location filename="../../Popups/ProjectManager.qml" line="173"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Prepiši %1</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="172"/>
+        <location filename="../../Popups/ProjectManager.qml" line="176"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Izbriši %1</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="184"/>
+        <location filename="../../Popups/ProjectManager.qml" line="188"/>
         <source>Opening a new project will discard all unsaved changes&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Popup text</extracomment>
         <translation>Odpiranje novega projekta bo zavrglo vse neshranjene spremembe&lt;br&gt;&lt;br&gt;Ali želite nadaljevati?</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="187"/>
+        <location filename="../../Popups/ProjectManager.qml" line="191"/>
         <source>Opening a new project will discard all unsaved changes in project %1&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation>Odpiranje novega projekta bo zavrglo vse neshranjene spremembe v projektu %1&lt;br&gt;&lt;br&gt;Ali želite nadaljevati?</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="190"/>
+        <location filename="../../Popups/ProjectManager.qml" line="194"/>
         <source>This action will permanently delete project %1 from the cloud</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation>To dejanje bo za stalno izbrisalo %1 iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="194"/>
+        <location filename="../../Popups/ProjectManager.qml" line="198"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Ali ste prepričani, da želite prepisati projekt %1?&lt;br&gt;&lt;br&gt;Ta projekt je bil prej shranjen z različico %2&lt;br&gt;&lt;br&gt;Če ga boste prepisali, potem morda ne bo več mogoče odpreti z IRBCAM %2&lt;br&gt;&lt;br&gt;Če želite obdržati kopijo, potem lahko shranite projekt z novim imenom</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="199"/>
+        <location filename="../../Popups/ProjectManager.qml" line="203"/>
         <source>Are you sure you want to overwrite project %1?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation>Ali ste prepričani, da želite prepisati %1?</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="241"/>
+        <location filename="../../Popups/ProjectManager.qml" line="245"/>
         <source>Save Project</source>
         <extracomment>Title</extracomment>
         <translation>Shrani projekt</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="244"/>
+        <location filename="../../Popups/ProjectManager.qml" line="248"/>
         <source>Open Project</source>
         <extracomment>Title</extracomment>
         <translation>Odpri projekt</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="247"/>
+        <location filename="../../Popups/ProjectManager.qml" line="251"/>
         <source>Share Project</source>
         <extracomment>Title</extracomment>
         <translation>Skupna raba projekta</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="301"/>
+        <location filename="../../Popups/ProjectManager.qml" line="305"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation>Neinicializirano</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="304"/>
+        <location filename="../../Popups/ProjectManager.qml" line="308"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation>Nedejaven</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="307"/>
+        <location filename="../../Popups/ProjectManager.qml" line="311"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation>Pridobivanje opisa</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="310"/>
+        <location filename="../../Popups/ProjectManager.qml" line="314"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation>Prenašanje</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="313"/>
+        <location filename="../../Popups/ProjectManager.qml" line="317"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation>Razpakiranje</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="316"/>
+        <location filename="../../Popups/ProjectManager.qml" line="320"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation>Nalaganje</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="319"/>
+        <location filename="../../Popups/ProjectManager.qml" line="323"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation>Brisanje</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="322"/>
+        <location filename="../../Popups/ProjectManager.qml" line="326"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation>Nalaganje</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="325"/>
+        <location filename="../../Popups/ProjectManager.qml" line="329"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation>Pridobivanje seznama</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="328"/>
+        <location filename="../../Popups/ProjectManager.qml" line="332"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation>Dekodiranje</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="331"/>
+        <location filename="../../Popups/ProjectManager.qml" line="335"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation>Verifikacija</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="334"/>
+        <location filename="../../Popups/ProjectManager.qml" line="338"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation>Nalaganje sredstev</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="337"/>
+        <location filename="../../Popups/ProjectManager.qml" line="341"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation>Procesiranje</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="343"/>
+        <location filename="../../Popups/ProjectManager.qml" line="347"/>
         <source>Unknown</source>
         <extracomment>Network status: Unknown state</extracomment>
         <translation>Neznano</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="578"/>
+        <location filename="../../Popups/ProjectManager.qml" line="582"/>
         <source>Save name</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to save</extracomment>
         <translation>Shrani ime</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="582"/>
+        <location filename="../../Popups/ProjectManager.qml" line="586"/>
         <source>Search</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to search for</extracomment>
         <translation>Išči</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="723"/>
+        <location filename="../../Popups/ProjectManager.qml" line="727"/>
         <source>Overwrite</source>
         <extracomment>Button text: Overwrite project</extracomment>
         <translation>Prepiši</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="725"/>
+        <location filename="../../Popups/ProjectManager.qml" line="729"/>
         <source>Save</source>
         <extracomment>Button text: Save project</extracomment>
         <translation>Shrani</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="728"/>
+        <location filename="../../Popups/ProjectManager.qml" line="732"/>
         <source>Open</source>
         <extracomment>Button text: Open project</extracomment>
         <translation>Odpri</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="731"/>
+        <location filename="../../Popups/ProjectManager.qml" line="735"/>
         <source>Share</source>
         <extracomment>Button text: Share project</extracomment>
         <translation>Deli</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="762"/>
+        <location filename="../../Popups/ProjectManager.qml" line="766"/>
         <source>You do not have write access to this project</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Nimate pisnega dostopa do tega projekta</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="767"/>
+        <location filename="../../Popups/ProjectManager.qml" line="771"/>
         <source>You have reached the maximum number of saved projects. A project must be deleted before a new one can be created</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Dosegli ste največje število shranjenih projektov. Projekt mora biti izbrisan, preden se lahko ustvari novega</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="771"/>
+        <location filename="../../Popups/ProjectManager.qml" line="775"/>
         <source>The save name is invalid</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Ime shranjevanja ni veljavno</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="774"/>
+        <location filename="../../Popups/ProjectManager.qml" line="778"/>
         <source>Select a project to open</source>
         <extracomment>Tool-tip: Explaining why the open button is disabled</extracomment>
         <translation>Izberite projekt za odprtje</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="777"/>
+        <location filename="../../Popups/ProjectManager.qml" line="781"/>
         <source>Select a project to share</source>
         <extracomment>Tool-tip: Explaining why the share button is disabled</extracomment>
         <translation>Izberite projekt za deljenje</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="797"/>
+        <location filename="../../Popups/ProjectManager.qml" line="801"/>
         <source>A network error was encountered while getting project info
 
 Please make sure you are connected to the internet and try again</source>
@@ -7304,7 +7304,7 @@ Please make sure you are connected to the internet and try again</source>
         <translation>Pri pridobivanju informacij o projektu je prišlo do napake v omrežju Prepričajte se, da ste povezani z internetom, in poskusite znova.</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="799"/>
+        <location filename="../../Popups/ProjectManager.qml" line="803"/>
         <source>No saved projects</source>
         <extracomment>Placeholder text for an empty list</extracomment>
         <translation>Ni shranjenih projektov</translation>
@@ -7555,7 +7555,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="unfinished">Deljeno z mano</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="214"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="220"/>
         <source>Compressed urdf format (*.zip)</source>
         <extracomment>File type filter</extracomment>
         <translation type="unfinished"></translation>
@@ -7571,7 +7571,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="vanished">Aktiviraj robota</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="198"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="204"/>
         <source>Import</source>
         <extracomment>Collapsible section. This section contains tools to import a custom robot</extracomment>
         <translation>Uvozi</translation>
@@ -7628,20 +7628,20 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="216"/>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="217"/>
         <source>%1 has been deactivated</source>
         <comment>Status message: %1 = name</comment>
         <translation type="unfinished">%1 je bil deaktiviran</translation>
     </message>
     <message>
-        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="226"/>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="227"/>
         <source>Failed to verify if %1 has been deactivated. Refresh the list to check if it was successful</source>
         <comment>Warning message: %1 = name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="277"/>
-        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="293"/>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="280"/>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="296"/>
         <source>Activated robots (%1/%2)</source>
         <extracomment>Collapsible section in list. Contains robots which are activated</extracomment>
         <translation type="unfinished"></translation>

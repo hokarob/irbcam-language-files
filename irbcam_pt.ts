@@ -3132,13 +3132,13 @@ Apenas arquivos codificados em UTF-8 são suportados</translation>
         <translation>Limpar tudo</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="402"/>
+        <location filename="../../Irbcam.qml" line="395"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Sobrescrever %1</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="404"/>
+        <location filename="../../Irbcam.qml" line="397"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Tem certeza de que deseja sobrescrever o projeto %1?&lt;br&gt;&lt;br&gt;Este projeto foi salvo anteriormente com a versão %2&lt;br&gt;&lt;br&gt;Se você sobrescrevê-lo, pode não ser possível abri-lo novamente com o IRBCAM %2&lt;br&gt;&lt;br&gt;Se quiser manter uma cópia, você pode salvar o projeto com um novo nome</translation>
@@ -7405,80 +7405,80 @@ Placeholder text until an icon has been selected</extracomment>
 <context>
     <name>ProjectListModel</name>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="994"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1000"/>
         <source>Recent</source>
         <extracomment>Collapsible section: Contains recent projects</extracomment>
         <translation>Recente</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1002"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1008"/>
         <source>Examples</source>
         <extracomment>Collapsible section: Contains demo projects</extracomment>
         <translation>Exemplos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1000"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1006"/>
         <source>Shared with me</source>
         <extracomment>Collapsible section: Contains shared projects</extracomment>
         <translation>Compartilhado comigo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="79"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="75"/>
         <source>User does not have write permission for project %1</source>
         <extracomment>Error message</extracomment>
         <translation>O usuário não tem permissão de escrita para o projeto %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="189"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="185"/>
         <source>Name</source>
         <extracomment>List column header</extracomment>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="192"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="188"/>
         <source>Version</source>
         <extracomment>List column header</extracomment>
         <translation>Versão</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="195"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="191"/>
         <source>Created</source>
         <extracomment>List column header</extracomment>
         <translation>Criado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="198"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="194"/>
         <source>Modified</source>
         <extracomment>List column header</extracomment>
         <translation>Modificado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="871"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="877"/>
         <source>Failed to parse project info</source>
         <extracomment>Warning message</extracomment>
         <translation>Falha ao analisar informações do projeto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="877"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="883"/>
         <source>Failed to parse project info for project %1</source>
         <extracomment>Warning message</extracomment>
         <translation>Falha ao analisar informações do projeto para o projeto %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="900"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="906"/>
         <source>autosave</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are autosaves</extracomment>
         <translation>salvamento automático</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="908"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="914"/>
         <source>Invalid project type for project %1</source>
         <extracomment>Warning message</extracomment>
         <translation>Tipo de projeto inválido para o projeto %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="916"/>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="990"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="922"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="996"/>
         <source>example</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are public examples
 ----------
@@ -7486,8 +7486,8 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>exemplo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="924"/>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="985"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="930"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="991"/>
         <source>shared</source>
         <extracomment>Contextual postfix to project name in search list. Appended to names of project that are shared with user
 ----------
@@ -7495,13 +7495,13 @@ Contextual postfix to project name in list of recent projects. Appended to names
         <translation>compartilhado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="998"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1004"/>
         <source>My projects (%1/%2)</source>
         <extracomment>Collapsible section: Contains user&apos;s projects</extracomment>
         <translation>Meus projetos (%1/%2)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/projectlistmodel.cpp" line="1004"/>
+        <location filename="../../../backend/src/projectlistmodel.cpp" line="1010"/>
         <source>Autosave</source>
         <extracomment>Collapsible section: Contains auto-saved projects</extracomment>
         <translation>Salvamento automático</translation>
@@ -7510,223 +7510,223 @@ Contextual postfix to project name in list of recent projects. Appended to names
 <context>
     <name>ProjectManager</name>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="165"/>
+        <location filename="../../Popups/ProjectManager.qml" line="169"/>
         <source>Project contains unsaved changes</source>
         <extracomment>Popup title</extracomment>
         <translation>Projeto contém alterações não salvas</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="169"/>
+        <location filename="../../Popups/ProjectManager.qml" line="173"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Sobrescrever %1</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="172"/>
+        <location filename="../../Popups/ProjectManager.qml" line="176"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Excluir %1</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="184"/>
+        <location filename="../../Popups/ProjectManager.qml" line="188"/>
         <source>Opening a new project will discard all unsaved changes&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Popup text</extracomment>
         <translation>Abrir um novo projeto irá descartar todas as alterações não salvas&lt;br&gt;&lt;br&gt;Você deseja continuar?</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="187"/>
+        <location filename="../../Popups/ProjectManager.qml" line="191"/>
         <source>Opening a new project will discard all unsaved changes in project %1&lt;br&gt;&lt;br&gt;Do you want to continue?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation>Abrir um novo projeto descartará todas as alterações não salvas no projeto %1&lt;br&gt;&lt;br&gt;Deseja continuar?</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="190"/>
+        <location filename="../../Popups/ProjectManager.qml" line="194"/>
         <source>This action will permanently delete project %1 from the cloud</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation>Esta ação excluirá permanentemente o projeto %1 da nuvem</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="194"/>
+        <location filename="../../Popups/ProjectManager.qml" line="198"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Tem certeza de que deseja sobrescrever o projeto %1?&lt;br&gt;&lt;br&gt;Este projeto foi salvo anteriormente com a versão %2&lt;br&gt;&lt;br&gt;Se você sobrescrevê-lo, pode não ser possível abri-lo novamente com o IRBCAM %2&lt;br&gt;&lt;br&gt;Se quiser manter uma cópia, você pode salvar o projeto com um novo nome</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="199"/>
+        <location filename="../../Popups/ProjectManager.qml" line="203"/>
         <source>Are you sure you want to overwrite project %1?</source>
         <extracomment>Popup text. %1 = project name</extracomment>
         <translation>Tem certeza de que deseja sobrescrever o projeto %1?</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="241"/>
+        <location filename="../../Popups/ProjectManager.qml" line="245"/>
         <source>Save Project</source>
         <extracomment>Title</extracomment>
         <translation>Salvar Projeto</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="244"/>
+        <location filename="../../Popups/ProjectManager.qml" line="248"/>
         <source>Open Project</source>
         <extracomment>Title</extracomment>
         <translation>Abrir Projeto</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="247"/>
+        <location filename="../../Popups/ProjectManager.qml" line="251"/>
         <source>Share Project</source>
         <extracomment>Title</extracomment>
         <translation>Compartilhar Projeto</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="301"/>
+        <location filename="../../Popups/ProjectManager.qml" line="305"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation>Não inicializado</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="304"/>
+        <location filename="../../Popups/ProjectManager.qml" line="308"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation>Ocioso</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="307"/>
+        <location filename="../../Popups/ProjectManager.qml" line="311"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation>Buscando descrição</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="310"/>
+        <location filename="../../Popups/ProjectManager.qml" line="314"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation>Baixando</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="313"/>
+        <location filename="../../Popups/ProjectManager.qml" line="317"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation>Desempacotando</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="316"/>
+        <location filename="../../Popups/ProjectManager.qml" line="320"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation>Carregando</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="319"/>
+        <location filename="../../Popups/ProjectManager.qml" line="323"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation>Excluindo</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="322"/>
+        <location filename="../../Popups/ProjectManager.qml" line="326"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation>Carregando</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="325"/>
+        <location filename="../../Popups/ProjectManager.qml" line="329"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation>Buscando lista</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="328"/>
+        <location filename="../../Popups/ProjectManager.qml" line="332"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation>Decodificação</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="331"/>
+        <location filename="../../Popups/ProjectManager.qml" line="335"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation>Verificando</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="334"/>
+        <location filename="../../Popups/ProjectManager.qml" line="338"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation>Carregando ativos</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="337"/>
+        <location filename="../../Popups/ProjectManager.qml" line="341"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation>Processando</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="343"/>
+        <location filename="../../Popups/ProjectManager.qml" line="347"/>
         <source>Unknown</source>
         <extracomment>Network status: Unknown state</extracomment>
         <translation>Desconhecido</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="578"/>
+        <location filename="../../Popups/ProjectManager.qml" line="582"/>
         <source>Save name</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to save</extracomment>
         <translation>Salvar nome</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="582"/>
+        <location filename="../../Popups/ProjectManager.qml" line="586"/>
         <source>Search</source>
         <extracomment>Placeholder text for an empty textfield: Name of project to search for</extracomment>
         <translation>Pesquisar</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="723"/>
+        <location filename="../../Popups/ProjectManager.qml" line="727"/>
         <source>Overwrite</source>
         <extracomment>Button text: Overwrite project</extracomment>
         <translation>Sobrescrever</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="725"/>
+        <location filename="../../Popups/ProjectManager.qml" line="729"/>
         <source>Save</source>
         <extracomment>Button text: Save project</extracomment>
         <translation>Salvar</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="728"/>
+        <location filename="../../Popups/ProjectManager.qml" line="732"/>
         <source>Open</source>
         <extracomment>Button text: Open project</extracomment>
         <translation>Abrir</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="731"/>
+        <location filename="../../Popups/ProjectManager.qml" line="735"/>
         <source>Share</source>
         <extracomment>Button text: Share project</extracomment>
         <translation>Compartilhar</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="762"/>
+        <location filename="../../Popups/ProjectManager.qml" line="766"/>
         <source>You do not have write access to this project</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Você não tem acesso de escrita a este projeto</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="767"/>
+        <location filename="../../Popups/ProjectManager.qml" line="771"/>
         <source>You have reached the maximum number of saved projects. A project must be deleted before a new one can be created</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>Você atingiu o número máximo de projetos salvos. Um projeto deve ser excluído antes que um novo possa ser criado</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="771"/>
+        <location filename="../../Popups/ProjectManager.qml" line="775"/>
         <source>The save name is invalid</source>
         <extracomment>Tool-tip: Explaining why the save button is disabled</extracomment>
         <translation>O nome do save é inválido</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="774"/>
+        <location filename="../../Popups/ProjectManager.qml" line="778"/>
         <source>Select a project to open</source>
         <extracomment>Tool-tip: Explaining why the open button is disabled</extracomment>
         <translation>Selecionar um projeto para abrir</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="777"/>
+        <location filename="../../Popups/ProjectManager.qml" line="781"/>
         <source>Select a project to share</source>
         <extracomment>Tool-tip: Explaining why the share button is disabled</extracomment>
         <translation>Selecionar um projeto para compartilhar</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="797"/>
+        <location filename="../../Popups/ProjectManager.qml" line="801"/>
         <source>A network error was encountered while getting project info
 
 Please make sure you are connected to the internet and try again</source>
@@ -7736,7 +7736,7 @@ Please make sure you are connected to the internet and try again</source>
 Certifique-se de que está conectado à internet e tente novamente</translation>
     </message>
     <message>
-        <location filename="../../Popups/ProjectManager.qml" line="799"/>
+        <location filename="../../Popups/ProjectManager.qml" line="803"/>
         <source>No saved projects</source>
         <extracomment>Placeholder text for an empty list</extracomment>
         <translation>Nenhum projeto salvo</translation>
@@ -8019,7 +8019,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="unfinished">Compartilhado comigo</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="214"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="220"/>
         <source>Compressed urdf format (*.zip)</source>
         <extracomment>File type filter</extracomment>
         <translation type="unfinished"></translation>
@@ -8035,7 +8035,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="vanished">Ativar robô</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="198"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="204"/>
         <source>Import</source>
         <extracomment>Collapsible section. This section contains tools to import a custom robot</extracomment>
         <translation>Importar</translation>
@@ -8092,20 +8092,20 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="216"/>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="217"/>
         <source>%1 has been deactivated</source>
         <comment>Status message: %1 = name</comment>
         <translation type="unfinished">%1 foi desativado</translation>
     </message>
     <message>
-        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="226"/>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="227"/>
         <source>Failed to verify if %1 has been deactivated. Refresh the list to check if it was successful</source>
         <comment>Warning message: %1 = name</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="277"/>
-        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="293"/>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="280"/>
+        <location filename="../../../backend/models/src/robotlistmodel.cpp" line="296"/>
         <source>Activated robots (%1/%2)</source>
         <extracomment>Collapsible section in list. Contains robots which are activated</extracomment>
         <translation type="unfinished"></translation>
