@@ -7555,7 +7555,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="unfinished">Deljeno z mano</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="220"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="219"/>
         <source>Compressed urdf format (*.zip)</source>
         <extracomment>File type filter</extracomment>
         <translation type="unfinished"></translation>
@@ -7571,7 +7571,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="vanished">Aktiviraj robota</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/RobotEditor.qml" line="204"/>
+        <location filename="../../Sidebar/RobotEditor.qml" line="203"/>
         <source>Import</source>
         <extracomment>Collapsible section. This section contains tools to import a custom robot</extracomment>
         <translation>Uvozi</translation>
