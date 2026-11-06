@@ -9921,7 +9921,7 @@ Droptown menu text, motion type for target</extracomment>
 <context>
     <name>ToolData</name>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="97"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="83"/>
         <source>Tool Data</source>
         <extracomment>Collapsible section: Set data related the tool</extracomment>
         <translation>Podatki Orodja</translation>
@@ -9987,8 +9987,8 @@ Droptown menu text, motion type for target</extracomment>
         <translation type="vanished">Težišče Z</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="315"/>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="404"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="133"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="222"/>
         <source>Function name</source>
         <extracomment>Name of the function that handles automatic tool chaning in the exported code
 ----------
@@ -9996,68 +9996,68 @@ Name of the tool in the exported code</extracomment>
         <translation>Ime funkcije</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="327"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="145"/>
         <source>LoadTool</source>
         <extracomment>Placeholder for when no function name has been entered</extracomment>
         <translation>LoadTool</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="351"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="169"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox. Select to export gun on/off</extracomment>
         <translation>Varilna pištola vključeno/izključeno</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="382"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="200"/>
         <source>Include tool commands in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Vključi ukaze orodij v izvoženo kodo</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="415"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="233"/>
         <source>SetToolCommand</source>
         <extracomment>Placeholder for when no tool export name has been entered</extracomment>
         <translation>SetToolCommand</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="434"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="252"/>
         <source>Export at each target</source>
         <extracomment>Checkbox. Select to enable export tool command at each target</extracomment>
         <translation>Izvozi pri vsakem cilju</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="441"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="259"/>
         <source>Export spindle speed at each target</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Izvozi hitrost vretena pri vsakem cilju</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="444"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="262"/>
         <source>Export gun on/off at each target</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Izvozi vklop/izklop pištole pri vsakem cilju</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="447"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="265"/>
         <source>Export tool on/off at each target</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Orodje za izvoz vklop/izklop pri vsakem cilju</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="449"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="267"/>
         <source>Export tool command at each target</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Izvozi ukaz orodja pri vsakem cilju</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="451"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="269"/>
         <source>
 Disable this to export only when the value changes between targets</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Onemogoči to, da se izvozi samo, ko se vrednost spremeni med cilji</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="472"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="290"/>
         <source>Enable fine point before tool on/off</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Omogoči fino točko pred vklopom/izklopom orodja</translation>
@@ -10068,67 +10068,67 @@ Disable this to export only when the value changes between targets</source>
         <translation type="vanished">Izklopi orodje (pištolo) pri hitrem gibanju</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="461"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="279"/>
         <source>Fine point before gun on/off</source>
         <extracomment>Checkbox. Select to enable fine point before gun on/off</extracomment>
         <translation>Natančno pozicioniranje pred Varilna pištola vključeno/izključeno</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="463"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="281"/>
         <source>Fine point before tool on/off</source>
         <extracomment>Checkbox. Select to enable fine point before tool on/off</extracomment>
         <translation>Fina točka pred vklopom/izklopom orodja</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="470"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="288"/>
         <source>Enable fine point before gun on/off</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Omogoči pozicioniranje pred Varilna pištola vključeno/izključeno</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="288"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="104"/>
         <source>Set tool number</source>
         <extracomment>Checkbox. Select to enable automatic tool changing in exported code</extracomment>
         <translation>Nastavite številko orodja</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="294"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="111"/>
         <source>Automatic tool changing</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Samodejna menjava orodja</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="353"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="171"/>
         <source>Tool on/off</source>
         <extracomment>Checkbox. Select to switch off tool under rapid movement</extracomment>
         <translation>Orodje vključeno/izključeno</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="359"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="177"/>
         <source>Include gun on/off in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>V izvoženi kodi vključi vklop/izklop pištole</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="361"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="179"/>
         <source>Include tool on/off in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Vključi vklop/izklop orodja v izvoženo kodo</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="372"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="190"/>
         <source>Export spindle speeds</source>
         <extracomment>Checkbox. Select to include spindle speeds in exported robot code</extracomment>
         <translation>Izvozi hitrosti vretena</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="374"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="192"/>
         <source>Export tool commands</source>
         <extracomment>Checkbox. Select to include tool commands in exported robot code</extracomment>
         <translation>Izvoz ukazov orodij</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="380"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="198"/>
         <source>Include spindle speeds in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>V izvoženo kodo vključite hitrosti vretena</translation>
@@ -10526,13 +10526,13 @@ Button. Import custom tool</extracomment>
         <translation>Barva</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="492"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="496"/>
         <source>CoG</source>
         <extracomment>Label for text field. Centre of Gravity</extracomment>
         <translation type="unfinished">T</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="494"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="498"/>
         <source>Centre of Gravity</source>
         <extracomment>Tool-tip for CoG</extracomment>
         <translation type="unfinished"></translation>
@@ -10561,13 +10561,13 @@ Button. Import custom tool</extracomment>
         <translation>Ime izvoza orodja</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="468"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="472"/>
         <source>Weight</source>
         <extracomment>Label for text field. weight</extracomment>
         <translation>Teža</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="480"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="484"/>
         <source>kg</source>
         <extracomment>Unit: millimetres</extracomment>
         <translation>kg</translation>
@@ -10683,55 +10683,55 @@ Button text</extracomment>
 <context>
     <name>ToolModel</name>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1562"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1564"/>
         <source>Custom tool upload failed</source>
         <extracomment>Error message</extracomment>
         <translation>Nalaganje orodja po meri ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1568"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1570"/>
         <source>Custom tool %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
         <translation>Orodje po meri %1 uspešno naloženo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1604"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1606"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Ni uspelo potrditi, da je bil %1 izbrisan iz oblaka (element je bil morda izbrisan ali pa ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1637"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1639"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 je bil izbrisan iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1782"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1784"/>
         <source>Failed to download tool from cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Prenos orodja iz oblaka ni uspel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1901"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1903"/>
         <source>Failed to download tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Neuspelo prenesti orodje iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1936"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1938"/>
         <source>Failed to unpack tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Neuspelo razpakirati orodje iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2002"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2004"/>
         <source>Failed to load %1 mesh</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Neuspelo nalaganje mreže %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2109"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2111"/>
         <source>Tool %1 mesh loaded from %2</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Mreža orodja %1 naložena iz %2</translation>

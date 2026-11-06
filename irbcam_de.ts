@@ -8755,7 +8755,7 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
 <context>
     <name>ToolData</name>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="97"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="83"/>
         <source>Tool Data</source>
         <extracomment>Collapsible section: Set data related the tool</extracomment>
         <translation>Werkzeugdaten</translation>
@@ -8821,8 +8821,8 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation type="vanished">Schwerpunkt Z</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="315"/>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="404"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="133"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="222"/>
         <source>Function name</source>
         <extracomment>Name of the function that handles automatic tool chaning in the exported code
 ----------
@@ -8830,68 +8830,68 @@ Name of the tool in the exported code</extracomment>
         <translation>Funktionsname</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="327"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="145"/>
         <source>LoadTool</source>
         <extracomment>Placeholder for when no function name has been entered</extracomment>
         <translation>LoadTool</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="351"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="169"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox. Select to export gun on/off</extracomment>
         <translation>Pistole ein/aus</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="382"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="200"/>
         <source>Include tool commands in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Werkzeugbefehle in exportierten Code einbeziehen</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="415"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="233"/>
         <source>SetToolCommand</source>
         <extracomment>Placeholder for when no tool export name has been entered</extracomment>
         <translation>SetToolCommand</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="434"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="252"/>
         <source>Export at each target</source>
         <extracomment>Checkbox. Select to enable export tool command at each target</extracomment>
         <translation>Exportieren bei jedem Ziel</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="441"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="259"/>
         <source>Export spindle speed at each target</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Spindeldrehzahl an jedem Ziel exportieren</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="444"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="262"/>
         <source>Export gun on/off at each target</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Exportiere Gun ein/aus an jedem Ziel</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="447"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="265"/>
         <source>Export tool on/off at each target</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Export-Tool ein-/ausschalten an jedem Ziel</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="449"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="267"/>
         <source>Export tool command at each target</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Werkzeugbefehl an jedem Ziel exportieren</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="451"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="269"/>
         <source>
 Disable this to export only when the value changes between targets</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Deaktivieren Sie dies, um nur zu exportieren, wenn sich der Wert zwischen Zielen ändert</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="472"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="290"/>
         <source>Enable fine point before tool on/off</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Feinpunkt vor Werkzeug ein/aus aktivieren</translation>
@@ -8902,67 +8902,67 @@ Disable this to export only when the value changes between targets</source>
         <translation type="vanished">Werkzeug (Pistole) bei schneller Bewegung ausschalten</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="461"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="279"/>
         <source>Fine point before gun on/off</source>
         <extracomment>Checkbox. Select to enable fine point before gun on/off</extracomment>
         <translation>Feinpunkt vor Pistole ein/aus</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="463"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="281"/>
         <source>Fine point before tool on/off</source>
         <extracomment>Checkbox. Select to enable fine point before tool on/off</extracomment>
         <translation>Feiner Punkt vor Werkzeug ein/aus</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="470"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="288"/>
         <source>Enable fine point before gun on/off</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Feinpunkt vor Pistole ein/aus aktivieren</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="288"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="104"/>
         <source>Set tool number</source>
         <extracomment>Checkbox. Select to enable automatic tool changing in exported code</extracomment>
         <translation>Werkzeugnummer festlegen</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="294"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="111"/>
         <source>Automatic tool changing</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Automatischer Werkzeugwechsel</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="353"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="171"/>
         <source>Tool on/off</source>
         <extracomment>Checkbox. Select to switch off tool under rapid movement</extracomment>
         <translation>Tool ein/aus</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="359"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="177"/>
         <source>Include gun on/off in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Schließe Gun an/aus in exportierten Code ein</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="361"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="179"/>
         <source>Include tool on/off in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Werkzeug ein/aus in exportierten Code einbeziehen</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="372"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="190"/>
         <source>Export spindle speeds</source>
         <extracomment>Checkbox. Select to include spindle speeds in exported robot code</extracomment>
         <translation>Spindeldrehzahlen exportieren</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="374"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="192"/>
         <source>Export tool commands</source>
         <extracomment>Checkbox. Select to include tool commands in exported robot code</extracomment>
         <translation>Tool-Befehle exportieren</translation>
     </message>
     <message>
-        <location filename="../../Popups/ExportOptions/ToolData.qml" line="380"/>
+        <location filename="../../Popups/ExportOptions/ToolData.qml" line="198"/>
         <source>Include spindle speeds in exported code</source>
         <extracomment>Tool tip for checkbox</extracomment>
         <translation>Spindeldrehzahlen in exportiertem Code einschließen</translation>
@@ -9354,13 +9354,13 @@ Button. Import custom tool</extracomment>
         <translation>Farbe</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="492"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="496"/>
         <source>CoG</source>
         <extracomment>Label for text field. Centre of Gravity</extracomment>
         <translation type="unfinished">Schwerpunkt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="494"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="498"/>
         <source>Centre of Gravity</source>
         <extracomment>Tool-tip for CoG</extracomment>
         <translation type="unfinished"></translation>
@@ -9389,13 +9389,13 @@ Button. Import custom tool</extracomment>
         <translation>Name des Werkzeugexports</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="468"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="472"/>
         <source>Weight</source>
         <extracomment>Label for text field. weight</extracomment>
         <translation>Gewicht</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="480"/>
+        <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="484"/>
         <source>kg</source>
         <extracomment>Unit: millimetres</extracomment>
         <translation>kg</translation>
@@ -9511,55 +9511,55 @@ Button text</extracomment>
 <context>
     <name>ToolModel</name>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1562"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1564"/>
         <source>Custom tool upload failed</source>
         <extracomment>Error message</extracomment>
         <translation>Hochladen des benutzerdefinierten Tools fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1568"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1570"/>
         <source>Custom tool %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
         <translation>Benutzerdefiniertes Werkzeug %1 erfolgreich hochgeladen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1604"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1606"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Konnte nicht bestätigen, dass %1 aus der Cloud gelöscht wurde (das Element wurde möglicherweise gelöscht oder auch nicht)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1637"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1639"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 wurde aus der Cloud gelöscht</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1782"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1784"/>
         <source>Failed to download tool from cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Tool konnte nicht aus der Cloud heruntergeladen werden</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1901"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1903"/>
         <source>Failed to download tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Herunterladen des Tools aus der Cloud</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1936"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1938"/>
         <source>Failed to unpack tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Fehler beim Entpacken des Tools aus der Cloud</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2002"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2004"/>
         <source>Failed to load %1 mesh</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Fehler beim Laden des %1-Mesh</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2109"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2111"/>
         <source>Tool %1 mesh loaded from %2</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Werkzeug %1 Mesh von %2 geladen</translation>
