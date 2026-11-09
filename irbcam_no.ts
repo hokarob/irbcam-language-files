@@ -2661,13 +2661,13 @@ Vennligst logg inn for å se listen</translation>
 <context>
     <name>GoToTargetPopup</name>
     <message>
-        <location filename="../../Sidebar/Assets/GoToTargetPopup.qml" line="24"/>
+        <location filename="../../Sidebar/Assets/GoToTargetPopup.qml" line="26"/>
         <source>Go to target</source>
         <extracomment>Popup title</extracomment>
         <translation>Gå til mål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/GoToTargetPopup.qml" line="91"/>
+        <location filename="../../Sidebar/Assets/GoToTargetPopup.qml" line="92"/>
         <source>Go</source>
         <extracomment>Button text: click this button to go to target</extracomment>
         <translation>Gå</translation>
@@ -4981,20 +4981,20 @@ Placeholder for when no value is entered</extracomment>
 <context>
     <name>MaxDistance</name>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="42"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="26"/>
         <source>Max distance</source>
         <extracomment>Popup title</extracomment>
         <translation>Maksimum distanse</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="75"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="58"/>
         <source>From</source>
         <extracomment>Label for text field: Referring to index of the first target in the calculation</extracomment>
         <translation>Fra</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="77"/>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="84"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="60"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="67"/>
         <source>Enter target number or select range in target list</source>
         <extracomment>Tooltip for from-target field
 ----------
@@ -5002,25 +5002,25 @@ Tooltip for to-target field</extracomment>
         <translation>Skriv inn målnummer eller velg område i mållisten</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="82"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="65"/>
         <source>To</source>
         <extracomment>Label for text field: Referring to index of the last target in the calculation</extracomment>
         <translation>Til</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="212"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="195"/>
         <source>Max Distance</source>
         <extracomment>Label for text field: Maximum allowed distance between targets</extracomment>
         <translation>Maks distanse</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="214"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="197"/>
         <source>Maximum distance between adjacent targets (mm). Recommended less than %1</source>
         <extracomment>Tool tip explaining max reorientation</extracomment>
         <translation>Maksimal avstand mellom tilstøtende mål (mm). Anbefalt mindre enn %1</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="222"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="205"/>
         <source>Maximum angular difference between adjacent targets (°). Recommended less than %1</source>
         <extracomment>Tool tip explaining max reorientation</extracomment>
         <translation>Maksimal vinkelforskjell mellom tilstøtende mål (°). Anbefalt mindre enn %1</translation>
@@ -5031,7 +5031,7 @@ Tooltip for to-target field</extracomment>
         <translation type="vanished">Maksimum distanse mellom to tilstøtende mål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="220"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="203"/>
         <source>Max Reorientation</source>
         <extracomment>Label for text field: Maximum angular difference between targets</extracomment>
         <translation>Maks reorientering</translation>
@@ -5042,20 +5042,20 @@ Tooltip for to-target field</extracomment>
         <translation type="vanished">Maksimum vinkelforskjell mellom tilstøtende mål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="250"/>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="288"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="233"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="271"/>
         <source>N/A</source>
         <extracomment>Label, not available</extracomment>
         <translation>Ikke tilgjengelig</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="306"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="289"/>
         <source>Check</source>
         <extracomment>Button</extracomment>
         <translation>Sjekk</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="324"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="307"/>
         <source>Configure</source>
         <extracomment>Button: Run calculation</extracomment>
         <translation>Konfigurer</translation>
@@ -5344,7 +5344,7 @@ Vil du fortsette?</translation>
         <translation type="vanished">Stasjonær verktøybase</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="484"/>
+        <location filename="../../Menus.qml" line="492"/>
         <source>Scene Focus Point</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Scene Fokuspunkt</translation>
@@ -5380,31 +5380,37 @@ Vil du fortsette?</translation>
         <translation>Mål</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="496"/>
+        <location filename="../../Menus.qml" line="484"/>
+        <source>Path</source>
+        <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
+        <translation type="unfinished">Bane</translation>
+    </message>
+    <message>
+        <location filename="../../Menus.qml" line="504"/>
         <source>No plugins are enabled</source>
         <extracomment>Tool tip to explain why plugins are greyed out</extracomment>
         <translation>Ingen programtillegg er aktivert</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="503"/>
+        <location filename="../../Menus.qml" line="511"/>
         <source>&amp;Plugins</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Programtillegg</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="524"/>
+        <location filename="../../Menus.qml" line="532"/>
         <source>This plugin does not have valid source content</source>
         <extracomment>Tool tip to explain why button is greyed out</extracomment>
         <translation>Dette programtillegget har ugyldig kildekode</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="553"/>
+        <location filename="../../Menus.qml" line="561"/>
         <source>&amp;Help</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Hjelp</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="566"/>
+        <location filename="../../Menus.qml" line="574"/>
         <source>Forum</source>
         <extracomment>Menu item</extracomment>
         <translation>Forum</translation>
@@ -5415,13 +5421,13 @@ Vil du fortsette?</translation>
         <translation type="vanished">EULA</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="577"/>
+        <location filename="../../Menus.qml" line="585"/>
         <source>About IRBCAM</source>
         <extracomment>Menu item</extracomment>
         <translation>Om IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="583"/>
+        <location filename="../../Menus.qml" line="591"/>
         <source>Feedback</source>
         <extracomment>Menu item</extracomment>
         <translation>Tilbakemelding</translation>
@@ -6421,29 +6427,29 @@ uresponsivt imens optimeringen kjører. Vil du fortsette?</translation>
 <context>
     <name>PathContextMenu</name>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="187"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="199"/>
         <source>Add new path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Legg til ny bane</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="162"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="174"/>
         <source>Add new</source>
         <extracomment>Context menu item</extracomment>
         <translation>Legg til ny</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="165"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="177"/>
         <source>Path</source>
         <extracomment>Context menu sub-item: Add new -&gt; Path</extracomment>
         <translation>Bane</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="99"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="143"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="167"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="178"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="221"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="111"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="155"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="179"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="190"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="233"/>
         <source>Before</source>
         <extracomment>Context menu sub-item: Paste path(s) -&gt; Before
 ----------
@@ -6457,11 +6463,11 @@ Context menu sub-item: Split path -&gt; Before</extracomment>
         <translation>Før</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="101"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="149"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="169"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="180"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="225"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="113"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="161"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="181"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="192"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="237"/>
         <source>After</source>
         <extracomment>Context menu sub-item: Paste path(s) -&gt; After
 ----------
@@ -6475,129 +6481,153 @@ Context menu sub-item: Split path -&gt; After</extracomment>
         <translation>Etter</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="171"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="183"/>
         <source>Target</source>
         <extracomment>Context menu sub-item: Add new -&gt; Target</extracomment>
         <translation>Mål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="53"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="57"/>
         <source>Copy path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopier bane</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="247"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="259"/>
         <source>Delete path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Slett bane</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="176"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="188"/>
         <source>Add new target</source>
         <extracomment>Context menu item</extracomment>
         <translation>Legg til nytt mål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="66"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="63"/>
+        <source>Close transform path</source>
+        <extracomment>Context menu item. Closes a popup</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="65"/>
+        <source>Open transform path</source>
+        <extracomment>Context menu item. Opens a popup</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="78"/>
         <source>Copy target</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopier mål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="128"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="140"/>
         <source>Paste targets at the beginning of path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Lim inn mål ved begynnelsen av banen</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="130"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="142"/>
         <source>Paste target at the beginning of path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Lim inn mål i begynnelsen av banen</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="209"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="221"/>
         <source>Split path after</source>
         <extracomment>Context menu item</extracomment>
         <translation>Del opp bane etter</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="214"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="226"/>
         <source>Split path before</source>
         <extracomment>Context menu item</extracomment>
         <translation>Del opp bane før</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="219"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="231"/>
         <source>Split path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Del opp bane</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="200"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="212"/>
         <source>Combine selected paths</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kombiner valgte baner</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="62"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="74"/>
         <source>Copy selected targets</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopier valgte mål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="253"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="265"/>
         <source>Delete target</source>
         <extracomment>Context menu item</extracomment>
         <translation>Slett mål</translation>
     </message>
     <message>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="297"/>
+        <source>Close go to target</source>
+        <extracomment>Context menu item.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="299"/>
+        <source>Open go to target</source>
+        <extracomment>Context menu item Opens a popup with go to target index</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="314"/>
         <source>Open project</source>
         <extracomment>Context menu item</extracomment>
         <translation>Åpne prosjekt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="83"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="94"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="95"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="106"/>
         <source>Paste paths</source>
         <extracomment>Context menu item</extracomment>
         <translation>Lim inn baner</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="47"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="51"/>
         <source>Copy paths</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopier baner</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="49"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="53"/>
         <source>Copy targets in paths</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopier mål i baner</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="55"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="59"/>
         <source>Copy targets in path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopier mål i bane</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="87"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="96"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="99"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="108"/>
         <source>Paste path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Lim inn bane</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="114"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="126"/>
         <source>Paste targets in a new path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Lim inn mål i ny bane</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="116"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="128"/>
         <source>Paste target in a new path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Lim inn mål i ny bane</translation>
@@ -6613,80 +6643,79 @@ Context menu sub-item: Split path -&gt; After</extracomment>
         <translation type="vanished">Lim inn mål i begynnelsen av bane</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="138"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="150"/>
         <source>Paste targets</source>
         <extracomment>Context menu item</extracomment>
         <translation>Lim inn mål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="140"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="152"/>
         <source>Paste target</source>
         <extracomment>Context menu item</extracomment>
         <translation>Lim inn mål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="146"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="158"/>
         <source>Replace</source>
         <extracomment>Context menu sub-item: Paste target(s) -&gt; Replace</extracomment>
         <translation>Erstatt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="240"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="252"/>
         <source>Delete selected</source>
         <extracomment>Context menu item</extracomment>
         <translation>Slett valgt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="267"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="279"/>
         <source>Rename path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Gi nytt navn til banen</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="276"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="288"/>
         <source>Close max distance editor</source>
         <extracomment>Context menu item</extracomment>
         <translation>Steng maksimum avstand editor</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="278"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="290"/>
         <source>Open max distance editor</source>
         <extracomment>Context menu item</extracomment>
         <translation>Åpne maksimum avstand editor</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="284"/>
         <source>Go to target</source>
         <extracomment>Context menu item. Opens a popup with go to target index</extracomment>
-        <translation>Gå til mål</translation>
+        <translation type="vanished">Gå til mål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="293"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="308"/>
         <source>Import Path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Importer bane</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="313"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="328"/>
         <source>Expand all</source>
         <extracomment>Context menu item: Expand all items in list</extracomment>
         <translation>Ekspander alle</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="315"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="330"/>
         <source>Collapse all</source>
         <extracomment>Context menu item: Collapse all items in list</extracomment>
         <translation>Skjul alle</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="320"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="335"/>
         <source>Expand</source>
         <extracomment>Context menu</extracomment>
         <translation>Ekspander</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="322"/>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="337"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="352"/>
         <source>Current</source>
         <extracomment>Context menu sub-item: Expand -&gt; Current
 ----------
@@ -6694,8 +6723,8 @@ Context menu sub-item: Collapse -&gt; Current</extracomment>
         <translation>Nåværende</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="325"/>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="340"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="355"/>
         <source>Targets</source>
         <extracomment>Context menu sub-item: Expand -&gt; Targets
 ----------
@@ -6703,8 +6732,8 @@ Context menu sub-item: Collapse -&gt; Targets</extracomment>
         <translation>Mål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="329"/>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="344"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="359"/>
         <source>Selection</source>
         <extracomment>Context menu sub-item: Expand -&gt; Selection
 ----------
@@ -6712,8 +6741,8 @@ Context menu sub-item: Collapse -&gt; Selection</extracomment>
         <translation>Valg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="332"/>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="347"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="362"/>
         <source>All</source>
         <extracomment>Context menu sub-item: Expand -&gt; All
 ----------
@@ -6721,7 +6750,7 @@ Context menu sub-item: Collapse -&gt; All</extracomment>
         <translation>Alle</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="335"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="350"/>
         <source>Collapse</source>
         <extracomment>Context menu</extracomment>
         <translation>Skjul</translation>
@@ -6735,7 +6764,7 @@ Context menu sub-item: Collapse -&gt; All</extracomment>
         <translation type="vanished">Bane</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="363"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="384"/>
         <source>The path list is empty
 
 Right click to see available options for populating the path
@@ -6747,139 +6776,139 @@ Drag and drop a file anywhere in this window to open the import path dialog</sou
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="374"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="395"/>
         <source>Target list navigation</source>
         <extracomment>Info card title</extracomment>
         <translation>Navigasjon i målliste</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="377"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="398"/>
         <source>Hide navigation info</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
         <translation>Skjul navigasjonsinfo</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="379"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="400"/>
         <source>Show navigation info</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
         <translation>Vis navigasjonsinfo</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="383"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="404"/>
         <source>Selection</source>
         <extracomment>Info card action</extracomment>
         <translation>Valg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="386"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="407"/>
         <source>Left click</source>
         <extracomment>Info card operation: Selection</extracomment>
         <translation>Venstreklikk</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="388"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="409"/>
         <source>Up/down arrow keys</source>
         <extracomment>Info card operation: Selection</extracomment>
         <translation>Opp/ned-piltastene</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="390"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="411"/>
         <source>Modifiers:</source>
         <extracomment>Info card operation: Selection sub category</extracomment>
         <translation>Modifikatorer:</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="394"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="415"/>
         <source>%1 - Select range</source>
         <extracomment>Info card detail: Modifiers - %1 = shift</extracomment>
         <translation>%1 - Velg område</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="396"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="417"/>
         <source>%1 - Select additional (mouse only)</source>
         <extracomment>Info card detail: Modifiers - %1 = ctrl</extracomment>
         <translation>%1 - Velg tillegg (kun mus)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="398"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="419"/>
         <source>%1 + %2 - Select additional range</source>
         <extracomment>Info card detail: Modifiers - %1 = shift, %2 = ctrl</extracomment>
         <translation>%1 + %2 - Velg tilleggsområde</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="403"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="424"/>
         <source>Open context menu</source>
         <extracomment>Info card action</extracomment>
         <translation>Åpne kontekstmenyen</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="405"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="426"/>
         <source>Right click</source>
         <extracomment>Info card operation: Open context menu</extracomment>
         <translation>Høyreklikk</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="407"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="428"/>
         <source>Content of the context menu will depend on what element is clicked</source>
         <extracomment>Info card detail: Right click</extracomment>
         <translation>Innholdet i kontekstmenyen avhenger av hvilket element som klikkes</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="411"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="432"/>
         <source>Expand/collapse</source>
         <extracomment>Info card action</extracomment>
         <translation>Utvid/skjul</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="414"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="435"/>
         <source>Double click</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
         <translation>Dobbeltklikk</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="416"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="437"/>
         <source>Right arrow key (expand)</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
         <translation>Høyre piltast (utvid)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="418"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="439"/>
         <source>Left arrow key (collapse)</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
         <translation>Venstre piltast (skjul)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="423"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="444"/>
         <source>Copy selected</source>
         <extracomment>Info card action</extracomment>
         <translation>Kopier valgte</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="428"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="449"/>
         <source>Paste copied</source>
         <extracomment>Info card action</extracomment>
         <translation>Lim inn det kopierte</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="431"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="452"/>
         <source>Pastes after the selected element</source>
         <extracomment>Info card detail: Paste copied</extracomment>
         <translation>Limer inn etter det valgte elementet</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="435"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="456"/>
         <source>Delete selected</source>
         <extracomment>Info card action</extracomment>
         <translation>Slett valgt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="440"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="461"/>
         <source>Undo last action</source>
         <extracomment>Info card action</extracomment>
         <translation>Angre siste handling</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="445"/>
+        <location filename="../../Sidebar/PathEditor.qml" line="466"/>
         <source>Redo last action</source>
         <extracomment>Info card action</extracomment>
         <translation>Gjør om siste handling</translation>
@@ -7038,55 +7067,55 @@ Høyreklikk for å se tilgjengelige alternativer for å fylle ut banen</translat
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1662"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1756"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>Kunne ikke importere CSV-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1668"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1762"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Bane importert fra CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1681"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1775"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke analysere JSON fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1704"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1798"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke laste bane</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1710"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1804"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Bane lastet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2242"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2369"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopiert mål</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2247"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2374"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Kopiert %1 baner</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2288"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2415"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopiert bane</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2293"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2420"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Kopiert %1 baner</translation>
@@ -7282,7 +7311,7 @@ Placeholder text until an icon has been selected</extracomment>
 <context>
     <name>PoseEditor</name>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="159"/>
+        <location filename="../../Controls/PoseEditor.qml" line="163"/>
         <source>Position</source>
         <extracomment>Physical position of an object</extracomment>
         <translation>Posisjon</translation>
@@ -7303,7 +7332,7 @@ Placeholder text until an icon has been selected</extracomment>
         <translation type="vanished">Z posisjon (mm)</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="254"/>
+        <location filename="../../Controls/PoseEditor.qml" line="258"/>
         <source>Rotation</source>
         <extracomment>Physical rotation of an object</extracomment>
         <translation>Rotasjon</translation>
@@ -7339,145 +7368,145 @@ Placeholder text until an icon has been selected</extracomment>
         <translation type="vanished">Rullevinkel (°)</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="94"/>
+        <location filename="../../Controls/PoseEditor.qml" line="97"/>
         <source>Relative to</source>
         <extracomment>label next to a drop-down menu</extracomment>
         <translation>Relativ til</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="104"/>
+        <location filename="../../Controls/PoseEditor.qml" line="107"/>
         <source>Invalid frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Ugyldig ramme</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="106"/>
+        <location filename="../../Controls/PoseEditor.qml" line="109"/>
         <source>Global origin</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Globalt nullpunkt</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="108"/>
+        <location filename="../../Controls/PoseEditor.qml" line="111"/>
         <source>Robot base</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Robotbase</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="110"/>
+        <location filename="../../Controls/PoseEditor.qml" line="113"/>
         <source>User frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Brukerkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="112"/>
+        <location filename="../../Controls/PoseEditor.qml" line="115"/>
         <source>Object frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Objektkoordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="114"/>
+        <location filename="../../Controls/PoseEditor.qml" line="117"/>
         <source>Tool frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Verktøy</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="116"/>
+        <location filename="../../Controls/PoseEditor.qml" line="119"/>
         <source>Rotary table frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Roterende bordramme</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="118"/>
+        <location filename="../../Controls/PoseEditor.qml" line="121"/>
         <source>Linear track frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Lineær skinneramme</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="120"/>
+        <location filename="../../Controls/PoseEditor.qml" line="123"/>
         <source>Robot flange frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Robotflensramme</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="122"/>
+        <location filename="../../Controls/PoseEditor.qml" line="125"/>
         <source>Stationary tool base frame</source>
         <extracomment>Element in a drop-down menu for choosing relative coordinate frame</extracomment>
         <translation>Stasjonær verktøybaseramme</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="139"/>
+        <location filename="../../Controls/PoseEditor.qml" line="142"/>
         <source>Reset</source>
         <extracomment>Referring to resetting pose</extracomment>
         <translation>Nullstill</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="146"/>
+        <location filename="../../Controls/PoseEditor.qml" line="149"/>
         <source>Reset pose</source>
         <extracomment>Tool tip explaining that a button is to reset the pose</extracomment>
         <translation>Tilbakestill pose</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="182"/>
+        <location filename="../../Controls/PoseEditor.qml" line="186"/>
         <source>mm</source>
         <extracomment>Unit millimetres</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="228"/>
+        <location filename="../../Controls/PoseEditor.qml" line="232"/>
         <source>Y offset is not supported!</source>
         <extracomment>tooltip: Y offset is not supported!</extracomment>
         <translation>Y-forskyvning støttes ikke!</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="274"/>
+        <location filename="../../Controls/PoseEditor.qml" line="278"/>
         <source>Yaw angle</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
         <translation>Girvinkel</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="290"/>
+        <location filename="../../Controls/PoseEditor.qml" line="294"/>
         <source>Pitch angle</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
         <translation>Stigningsvinkel</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="306"/>
+        <location filename="../../Controls/PoseEditor.qml" line="310"/>
         <source>Roll angle</source>
         <extracomment>Tait-Bryan rotation type</extracomment>
         <translation>Rullevinkel</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="320"/>
+        <location filename="../../Controls/PoseEditor.qml" line="324"/>
         <source>Normalize</source>
         <extracomment>Referring to normalising a quaternion</extracomment>
         <translation>Normaliser</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="327"/>
+        <location filename="../../Controls/PoseEditor.qml" line="331"/>
         <source>Normalize quaternions</source>
         <extracomment>Tool tip explaining that a button is to normalise quaternions</extracomment>
         <translation>Normaliser kvaternion</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="340"/>
+        <location filename="../../Controls/PoseEditor.qml" line="344"/>
         <source>Quaternion scalar</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>Skalarkomponent</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="356"/>
+        <location filename="../../Controls/PoseEditor.qml" line="360"/>
         <source>Quaternion i</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>i-komponent</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="372"/>
+        <location filename="../../Controls/PoseEditor.qml" line="376"/>
         <source>Quaternion j</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>j-komponent</translation>
     </message>
     <message>
-        <location filename="../../Controls/PoseEditor.qml" line="388"/>
+        <location filename="../../Controls/PoseEditor.qml" line="392"/>
         <source>Quaternion k</source>
         <extracomment>Tool tip explaining referring to a quaternion component</extracomment>
         <translation>k-komponent</translation>
@@ -8257,7 +8286,7 @@ Nyttig for å unngå kabelvridning eller lignende problemer i visse situasjoner<
 <context>
     <name>RoboticsInterface</name>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="984"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="987"/>
         <source>Failed to solve path
 No targets</source>
         <extracomment>Error message. This means that there is no path to solve</extracomment>
@@ -8265,7 +8294,7 @@ No targets</source>
 Ingen mål</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="998"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1001"/>
         <source>Failed to solve path
 Solved %1 of %2 targets</source>
         <extracomment>Error message. %1 = first failed index, %2 = total number of targets</extracomment>
@@ -8273,7 +8302,7 @@ Solved %1 of %2 targets</source>
 %1 av %2 mål ble løst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1024"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1027"/>
         <source>Path solved successfully in %1 ms</source>
         <extracomment>Status message. %1 = time in milliseconds</extracomment>
         <translation>Løsning funnet etter %1 ms</translation>
@@ -8309,7 +8338,7 @@ Solved %1 of %2 targets</source>
         <translation type="vanished">Maksdistanse ble konfigurert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="990"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="993"/>
         <source>Operation aborted by user
 Solved %1 of %2 targets</source>
         <extracomment>Warning message. %1 = first failed index, %2 = total number of targets</extracomment>
@@ -8324,7 +8353,7 @@ No new targets were added</source>
 Ingen nye mål ble lagt til</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1064"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1067"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
@@ -8332,7 +8361,7 @@ Ingen nye mål ble lagt til</translation>
 1 nytt mål ble lagt til</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1073"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1076"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
@@ -8340,7 +8369,7 @@ Ingen nye mål ble lagt til</translation>
 %1 nye mål ble lagt til</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1079"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1082"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
@@ -8398,86 +8427,86 @@ No targets were deleted</source>
 Ingen mål ble slettet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="767"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="770"/>
         <source>Arc angle is to small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Buevinkel er for liten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="776"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="779"/>
         <source>Lift target must be linear</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Løftemål må være lineært</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="779"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="782"/>
         <source>Rotary table step angle is out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Rotasjonsbordets trinnvinkel er utenfor tillatt område</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="782"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="785"/>
         <source>Lift distance is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Løftedistansen er for liten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="785"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="788"/>
         <source>Length of lift direction vector is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Lengden på løfteretningsvektoren er for liten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="788"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="791"/>
         <source>Invalid indexed solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ugyldig indeksert løsning</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="791"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="794"/>
         <source>Invalid rotary lift point</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ugyldig roterende løftepunkt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="794"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="797"/>
         <source>Lift point must be configured after all other targets are configured</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Løftepunkt må konfigureres etter at alle andre mål er konfigurert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="797"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="800"/>
         <source>Two consecutive targets are not reachable with same turntable step angle</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>To påfølgende mål kan ikke nås med samme trinnvinkel for rotasjonsbordet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="800"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="803"/>
         <source>Wrist alignment singularity</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Håndleddsjustering singularitet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="803"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1041"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="806"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1044"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Operasjon avbrutt av bruker</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="806"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="809"/>
         <source>Tool not found</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Verktøy ikke funnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="967"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="970"/>
         <source>%1 Rotary lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation>%1 roterende løftepunkter ble lagt til</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="973"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="976"/>
         <source>%1 Linear lift points were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
         <translation>%1 Lineære løftepunkter ble lagt til</translation>
@@ -8517,26 +8546,26 @@ Ingen mål ble slettet</translation>
         <translation type="vanished">Kunne ikke analysere APT-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="665"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="668"/>
         <source>No error</source>
         <extracomment>Error status for solving path. Success (no error)</extracomment>
         <translation>Suksess</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="668"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="671"/>
         <source>Path not solved</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Uløst bane</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="671"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="674"/>
         <source>Path solved successfully</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Banen er løst</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="622"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="674"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="625"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="677"/>
         <source>Solving path</source>
         <extracomment>Solution progress status
 ----------
@@ -8544,20 +8573,20 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Løser banen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="501"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="503"/>
         <source>Failed to configure max distance: No valid targets found in the requested range</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke konfigurere maksimal avstand: Ingen gyldige mål funnet i det forespurte området</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="619"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="622"/>
         <source>Idle</source>
         <extracomment>Solution progress status</extracomment>
         <translation>Inaktiv</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="625"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="677"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="628"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="680"/>
         <source>Verifying path</source>
         <extracomment>Solution progress status
 ----------
@@ -8565,8 +8594,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Verifiserer banen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="628"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="680"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="631"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="683"/>
         <source>Configuring max distance</source>
         <extracomment>Solution progress status
 ----------
@@ -8574,8 +8603,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Konfigurerer maks distanse</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="631"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="683"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="634"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="686"/>
         <source>Setting up linear lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -8583,8 +8612,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Setter opp lineære løftepunkter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="634"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="686"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="637"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="689"/>
         <source>Setting up rotary lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -8592,8 +8621,8 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Setter opp roterende løftepunkter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="637"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="689"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="640"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="692"/>
         <source>Solving rotary lift points</source>
         <extracomment>Solution progress status
 ----------
@@ -8601,92 +8630,92 @@ Error status for solving path. In progress (no error)</extracomment>
         <translation>Løser roterende løftepunkter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="692"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="695"/>
         <source>No solution</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ingen løsning</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="695"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="698"/>
         <source>Axis limit violation</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Aksegrense overskredet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="698"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="701"/>
         <source>Solution is outside of workspace limits</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Løsningen er utenfor arbeidsrommet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="701"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="704"/>
         <source>This robot cannot bend backwards</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Denne roboten kan ikke bøyes bakover</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="704"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="707"/>
         <source>Invalid kinematic parameters</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ugyldige kinematiske parametere</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="707"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="710"/>
         <source>Undefined kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Udefinert kinematisk type</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="710"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="713"/>
         <source>Invalid kinematic type</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ugyldig kinematisk type</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="713"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="716"/>
         <source>Invalid joint setpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ugyldig settpunkt for ledd</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="716"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="719"/>
         <source>Invalid number of degrees of freedom</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ugyldig antall frihetsgrader</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="719"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="722"/>
         <source>Division by zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Nulldivisjon</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="722"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="725"/>
         <source>Input is null pointer</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Inndata er nullpeker</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="725"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="728"/>
         <source>Robot not loaded</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Robot ikke lastet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="728"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="731"/>
         <source>Invalid path size</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ugyldig banestørrelse</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="731"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="734"/>
         <source>Discontinuous step</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Diskontinuitet i løsning</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="484"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="734"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="486"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="737"/>
         <source>No targets</source>
         <extracomment>Notification: Cannot configure max distance because there are no targets
 ----------
@@ -8694,19 +8723,19 @@ Error status for solving path</extracomment>
         <translation>Ingen mål</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="737"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="740"/>
         <source>Dynamic angle out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Dynamisk vinkel utenfor rekkevidde</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="740"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="743"/>
         <source>Index out of range</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Indeks utenfor rekkevidde</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="743"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="746"/>
         <source>One or more targets have invalid speed</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Et eller flere mål har ugyldig hastighet</translation>
@@ -8722,43 +8751,43 @@ Error status for solving path</extracomment>
         <translation type="vanished">Vinkelbegrensning i rotasjonsbord er for liten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="752"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="755"/>
         <source>Invalid arc midpoint</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Ugyldig buemidtpunkt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="755"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="758"/>
         <source>Start target must be linear</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Startmål må være lineært</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="758"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="761"/>
         <source>Radius of the arc must be finite and non-zero</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Radius av buen må være endelig og ikke null</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="761"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="764"/>
         <source>Distance between arc start-point and arc mid-point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Avstanden mellom buens startpunkt og buens midtpunkt er for liten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="764"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="767"/>
         <source>Distance between arc start-point and arc end-point is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Avstanden mellom buestartpunkt og bueendepunkt er for liten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1011"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1014"/>
         <source>Tool %1 must be defined</source>
         <extracomment>Error message. %1 = first failed index, %2 = total number of targets</extracomment>
         <translation>Verktøy %1 må være definert</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1048"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1051"/>
         <source>Failed to configure max distance at index %1
 No new targets were added
 </source>
@@ -8767,13 +8796,13 @@ No new targets were added
 Ingen nye mål ble lagt til</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1097"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1100"/>
         <source>Failed to find max distance</source>
         <extracomment>Error message from find max distance</extracomment>
         <translation>Klarte ikke å finne maksimal avstand</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1117"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1120"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
@@ -8781,13 +8810,13 @@ Found %1 possible solutions within the specified parameters</source>
 Fant %1 mulige løsninger innenfor de angitte parameterne</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1123"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1126"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation>Optimereren oppdaget et problem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1132"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1135"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
@@ -8795,7 +8824,7 @@ No solutions found with the specified parameters</source>
 Ingen løsning funnet med de spesifiserte parametere</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1138"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1141"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
@@ -8803,37 +8832,37 @@ Found %1 possible solutions within the specified parameters</source>
 Fant %1 mulige løsninger med de spesifiserte parameterne</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="770"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="773"/>
         <source>Distance between two targets is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Distansen mellom to mål er for liten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="746"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="749"/>
         <source>Target should not be at the rotation axis of the rotary table</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Målet skal ikke være på rotasjonsaksen til rotasjonsbordet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="749"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="752"/>
         <source>Z-axis of the target should not be aligned with the rotation axis of the rotary table</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Z-aksen til målet skal ikke være på linje med rotasjonsaksen til rotasjonsbordet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="773"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="776"/>
         <source>Angle between two targets is too small</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Vinkel mellom to mål er for liten</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="869"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="872"/>
         <source>Distance between targets %1 and %2 (%3 mm) exceeds recommended maximum (%4 mm)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = distance between targets, %4 = recommended maximum distance</extracomment>
         <translation>Avstanden mellom målene %1 og %2 (%3 mm) overskrider anbefalt maksimum (%4 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="890"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="893"/>
         <source>Reorientation between targets %1 and %2 (%3°) exceeds recommended maximum (%4°)</source>
         <extracomment>Warning message. %1 = target index, %2 = target index, %3 = reorientation between targets, %4 = recommended maximum reorientation</extracomment>
         <translation>Reorientering mellom målene %1 og %2 (%3°) overskrider anbefalt maksimum (%4°)</translation>
@@ -9903,7 +9932,7 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation>Prosjekt %1 lagret</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="890"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="891"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Prosjekt nullstilt</translation>
@@ -9936,63 +9965,63 @@ Større baner kan importeres ved å dele opp i flere mindre filer og velge &quot
         <translation type="vanished">Bane importert fra APT: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1159"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1160"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Klarte ikke å hente parset %1 fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1205"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1206"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>Antall desimalplasser som brukes i filen %1 er %2 (lav numerisk presisjon).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1226"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1227"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>%1 mål er filtrert ut fra filen %2: de er nærmere enn minimumsavstandsgrensen på %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1240"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1241"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>%1-målet filtreres ut fra filen %2: det er nærmere enn minimumsavstandsterskelen på %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1261"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1262"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Kunne ikke importere fil %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1269"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1270"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation>Bane importert fra %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1323"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1471"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1324"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1472"/>
         <source>Blend radius is overlapping at target %1. Try reducing the target velocity or increasing the maximum acceleration</source>
         <extracomment>Error message</extracomment>
         <translation>Blandingsradiusen overlapper ved mål %1. Prøv å redusere målhastigheten eller øke den maksimale akselerasjonen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1332"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1480"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1333"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1481"/>
         <source>Target %1 is too close. Try reimporting the path with minimum distance between targets &gt;= %2 mm or manually adjust the target so that the distance between two consecutive targets &gt;=  %2 mm</source>
         <extracomment>Error message</extracomment>
         <translation>Mål %1 er for nært. Prøv å reimportere banen med minimumsavstand mellom målene &gt;= %2 mm eller juster målet manuelt slik at avstanden mellom to påfølgende mål &gt;= %2 mm</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1575"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1576"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke gjenopprette lagret prosjekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1595"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1596"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -10000,56 +10029,54 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1662"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1663"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke hente bruker-koordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1680"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1681"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke laste bruker-koordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1690"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1691"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke hente objekt-koordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1699"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1700"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke laste objekt-koordinatsystem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1767"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="1775"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1785"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1783"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1793"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1794"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1960"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1966"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1802"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>verktøy</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1859"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="1867"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1877"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1875"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1885"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>rotasjonsbord</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1889"/>
         <location filename="../../../backend/src/stationinterface.cpp" line="1897"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1905"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>lineærbane</translation>
@@ -10073,37 +10100,37 @@ Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</tran
         <translation>Autolagring for prosjekt %1 lagret</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="684"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="685"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke laste ned prosjektet fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="933"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="934"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke bekrefte at prosjektet ble slettet fra skyen (det kan ha blitt slettet)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="958"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="959"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Prosjekt %1 ble slettet fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1041"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1042"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke bekrefte at prosjektet ble delt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1064"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1065"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Prosjekt %1 ble delt med %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1104"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1105"/>
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -10112,7 +10139,7 @@ Larger paths can be imported by splitting the file into smaller files and using 
 Større baner kan importeres ved å dele opp filen i mindre filer og bruke &apos;append&apos;-alternativet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1128"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1129"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Kunne ikke starte skyjobb %1</translation>
@@ -10123,14 +10150,14 @@ Større baner kan importeres ved å dele opp filen i mindre filer og bruke &apos
         <translation type="vanished">Kunne ikke hente analysert APT %1 fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1362"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1394"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1363"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1395"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke hente robotkode fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1587"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1588"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -10138,7 +10165,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dette kan være fordi objektet er lagret med en eldre versjon av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1613"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1614"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Mangler info i prosjekt hentet fra skyen</translation>
@@ -10151,7 +10178,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1652"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1653"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke laste prosjektdata</translation>
@@ -10167,7 +10194,7 @@ Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</tran
         <translation type="vanished">DH Tabellinformasjon mangler fra lagret prosjekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1999"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1989"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Prosjekt %1 lastet</translation>
@@ -10178,20 +10205,20 @@ Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</tran
         <translation type="vanished">Manglende versjonsinformasjon i prosjektet hentet fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1732"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1733"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Manglende eller ødelagt baneinformasjon fra lagret prosjekt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1751"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1759"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>importer bane</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1910"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1917"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1918"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1925"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH-tabell</translation>
@@ -10216,38 +10243,38 @@ Dette kan være fordi prosjektet ble lagret med en eldre versjon av IRBCAM</tran
         <translation>Kunne ikke laste visualiseringsinnstillinger</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="636"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="647"/>
         <source>Inverse kinematics could not be solved with this value (x=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation>Invers kinematikk kunne ikke løses med denne verdien (x=%1 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="654"/>
-        <location filename="../../../backend/src/stationviewer.cpp" line="672"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="665"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="683"/>
         <source>Inverse kinematics could not be solved with this value (y=%1 mm)</source>
         <extracomment>Warning message: %1 = position in millimeters</extracomment>
         <translation>Invers kinematikk kunne ikke løses med denne verdien (y=%1 mm)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="691"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="702"/>
         <source>Inverse kinematics could not be solved with this value (rz1=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Invers kinematikk kunne ikke løses med denne verdien (rz1=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="711"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="722"/>
         <source>Inverse kinematics could not be solved with this value (ry=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Invers kinematikk kunne ikke løses med denne verdien (ry=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="734"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="745"/>
         <source>Inverse kinematics could not be solved with this value (rz2=%1°)</source>
         <extracomment>Warning message: %1 = rotation in degrees</extracomment>
         <translation>Invers kinematikk kunne ikke løses med denne verdien (rz2=%1°)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1111"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1122"/>
         <source>Animation aborted
 Target at 0 is unreachable</source>
         <extracomment>Warning message</extracomment>
@@ -10255,7 +10282,7 @@ Target at 0 is unreachable</source>
 Startmål er utilgjengelig</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1877"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1277"/>
         <source>Animation aborted
 Target at index %1 has zero velocity</source>
         <extracomment>Warning message. %1 = index of failed target</extracomment>
@@ -10263,7 +10290,7 @@ Target at index %1 has zero velocity</source>
 Mål på indeks %1 har nullhastighet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="2006"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1408"/>
         <source>Animation aborted
 Target at index %1 is not solved</source>
         <extracomment>Warning message: %1 = index of target that failed</extracomment>
@@ -10278,7 +10305,7 @@ Target at index %1 is unreachable</source>
 Mål på indeks %1 er utenfor rekkevidde</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationviewer.cpp" line="1339"/>
+        <location filename="../../../backend/src/stationviewer.cpp" line="1613"/>
         <source>Animation aborted
 Target is unreachable with the current configuration</source>
         <extracomment>Warning message</extracomment>
@@ -10315,110 +10342,122 @@ Mål er utenfor rekkevidde med nåværende konfigurasjon</translation>
         <translation type="vanished">Endring i hastighet</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="272"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="278"/>
         <source>Joint target</source>
         <extracomment>Tooltip text</extracomment>
         <translation>Leddmål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="283"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="289"/>
         <source>Feed speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in linear velocity (feed speed)</extracomment>
         <translation>Endring av matehastighet</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="294"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="300"/>
         <source>Tool change</source>
         <extracomment>Tool tip. Explains that this icon indicates a tool change</extracomment>
         <translation>Bytte av verktøy</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="304"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="310"/>
         <source>Spindle speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in spindle speed</extracomment>
         <translation>Endring i spindelhastighet</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="306"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="312"/>
         <source>Tool command change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool command</extracomment>
         <translation>Verktøy kommando endring</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="316"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="322"/>
         <source>Gun On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun on</extracomment>
         <translation>Pistol På endring</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="318"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="324"/>
         <source>Tool On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool on</extracomment>
         <translation>Verktøy På endring</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="329"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="335"/>
         <source>Gun Off change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun off</extracomment>
         <translation>Pistol Av endring</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="331"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="337"/>
         <source>Tool Off change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool off</extracomment>
         <translation>Verktøy av endring</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="364"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="370"/>
         <source>Target is successfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Målet er løst</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="366"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="372"/>
         <source>Path is succesfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Banen er løst</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="369"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="375"/>
         <source>Target failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Målet ble ikke løst</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="371"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="377"/>
         <source>Path failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Banen ble ikke løst</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="406"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="405"/>
+        <source>Unlock editing to edit path transform</source>
+        <extracomment>Tooltip text for transform button</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="409"/>
+        <source>Edit path transform</source>
+        <extracomment>Tooltip text for transform button</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="439"/>
         <source>Unlock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Lås opp redigering for dette målet</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="410"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="443"/>
         <source>Lock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Lås redigering for dette målet</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="416"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="449"/>
         <source>Unlock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Lås opp redigering for alle mål i denne banen</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="420"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="453"/>
         <source>Lock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Lås redigering for alle mål i denne banen</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="472"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="487"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="523"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="538"/>
         <source>mm</source>
         <extracomment>Unit millimetres
 ----------
@@ -10426,98 +10465,98 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="489"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="540"/>
         <source>s</source>
         <extracomment>Unit seconds. Part of a fraction mm/s</extracomment>
         <translation>s</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="563"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="614"/>
         <source>Speed</source>
         <extracomment>Label over input field</extracomment>
         <translation>Hastighet</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="568"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="619"/>
         <source>Tool</source>
         <extracomment>Label over input field</extracomment>
         <translation>Verktøy</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="574"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="625"/>
         <source>Spindle</source>
         <extracomment>Label over input field</extracomment>
         <translation>Spindel</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="580"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="631"/>
         <source>Tool CMD</source>
         <extracomment>Label over input field</extracomment>
         <translation>Verktøy CMD</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="586"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="637"/>
         <source>Gun On/Off</source>
         <extracomment>Label over input field</extracomment>
         <translation>Pistol På/Av</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="592"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="643"/>
         <source>Tool On/Off</source>
         <extracomment>Label over input field</extracomment>
         <translation>Verktøy På/Av</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="609"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="660"/>
         <source>Input</source>
         <extracomment>Dropdown menu item. Speed mode: input</extracomment>
         <translation>Egendefinert</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="614"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="665"/>
         <source>Cutting</source>
         <extracomment>Dropdown menu item. Speed mode: cutting</extracomment>
         <translation>Kutting</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="619"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="670"/>
         <source>Rapid</source>
         <extracomment>Dropdown menu item. Speed mode: rapid</extracomment>
         <translation>Hurtig</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="648"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="699"/>
         <source>rpm</source>
         <extracomment>Unit: revolutions per minute</extracomment>
         <translation>rpm</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="673"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="724"/>
         <source>V</source>
         <extracomment>Input field prefix. Denotes velocity</extracomment>
         <translation>V</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="680"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="731"/>
         <source>Motion type: </source>
         <extracomment>Droptown menu text</extracomment>
         <translation>Bevegelsestype: </translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="701"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="752"/>
         <source>Linear</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation>Lineær</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="705"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="756"/>
         <source>Joint</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation>Ledd</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="274"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="703"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="280"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="754"/>
         <source>Arc midpoint</source>
         <extracomment>Tooltip text
 ----------
@@ -10525,14 +10564,14 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Bue midtpunkt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="212"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="218"/>
         <source>Undefined</source>
         <extracomment>Placeholder text for missing name</extracomment>
         <translation>Udefinert</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="269"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="688"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="275"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="739"/>
         <source>Rotary lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -10540,8 +10579,8 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Roterende løftepunkt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="266"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="684"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="272"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="735"/>
         <source>Linear lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -11431,58 +11470,70 @@ Button text</extracomment>
 <context>
     <name>ToolModel</name>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1564"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1470"/>
         <source>Custom tool upload failed</source>
         <extracomment>Error message</extracomment>
         <translation>Opplasting av egendefinert verktøy mislyktes</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1570"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1476"/>
         <source>Custom tool %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
         <translation>Egendefinert verktøy %1 lastet opp vellykket</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1606"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1512"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Kunne ikke bekrefte at %1 ble slettet fra skyen (objektet kan ha blitt slettet)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1639"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1545"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 ble slettet fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1784"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1695"/>
         <source>Failed to download tool from cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke laste ned verktøy fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1903"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1814"/>
         <source>Failed to download tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke laste ned verktøy fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1938"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1849"/>
         <source>Failed to unpack tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kunne ikke pakke ut verktøyet fra skyen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2004"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1915"/>
         <source>Failed to load %1 mesh</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Kunne ikke laste %1 mesh</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2111"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2001"/>
         <source>Tool %1 mesh loaded from %2</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Verktøy %1 mesh lastet fra %2</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2012"/>
+        <source>Failed to load %1 data</source>
+        <extracomment>Error message: %1 = item name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2033"/>
+        <source>Tool %1 data loaded from json</source>
+        <extracomment>Status message: %1 = name</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12122,6 +12173,15 @@ Tool tip</extracomment>
         <source>Size of batch window</source>
         <extracomment>Tool tip for text field.</extracomment>
         <translation>Størrelse på vindu for seksjoner</translation>
+    </message>
+</context>
+<context>
+    <name>TransformPathPopup</name>
+    <message>
+        <location filename="../../Sidebar/Assets/TransformPathPopup.qml" line="21"/>
+        <source>Path Transform</source>
+        <extracomment>Popup title</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
