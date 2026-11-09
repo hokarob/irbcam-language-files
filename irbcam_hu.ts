@@ -2941,16 +2941,14 @@ Placeholder text in text imput: regex</extracomment>
         <translation>A lábaktól</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="655"/>
         <source>Apply rotation to targets</source>
         <extracomment>Checkbox: Refers to applying rotation on individual targets in addition to rotating the whole imported path</extracomment>
-        <translation>Forgatás alkalmazása a célpontokra</translation>
+        <translation type="vanished">Forgatás alkalmazása a célpontokra</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="659"/>
         <source>Apply rotation locally to individual targets</source>
         <extracomment>Tool tip for apply rotation to targets checkbox.</extracomment>
-        <translation>Forgatást alkalmazni helyileg az egyes célpontokra</translation>
+        <translation type="vanished">Forgatást alkalmazni helyileg az egyes célpontokra</translation>
     </message>
     <message>
         <location filename="../../Popups/ImportPath.qml" line="679"/>

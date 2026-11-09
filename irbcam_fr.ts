@@ -3134,16 +3134,14 @@ Placeholder text in text imput: regex</extracomment>
         <translation>Depuis pieds</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="655"/>
         <source>Apply rotation to targets</source>
         <extracomment>Checkbox: Refers to applying rotation on individual targets in addition to rotating the whole imported path</extracomment>
-        <translation>Appliquer la rotation aux cibles</translation>
+        <translation type="vanished">Appliquer la rotation aux cibles</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="659"/>
         <source>Apply rotation locally to individual targets</source>
         <extracomment>Tool tip for apply rotation to targets checkbox.</extracomment>
-        <translation>Appliquer la rotation localement à chaque cible individuellement</translation>
+        <translation type="vanished">Appliquer la rotation localement à chaque cible individuellement</translation>
     </message>
     <message>
         <location filename="../../Popups/ImportPath.qml" line="679"/>

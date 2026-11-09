@@ -3772,16 +3772,14 @@ Placeholder text in text imput: regex</extracomment>
         <translation>Från fot</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="655"/>
         <source>Apply rotation to targets</source>
         <extracomment>Checkbox: Refers to applying rotation on individual targets in addition to rotating the whole imported path</extracomment>
-        <translation>Tillämpa rotation på mål</translation>
+        <translation type="vanished">Tillämpa rotation på mål</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="659"/>
         <source>Apply rotation locally to individual targets</source>
         <extracomment>Tool tip for apply rotation to targets checkbox.</extracomment>
-        <translation>Tillämpa rotation lokalt på individuella mål</translation>
+        <translation type="vanished">Tillämpa rotation lokalt på individuella mål</translation>
     </message>
     <message>
         <location filename="../../Popups/ImportPath.qml" line="679"/>

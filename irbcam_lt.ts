@@ -2968,16 +2968,14 @@ Placeholder text in text imput: regex</extracomment>
         <translation>Nuo pėdų</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="655"/>
         <source>Apply rotation to targets</source>
         <extracomment>Checkbox: Refers to applying rotation on individual targets in addition to rotating the whole imported path</extracomment>
-        <translation>Pritaikyti sukimą taikiniams</translation>
+        <translation type="vanished">Pritaikyti sukimą taikiniams</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="659"/>
         <source>Apply rotation locally to individual targets</source>
         <extracomment>Tool tip for apply rotation to targets checkbox.</extracomment>
-        <translation>Taikyti sukimą lokaliai atskiriems taikiniams</translation>
+        <translation type="vanished">Taikyti sukimą lokaliai atskiriems taikiniams</translation>
     </message>
     <message>
         <location filename="../../Popups/ImportPath.qml" line="679"/>

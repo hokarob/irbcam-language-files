@@ -2486,16 +2486,14 @@ Placeholder text in text imput: regex</extracomment>
         <translation>Von Fuß</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="655"/>
         <source>Apply rotation to targets</source>
         <extracomment>Checkbox: Refers to applying rotation on individual targets in addition to rotating the whole imported path</extracomment>
-        <translation>Rotation auf Ziele anwenden</translation>
+        <translation type="vanished">Rotation auf Ziele anwenden</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="659"/>
         <source>Apply rotation locally to individual targets</source>
         <extracomment>Tool tip for apply rotation to targets checkbox.</extracomment>
-        <translation>Rotation lokal auf einzelne Ziele anwenden</translation>
+        <translation type="vanished">Rotation lokal auf einzelne Ziele anwenden</translation>
     </message>
     <message>
         <location filename="../../Popups/ImportPath.qml" line="679"/>
