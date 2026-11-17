@@ -105,7 +105,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="138"/>
+        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="141"/>
         <source>Add a new geometry</source>
         <extracomment>Button: Add additional object</extracomment>
         <translation type="unfinished"></translation>
@@ -136,7 +136,7 @@
         <translation type="vanished">Vir</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="163"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="167"/>
         <source>Color</source>
         <extracomment>Label for a colour selector. Select colour for the additional object</extracomment>
         <translation>Barva</translation>
@@ -182,31 +182,31 @@
         <translation type="vanished">Izbran ni noben vir</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="197"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="201"/>
         <source>Parent frame</source>
         <extracomment>Label for a dropdown menu: Select which frame (coordinate system) the object should be placed in relation to</extracomment>
         <translation>Nadrejeni okvir</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="208"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="212"/>
         <source>Global</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Globalno</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="213"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="217"/>
         <source>Robot base</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Baza robota</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="218"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="222"/>
         <source>User frame</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Uporabniški Koordinantni Sistem</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="223"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="227"/>
         <source>Object frame</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Koordinatni sistem predmeta</translation>
@@ -217,79 +217,85 @@
         <translation type="vanished">Koordinatni sistem orodja</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="242"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="246"/>
         <source>Show mesh</source>
         <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
         <translation>Pokaži mrežo</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="250"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="254"/>
         <source>Transparent</source>
         <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
         <translation>Transparenten</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="262"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="266"/>
         <source>Linear</source>
         <extracomment>Collapsible section: In this section the user will adjust position and scale of the object</extracomment>
         <translation>Linearno</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="349"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="353"/>
         <source>Yaw angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
         <translation>Yaw kot</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="359"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="363"/>
         <source>Pitch angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
         <translation>Kot nagiba</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="369"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="373"/>
         <source>Roll angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
         <translation>Kot valjanja</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="276"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="280"/>
         <source>Position</source>
         <extracomment>Label for text fields: Set the position in space (displacement/translation) for the object</extracomment>
         <translation>Položaj</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="180"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="142"/>
+        <source>Remove this geometry</source>
+        <extracomment>Button: Rmove custom geometry</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="184"/>
         <source>Mesh</source>
         <extracomment>Label for a button: Select a source geometry mesh for the object</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="190"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="194"/>
         <source>No mesh selected</source>
         <extracomment>Button: Shown when no source geometry is selected for this object</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="228"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="232"/>
         <source>Robot flange</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Robotska prirobnica</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="301"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="305"/>
         <source>Scale</source>
         <extracomment>Label for text fields: Set the scaling multiplicator (in x, y, z) to scale the object size</extracomment>
         <translation>Merilo </translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="303"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="307"/>
         <source>Size</source>
         <extracomment>Label for text fields: Set the size (in x, y, z) of the the object</extracomment>
         <translation>Velikost</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="332"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="336"/>
         <source>Rotation</source>
         <extracomment>Collapsible section: In this section the user will adjust the rotation of the object</extracomment>
         <translation>Zasuk</translation>
@@ -310,37 +316,37 @@
         <translation type="vanished">Nagib</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="378"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="382"/>
         <source>Normalize</source>
         <extracomment>Button: Normalise the rotation quaternion</extracomment>
         <translation>Normaliziraj</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="388"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="392"/>
         <source>Normalize quaternion</source>
         <extracomment>Tool tip for normalize button</extracomment>
         <translation>Normaliziraj kvaternion</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="395"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="399"/>
         <source>Quaternion scalar</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Kvaternionski skalar</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="405"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="409"/>
         <source>Quaternion i</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Kvaternion i</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="415"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="419"/>
         <source>Quaternion j</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Kvaternion j</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="425"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="429"/>
         <source>Quaternion k</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Kvaternion k</translation>
@@ -2425,7 +2431,7 @@ Placeholder for when no procedure name is entered</extracomment>
 <context>
     <name>GenericTreeView</name>
     <message>
-        <location filename="../../Controls/GenericTreeView.qml" line="117"/>
+        <location filename="../../Controls/GenericTreeView.qml" line="120"/>
         <source>A network error was encountered while getting asset data
 
 Please make sure you are connected to the internet and try again</source>
@@ -2433,13 +2439,13 @@ Please make sure you are connected to the internet and try again</source>
         <translation type="unfinished">Pri pridobivanju podatkov o sredstvih je prišlo do omrežne napake Prepričajte se, da ste povezani z internetom, in poskusite znova</translation>
     </message>
     <message>
-        <location filename="../../Controls/GenericTreeView.qml" line="119"/>
+        <location filename="../../Controls/GenericTreeView.qml" line="122"/>
         <source>No items in list</source>
         <extracomment>Placeholder for empty list</extracomment>
         <translation type="unfinished">Na seznamu ni elementov</translation>
     </message>
     <message>
-        <location filename="../../Controls/GenericTreeView.qml" line="121"/>
+        <location filename="../../Controls/GenericTreeView.qml" line="124"/>
         <source>You are not signed in
 
 Please sign in to see the list</source>
@@ -2458,7 +2464,7 @@ Prosimo, prijavite se, da vidite seznam</translation>
         <translation>Pojdi na cilj</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/GoToTargetPopup.qml" line="92"/>
+        <location filename="../../Sidebar/Assets/GoToTargetPopup.qml" line="94"/>
         <source>Go</source>
         <extracomment>Button text: click this button to go to target</extracomment>
         <translation>Pojdi</translation>
@@ -3505,19 +3511,19 @@ Tool tip for text field.</extracomment>
         <translation>Preverjanje posodobitev ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="938"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="943"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>Neznan uporabnik</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="947"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="952"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>Neznan uporabniški račun</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="999"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1004"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -3527,49 +3533,49 @@ Nekatere nastavitve niso bile na voljo v oblaku. To je verjetno posledica novih 
 Prizadete nastavitve so bile nastavljene na privzete vrednosti</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1009"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1014"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation>Nalaganje nastavitev za %1 ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1017"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1022"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation>Nastavitve za %1 so naložene</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1027"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1032"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation>Dobrodošli %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1049"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1054"/>
         <source>Failed to get user details</source>
         <extracomment>Error message.</extracomment>
         <translation>Ni uspelo pridobiti podatkov o uporabniku</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1159"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1164"/>
         <source>Network error: The response contained no data</source>
         <extracomment>Error message.</extracomment>
         <translation>Omrežna napaka: Odgovor ni vseboval podatkov</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1178"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1183"/>
         <source>Network error: Failed to parse response</source>
         <extracomment>Error message.</extracomment>
         <translation>Omrežna napaka: Ni uspelo razčleniti odziva</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1219"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1224"/>
         <source>Your session has expired. Please sign in again.</source>
         <extracomment>Error message.</extracomment>
         <translation>Vaša seja je potekla. Ponovno se prijavite.</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1230"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1235"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
@@ -3577,128 +3583,128 @@ code: %2</source>
 koda: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1244"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1249"/>
         <source>Network error: %1</source>
         <extracomment>Error message: %1 = message</extracomment>
         <translation>Napaka omrežja: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1251"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1256"/>
         <source>Network error: %1
 code: %2</source>
         <extracomment>Error message: %1 = message, %2 = code</extracomment>
         <translation>Napaka omrežja: %1 koda: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1288"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1293"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation>Neinicializirano</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1291"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1296"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation>Nedejaven</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1294"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1299"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation>Pridobivanje opisa</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1297"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1302"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation>Prenašanje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1300"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1305"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation>Razpakiranje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1303"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1308"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation>Nalaganje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1306"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1311"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation>Brisanje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1309"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1314"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation>Nalaganje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1312"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1317"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation>Pridobivanje seznama</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1315"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1320"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation>Dekodiranje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1318"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1323"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation>Verifikacija</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1321"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1326"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation>Nalaganje sredstev</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1324"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1329"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation>Procesiranje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1327"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1332"/>
         <source>Error</source>
         <extracomment>Network status: An error has ocurred</extracomment>
         <translation>Napaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1330"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1335"/>
         <source>Awaiting user input</source>
         <extracomment>Network status</extracomment>
         <translation>Čakam na uporabniški vnos</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1333"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1338"/>
         <source>Waiting for server</source>
         <extracomment>Network status: Waiting for a response from the server</extracomment>
         <translation>Čakanje na strežnik</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1336"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1341"/>
         <source>Sharing</source>
         <extracomment>Network status: Sharing asset/project</extracomment>
         <translation>V skupni rabi</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1342"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1347"/>
         <source>Unknown</source>
         <extracomment>Network status</extracomment>
         <translation>Neznano</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1438"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1443"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
@@ -3706,7 +3712,7 @@ Save your work and reload page to get the newest features</source>
 Shranite svoje delo in znova naložite stran, da dobite najnovejše funkcije</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1444"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1449"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -3716,7 +3722,7 @@ Nekatere funkcije morda ne bodo na voljo, dokler se stran znova ne naloži.
 Prosimo, da shranite svoje delo in čim prej znova naložite stran</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1466"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1471"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Statusa opravila v oblaku ni bilo mogoče pridobiti</translation>
@@ -4745,14 +4751,14 @@ Placeholder for when no value is entered</extracomment>
         <translation>Največja razdalja</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="58"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="60"/>
         <source>From</source>
         <extracomment>Label for text field: Referring to index of the first target in the calculation</extracomment>
         <translation>Od</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="60"/>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="67"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="62"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="69"/>
         <source>Enter target number or select range in target list</source>
         <extracomment>Tooltip for from-target field
 ----------
@@ -4760,25 +4766,25 @@ Tooltip for to-target field</extracomment>
         <translation>Vnesite številko cilja ali izberite obseg v seznamu ciljev</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="65"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="67"/>
         <source>To</source>
         <extracomment>Label for text field: Referring to index of the last target in the calculation</extracomment>
         <translation>Do</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="195"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="197"/>
         <source>Max Distance</source>
         <extracomment>Label for text field: Maximum allowed distance between targets</extracomment>
         <translation>Maksimalna razdalja</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="197"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="199"/>
         <source>Maximum distance between adjacent targets (mm). Recommended less than %1</source>
         <extracomment>Tool tip explaining max reorientation</extracomment>
         <translation>Največja razdalja med sosednjimi cilji (mm). Priporočeno manj kot %1</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="205"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="207"/>
         <source>Maximum angular difference between adjacent targets (°). Recommended less than %1</source>
         <extracomment>Tool tip explaining max reorientation</extracomment>
         <translation>Največja kotna razlika med sosednjimi cilji (°). Priporočeno manj kot %1</translation>
@@ -4789,7 +4795,7 @@ Tooltip for to-target field</extracomment>
         <translation type="vanished">Največja razdalja med sosednjimi točkami</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="203"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="205"/>
         <source>Max Reorientation</source>
         <extracomment>Label for text field: Maximum angular difference between targets</extracomment>
         <translation>Maksimalna preusmeritev</translation>
@@ -4800,20 +4806,20 @@ Tooltip for to-target field</extracomment>
         <translation type="vanished">Največja kotna razlika med sosednjimi točkami</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="233"/>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="271"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="235"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="273"/>
         <source>N/A</source>
         <extracomment>Label, not available</extracomment>
         <translation>Ne velja</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="289"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="291"/>
         <source>Check</source>
         <extracomment>Button</extracomment>
         <translation>Preveri</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="307"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="309"/>
         <source>Configure</source>
         <extracomment>Button: Run calculation</extracomment>
         <translation>Konfiguriraj</translation>
@@ -5002,10 +5008,9 @@ Do you want to continue?</source>
         <translation type="vanished">Pogoji storitve</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="265"/>
         <source>&amp;Additional Objects</source>
         <extracomment>Menu item</extracomment>
-        <translation>&amp;Dodatni objekti</translation>
+        <translation type="vanished">&amp;Dodatni objekti</translation>
     </message>
     <message>
         <location filename="../../Menus.qml" line="274"/>
@@ -5064,6 +5069,12 @@ Do you want to continue?</source>
     <message>
         <location filename="../../Menus.qml" line="213"/>
         <source>&amp;Frames</source>
+        <extracomment>Menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Menus.qml" line="265"/>
+        <source>&amp;Custom Geometries</source>
         <extracomment>Menu item</extracomment>
         <translation type="unfinished"></translation>
     </message>
@@ -9651,122 +9662,122 @@ Cilj je nedosegljiv s trenutno konfiguracijo</translation>
         <translation type="vanished">Sprememba hitrosti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="278"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="304"/>
         <source>Joint target</source>
         <extracomment>Tooltip text</extracomment>
         <translation>Cilj sklepa</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="289"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="313"/>
         <source>Feed speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in linear velocity (feed speed)</extracomment>
         <translation>Sprememba hitrosti posuva</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="300"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="321"/>
         <source>Tool change</source>
         <extracomment>Tool tip. Explains that this icon indicates a tool change</extracomment>
         <translation>Sprememba orodja</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="310"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="328"/>
         <source>Spindle speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in spindle speed</extracomment>
         <translation>Sprememba hitrosti vretena</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="312"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="330"/>
         <source>Tool command change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool command</extracomment>
         <translation>Sprememba ukaza orodja</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="322"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="337"/>
         <source>Gun On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun on</extracomment>
         <translation>Pištola vključena sprememba</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="324"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="339"/>
         <source>Tool On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool on</extracomment>
         <translation>Orodje vključeno ob spremembi</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="335"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="347"/>
         <source>Gun Off change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun off</extracomment>
         <translation>Pištola izključena sprememba</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="337"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="349"/>
         <source>Tool Off change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool off</extracomment>
         <translation>Orodje izključeno sprememba</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="370"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="375"/>
         <source>Target is successfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Cilj je uspešno rešen</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="372"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="377"/>
         <source>Path is succesfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Pot je uspešno rešen</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="375"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="380"/>
         <source>Target failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Cilj ni uspel rešiti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="377"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="382"/>
         <source>Path failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Pot ni uspelo rešiti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="405"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="407"/>
         <source>Unlock editing to edit path transform</source>
         <extracomment>Tooltip text for transform button</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="409"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="411"/>
         <source>Edit path transform</source>
         <extracomment>Tooltip text for transform button</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="439"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="438"/>
         <source>Unlock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Odkleni urejanje za ta cilj</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="443"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="442"/>
         <source>Lock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Zakleni urejanje za ta cilj</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="449"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="448"/>
         <source>Unlock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Odkleni urejanje za vse cilje na tej poti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="453"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="452"/>
         <source>Lock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Zakleni urejanje za vse cilje v tej poti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="523"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="538"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="522"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="537"/>
         <source>mm</source>
         <extracomment>Unit millimetres
 ----------
@@ -9774,43 +9785,43 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="540"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="539"/>
         <source>s</source>
         <extracomment>Unit seconds. Part of a fraction mm/s</extracomment>
         <translation>s</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="614"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="613"/>
         <source>Speed</source>
         <extracomment>Label over input field</extracomment>
         <translation>Hitrost</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="619"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="618"/>
         <source>Tool</source>
         <extracomment>Label over input field</extracomment>
         <translation>Orodje</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="625"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="624"/>
         <source>Spindle</source>
         <extracomment>Label over input field</extracomment>
         <translation>Vreteno</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="631"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="630"/>
         <source>Tool CMD</source>
         <extracomment>Label over input field</extracomment>
         <translation>Orodje CMD</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="637"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="636"/>
         <source>Gun On/Off</source>
         <extracomment>Label over input field</extracomment>
         <translation>Pištola Vključena/Izključena</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="643"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="642"/>
         <source>Tool On/Off</source>
         <extracomment>Label over input field</extracomment>
         <translation>Orodje vključeno/izključeno</translation>
@@ -9864,7 +9875,7 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation>Sklep</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="280"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="306"/>
         <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="754"/>
         <source>Arc midpoint</source>
         <extracomment>Tooltip text
@@ -9873,13 +9884,13 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Sredina loka</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="218"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="244"/>
         <source>Undefined</source>
         <extracomment>Placeholder text for missing name</extracomment>
         <translation>Nedefinirano</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="275"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="301"/>
         <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="739"/>
         <source>Rotary lift point</source>
         <extracomment>Tooltip text
@@ -9888,7 +9899,7 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Rotacijska dvigovna točka</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="272"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="298"/>
         <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="735"/>
         <source>Linear lift point</source>
         <extracomment>Tooltip text
@@ -11426,13 +11437,13 @@ Tool tip</extracomment>
 <context>
     <name>UndoButtons</name>
     <message>
-        <location filename="../../Controls/UndoButtons.qml" line="47"/>
+        <location filename="../../Controls/UndoButtons.qml" line="46"/>
         <source>Undo last action (%1)</source>
         <extracomment>Undo button tooltip, %1 = key combination</extracomment>
         <translation>Razveljavi zadnje dejanje (%1)</translation>
     </message>
     <message>
-        <location filename="../../Controls/UndoButtons.qml" line="60"/>
+        <location filename="../../Controls/UndoButtons.qml" line="59"/>
         <source>Redo last action (%1)</source>
         <extracomment>Redo button tooltip, %1 = key combination</extracomment>
         <translation>Ponovi zadnjo akcijo (%1)</translation>

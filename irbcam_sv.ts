@@ -121,7 +121,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="138"/>
+        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="141"/>
         <source>Add a new geometry</source>
         <extracomment>Button: Add additional object</extracomment>
         <translation type="unfinished"></translation>
@@ -152,7 +152,7 @@
         <translation type="vanished">Källa</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="163"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="167"/>
         <source>Color</source>
         <extracomment>Label for a colour selector. Select colour for the additional object</extracomment>
         <translation>Färg</translation>
@@ -188,7 +188,7 @@
         <translation type="vanished">Alla giltiga SVG-färgnamn (t.ex. &apos;blue&apos;) eller hex RGB-trippel (t.ex. &apos;#808080&apos;)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="228"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="232"/>
         <source>Robot flange</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Robotfläns</translation>
@@ -204,31 +204,31 @@
         <translation type="vanished">Ingen källa har valts</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="197"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="201"/>
         <source>Parent frame</source>
         <extracomment>Label for a dropdown menu: Select which frame (coordinate system) the object should be placed in relation to</extracomment>
         <translation>Föräldrakoordinatram</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="208"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="212"/>
         <source>Global</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Global</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="213"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="217"/>
         <source>Robot base</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Robot bas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="218"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="222"/>
         <source>User frame</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Användarens koordinatram</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="223"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="227"/>
         <source>Object frame</source>
         <extracomment>Dropdown menu item: Select a frame (coordinate system)</extracomment>
         <translation>Objektkoordinatram</translation>
@@ -239,73 +239,79 @@
         <translation type="vanished">Verktygskoordinatram</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="180"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="142"/>
+        <source>Remove this geometry</source>
+        <extracomment>Button: Rmove custom geometry</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="184"/>
         <source>Mesh</source>
         <extracomment>Label for a button: Select a source geometry mesh for the object</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="190"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="194"/>
         <source>No mesh selected</source>
         <extracomment>Button: Shown when no source geometry is selected for this object</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="242"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="246"/>
         <source>Show mesh</source>
         <extracomment>Checkbox. checked = show mesh, unchecked = hide mesh</extracomment>
         <translation>Vis maska</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="250"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="254"/>
         <source>Transparent</source>
         <extracomment>Checkbox. checked = semi-transparent mesh, unchecked = opaque mesh</extracomment>
         <translation>Genomskinlig</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="262"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="266"/>
         <source>Linear</source>
         <extracomment>Collapsible section: In this section the user will adjust position and scale of the object</extracomment>
         <translation>Linjär</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="276"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="280"/>
         <source>Position</source>
         <extracomment>Label for text fields: Set the position in space (displacement/translation) for the object</extracomment>
         <translation>Position</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="301"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="305"/>
         <source>Scale</source>
         <extracomment>Label for text fields: Set the scaling multiplicator (in x, y, z) to scale the object size</extracomment>
         <translation>Skala</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="303"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="307"/>
         <source>Size</source>
         <extracomment>Label for text fields: Set the size (in x, y, z) of the the object</extracomment>
         <translation>Storlek</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="332"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="336"/>
         <source>Rotation</source>
         <extracomment>Collapsible section: In this section the user will adjust the rotation of the object</extracomment>
         <translation>Rotation</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="349"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="353"/>
         <source>Yaw angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
         <translation>Girvinkel</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="359"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="363"/>
         <source>Pitch angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
         <translation>Stigningsvinkel</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="369"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="373"/>
         <source>Roll angle</source>
         <extracomment>Tool tip: Referring a rotation axis. Look up Euler rotations or principal rotation axes.</extracomment>
         <translation>Rullvinkel</translation>
@@ -356,37 +362,37 @@
         <translation type="vanished">Rull</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="378"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="382"/>
         <source>Normalize</source>
         <extracomment>Button: Normalise the rotation quaternion</extracomment>
         <translation>Normalisera</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="388"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="392"/>
         <source>Normalize quaternion</source>
         <extracomment>Tool tip for normalize button</extracomment>
         <translation>Normalisera quaternion</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="395"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="399"/>
         <source>Quaternion scalar</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Kvaternion skalär</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="405"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="409"/>
         <source>Quaternion i</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Quaternion i</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="415"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="419"/>
         <source>Quaternion j</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Quaternion j</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="425"/>
+        <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="429"/>
         <source>Quaternion k</source>
         <extracomment>Tool tip: Referring to a quaternion component</extracomment>
         <translation>Quaternion k</translation>
@@ -3002,7 +3008,7 @@ Placeholder for when no procedure name is entered</extracomment>
 <context>
     <name>GenericTreeView</name>
     <message>
-        <location filename="../../Controls/GenericTreeView.qml" line="117"/>
+        <location filename="../../Controls/GenericTreeView.qml" line="120"/>
         <source>A network error was encountered while getting asset data
 
 Please make sure you are connected to the internet and try again</source>
@@ -3010,13 +3016,13 @@ Please make sure you are connected to the internet and try again</source>
         <translation type="unfinished">Ett nätverksfel uppstod när tillgångsdata hämtades. Kontrollera att du är ansluten till internet och försök igen</translation>
     </message>
     <message>
-        <location filename="../../Controls/GenericTreeView.qml" line="119"/>
+        <location filename="../../Controls/GenericTreeView.qml" line="122"/>
         <source>No items in list</source>
         <extracomment>Placeholder for empty list</extracomment>
         <translation type="unfinished">Inga objekt i listan</translation>
     </message>
     <message>
-        <location filename="../../Controls/GenericTreeView.qml" line="121"/>
+        <location filename="../../Controls/GenericTreeView.qml" line="124"/>
         <source>You are not signed in
 
 Please sign in to see the list</source>
@@ -3035,7 +3041,7 @@ Logga in för att se listan</translation>
         <translation>Gå till punkt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/GoToTargetPopup.qml" line="92"/>
+        <location filename="../../Sidebar/Assets/GoToTargetPopup.qml" line="94"/>
         <source>Go</source>
         <extracomment>Button text: click this button to go to target</extracomment>
         <translation>Gå</translation>
@@ -4157,19 +4163,19 @@ Tool tip for text field.</extracomment>
         <translation>Det gick inte att söka efter uppdateringar</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="938"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="943"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>okänd användare</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="947"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="952"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>okänt användarnamn</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="999"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1004"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -4179,37 +4185,37 @@ Vissa inställningar var inte tillgängliga i molnet. Detta beror troligen på a
 De berörda inställningarna har ställts in på sina standardvärden</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1009"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1014"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation>Det gick inte att läsa in inställningarna för %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1017"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1022"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation>Inställningar för %1 laddade</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1027"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1032"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation>Välkommen %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1049"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1054"/>
         <source>Failed to get user details</source>
         <extracomment>Error message.</extracomment>
         <translation>Det gick inte att hämta användardetaljer</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1159"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1164"/>
         <source>Network error: The response contained no data</source>
         <extracomment>Error message.</extracomment>
         <translation>Nätverksfel: Svaret innehöll inga data</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1178"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1183"/>
         <source>Network error: Failed to parse response</source>
         <extracomment>Error message.</extracomment>
         <translation>Nätverksfel: Kunde inte tolka svaret</translation>
@@ -4220,13 +4226,13 @@ De berörda inställningarna har ställts in på sina standardvärden</translati
         <translation type="vanished">Ett nätverksfel inträffade</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1219"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1224"/>
         <source>Your session has expired. Please sign in again.</source>
         <extracomment>Error message.</extracomment>
         <translation>Din session har gått ut. Vänligen logga in igen.</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1230"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1235"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
@@ -4234,128 +4240,128 @@ code: %2</source>
 kod: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1244"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1249"/>
         <source>Network error: %1</source>
         <extracomment>Error message: %1 = message</extracomment>
         <translation>Nätverksfel: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1251"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1256"/>
         <source>Network error: %1
 code: %2</source>
         <extracomment>Error message: %1 = message, %2 = code</extracomment>
         <translation>Nätverksfel: %1 kod: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1288"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1293"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation>Oinitierad</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1291"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1296"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation>Inaktivt</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1294"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1299"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation>Hämtar beskrivning</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1297"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1302"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation>Laddar ner</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1300"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1305"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation>Uppackning</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1303"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1308"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation>Laddar</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1306"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1311"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation>Raderar</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1309"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1314"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation>Laddar upp</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1312"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1317"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation>Hämtar lista</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1315"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1320"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation>Avkodning</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1318"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1323"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation>Verifierar</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1321"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1326"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation>Laddar tillgångar</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1324"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1329"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation>Bearbetar</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1327"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1332"/>
         <source>Error</source>
         <extracomment>Network status: An error has ocurred</extracomment>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1330"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1335"/>
         <source>Awaiting user input</source>
         <extracomment>Network status</extracomment>
         <translation>Väntar på användarens inmatning</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1333"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1338"/>
         <source>Waiting for server</source>
         <extracomment>Network status: Waiting for a response from the server</extracomment>
         <translation>Väntar på server</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1336"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1341"/>
         <source>Sharing</source>
         <extracomment>Network status: Sharing asset/project</extracomment>
         <translation>Delar</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1342"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1347"/>
         <source>Unknown</source>
         <extracomment>Network status</extracomment>
         <translation>Okänd</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1438"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1443"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
@@ -4363,7 +4369,7 @@ Save your work and reload page to get the newest features</source>
 Spara ditt arbete och ladda om sidan för att få de senaste funktionerna</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1444"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1449"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -4373,7 +4379,7 @@ Vissa funktioner kan vara otillgängliga förrän sidan laddas om.
 Spara ditt arbete och ladda om sidan så snart som möjligt</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1466"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1471"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att få molnjobbstatus</translation>
@@ -5875,14 +5881,14 @@ Placeholder for when no value is entered</extracomment>
         <translation>Max avstånd</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="58"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="60"/>
         <source>From</source>
         <extracomment>Label for text field: Referring to index of the first target in the calculation</extracomment>
         <translation>Från</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="60"/>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="67"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="62"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="69"/>
         <source>Enter target number or select range in target list</source>
         <extracomment>Tooltip for from-target field
 ----------
@@ -5890,25 +5896,25 @@ Tooltip for to-target field</extracomment>
         <translation>Ange punktnummer eller välj intervall i punktlistan</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="65"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="67"/>
         <source>To</source>
         <extracomment>Label for text field: Referring to index of the last target in the calculation</extracomment>
         <translation>Till</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="195"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="197"/>
         <source>Max Distance</source>
         <extracomment>Label for text field: Maximum allowed distance between targets</extracomment>
         <translation>Max Distans</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="197"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="199"/>
         <source>Maximum distance between adjacent targets (mm). Recommended less than %1</source>
         <extracomment>Tool tip explaining max reorientation</extracomment>
         <translation>Maximalt avstånd mellan intilliggande punkter (mm). Rekommenderas mindre än %1</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="205"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="207"/>
         <source>Maximum angular difference between adjacent targets (°). Recommended less than %1</source>
         <extracomment>Tool tip explaining max reorientation</extracomment>
         <translation>Maximal vinkelskillnad mellan intilliggande punkter (°). Rekommenderas mindre än %1</translation>
@@ -5919,7 +5925,7 @@ Tooltip for to-target field</extracomment>
         <translation type="vanished">Maximalt avstånd mellan intilliggande punkter</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="203"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="205"/>
         <source>Max Reorientation</source>
         <extracomment>Label for text field: Maximum angular difference between targets</extracomment>
         <translation>Max omorientering</translation>
@@ -5930,20 +5936,20 @@ Tooltip for to-target field</extracomment>
         <translation type="vanished">Maximal vinkelskillnad mellan intilliggande punkter</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="233"/>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="271"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="235"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="273"/>
         <source>N/A</source>
         <extracomment>Label, not available</extracomment>
         <translation>N/A</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="289"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="291"/>
         <source>Check</source>
         <extracomment>Button</extracomment>
         <translation>Kontrollera</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="307"/>
+        <location filename="../../Sidebar/Assets/MaxDistance.qml" line="309"/>
         <source>Configure</source>
         <extracomment>Button: Run calculation</extracomment>
         <translation>Konfigurera</translation>
@@ -6050,10 +6056,9 @@ Tooltip for to-target field</extracomment>
         <translation>&amp;Linjärbana</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="265"/>
         <source>&amp;Additional Objects</source>
         <extracomment>Menu item</extracomment>
-        <translation>&amp;Ytterligare objekt</translation>
+        <translation type="vanished">&amp;Ytterligare objekt</translation>
     </message>
     <message>
         <location filename="../../Menus.qml" line="274"/>
@@ -6328,6 +6333,12 @@ Vill du fortsätta?</translation>
         <source>Rotary Ta&amp;ble</source>
         <extracomment>Menu item</extracomment>
         <translation>Rotasions&amp;bord</translation>
+    </message>
+    <message>
+        <location filename="../../Menus.qml" line="265"/>
+        <source>&amp;Custom Geometries</source>
+        <extracomment>Menu item</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../Menus.qml" line="283"/>
@@ -11739,122 +11750,122 @@ Målet går inte att nå med den aktuella konfigurationen</translation>
         <translation type="vanished">Hastighetsförändring</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="278"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="304"/>
         <source>Joint target</source>
         <extracomment>Tooltip text</extracomment>
         <translation>Ledmål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="289"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="313"/>
         <source>Feed speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in linear velocity (feed speed)</extracomment>
         <translation>Ändring av matningshastighet</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="300"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="321"/>
         <source>Tool change</source>
         <extracomment>Tool tip. Explains that this icon indicates a tool change</extracomment>
         <translation>Verktygsbyte</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="310"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="328"/>
         <source>Spindle speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in spindle speed</extracomment>
         <translation>Spindelhastighetsändring</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="312"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="330"/>
         <source>Tool command change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool command</extracomment>
         <translation>Verktygskommandoförändring</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="322"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="337"/>
         <source>Gun On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun on</extracomment>
         <translation>Pistol På ändring</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="324"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="339"/>
         <source>Tool On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool on</extracomment>
         <translation>Verktyg På ändra</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="335"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="347"/>
         <source>Gun Off change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun off</extracomment>
         <translation>Pistol Av ändring</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="337"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="349"/>
         <source>Tool Off change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool off</extracomment>
         <translation>Verktyg av ändring</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="370"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="375"/>
         <source>Target is successfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Punkt är framgångsrikt löst</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="372"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="377"/>
         <source>Path is succesfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Bana är framgångsrikt löst</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="375"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="380"/>
         <source>Target failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Punkt misslyckades att lösas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="377"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="382"/>
         <source>Path failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Bana misslyckades att lösas</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="405"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="407"/>
         <source>Unlock editing to edit path transform</source>
         <extracomment>Tooltip text for transform button</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="409"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="411"/>
         <source>Edit path transform</source>
         <extracomment>Tooltip text for transform button</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="439"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="438"/>
         <source>Unlock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Lås upp redigering för detta mål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="443"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="442"/>
         <source>Lock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Lås redigering för detta mål</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="449"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="448"/>
         <source>Unlock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Lås upp redigering för alla mål i den här banan</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="453"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="452"/>
         <source>Lock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Lås redigering för alla mål i den här banan</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="523"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="538"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="522"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="537"/>
         <source>mm</source>
         <extracomment>Unit millimetres
 ----------
@@ -11862,43 +11873,43 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="540"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="539"/>
         <source>s</source>
         <extracomment>Unit seconds. Part of a fraction mm/s</extracomment>
         <translation>s</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="614"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="613"/>
         <source>Speed</source>
         <extracomment>Label over input field</extracomment>
         <translation>Hastighet</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="619"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="618"/>
         <source>Tool</source>
         <extracomment>Label over input field</extracomment>
         <translation>Verktyg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="625"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="624"/>
         <source>Spindle</source>
         <extracomment>Label over input field</extracomment>
         <translation>Spindel</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="631"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="630"/>
         <source>Tool CMD</source>
         <extracomment>Label over input field</extracomment>
         <translation>Verktyg CMD</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="637"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="636"/>
         <source>Gun On/Off</source>
         <extracomment>Label over input field</extracomment>
         <translation>Pistol På/Av</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="643"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="642"/>
         <source>Tool On/Off</source>
         <extracomment>Label over input field</extracomment>
         <translation>Verktyg På/Av</translation>
@@ -11952,7 +11963,7 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation>Led</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="280"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="306"/>
         <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="754"/>
         <source>Arc midpoint</source>
         <extracomment>Tooltip text
@@ -11961,13 +11972,13 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Bågens mittpunkt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="218"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="244"/>
         <source>Undefined</source>
         <extracomment>Placeholder text for missing name</extracomment>
         <translation>Odefinierad</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="272"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="298"/>
         <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="735"/>
         <source>Linear lift point</source>
         <extracomment>Tooltip text
@@ -11976,7 +11987,7 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Linjär lyftpunkt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="275"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="301"/>
         <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="739"/>
         <source>Rotary lift point</source>
         <extracomment>Tooltip text
@@ -13608,13 +13619,13 @@ Tool tip</extracomment>
 <context>
     <name>UndoButtons</name>
     <message>
-        <location filename="../../Controls/UndoButtons.qml" line="47"/>
+        <location filename="../../Controls/UndoButtons.qml" line="46"/>
         <source>Undo last action (%1)</source>
         <extracomment>Undo button tooltip, %1 = key combination</extracomment>
         <translation>Ångra senaste åtgärd (%1)</translation>
     </message>
     <message>
-        <location filename="../../Controls/UndoButtons.qml" line="60"/>
+        <location filename="../../Controls/UndoButtons.qml" line="59"/>
         <source>Redo last action (%1)</source>
         <extracomment>Redo button tooltip, %1 = key combination</extracomment>
         <translation>Gör om senaste åtgärd (%1)</translation>
