@@ -116,7 +116,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="141"/>
+        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="142"/>
         <source>Add a new geometry</source>
         <extracomment>Button: Add additional object</extracomment>
         <translation type="unfinished"></translation>
@@ -386,19 +386,19 @@
         <translation>Falha ao baixar geometria da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1358"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1325"/>
         <source>Failed to download geometry from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao baixar geometria da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1392"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1368"/>
         <source>Failed to unpack geometry from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao descompactar geometria da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1517"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1467"/>
         <source>Custom geometry %1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Geometria personalizada %1 carregada</translation>
@@ -693,38 +693,38 @@ Faça login para ver a lista.</translation>
 <context>
     <name>BaseNetworkDataInterface</name>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="259"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="264"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Falhou ao confirmar que %1 foi excluído da nuvem (o item pode ou não ter sido excluído)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="292"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="297"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message. %1 = Name</extracomment>
         <translation>%1 foi excluído da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="376"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="333"/>
         <source>Failed to load %1</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Falha ao carregar %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="438"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="396"/>
         <source>%1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 carregado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="473"/>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="573"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="431"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="502"/>
         <source>Failed to download item from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao baixar item da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="596"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="527"/>
         <source>Failed to unpack item</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao descompactar item</translation>
@@ -1427,19 +1427,19 @@ Button text</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="206"/>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="207"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = name of geometry</extracomment>
         <translation>Excluir %1</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="208"/>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="209"/>
         <source>Are you sure you want to delete user geometry %1?</source>
         <extracomment>Popup content text. %1 = name of geometry</extracomment>
         <translation>Tem certeza de que deseja excluir a geometria do usuário %1?</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="261"/>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="262"/>
         <source>The geometry %1 looks very large&lt;br /&gt;(%2 x %3 x %4 m)&lt;br /&gt;You may want to scale it down. If the model is using millimeters, you can scale down by 0.001&lt;br /&gt;&lt;br /&gt;Do you want to scale down by 0.001?</source>
         <extracomment>Confirmation popup. %1 = geometry name</extracomment>
         <translation type="unfinished"></translation>
@@ -3232,31 +3232,31 @@ Apenas arquivos codificados em UTF-8 são suportados</translation>
         <translation>Falha ao validar token de sessão</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="268"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="269"/>
         <source>Failed to get admin details</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao obter detalhes do administrador</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="519"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="524"/>
         <source>Failed to check for updates</source>
         <extracomment>Warning message: Shown if the client is unable to check for updates</extracomment>
         <translation>Falha ao verificar atualizações</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="943"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="955"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>usuário desconhecido</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="952"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="964"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>nome de usuário desconhecido</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1004"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1016"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -3266,49 +3266,49 @@ Algumas configurações não estavam disponíveis na nuvem. Isso provavelmente s
 As configurações afetadas foram definidas para seus valores padrão</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1032"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1047"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation>Bem-vindo %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1014"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1028"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation>Falhou ao carregar configurações para %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1022"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1036"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation>Configurações para %1 carregadas</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1054"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1069"/>
         <source>Failed to get user details</source>
         <extracomment>Error message.</extracomment>
         <translation>Falha ao obter detalhes do usuário</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1164"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1179"/>
         <source>Network error: The response contained no data</source>
         <extracomment>Error message.</extracomment>
         <translation>Erro de rede: A resposta não continha dados</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1183"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1198"/>
         <source>Network error: Failed to parse response</source>
         <extracomment>Error message.</extracomment>
         <translation>Erro de rede: Falha ao analisar a resposta</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1224"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1238"/>
         <source>Your session has expired. Please sign in again.</source>
         <extracomment>Error message.</extracomment>
         <translation>Sua sessão expirou. Por favor, faça login novamente.</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1235"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1249"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
@@ -3316,128 +3316,128 @@ code: %2</source>
 código: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1249"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1263"/>
         <source>Network error: %1</source>
         <extracomment>Error message: %1 = message</extracomment>
         <translation>Erro de rede: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1256"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1270"/>
         <source>Network error: %1
 code: %2</source>
         <extracomment>Error message: %1 = message, %2 = code</extracomment>
         <translation>Erro de rede: %1 código: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1293"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1307"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation>Não inicializado</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1296"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1310"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation>Ocioso</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1299"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1313"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation>Buscando descrição</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1302"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1316"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation>Baixando</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1305"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1319"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation>Descompactando</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1308"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1322"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation>Carregando</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1311"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1325"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation>Excluindo</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1314"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1328"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation>Enviando</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1317"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1331"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation>Buscando lista</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1320"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1334"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation>Decodificação</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1323"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1337"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation>Verificando</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1326"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1340"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation>Carregando ativos</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1329"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1343"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation>Processando</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1332"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1346"/>
         <source>Error</source>
         <extracomment>Network status: An error has ocurred</extracomment>
         <translation>Erro</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1335"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1349"/>
         <source>Awaiting user input</source>
         <extracomment>Network status</extracomment>
         <translation>Aguardando a entrada do usuário</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1338"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1352"/>
         <source>Waiting for server</source>
         <extracomment>Network status: Waiting for a response from the server</extracomment>
         <translation>Aguardando servidor</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1341"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1355"/>
         <source>Sharing</source>
         <extracomment>Network status: Sharing asset/project</extracomment>
         <translation>Compartilhar</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1347"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1361"/>
         <source>Unknown</source>
         <extracomment>Network status</extracomment>
         <translation>Desconhecido</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1443"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1457"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
@@ -3445,7 +3445,7 @@ Save your work and reload page to get the newest features</source>
 Salve seu trabalho e recarregue a página para obter os recursos mais recentes</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1449"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1464"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -3463,7 +3463,7 @@ Por favor, salve seu trabalho e recarregue a página o mais breve possível</tra
         <translation type="vanished">Falha ao carregar configurações para </translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1471"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1492"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao obter status do trabalho na nuvem</translation>
@@ -9790,61 +9790,61 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation type="obsolete">Robô</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="540"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="539"/>
         <source>Project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Projeto %1 salvo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="891"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="890"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Projeto liberado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="495"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="494"/>
         <source>Failed to confirm that the project was saved to the cloud (the project may or may not have been saved)</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao confirmar que o projeto foi salvo na nuvem (o projeto pode ou não ter sido salvo)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="463"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="462"/>
         <source>No changes detected in project</source>
         <extracomment>Notification message that is displayed if the user attempst to save project, but the project has not changed since last save</extracomment>
         <translation>Nenhuma alteração detectada no projeto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="534"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="533"/>
         <source>Autosave for project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Salvamento automático do projeto %1 salvo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="685"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="684"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao baixar o projeto da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="934"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="933"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao confirmar que o projeto foi excluído da nuvem (o projeto pode ou não ter sido excluído)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="959"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="958"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projeto %1 foi excluído da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1042"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1041"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Falhou ao confirmar que o projeto foi compartilhado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1065"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1064"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projeto %1 foi compartilhado com %2.</translation>
@@ -9857,7 +9857,7 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Caminhos maiores podem ser importados dividindo o arquivo APT em arquivos menores e usando a opção &apos;append&apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1129"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1128"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Falha ao iniciar trabalho na nuvem %1</translation>
@@ -9883,20 +9883,20 @@ Caminhos maiores podem ser importados dividindo o arquivo APT em arquivos menore
         <translation type="vanished">Caminho importado de APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1363"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1395"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1362"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1394"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao obter código do robô da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1576"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1575"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao recuperar projeto salvo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1588"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1587"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -9904,56 +9904,56 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Isto pode ser devido ao salvamento vindo de uma versão mais antiga do IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1614"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1613"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Informação faltante no projeto recuperado da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1663"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1662"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao obter dados do quadro do usuário</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1681"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1680"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao carregar dados do quadro do usuário</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1691"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1690"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao obter dados do quadro do objeto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1700"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1699"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao carregar dados do quadro do objeto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1733"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1732"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Informações de caminho ausentes ou corrompidas do projeto salvo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1759"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1758"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>caminho de importação</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1918"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1925"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1917"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1924"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>Tabela DH</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1596"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1595"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -9961,7 +9961,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Isso pode ser devido ao salvamento vindo de uma versão mais antiga do IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1105"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1104"/>
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -9969,92 +9969,92 @@ Larger paths can be imported by splitting the file into smaller files and using 
 Caminhos maiores podem ser importados dividindo o arquivo em arquivos menores e usando a opção &apos;append&apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1160"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1159"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Falha ao obter %1 analisado da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1206"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1205"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>O número de casas decimais usadas no arquivo %1 é %2 (baixa precisão numérica).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1227"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1226"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>%1 alvos são filtrados do arquivo %2: eles estão mais próximos do que o limiar mínimo de distância de %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1241"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1240"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>%1 alvo é filtrado do arquivo %2: ele está mais próximo que o limiar de distância mínima de %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1262"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1261"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Falha ao importar o arquivo %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1270"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1269"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation>Caminho importado de %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1324"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1472"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1323"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1471"/>
         <source>Blend radius is overlapping at target %1. Try reducing the target velocity or increasing the maximum acceleration</source>
         <extracomment>Error message</extracomment>
         <translation>O raio de blend está se sobrepondo no alvo %1. Tente reduzir a velocidade alvo ou aumentar a aceleração máxima</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1333"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1481"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1332"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1480"/>
         <source>Target %1 is too close. Try reimporting the path with minimum distance between targets &gt;= %2 mm or manually adjust the target so that the distance between two consecutive targets &gt;=  %2 mm</source>
         <extracomment>Error message</extracomment>
         <translation>O alvo %1 está muito próximo. Tente reimportar o caminho com a distância mínima entre os alvos &gt;= %2 mm ou ajuste manualmente o alvo para que a distância entre dois alvos consecutivos &gt;= %2 mm</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1775"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1783"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1793"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1774"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1782"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1792"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robô</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1802"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1801"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>ferramenta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1867"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1875"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1885"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1866"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1874"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1884"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>mesa rotativa</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1653"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1652"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao carregar dados do projeto</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1989"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1988"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projeto %1 carregado</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1897"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1905"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1896"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1904"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>trilho linear</translation>
@@ -11246,67 +11246,67 @@ Button text</extracomment>
 <context>
     <name>ToolModel</name>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1470"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1452"/>
         <source>Custom tool upload failed</source>
         <extracomment>Error message</extracomment>
         <translation>Falha no upload da ferramenta personalizada</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1476"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1458"/>
         <source>Custom tool %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
         <translation>Ferramenta personalizada %1 carregada com sucesso</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1512"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1494"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Falha ao confirmar que %1 foi excluído da nuvem (o item pode ou não ter sido excluído)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1545"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1527"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 foi excluído da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1695"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1694"/>
         <source>Failed to download tool from cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao baixar a ferramenta da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1814"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1784"/>
         <source>Failed to download tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao baixar a ferramenta da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1849"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1820"/>
         <source>Failed to unpack tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Falha ao descompactar ferramenta da nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1915"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1886"/>
         <source>Failed to load %1 mesh</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Falha ao carregar a malha %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2001"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1971"/>
         <source>Tool %1 mesh loaded from %2</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Malha da ferramenta %1 carregada de %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2012"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1982"/>
         <source>Failed to load %1 data</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2033"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2003"/>
         <source>Tool %1 data loaded from json</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation type="unfinished"></translation>
@@ -11917,9 +11917,9 @@ Placeholder text for a text field where you enter a name for your object</extrac
 <context>
     <name>UrdfImporter</name>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="54"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="332"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="710"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="17"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="291"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="664"/>
         <source>Failed to build %1</source>
         <extracomment>Error message. %1 = name of rotation table
 ----------
@@ -11927,13 +11927,13 @@ Error message. %1 = name</extracomment>
         <translation>Falha ao construir %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="626"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="580"/>
         <source>Failed to upload %1 to the cloud</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Falha ao enviar %1 para a nuvem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="1069"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="1020"/>
         <source>Failed to get custom 3D object from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Falhou ao obter objeto 3D personalizado da nuvem</translation>

@@ -121,7 +121,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="141"/>
+        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="142"/>
         <source>Add a new geometry</source>
         <extracomment>Button: Add additional object</extracomment>
         <translation type="unfinished"></translation>
@@ -401,19 +401,19 @@
         <translation>Nem sikerült letölteni a geometriát a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1358"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1325"/>
         <source>Failed to download geometry from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült letölteni a geometriát a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1392"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1368"/>
         <source>Failed to unpack geometry from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült kicsomagolni a geometriát a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1517"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1467"/>
         <source>Custom geometry %1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Egyéni geometria %1 betöltve</translation>
@@ -707,38 +707,38 @@ Kérjük, jelentkezzen be a lista megtekintéséhez</translation>
 <context>
     <name>BaseNetworkDataInterface</name>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="259"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="264"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Nem sikerült megerősíteni, hogy a(z) %1 törölve lett a felhőből (az elem lehet, hogy törölve lett vagy sem)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="292"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="297"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message. %1 = Name</extracomment>
         <translation>%1 törölve lett a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="376"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="333"/>
         <source>Failed to load %1</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Nem sikerült betölteni: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="438"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="396"/>
         <source>%1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 betöltve</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="473"/>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="573"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="431"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="502"/>
         <source>Failed to download item from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült letölteni az elemet a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="596"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="527"/>
         <source>Failed to unpack item</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült kicsomagolni az elemet</translation>
@@ -1472,19 +1472,19 @@ Button text</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="206"/>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="207"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = name of geometry</extracomment>
         <translation>Töröl %1</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="208"/>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="209"/>
         <source>Are you sure you want to delete user geometry %1?</source>
         <extracomment>Popup content text. %1 = name of geometry</extracomment>
         <translation>Biztos benne, hogy törölni szeretné a felhasználói geometriát %1?</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="261"/>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="262"/>
         <source>The geometry %1 looks very large&lt;br /&gt;(%2 x %3 x %4 m)&lt;br /&gt;You may want to scale it down. If the model is using millimeters, you can scale down by 0.001&lt;br /&gt;&lt;br /&gt;Do you want to scale down by 0.001?</source>
         <extracomment>Confirmation popup. %1 = geometry name</extracomment>
         <translation type="unfinished"></translation>
@@ -3284,31 +3284,31 @@ Csak UTF-8 kódolású fájlok támogatottak</translation>
         <translation>A munkamenet token érvényesítése nem sikerült</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="268"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="269"/>
         <source>Failed to get admin details</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült lekérni az adminisztrátori adatokat</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="519"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="524"/>
         <source>Failed to check for updates</source>
         <extracomment>Warning message: Shown if the client is unable to check for updates</extracomment>
         <translation>Nem sikerült ellenőrizni a frissítéseket</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="943"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="955"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>ismeretlen felhasználó</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="952"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="964"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>ismeretlen felhasználónév</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1004"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1016"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -3318,184 +3318,184 @@ Egyes beállítások nem voltak elérhetők a felhőben. Ez valószínűleg új 
 Az érintett beállításokat alapértelmezett értékekre állították</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1032"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1047"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation>Üdvözöljük, %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1014"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1028"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation>Nem sikerült betölteni a %1 beállításait</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1022"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1036"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation>%1 beállításai betöltve</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1054"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1069"/>
         <source>Failed to get user details</source>
         <extracomment>Error message.</extracomment>
         <translation>Nem sikerült lekérni a felhasználó adatait</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1164"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1179"/>
         <source>Network error: The response contained no data</source>
         <extracomment>Error message.</extracomment>
         <translation>Hálózati hiba: A válasz nem tartalmazott adatokat</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1183"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1198"/>
         <source>Network error: Failed to parse response</source>
         <extracomment>Error message.</extracomment>
         <translation>Hálózati hiba: Nem sikerült elemezni a választ</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1224"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1238"/>
         <source>Your session has expired. Please sign in again.</source>
         <extracomment>Error message.</extracomment>
         <translation>A munkamenet lejárt. Kérjük, jelentkezzen be újra.</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1235"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1249"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
         <translation>Távoli hiba: %1 kód: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1249"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1263"/>
         <source>Network error: %1</source>
         <extracomment>Error message: %1 = message</extracomment>
         <translation>Hálózati hiba: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1256"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1270"/>
         <source>Network error: %1
 code: %2</source>
         <extracomment>Error message: %1 = message, %2 = code</extracomment>
         <translation>Hálózati hiba: %1 kód: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1293"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1307"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation>Inicializálatlan</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1296"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1310"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation>Tétlen</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1299"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1313"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation>Leírás lekérése</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1302"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1316"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation>Letöltés</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1305"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1319"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation>Kicsomagolás</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1308"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1322"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation>Betöltés</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1311"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1325"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation>Törlés</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1314"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1328"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation>Feltöltés</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1317"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1331"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation>Lista lekérése</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1320"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1334"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation>Dekódolás</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1323"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1337"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation>Ellenőrzés</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1326"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1340"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation>Eszközök betöltése</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1329"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1343"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation>Feldolgozás</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1332"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1346"/>
         <source>Error</source>
         <extracomment>Network status: An error has ocurred</extracomment>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1335"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1349"/>
         <source>Awaiting user input</source>
         <extracomment>Network status</extracomment>
         <translation>Várakozás a felhasználói bevitelre</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1338"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1352"/>
         <source>Waiting for server</source>
         <extracomment>Network status: Waiting for a response from the server</extracomment>
         <translation>Várakozás a szerverre</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1341"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1355"/>
         <source>Sharing</source>
         <extracomment>Network status: Sharing asset/project</extracomment>
         <translation>Megosztás</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1347"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1361"/>
         <source>Unknown</source>
         <extracomment>Network status</extracomment>
         <translation>Ismeretlen</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1443"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1457"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
         <translation>Elérhető az IRBCAM új kisebb verziója. Mentsd el a munkádat és töltsd újra az oldalt a legújabb funkciókért</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1449"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1464"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -3513,7 +3513,7 @@ Kérjük, mentse el munkáját, és töltse újra az oldalt a lehető leghamarab
         <translation type="vanished">Nem sikerült betölteni a beállításokat a(z) </translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1471"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1492"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült lekérni a felhő feladat állapotát</translation>
@@ -9936,61 +9936,61 @@ Label: Does the solution use a wrist-down configuration</extracomment>
         <translation type="obsolete">Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="540"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="539"/>
         <source>Project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Projekt %1 elmentve</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="891"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="890"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Projekt jóváhagyva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="495"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="494"/>
         <source>Failed to confirm that the project was saved to the cloud (the project may or may not have been saved)</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült megerősíteni a projekt felhőbe mentését (a projekt mentve lehet vagy nem)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="463"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="462"/>
         <source>No changes detected in project</source>
         <extracomment>Notification message that is displayed if the user attempst to save project, but the project has not changed since last save</extracomment>
         <translation>Nincs változás észlelve a projektben</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="534"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="533"/>
         <source>Autosave for project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>A(z) %1 projekt automatikus mentése megtörtént</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="685"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="684"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült letölteni a projektet a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="934"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="933"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült megerősíteni a projekt felhőből való törlését (a projekt törölve lehet vagy sem)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="959"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="958"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>A(z) %1 projekt törölve lett a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1042"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1041"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült megerősíteni, hogy a projekt meg lett osztva</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1065"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1064"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>A %1 projektet megosztották %2-vel</translation>
@@ -10003,7 +10003,7 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Nagyobb útvonalak importálhatók az APT fájl kisebb fájlokra való felosztásával és a „hozzáfűzés” opció használatával</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1129"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1128"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Nem sikerült elindítani a felhő feladatot %1</translation>
@@ -10029,20 +10029,20 @@ Nagyobb útvonalak importálhatók az APT fájl kisebb fájlokra való felosztá
         <translation type="vanished">Pálya importálva az APT %1-ből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1363"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1395"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1362"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1394"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült lekérni a robot kódját a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1576"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1575"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült helyreállítani a mentett projektet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1588"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1587"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -10050,56 +10050,56 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Ez lehet, hogy azért van, mert a mentés egy régebbi IRBCAM verzióból származik</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1614"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1613"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Hiányzó információ a felhőből lekért projektben</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1663"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1662"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült lekérni a felhasználói keret adatokat</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1681"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1680"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült betölteni a felhasználói keretadatokat</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1691"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1690"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Az objektum keret adatainak lekérése sikertelen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1700"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1699"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült betölteni az objektum keret adatait</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1733"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1732"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Hiányzó vagy sérült útvonal-információ a mentett projektből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1759"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1758"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>Útvonal importálása</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1918"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1925"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1917"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1924"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH-táblázat</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1596"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1595"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -10107,7 +10107,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Ez lehetséges, hogy a mentés egy régebbi IRBCAM-verzióból származik</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1105"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1104"/>
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -10115,92 +10115,92 @@ Larger paths can be imported by splitting the file into smaller files and using 
 Nagyobb pályák importálhatók a fájl kisebb fájlokra bontásával és az &apos;append&apos; opció használatával</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1160"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1159"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Nem sikerült lekérni az elemzett %1-et a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1206"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1205"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>A %1 fájlban használt tizedesjegyek száma %2 (alacsony numerikus pontosság).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1227"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1226"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>%1 célpont kiszűrve a %2 fájlból: közelebb vannak, mint a minimális távolságküszöb (%3 mm).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1241"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1240"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>%1 célpont ki van szűrve a %2 fájlból: közelebb van, mint a minimális távolságküszöb %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1262"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1261"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Nem sikerült importálni a(z) %1 fájlt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1270"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1269"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation>Útvonal importálva %1-ből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1324"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1472"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1323"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1471"/>
         <source>Blend radius is overlapping at target %1. Try reducing the target velocity or increasing the maximum acceleration</source>
         <extracomment>Error message</extracomment>
         <translation>A keverési sugár átfedésben van a %1 célpontnál. Próbálja csökkenteni a célsebességet vagy növelni a maximális gyorsulást</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1333"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1481"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1332"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1480"/>
         <source>Target %1 is too close. Try reimporting the path with minimum distance between targets &gt;= %2 mm or manually adjust the target so that the distance between two consecutive targets &gt;=  %2 mm</source>
         <extracomment>Error message</extracomment>
         <translation>A %1 célpont túl közel van. Próbálja meg újraimportálni az útvonalat a célpontok közötti minimális távolsággal &gt;= %2 mm vagy állítsa be manuálisan a célpontot úgy, hogy a két egymást követő célpont közötti távolság &gt;= %2 mm</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1775"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1783"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1793"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1774"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1782"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1792"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1802"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1801"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>eszköz</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1867"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1875"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1885"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1866"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1874"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1884"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>forgóasztal</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1653"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1652"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült betölteni a projekt adatokat</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1989"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1988"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projekt %1 betöltve</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1897"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1905"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1896"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1904"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>Lineáris sín</translation>
@@ -11414,67 +11414,67 @@ Button text</extracomment>
 <context>
     <name>ToolModel</name>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1470"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1452"/>
         <source>Custom tool upload failed</source>
         <extracomment>Error message</extracomment>
         <translation>Egyedi eszköz feltöltése sikertelen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1476"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1458"/>
         <source>Custom tool %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
         <translation>Egyéni eszköz %1 sikeresen feltöltve</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1512"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1494"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Nem sikerült megerősíteni, hogy %1 törölve lett a felhőből (az elem törölve lett vagy sem)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1545"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1527"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 törölve lett a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1695"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1694"/>
         <source>Failed to download tool from cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült letölteni az eszközt a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1814"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1784"/>
         <source>Failed to download tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült letölteni az eszközt a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1849"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1820"/>
         <source>Failed to unpack tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült kicsomagolni az eszközt a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1915"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1886"/>
         <source>Failed to load %1 mesh</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Nem sikerült betölteni a %1 mesh-et</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2001"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1971"/>
         <source>Tool %1 mesh loaded from %2</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Eszköz %1 háló betöltve innen %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2012"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1982"/>
         <source>Failed to load %1 data</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2033"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2003"/>
         <source>Tool %1 data loaded from json</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation type="unfinished"></translation>
@@ -12101,9 +12101,9 @@ Placeholder text for a text field where you enter a name for your object</extrac
 <context>
     <name>UrdfImporter</name>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="54"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="332"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="710"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="17"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="291"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="664"/>
         <source>Failed to build %1</source>
         <extracomment>Error message. %1 = name of rotation table
 ----------
@@ -12111,13 +12111,13 @@ Error message. %1 = name</extracomment>
         <translation>Nem sikerült összeállítani: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="626"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="580"/>
         <source>Failed to upload %1 to the cloud</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Nem sikerült feltölteni a(z) %1-et a felhőbe</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="1069"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="1020"/>
         <source>Failed to get custom 3D object from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült lekérni az egyedi 3D objektumot a felhőből</translation>

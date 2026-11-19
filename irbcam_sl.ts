@@ -105,7 +105,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="141"/>
+        <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="142"/>
         <source>Add a new geometry</source>
         <extracomment>Button: Add additional object</extracomment>
         <translation type="unfinished"></translation>
@@ -390,13 +390,13 @@
         <translation>Prenos geometrije iz oblaka ni uspel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1358"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1325"/>
         <source>Failed to download geometry from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Prenos geometrije iz oblaka ni uspel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1392"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1368"/>
         <source>Failed to unpack geometry from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Ni uspelo razpakirati geometrije iz oblaka</translation>
@@ -407,7 +407,7 @@
         <translation type="vanished">Mape: %1 n mogoče odpreti </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1517"/>
+        <location filename="../../../backend/src/additionalobjectsmodel.cpp" line="1467"/>
         <source>Custom geometry %1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Geometrija po meri %1 naložena</translation>
@@ -696,38 +696,38 @@ Prosimo, prijavite se, da vidite seznam</translation>
 <context>
     <name>BaseNetworkDataInterface</name>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="259"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="264"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Ni mogoče potrditi, da je bil %1 izbrisan iz oblaka (element je morda izbrisan ali pa tudi ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="292"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="297"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message. %1 = Name</extracomment>
         <translation>%1 je bil izbrisan iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="376"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="333"/>
         <source>Failed to load %1</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>%1 ni bilo mogoče naložiti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="438"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="396"/>
         <source>%1 loaded</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 naložen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="473"/>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="573"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="431"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="502"/>
         <source>Failed to download item from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Prenos predmeta iz oblaka ni uspel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/basedatainterface.cpp" line="596"/>
+        <location filename="../../../backend/src/basedatainterface.cpp" line="527"/>
         <source>Failed to unpack item</source>
         <extracomment>Error message</extracomment>
         <translation>Predmeta ni bilo mogoče razpakirati</translation>
@@ -1343,19 +1343,19 @@ Button text</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="206"/>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="207"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = name of geometry</extracomment>
         <translation>Izbriši %1</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="208"/>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="209"/>
         <source>Are you sure you want to delete user geometry %1?</source>
         <extracomment>Popup content text. %1 = name of geometry</extracomment>
         <translation>Ali ste prepričani, da želite izbrisati uporabniško geometrijo %1?</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="261"/>
+        <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="262"/>
         <source>The geometry %1 looks very large&lt;br /&gt;(%2 x %3 x %4 m)&lt;br /&gt;You may want to scale it down. If the model is using millimeters, you can scale down by 0.001&lt;br /&gt;&lt;br /&gt;Do you want to scale down by 0.001?</source>
         <extracomment>Confirmation popup. %1 = geometry name</extracomment>
         <translation type="unfinished"></translation>
@@ -3499,31 +3499,31 @@ Tool tip for text field.</extracomment>
         <translation>Ni uspelo preveriti žetona seje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="268"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="269"/>
         <source>Failed to get admin details</source>
         <extracomment>Error message</extracomment>
         <translation>Podatkov o skrbniku ni bilo mogoče pridobiti</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="519"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="524"/>
         <source>Failed to check for updates</source>
         <extracomment>Warning message: Shown if the client is unable to check for updates</extracomment>
         <translation>Preverjanje posodobitev ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="943"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="955"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>Neznan uporabnik</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="952"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="964"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>Neznan uporabniški račun</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1004"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1016"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -3533,49 +3533,49 @@ Nekatere nastavitve niso bile na voljo v oblaku. To je verjetno posledica novih 
 Prizadete nastavitve so bile nastavljene na privzete vrednosti</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1014"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1028"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation>Nalaganje nastavitev za %1 ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1022"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1036"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation>Nastavitve za %1 so naložene</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1032"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1047"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation>Dobrodošli %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1054"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1069"/>
         <source>Failed to get user details</source>
         <extracomment>Error message.</extracomment>
         <translation>Ni uspelo pridobiti podatkov o uporabniku</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1164"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1179"/>
         <source>Network error: The response contained no data</source>
         <extracomment>Error message.</extracomment>
         <translation>Omrežna napaka: Odgovor ni vseboval podatkov</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1183"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1198"/>
         <source>Network error: Failed to parse response</source>
         <extracomment>Error message.</extracomment>
         <translation>Omrežna napaka: Ni uspelo razčleniti odziva</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1224"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1238"/>
         <source>Your session has expired. Please sign in again.</source>
         <extracomment>Error message.</extracomment>
         <translation>Vaša seja je potekla. Ponovno se prijavite.</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1235"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1249"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
@@ -3583,128 +3583,128 @@ code: %2</source>
 koda: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1249"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1263"/>
         <source>Network error: %1</source>
         <extracomment>Error message: %1 = message</extracomment>
         <translation>Napaka omrežja: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1256"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1270"/>
         <source>Network error: %1
 code: %2</source>
         <extracomment>Error message: %1 = message, %2 = code</extracomment>
         <translation>Napaka omrežja: %1 koda: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1293"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1307"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation>Neinicializirano</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1296"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1310"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation>Nedejaven</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1299"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1313"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation>Pridobivanje opisa</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1302"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1316"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation>Prenašanje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1305"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1319"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation>Razpakiranje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1308"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1322"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation>Nalaganje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1311"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1325"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation>Brisanje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1314"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1328"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation>Nalaganje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1317"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1331"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation>Pridobivanje seznama</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1320"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1334"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation>Dekodiranje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1323"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1337"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation>Verifikacija</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1326"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1340"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation>Nalaganje sredstev</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1329"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1343"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation>Procesiranje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1332"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1346"/>
         <source>Error</source>
         <extracomment>Network status: An error has ocurred</extracomment>
         <translation>Napaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1335"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1349"/>
         <source>Awaiting user input</source>
         <extracomment>Network status</extracomment>
         <translation>Čakam na uporabniški vnos</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1338"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1352"/>
         <source>Waiting for server</source>
         <extracomment>Network status: Waiting for a response from the server</extracomment>
         <translation>Čakanje na strežnik</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1341"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1355"/>
         <source>Sharing</source>
         <extracomment>Network status: Sharing asset/project</extracomment>
         <translation>V skupni rabi</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1347"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1361"/>
         <source>Unknown</source>
         <extracomment>Network status</extracomment>
         <translation>Neznano</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1443"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1457"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
@@ -3712,7 +3712,7 @@ Save your work and reload page to get the newest features</source>
 Shranite svoje delo in znova naložite stran, da dobite najnovejše funkcije</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1449"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1464"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -3722,7 +3722,7 @@ Nekatere funkcije morda ne bodo na voljo, dokler se stran znova ne naloži.
 Prosimo, da shranite svoje delo in čim prej znova naložite stran</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1471"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1492"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Statusa opravila v oblaku ni bilo mogoče pridobiti</translation>
@@ -9262,55 +9262,55 @@ Label: Does the solution use a wrist-down configuration</extracomment>
 <context>
     <name>StationInterface</name>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="495"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="494"/>
         <source>Failed to confirm that the project was saved to the cloud (the project may or may not have been saved)</source>
         <extracomment>Error message</extracomment>
         <translation>Ni bilo mogoče potrditi, da je bil projekt izbrisan iz oblaka (projekt je bil morda izbrisan ali pa tudi ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="534"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="533"/>
         <source>Autosave for project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Samodejno shranjevanje za projekt %1 je shranjeno</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="540"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="539"/>
         <source>Project %1 saved</source>
         <extracomment>Status message: %1 = name of project</extracomment>
         <translation>Projekt %1 shranjen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="685"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="684"/>
         <source>Failed to download project from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Projekta ni bilo mogoče prenesti iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="891"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="890"/>
         <source>Project cleared</source>
         <extracomment>Status message. Shown when initialising new project</extracomment>
         <translation>Projekt odobren</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="934"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="933"/>
         <source>Failed to confirm that the project was deleted from the cloud (the project may or may not have been deleted)</source>
         <extracomment>Error message</extracomment>
         <translation>Ni bilo mogoče potrditi, da je bil projekt izbrisan iz oblaka (projekt je bil morda izbrisan ali pa tudi ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="959"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="958"/>
         <source>Project %1 was deleted from the cloud</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Projekt %1 je bil izbrisan iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1042"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1041"/>
         <source>Failed to confirm that the project was shared</source>
         <extracomment>Error message</extracomment>
         <translation>Ni bilo mogoče potrditi, da je bil projekt v skupni rabi</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1065"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1064"/>
         <source>Project %1 was shared with %2.</source>
         <extracomment>Status message: %1= project name</extracomment>
         <translation>Sporočilo o stanju: %1= ime projekta</translation>
@@ -9328,7 +9328,7 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Večje poti je mogoče uvoziti tako, da datoteko APT razdelite na manjše datoteke in uporabite »priloži«</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1129"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1128"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Opravila v oblaku %1 ni bilo mogoče zagnati</translation>
@@ -9354,20 +9354,20 @@ Večje poti je mogoče uvoziti tako, da datoteko APT razdelite na manjše datote
         <translation type="vanished">Pot, uvožena iz APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1363"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1395"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1362"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1394"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kode robota iz oblaka ni bilo mogoče pridobiti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1576"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1575"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Shranjenega projekta ni bilo mogoče obnoviti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1588"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1587"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -9375,7 +9375,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1596"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1595"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -9383,60 +9383,60 @@ This may be due to the save coming from an older version of IRBCAM</source>
 To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1663"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1662"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Ni uspelo pridobiti podatkov uporabniškega okvirja</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1681"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1680"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Ni uspelo naložiti podatkov uporabniškega okvirja</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1691"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1690"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Ni uspelo pridobiti podatkov o okvirju objekta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1700"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1699"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Ni uspelo naložiti podatkov o okvirju objekta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1775"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1783"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1793"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1774"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1782"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1792"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1802"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1801"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>Orodje</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1867"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1875"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1885"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1866"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1874"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1884"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>Rotacijska miza </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1897"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1905"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1896"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1904"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>Linearni pomik</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1614"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1613"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Manjkajoče informacije v projektu, pridobljene iz oblaka</translation>
@@ -9449,7 +9449,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1653"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1652"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Podatkov projekta ni bilo mogoče naložiti</translation>
@@ -9465,19 +9465,19 @@ To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
         <translation type="vanished">V shranjenem projektu manjkajo informacije o tabeli DH</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1989"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1988"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projekt %1 je naložen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="463"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="462"/>
         <source>No changes detected in project</source>
         <extracomment>Notification message that is displayed if the user attempst to save project, but the project has not changed since last save</extracomment>
         <translation>V projektu ni zaznanih sprememb</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1105"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1104"/>
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -9486,70 +9486,70 @@ Larger paths can be imported by splitting the file into smaller files and using 
 Večje poti lahko uvozite z razdelitvijo datoteke na manjše datoteke in uporabo možnosti &apos;append&apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1160"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1159"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation>Pridobivanje parsiranega %1 iz oblaka ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1206"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1205"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>Število decimalnih mest, uporabljenih v datoteki %1, je %2 (nizka numerična natančnost).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1227"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1226"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>%1 ciljev je izločenih iz datoteke %2: so bližji kot minimalni prag razdalje %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1241"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1240"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation>%1 cilj je izločen iz datoteke %2: bližji je kot minimalni prag razdalje %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1262"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1261"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation>Ni uspelo uvoziti datoteko %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1270"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1269"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation>Pot uvožena iz %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1324"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1472"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1323"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1471"/>
         <source>Blend radius is overlapping at target %1. Try reducing the target velocity or increasing the maximum acceleration</source>
         <extracomment>Error message</extracomment>
         <translation>Polmer mešanja se prekriva pri cilju %1. Poskusite zmanjšati ciljno hitrost ali povečati največji pospešek</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1333"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1481"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1332"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1480"/>
         <source>Target %1 is too close. Try reimporting the path with minimum distance between targets &gt;= %2 mm or manually adjust the target so that the distance between two consecutive targets &gt;=  %2 mm</source>
         <extracomment>Error message</extracomment>
         <translation>Cilj %1 je preblizu. Poskusite ponovno uvoziti pot z minimalno razdaljo med cilji &gt;= %2 mm ali ročno prilagodite cilj tako, da je razdalja med dvema zaporednima ciljema &gt;= %2 mm</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1733"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1732"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Manjkajoče ali poškodovane informacije o poti iz shranjenega projekta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1759"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1758"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>uvoz poti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1918"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1925"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1917"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1924"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH tabela</translation>
@@ -10731,67 +10731,67 @@ Button text</extracomment>
 <context>
     <name>ToolModel</name>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1470"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1452"/>
         <source>Custom tool upload failed</source>
         <extracomment>Error message</extracomment>
         <translation>Nalaganje orodja po meri ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1476"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1458"/>
         <source>Custom tool %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
         <translation>Orodje po meri %1 uspešno naloženo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1512"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1494"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Ni uspelo potrditi, da je bil %1 izbrisan iz oblaka (element je bil morda izbrisan ali pa ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1545"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1527"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 je bil izbrisan iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1695"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1694"/>
         <source>Failed to download tool from cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Prenos orodja iz oblaka ni uspel</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1814"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1784"/>
         <source>Failed to download tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Neuspelo prenesti orodje iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1849"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1820"/>
         <source>Failed to unpack tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Neuspelo razpakirati orodje iz oblaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1915"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1886"/>
         <source>Failed to load %1 mesh</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Neuspelo nalaganje mreže %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2001"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1971"/>
         <source>Tool %1 mesh loaded from %2</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Mreža orodja %1 naložena iz %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2012"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1982"/>
         <source>Failed to load %1 data</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2033"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2003"/>
         <source>Tool %1 data loaded from json</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation type="unfinished"></translation>
@@ -11452,9 +11452,9 @@ Tool tip</extracomment>
 <context>
     <name>UrdfImporter</name>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="54"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="332"/>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="710"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="17"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="291"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="664"/>
         <source>Failed to build %1</source>
         <extracomment>Error message. %1 = name of rotation table
 ----------
@@ -11462,13 +11462,13 @@ Error message. %1 = name</extracomment>
         <translation>Izdelava %1 ni uspela</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="626"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="580"/>
         <source>Failed to upload %1 to the cloud</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>%1 ni bilo mogoče naložiti v oblak</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/urdfimporter.cpp" line="1069"/>
+        <location filename="../../../backend/src/urdfimporter.cpp" line="1020"/>
         <source>Failed to get custom 3D object from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Pridobivanje 3D-predmeta po meri iz oblaka ni uspelo</translation>
