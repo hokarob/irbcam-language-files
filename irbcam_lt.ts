@@ -3188,49 +3188,49 @@ Palaikomi tik UTF-8 koduoti failai</translation>
         <translation type="obsolete">Ok</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="121"/>
+        <location filename="../../Irbcam.qml" line="112"/>
         <source>Untitled</source>
         <extracomment>Header. Placeholder if the project has no name (it is not saved yet)</extracomment>
         <translation>Be pavadinimo</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="125"/>
+        <location filename="../../Irbcam.qml" line="116"/>
         <source>%1 (Read only)</source>
         <extracomment>Header: %1 = project name, &apos;read only&apos; refers to that the user does not have write permission for this project</extracomment>
         <translation>%1 (Tik skaitymui)</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="132"/>
+        <location filename="../../Irbcam.qml" line="123"/>
         <source>No project loaded</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Nėra įkelto projekto</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="134"/>
+        <location filename="../../Irbcam.qml" line="125"/>
         <source>Currenly loded project</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Šiuo metu įkeltas projektas</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="136"/>
+        <location filename="../../Irbcam.qml" line="127"/>
         <source>Contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Yra neišsaugotų pakeitimų</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="169"/>
+        <location filename="../../Irbcam.qml" line="160"/>
         <source>Clear all</source>
         <extracomment>Button. Clear (acknowledge) all acknowledgeable messages</extracomment>
         <translation>Išvalyti viską</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="395"/>
+        <location filename="../../Irbcam.qml" line="386"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Perrašyti %1</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="397"/>
+        <location filename="../../Irbcam.qml" line="388"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Ar tikrai norite perrašyti projektą %1?&lt;br&gt;&lt;br&gt;Šis projektas buvo anksčiau išsaugotas su versija %2&lt;br&gt;&lt;br&gt;Jei jį perrašysite, tada gali būti neįmanoma jį vėl atidaryti su IRBCAM %2&lt;br&gt;&lt;br&gt;Jei norite išsaugoti kopiją, tada galite išsaugoti projektą su nauju pavadinimu</translation>
@@ -6984,55 +6984,55 @@ Drag and drop a file anywhere in this window to open the import path dialog</sou
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1756"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1782"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>Nepavyko importuoti CSV failo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1762"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1788"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Kelias importuotas iš CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1775"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1805"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko išanalizuoti JSON failo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1798"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1830"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti kelio</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1804"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1836"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Kelias įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2369"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2404"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Nukopijuotas taikinys</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2374"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2409"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Nukopijuota %1 taikinių</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2415"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2450"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Nukopijuotas kelias</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2420"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2455"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Nukopijuota %1 kelių</translation>
@@ -8030,7 +8030,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="vanished"> įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotdatainterface.cpp" line="408"/>
+        <location filename="../../../backend/src/robotdatainterface.cpp" line="416"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 buvo aktyvuotas</translation>
@@ -11361,67 +11361,67 @@ Button text</extracomment>
 <context>
     <name>ToolModel</name>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1452"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1455"/>
         <source>Custom tool upload failed</source>
         <extracomment>Error message</extracomment>
         <translation>Pasirinktinio įrankio įkėlimas nepavyko</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1458"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1461"/>
         <source>Custom tool %1 uploaded successfully</source>
         <extracomment>Notification message. %1 = name</extracomment>
         <translation>Pasirinktinis įrankis %1 sėkmingai įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1494"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1497"/>
         <source>Failed to confirm that %1 was deleted from the cloud (the item may or may not have been deleted)</source>
         <extracomment>Error message. %1 = name</extracomment>
         <translation>Nepavyko patvirtinti, kad %1 buvo ištrintas iš debesies (elementas gali būti ištrintas arba ne)</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1527"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1530"/>
         <source>%1 was deleted from the cloud</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 buvo ištrintas iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1694"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1697"/>
         <source>Failed to download tool from cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko atsisiųsti įrankio iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1784"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1787"/>
         <source>Failed to download tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko atsisiųsti įrankio iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1820"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1823"/>
         <source>Failed to unpack tool from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko išpakuoti įrankio iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1886"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1889"/>
         <source>Failed to load %1 mesh</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Nepavyko įkelti %1 tinklelio</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1971"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1974"/>
         <source>Tool %1 mesh loaded from %2</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Įrankio %1 tinklelis įkeltas iš %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1982"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1985"/>
         <source>Failed to load %1 data</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2003"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2006"/>
         <source>Tool %1 data loaded from json</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation type="unfinished"></translation>
