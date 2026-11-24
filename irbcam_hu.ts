@@ -118,13 +118,13 @@
         <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="33"/>
         <source>New geometry</source>
         <extracomment>Placeholder text when adding a new geometry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Új geometria</translation>
     </message>
     <message>
         <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="142"/>
         <source>Add a new geometry</source>
         <extracomment>Button: Add additional object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Új geometria hozzáadása</translation>
     </message>
 </context>
 <context>
@@ -278,19 +278,19 @@
         <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="142"/>
         <source>Remove this geometry</source>
         <extracomment>Button: Rmove custom geometry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Távolítsd el ezt a geometriát</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="184"/>
         <source>Mesh</source>
         <extracomment>Label for a button: Select a source geometry mesh for the object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Háló</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="194"/>
         <source>No mesh selected</source>
         <extracomment>Button: Shown when no source geometry is selected for this object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nincs kiválasztott háló</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="232"/>
@@ -515,19 +515,19 @@
         <location filename="../../../backend/models/src/assettreemodel.cpp" line="60"/>
         <source>Name</source>
         <extracomment>List column header</extracomment>
-        <translation type="unfinished">Név</translation>
+        <translation>Név</translation>
     </message>
     <message>
         <location filename="../../../backend/models/src/assettreemodel.cpp" line="63"/>
         <source>Modified</source>
         <extracomment>List column header</extracomment>
-        <translation type="unfinished">Módosított</translation>
+        <translation>Módosított</translation>
     </message>
     <message>
         <location filename="../../../backend/models/include/assettreemodel.h" line="185"/>
         <source>An error occurred when fetching list</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished">Hiba történt a lista lekérésekor</translation>
+        <translation>Hiba történt a lista lekérésekor</translation>
     </message>
 </context>
 <context>
@@ -1415,61 +1415,61 @@ Button text</extracomment>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="39"/>
         <source>Back</source>
         <extracomment>Button text</extracomment>
-        <translation type="unfinished">Vissza</translation>
+        <translation>Vissza</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="136"/>
         <source>Cuboid</source>
         <extracomment>List item: Select which kind of 3D object should be used</extracomment>
-        <translation type="unfinished">Téglatest</translation>
+        <translation>Téglatest</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="138"/>
         <source>Spheroid</source>
         <extracomment>List item: Select which kind of 3D object should be used</extracomment>
-        <translation type="unfinished">Szferoid</translation>
+        <translation>Szferoid</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="140"/>
         <source>Cylinder</source>
         <extracomment>List item: Select which kind of 3D object should be used</extracomment>
-        <translation type="unfinished">Henger</translation>
+        <translation>Henger</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="142"/>
         <source>Cone</source>
         <extracomment>List item: Select which kind of 3D object should be used</extracomment>
-        <translation type="unfinished">Kúp</translation>
+        <translation>Kúp</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="146"/>
         <source>Built-in</source>
         <extracomment>List category separator</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Beépített</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="148"/>
         <source>My geometries</source>
         <extracomment>List category separator</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Saját geometriáim</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="151"/>
         <source>Shared with me</source>
         <extracomment>List category separator</extracomment>
-        <translation type="unfinished">Megosztva velem</translation>
+        <translation>Megosztva velem</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="164"/>
         <source>Import</source>
         <extracomment>Collapsible section. This section contains tools to import a custom robot</extracomment>
-        <translation type="unfinished">Importálás</translation>
+        <translation>Importálás</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="181"/>
         <source>Mesh files (%1)</source>
         <extracomment>Accepted file types. %1 = list of accepted file endings</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hálófájlok (%1)</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="207"/>
@@ -1487,7 +1487,7 @@ Button text</extracomment>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="262"/>
         <source>The geometry %1 looks very large&lt;br /&gt;(%2 x %3 x %4 m)&lt;br /&gt;You may want to scale it down. If the model is using millimeters, you can scale down by 0.001&lt;br /&gt;&lt;br /&gt;Do you want to scale down by 0.001?</source>
         <extracomment>Confirmation popup. %1 = geometry name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>A %1 geometria nagyon nagynak tűnik&lt;br /&gt;(%2 x %3 x %4 m)&lt;br /&gt;Érdemes lehet lekicsinyíteni. Ha a modell millimétereket használ, akkor 0.001-del lekicsinyítheted.&lt;br /&gt;&lt;br /&gt;Szeretnéd 0.001-del lekicsinyíteni?</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1530,25 +1530,25 @@ Button text</extracomment>
         <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="82"/>
         <source>Are you sure you want to overwrite user robot %1?</source>
         <extracomment>Popup content text: %1 = name of geometry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Biztosan felülírja a(z) %1 felhasználói robotot?</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="105"/>
         <source>Are you sure you want to delete user robot %1?</source>
         <extracomment>Popup content text. %1 = name of geometry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Biztosan törölni szeretné a(z) %1 felhasználói robotot?</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="132"/>
         <source>Back</source>
         <extracomment>Button text</extracomment>
-        <translation type="unfinished">Vissza</translation>
+        <translation>Vissza</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="154"/>
         <source>My robots</source>
         <extracomment>List category separator</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Robotjaim</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="193"/>
@@ -1640,61 +1640,61 @@ Button text</extracomment>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="53"/>
         <source>Back</source>
         <extracomment>Button text</extracomment>
-        <translation type="unfinished">Vissza</translation>
+        <translation>Vissza</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="154"/>
         <source>Tools</source>
         <extracomment>Collapsible list section. This section contains public tools</extracomment>
-        <translation type="unfinished">Eszközök</translation>
+        <translation>Eszközök</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="156"/>
         <source>My tools</source>
         <extracomment>Collapsible item in tree view. This section contains tools made by this user</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Eszközeim</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="159"/>
         <source>Shared with me</source>
         <extracomment>Collapsible item in tree view. This section contains tools that are shared with the user</extracomment>
-        <translation type="unfinished">Megosztva velem</translation>
+        <translation>Megosztva velem</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="171"/>
         <source>Reset tool data</source>
         <extracomment>Checkbox</extracomment>
-        <translation type="unfinished">Szerszámadatok visszaállítása</translation>
+        <translation>Szerszámadatok visszaállítása</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="174"/>
         <source>If this checkbox is checked then the tool deta will be reset to the default values for the selected tool mesh when the mesh is changed. If not then the current tool data will be retained</source>
         <extracomment>Tool-tip for &quot;Reset tool data&quot; checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ha ez a jelölőnégyzet be van jelölve, akkor az eszközadatok visszaállnak a kiválasztott eszközháló alapértelmezett értékeire, amikor a háló megváltozik. Ha nem, akkor a jelenlegi eszközadatok megmaradnak</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="183"/>
         <source>Import</source>
         <extracomment>Collapsible section. This section contains tools to import a custom tool</extracomment>
-        <translation type="unfinished">Importálás</translation>
+        <translation>Importálás</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="200"/>
         <source>Mesh files (%1)</source>
         <extracomment>Accepted file types. %1 = list of accepted file endings</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Hálófájlok (%1)</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="227"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = name of geometry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Törlés %1</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="229"/>
         <source>Are you sure you want to delete user tool %1?</source>
         <extracomment>Popup content text. %1 = name of geometry</extracomment>
-        <translation type="unfinished">Biztos vagy benne, hogy törölni akarod a(z) %1 felhasználói eszközt?</translation>
+        <translation>Biztos vagy benne, hogy törölni akarod a(z) %1 felhasználói eszközt?</translation>
     </message>
 </context>
 <context>
@@ -2179,19 +2179,19 @@ Placeholder for when no external axis name is entered</extracomment>
         <location filename="../../Controls/FileDropArea.qml" line="47"/>
         <source>Unsupported file type &apos;%1&apos;</source>
         <extracomment>Warning message. The user tried to upload an unsupported file type. %1 = the file ending of the attempted uploaded file</extracomment>
-        <translation type="unfinished">Nem támogatott fájltípus: &apos;%1&apos;</translation>
+        <translation>Nem támogatott fájltípus: &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../../Controls/FileDropArea.qml" line="73"/>
         <source>Drag and drop file here to upload</source>
         <extracomment>Text indicationg a drag-and-drop area</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Húzd ide a fájlt a feltöltéshez</translation>
     </message>
     <message>
         <location filename="../../Controls/FileDropArea.qml" line="99"/>
         <source>Accepted file types are: %1</source>
         <extracomment>Accepted file types. %1 = list of accepted file endings</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Elfogadott fájltípusok: %1</translation>
     </message>
 </context>
 <context>
@@ -2332,14 +2332,14 @@ Placeholder for when no up number is entered</extracomment>
 
 Please make sure you are connected to the internet and try again</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished">Hálózati hiba történt az eszközadatok lekérése közben
+        <translation>Hálózati hiba történt az eszközadatok lekérése közben
 Kérjük, ellenőrizze az internetkapcsolatot, és próbálja újra.</translation>
     </message>
     <message>
         <location filename="../../Controls/GenericTreeView.qml" line="122"/>
         <source>No items in list</source>
         <extracomment>Placeholder for empty list</extracomment>
-        <translation type="unfinished">Nincs elem a listában</translation>
+        <translation>Nincs elem a listában</translation>
     </message>
     <message>
         <location filename="../../Controls/GenericTreeView.qml" line="124"/>
@@ -2347,7 +2347,7 @@ Kérjük, ellenőrizze az internetkapcsolatot, és próbálja újra.</translatio
 
 Please sign in to see the list</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished">Nincs bejelentkezve
+        <translation>Nincs bejelentkezve
 Kérjük, jelentkezzen be a lista megtekintéséhez</translation>
     </message>
 </context>
@@ -2463,61 +2463,61 @@ Placeholder text where users input scaling multiplier</extracomment>
         <location filename="../../Controls/ImportAsset.qml" line="38"/>
         <source>Overwrite %1</source>
         <extracomment>Title for confirmation popup. %1 = robot name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Felülír %1</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="40"/>
         <source>Are you sure you want to overwrite %1?</source>
         <extracomment>Content for confirmation popup. %1 = robot name</extracomment>
-        <translation type="unfinished">Biztosan felülírja a(z) %1 fájlt?</translation>
+        <translation>Biztosan felülírja a(z) %1 fájlt?</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="53"/>
         <source>The active subscription does not provide access to custom assets. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Az aktív előfizetés nem biztosít hozzáférést egyéni eszközökhöz. Kattintson %1ide%2 az előfizetések kezeléséhez</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="67"/>
         <source>Open file</source>
         <extracomment>Title for file browser.</extracomment>
-        <translation type="unfinished">Fájl megnyitása</translation>
+        <translation>Fájl megnyitása</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="78"/>
         <source>File</source>
         <extracomment>Label: Referring to file name for selected file</extracomment>
-        <translation type="unfinished">Fájl</translation>
+        <translation>Fájl</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="85"/>
         <source>No file selected</source>
         <extracomment>Placeholder for file name when no file is selected</extracomment>
-        <translation type="unfinished">Nincs fájl kiválasztva</translation>
+        <translation>Nincs fájl kiválasztva</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="103"/>
         <source>Name</source>
         <extracomment>Label for text field: Enter a name for the asset after uploading</extracomment>
-        <translation type="unfinished">Név</translation>
+        <translation>Név</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="123"/>
         <source>Name of the custom 3D model</source>
         <extracomment>Placeholder text for when no name is entered</extracomment>
-        <translation type="unfinished">Egyedi 3D modell neve</translation>
+        <translation>Egyedi 3D modell neve</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="137"/>
         <source>Overwrite</source>
         <extracomment>Button: Referring to overwriting an asset</extracomment>
-        <translation type="unfinished">Felülírás</translation>
+        <translation>Felülírás</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="139"/>
         <source>Import</source>
         <extracomment>Button: Import asset</extracomment>
-        <translation type="unfinished">Importálás</translation>
+        <translation>Importálás</translation>
     </message>
 </context>
 <context>
@@ -2723,19 +2723,19 @@ Placeholder text where users input scaling multiplier</extracomment>
         <location filename="../../Popups/ImportPath.qml" line="99"/>
         <source>%1 files</source>
         <extracomment>This will be seen in the file type filter in the file interface: %1 = file type. E.g. JSON files</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 fájl</translation>
     </message>
     <message>
         <location filename="../../Popups/ImportPath.qml" line="256"/>
         <source>Invalid file type</source>
         <extracomment>Tool tip: Invalid file type is selected</extracomment>
-        <translation type="unfinished">Érvénytelen fájltípus</translation>
+        <translation>Érvénytelen fájltípus</translation>
     </message>
     <message>
         <location filename="../../Popups/ImportPath.qml" line="271"/>
         <source>Click the ... button to browse for file or drag and drop a file anywhere in this window</source>
         <extracomment>Label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kattintson a ... gombra a fájl tallózásához vagy húzzon és ejtsen egy fájlt bárhová ebben az ablakban</translation>
     </message>
     <message>
         <location filename="../../Popups/ImportPath.qml" line="361"/>
@@ -4051,13 +4051,13 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <location filename="../../Sidebar/LinearTrackEditor.qml" line="94"/>
         <source>My tracks</source>
         <extracomment>Collapsible item in tree view. This section contains linear tracks made by this user</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Saját lánctalpaim</translation>
     </message>
     <message>
         <location filename="../../Sidebar/LinearTrackEditor.qml" line="96"/>
         <source>Shared with me</source>
         <extracomment>Collapsible item in tree view. This section contains linear tracks that are shared with the user</extracomment>
-        <translation type="unfinished">Megosztva velem</translation>
+        <translation>Megosztva velem</translation>
     </message>
     <message>
         <location filename="../../Sidebar/LinearTrackEditor.qml" line="108"/>
@@ -4224,7 +4224,7 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <location filename="../../Views/LoadingState.qml" line="174"/>
         <source>Asset upload</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Asset feltöltés</translation>
     </message>
 </context>
 <context>
@@ -5309,7 +5309,7 @@ Folytatja?</translation>
         <location filename="../../Menus.qml" line="213"/>
         <source>&amp;Frames</source>
         <extracomment>Menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Keretek</translation>
     </message>
     <message>
         <location filename="../../Menus.qml" line="257"/>
@@ -5321,7 +5321,7 @@ Folytatja?</translation>
         <location filename="../../Menus.qml" line="265"/>
         <source>&amp;Custom Geometries</source>
         <extracomment>Menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Egyéni Geometriák</translation>
     </message>
     <message>
         <location filename="../../Menus.qml" line="283"/>
@@ -5434,7 +5434,7 @@ Folytatja?</translation>
         <location filename="../../Menus.qml" line="484"/>
         <source>Path</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
-        <translation type="unfinished">Útvonal</translation>
+        <translation>Útvonal</translation>
     </message>
     <message>
         <location filename="../../Menus.qml" line="504"/>
@@ -6405,13 +6405,13 @@ Context menu sub-item: Split path -&gt; After</extracomment>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="63"/>
         <source>Close transform path</source>
         <extracomment>Context menu item. Closes a popup</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Transzformációs útvonal bezárása</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="65"/>
         <source>Open transform path</source>
         <extracomment>Context menu item. Opens a popup</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Transzformációs útvonal megnyitása</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="78"/>
@@ -6560,13 +6560,13 @@ Context menu sub-item: Collapse -&gt; All</extracomment>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="297"/>
         <source>Close go to target</source>
         <extracomment>Context menu item.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Menj közel a célponthoz</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="299"/>
         <source>Open go to target</source>
         <extracomment>Context menu item Opens a popup with go to target index</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Célponthoz ugrás megnyitása</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="314"/>
@@ -6710,7 +6710,13 @@ or
 
 Drag and drop a file anywhere in this window to open the import path dialog</source>
         <extracomment>Placeholder text for empty path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Az útvonallista üres
+
+Kattintson jobb gombbal az elérhető lehetőségek megtekintéséhez az útvonal feltöltéséhez
+
+vagy
+
+Húzzon és dobjon egy fájlt bárhová ebben az ablakban az import útvonal párbeszédpanel megnyitásához</translation>
     </message>
     <message>
         <location filename="../../Sidebar/PathEditor.qml" line="395"/>
@@ -8019,19 +8025,19 @@ Column name. Refers to which date the items were modified</extracomment>
         <location filename="../../../backend/models/src/assettreeitem.cpp" line="73"/>
         <source>User created</source>
         <extracomment>postfix added to search results for user created assets</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Felhasználó létrehozva</translation>
     </message>
     <message>
         <location filename="../../../backend/models/src/assettreeitem.cpp" line="77"/>
         <source>Shared</source>
         <extracomment>postfix added to search results for assets that are shared with the user</extracomment>
-        <translation type="unfinished">Megosztott</translation>
+        <translation>Megosztott</translation>
     </message>
     <message>
         <location filename="../../../backend/models/src/customgeometrytreemodel.cpp" line="57"/>
         <source>%1 (built-in)</source>
         <extracomment>Postfix added to assets that are built into the application. %1 = asset name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 (beépített)</translation>
     </message>
 </context>
 <context>
@@ -8172,19 +8178,19 @@ Column name. Refers to which date the items were modified</extracomment>
         <location filename="../../Sidebar/RobotEditor.qml" line="185"/>
         <source>My robots</source>
         <extracomment>Collapsible item in tree view. This section contains robots made by this user</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Robotjaim</translation>
     </message>
     <message>
         <location filename="../../Sidebar/RobotEditor.qml" line="187"/>
         <source>Shared with me</source>
         <extracomment>Collapsible item in tree view. This section contains robots that are shared with the user</extracomment>
-        <translation type="unfinished">Megosztva velem</translation>
+        <translation>Megosztva velem</translation>
     </message>
     <message>
         <location filename="../../Sidebar/RobotEditor.qml" line="219"/>
         <source>Compressed urdf format (*.zip)</source>
         <extracomment>File type filter</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tömörített urdf formátum (*.zip)</translation>
     </message>
     <message>
         <source>Activation info</source>
@@ -8239,38 +8245,38 @@ Column name. Refers to which date the items were modified</extracomment>
         <location filename="../../../backend/models/src/robotlistmodel.cpp" line="41"/>
         <source>An error occurred when fetching list</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished">Hiba történt a lista lekérésekor</translation>
+        <translation>Hiba történt a lista lekérésekor</translation>
     </message>
     <message>
         <location filename="../../../backend/models/src/robotlistmodel.cpp" line="157"/>
         <source>%1 has been activated</source>
         <comment>Status message: %1 = name</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1 aktiválva lett</translation>
     </message>
     <message>
         <location filename="../../../backend/models/src/robotlistmodel.cpp" line="168"/>
         <source>Failed to verify if %1 has been activated. Refresh the list to check if it was successful</source>
         <comment>Warning message: %1 = name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült ellenőrizni, hogy %1 aktiválva van-e. Frissítse a listát, hogy ellenőrizze, sikeres volt-e</translation>
     </message>
     <message>
         <location filename="../../../backend/models/src/robotlistmodel.cpp" line="217"/>
         <source>%1 has been deactivated</source>
         <comment>Status message: %1 = name</comment>
-        <translation type="unfinished">%1 deaktiválva lett</translation>
+        <translation>%1 deaktiválva lett</translation>
     </message>
     <message>
         <location filename="../../../backend/models/src/robotlistmodel.cpp" line="227"/>
         <source>Failed to verify if %1 has been deactivated. Refresh the list to check if it was successful</source>
         <comment>Warning message: %1 = name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült ellenőrizni, hogy %1 deaktiválva lett-e. Frissítse a listát, hogy ellenőrizze, sikeres volt-e</translation>
     </message>
     <message>
         <location filename="../../../backend/models/src/robotlistmodel.cpp" line="280"/>
         <location filename="../../../backend/models/src/robotlistmodel.cpp" line="296"/>
         <source>Activated robots (%1/%2)</source>
         <extracomment>Collapsible section in list. Contains robots which are activated</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aktivált robotok (%1/%2)</translation>
     </message>
 </context>
 <context>
@@ -8837,13 +8843,13 @@ Nem kerültek hozzá új célpontok</translation>
         <location filename="../../Sidebar/RotaryTableEditor.qml" line="82"/>
         <source>User created</source>
         <extracomment>Collapsible item in tree view. This section contains rotary tables made by this user</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Felhasználó létrehozva</translation>
     </message>
     <message>
         <location filename="../../Sidebar/RotaryTableEditor.qml" line="84"/>
         <source>Shared with me</source>
         <extracomment>Collapsible item in tree view. This section contains rotary tables that are shared with the user</extracomment>
-        <translation type="unfinished">Megosztva velem</translation>
+        <translation>Megosztva velem</translation>
     </message>
     <message>
         <location filename="../../Sidebar/RotaryTableEditor.qml" line="96"/>
@@ -9462,7 +9468,7 @@ Kattintson újra a felülíráshoz</translation>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="231"/>
         <source>Custom Geometries</source>
         <extracomment>Title: Referring to user-imported 3D objects</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Egyéni Geometriák</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="261"/>
@@ -9498,7 +9504,7 @@ Kattintson újra a felülíráshoz</translation>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="291"/>
         <source>Frames</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Keretek</translation>
     </message>
     <message>
         <source>User Frame</source>
@@ -10442,13 +10448,13 @@ A cél nem érhető el a jelenlegi konfigurációval</translation>
         <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="407"/>
         <source>Unlock editing to edit path transform</source>
         <extracomment>Tooltip text for transform button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Szerkesztés feloldása az útvonal transzformáció szerkesztéséhez</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="411"/>
         <source>Edit path transform</source>
         <extracomment>Tooltip text for transform button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Útvonal transzformáció szerkesztése</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="438"/>
@@ -11170,7 +11176,7 @@ Button. Import custom tool</extracomment>
         <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="211"/>
         <source>Mesh</source>
         <extracomment>Label for a button, select mesh</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Háló</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="221"/>
@@ -11260,13 +11266,13 @@ Button. Import custom tool</extracomment>
         <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="496"/>
         <source>CoG</source>
         <extracomment>Label for text field. Centre of Gravity</extracomment>
-        <translation type="unfinished">Tömegközéppont</translation>
+        <translation>Tömegközéppont</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="498"/>
         <source>Centre of Gravity</source>
         <extracomment>Tool-tip for CoG</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Súlypont</translation>
     </message>
     <message>
         <source>Select color</source>
@@ -11471,13 +11477,13 @@ Button text</extracomment>
         <location filename="../../../backend/src/toolmodel.cpp" line="1985"/>
         <source>Failed to load %1 data</source>
         <extracomment>Error message: %1 = item name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nem sikerült betölteni %1 adat</translation>
     </message>
     <message>
         <location filename="../../../backend/src/toolmodel.cpp" line="2006"/>
         <source>Tool %1 data loaded from json</source>
         <extracomment>Status message: %1 = name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tool %1 adatai betöltve jsonból</translation>
     </message>
 </context>
 <context>
@@ -11713,7 +11719,7 @@ Forgatás (rad)
         <location filename="../../Sidebar/ToolSettingEditor.qml" line="171"/>
         <source>Tool number</source>
         <extracomment>Placeholder text for tool number</extracomment>
-        <translation type="unfinished">Szerszám száma</translation>
+        <translation>Szerszám száma</translation>
     </message>
     <message>
         <location filename="../../Sidebar/ToolSettingEditor.qml" line="44"/>
@@ -11944,7 +11950,7 @@ Tool tip</extracomment>
         <location filename="../../Sidebar/Assets/TransformPathPopup.qml" line="21"/>
         <source>Path Transform</source>
         <extracomment>Popup title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Útvonal Transzformáció</translation>
     </message>
 </context>
 <context>
@@ -12139,13 +12145,13 @@ Error message. %1 = name</extracomment>
         <location filename="../../Sidebar/UserFrameEditor.qml" line="26"/>
         <source>User frame</source>
         <extracomment>Separator label</extracomment>
-        <translation type="unfinished">Felhasználói keret</translation>
+        <translation>Felhasználói keret</translation>
     </message>
     <message>
         <location filename="../../Sidebar/UserFrameEditor.qml" line="41"/>
         <source>Object frame</source>
         <extracomment>Separator label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Objektumkeret</translation>
     </message>
 </context>
 <context>
