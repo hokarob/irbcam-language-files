@@ -102,13 +102,13 @@
         <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="33"/>
         <source>New geometry</source>
         <extracomment>Placeholder text when adding a new geometry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nova geometrija</translation>
     </message>
     <message>
         <location filename="../../Sidebar/AdditionalObjectEditor.qml" line="142"/>
         <source>Add a new geometry</source>
         <extracomment>Button: Add additional object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj novo geometrijo</translation>
     </message>
 </context>
 <context>
@@ -262,19 +262,19 @@
         <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="142"/>
         <source>Remove this geometry</source>
         <extracomment>Button: Rmove custom geometry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Odstrani to geometrijo</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="184"/>
         <source>Mesh</source>
         <extracomment>Label for a button: Select a source geometry mesh for the object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mreža</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="194"/>
         <source>No mesh selected</source>
         <extracomment>Button: Shown when no source geometry is selected for this object</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ni izbrane mreže</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/AdditionalObjectEditorDelegate.qml" line="232"/>
@@ -504,19 +504,19 @@
         <location filename="../../../backend/models/src/assettreemodel.cpp" line="60"/>
         <source>Name</source>
         <extracomment>List column header</extracomment>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <location filename="../../../backend/models/src/assettreemodel.cpp" line="63"/>
         <source>Modified</source>
         <extracomment>List column header</extracomment>
-        <translation type="unfinished">Spremenjeno</translation>
+        <translation>Spremenjeno</translation>
     </message>
     <message>
         <location filename="../../../backend/models/include/assettreemodel.h" line="185"/>
         <source>An error occurred when fetching list</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished">Pri pridobivanju seznama je prišlo do napake</translation>
+        <translation>Pri pridobivanju seznama je prišlo do napake</translation>
     </message>
 </context>
 <context>
@@ -1286,61 +1286,61 @@ Button text</extracomment>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="39"/>
         <source>Back</source>
         <extracomment>Button text</extracomment>
-        <translation type="unfinished">Nazaj</translation>
+        <translation>Nazaj</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="136"/>
         <source>Cuboid</source>
         <extracomment>List item: Select which kind of 3D object should be used</extracomment>
-        <translation type="unfinished">Kockast</translation>
+        <translation>Kockast</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="138"/>
         <source>Spheroid</source>
         <extracomment>List item: Select which kind of 3D object should be used</extracomment>
-        <translation type="unfinished">Sferoid</translation>
+        <translation>Sferoid</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="140"/>
         <source>Cylinder</source>
         <extracomment>List item: Select which kind of 3D object should be used</extracomment>
-        <translation type="unfinished">Valj</translation>
+        <translation>Valj</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="142"/>
         <source>Cone</source>
         <extracomment>List item: Select which kind of 3D object should be used</extracomment>
-        <translation type="unfinished">Stožec</translation>
+        <translation>Stožec</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="146"/>
         <source>Built-in</source>
         <extracomment>List category separator</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Vgrajeno</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="148"/>
         <source>My geometries</source>
         <extracomment>List category separator</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Moje geometrije</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="151"/>
         <source>Shared with me</source>
         <extracomment>List category separator</extracomment>
-        <translation type="unfinished">Deljeno z mano</translation>
+        <translation>Deljeno z mano</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="164"/>
         <source>Import</source>
         <extracomment>Collapsible section. This section contains tools to import a custom robot</extracomment>
-        <translation type="unfinished">Uvozi</translation>
+        <translation>Uvozi</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="181"/>
         <source>Mesh files (%1)</source>
         <extracomment>Accepted file types. %1 = list of accepted file endings</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Datoteke mrež (%1)</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="207"/>
@@ -1358,7 +1358,7 @@ Button text</extracomment>
         <location filename="../../Sidebar/Assets/CustomGeometry.qml" line="262"/>
         <source>The geometry %1 looks very large&lt;br /&gt;(%2 x %3 x %4 m)&lt;br /&gt;You may want to scale it down. If the model is using millimeters, you can scale down by 0.001&lt;br /&gt;&lt;br /&gt;Do you want to scale down by 0.001?</source>
         <extracomment>Confirmation popup. %1 = geometry name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Geometrija %1 izgleda zelo velika&lt;br /&gt;(%2 x %3 x %4 m)&lt;br /&gt;Morda jo želite pomanjšati. Če model uporablja milimetre, lahko pomanjšate za 0.001&lt;br /&gt;&lt;br /&gt;Ali želite pomanjšati za 0.001?</translation>
     </message>
     <message>
         <source>Overwrite</source>
@@ -1392,25 +1392,25 @@ Button text</extracomment>
         <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="82"/>
         <source>Are you sure you want to overwrite user robot %1?</source>
         <extracomment>Popup content text: %1 = name of geometry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite prepisati uporabniškega robota %1?</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="105"/>
         <source>Are you sure you want to delete user robot %1?</source>
         <extracomment>Popup content text. %1 = name of geometry</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ali ste prepričani, da želite izbrisati uporabniški robot %1?</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="132"/>
         <source>Back</source>
         <extracomment>Button text</extracomment>
-        <translation type="unfinished">Nazaj</translation>
+        <translation>Nazaj</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="154"/>
         <source>My robots</source>
         <extracomment>List category separator</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Moji roboti</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomRobotList.qml" line="193"/>
@@ -1512,61 +1512,61 @@ Button text</extracomment>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="53"/>
         <source>Back</source>
         <extracomment>Button text</extracomment>
-        <translation type="unfinished">Nazaj</translation>
+        <translation>Nazaj</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="154"/>
         <source>Tools</source>
         <extracomment>Collapsible list section. This section contains public tools</extracomment>
-        <translation type="unfinished">Orodja</translation>
+        <translation>Orodja</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="156"/>
         <source>My tools</source>
         <extracomment>Collapsible item in tree view. This section contains tools made by this user</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Moja orodja</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="159"/>
         <source>Shared with me</source>
         <extracomment>Collapsible item in tree view. This section contains tools that are shared with the user</extracomment>
-        <translation type="unfinished">Deljeno z mano</translation>
+        <translation>Deljeno z mano</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="171"/>
         <source>Reset tool data</source>
         <extracomment>Checkbox</extracomment>
-        <translation type="unfinished">Ponastavi podatke orodja</translation>
+        <translation>Ponastavi podatke orodja</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="174"/>
         <source>If this checkbox is checked then the tool deta will be reset to the default values for the selected tool mesh when the mesh is changed. If not then the current tool data will be retained</source>
         <extracomment>Tool-tip for &quot;Reset tool data&quot; checkbox</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Če je to potrditveno polje označeno, bodo podatki orodja ponastavljeni na privzete vrednosti za izbrano mrežo orodja, ko se mreža spremeni. Če ne, bodo ohranjeni trenutni podatki orodja</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="183"/>
         <source>Import</source>
         <extracomment>Collapsible section. This section contains tools to import a custom tool</extracomment>
-        <translation type="unfinished">Uvozi</translation>
+        <translation>Uvozi</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="200"/>
         <source>Mesh files (%1)</source>
         <extracomment>Accepted file types. %1 = list of accepted file endings</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Datoteke mrež (%1)</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="227"/>
         <source>Delete %1</source>
         <extracomment>Popup title. %1 = name of geometry</extracomment>
-        <translation type="unfinished">Izbriši %1</translation>
+        <translation>Izbriši %1</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/CustomTool.qml" line="229"/>
         <source>Are you sure you want to delete user tool %1?</source>
         <extracomment>Popup content text. %1 = name of geometry</extracomment>
-        <translation type="unfinished">Ali ste prepričani, da želite izbrisati uporabniško orodje %1?</translation>
+        <translation>Ali ste prepričani, da želite izbrisati uporabniško orodje %1?</translation>
     </message>
 </context>
 <context>
@@ -2248,19 +2248,19 @@ Placeholder for when no user frame number is entered</extracomment>
         <location filename="../../Controls/FileDropArea.qml" line="47"/>
         <source>Unsupported file type &apos;%1&apos;</source>
         <extracomment>Warning message. The user tried to upload an unsupported file type. %1 = the file ending of the attempted uploaded file</extracomment>
-        <translation type="unfinished">Nepodprta vrsta datoteke &apos;%1&apos;</translation>
+        <translation>Nepodprta vrsta datoteke &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../../Controls/FileDropArea.qml" line="73"/>
         <source>Drag and drop file here to upload</source>
         <extracomment>Text indicationg a drag-and-drop area</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Povleci in spusti datoteko tukaj za nalaganje</translation>
     </message>
     <message>
         <location filename="../../Controls/FileDropArea.qml" line="99"/>
         <source>Accepted file types are: %1</source>
         <extracomment>Accepted file types. %1 = list of accepted file endings</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Sprejeti tipi datotek so: %1</translation>
     </message>
 </context>
 <context>
@@ -2436,13 +2436,13 @@ Placeholder for when no procedure name is entered</extracomment>
 
 Please make sure you are connected to the internet and try again</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished">Pri pridobivanju podatkov o sredstvih je prišlo do omrežne napake Prepričajte se, da ste povezani z internetom, in poskusite znova</translation>
+        <translation>Pri pridobivanju podatkov o sredstvih je prišlo do omrežne napake Prepričajte se, da ste povezani z internetom, in poskusite znova</translation>
     </message>
     <message>
         <location filename="../../Controls/GenericTreeView.qml" line="122"/>
         <source>No items in list</source>
         <extracomment>Placeholder for empty list</extracomment>
-        <translation type="unfinished">Na seznamu ni elementov</translation>
+        <translation>Na seznamu ni elementov</translation>
     </message>
     <message>
         <location filename="../../Controls/GenericTreeView.qml" line="124"/>
@@ -2450,7 +2450,7 @@ Please make sure you are connected to the internet and try again</source>
 
 Please sign in to see the list</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished">Niste prijavljeni
+        <translation>Niste prijavljeni
 
 Prosimo, prijavite se, da vidite seznam</translation>
     </message>
@@ -2597,61 +2597,61 @@ Placeholder text where users input scaling multiplier</extracomment>
         <location filename="../../Controls/ImportAsset.qml" line="38"/>
         <source>Overwrite %1</source>
         <extracomment>Title for confirmation popup. %1 = robot name</extracomment>
-        <translation type="unfinished">Prepiši %1</translation>
+        <translation>Prepiši %1</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="40"/>
         <source>Are you sure you want to overwrite %1?</source>
         <extracomment>Content for confirmation popup. %1 = robot name</extracomment>
-        <translation type="unfinished">Ali ste prepričani, da želite prepisati %1?</translation>
+        <translation>Ali ste prepričani, da želite prepisati %1?</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="53"/>
         <source>The active subscription does not provide access to custom assets. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
-        <translation type="unfinished">Aktivna naročnina ne omogoča dostopa do sredstev po meri. Kliknite %1tukaj%2 za upravljanje naročnin</translation>
+        <translation>Aktivna naročnina ne omogoča dostopa do sredstev po meri. Kliknite %1tukaj%2 za upravljanje naročnin</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="67"/>
         <source>Open file</source>
         <extracomment>Title for file browser.</extracomment>
-        <translation type="unfinished">Odpri datoteko</translation>
+        <translation>Odpri datoteko</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="78"/>
         <source>File</source>
         <extracomment>Label: Referring to file name for selected file</extracomment>
-        <translation type="unfinished">Datoteka</translation>
+        <translation>Datoteka</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="85"/>
         <source>No file selected</source>
         <extracomment>Placeholder for file name when no file is selected</extracomment>
-        <translation type="unfinished">Nobena datoteka ni izbrana</translation>
+        <translation>Nobena datoteka ni izbrana</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="103"/>
         <source>Name</source>
         <extracomment>Label for text field: Enter a name for the asset after uploading</extracomment>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="123"/>
         <source>Name of the custom 3D model</source>
         <extracomment>Placeholder text for when no name is entered</extracomment>
-        <translation type="unfinished">Ime 3D modela po meri</translation>
+        <translation>Ime 3D modela po meri</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="137"/>
         <source>Overwrite</source>
         <extracomment>Button: Referring to overwriting an asset</extracomment>
-        <translation type="unfinished">Prepiši</translation>
+        <translation>Prepiši</translation>
     </message>
     <message>
         <location filename="../../Controls/ImportAsset.qml" line="139"/>
         <source>Import</source>
         <extracomment>Button: Import asset</extracomment>
-        <translation type="unfinished">Uvozi</translation>
+        <translation>Uvozi</translation>
     </message>
 </context>
 <context>
@@ -2937,19 +2937,19 @@ Placeholder text where users input scaling multiplier</extracomment>
         <location filename="../../Popups/ImportPath.qml" line="99"/>
         <source>%1 files</source>
         <extracomment>This will be seen in the file type filter in the file interface: %1 = file type. E.g. JSON files</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../Popups/ImportPath.qml" line="256"/>
         <source>Invalid file type</source>
         <extracomment>Tool tip: Invalid file type is selected</extracomment>
-        <translation type="unfinished">Neveljaven tip datoteke</translation>
+        <translation>Neveljaven tip datoteke</translation>
     </message>
     <message>
         <location filename="../../Popups/ImportPath.qml" line="271"/>
         <source>Click the ... button to browse for file or drag and drop a file anywhere in this window</source>
         <extracomment>Label</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite gumb ... za brskanje po datotekah ali povlecite in spustite datoteko kamorkoli v tem oknu</translation>
     </message>
     <message>
         <location filename="../../Popups/ImportPath.qml" line="361"/>
@@ -4212,13 +4212,13 @@ Tool tip for text field</extracomment>
         <location filename="../../Sidebar/LinearTrackEditor.qml" line="94"/>
         <source>My tracks</source>
         <extracomment>Collapsible item in tree view. This section contains linear tracks made by this user</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../Sidebar/LinearTrackEditor.qml" line="96"/>
         <source>Shared with me</source>
         <extracomment>Collapsible item in tree view. This section contains linear tracks that are shared with the user</extracomment>
-        <translation type="unfinished">Deljeno z mano</translation>
+        <translation>Deljeno z mano</translation>
     </message>
     <message>
         <location filename="../../Sidebar/LinearTrackEditor.qml" line="108"/>
@@ -4393,7 +4393,7 @@ Enega ali več projektov je treba izbrisati, da lahko ustvarite nove projekte</t
         <location filename="../../Views/LoadingState.qml" line="174"/>
         <source>Asset upload</source>
         <extracomment>Title of loading state indicator</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nalaganje sredstva</translation>
     </message>
 </context>
 <context>
@@ -5070,13 +5070,13 @@ Do you want to continue?</source>
         <location filename="../../Menus.qml" line="213"/>
         <source>&amp;Frames</source>
         <extracomment>Menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Okvirji</translation>
     </message>
     <message>
         <location filename="../../Menus.qml" line="265"/>
         <source>&amp;Custom Geometries</source>
         <extracomment>Menu item</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../Menus.qml" line="314"/>
@@ -5130,7 +5130,7 @@ Do you want to continue?</source>
         <location filename="../../Menus.qml" line="484"/>
         <source>Path</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
-        <translation type="unfinished">Pot</translation>
+        <translation>Pot</translation>
     </message>
     <message>
         <location filename="../../Menus.qml" line="504"/>
@@ -6093,13 +6093,13 @@ Context menu sub-item: Split path -&gt; After</extracomment>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="297"/>
         <source>Close go to target</source>
         <extracomment>Context menu item.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="299"/>
         <source>Open go to target</source>
         <extracomment>Context menu item Opens a popup with go to target index</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="314"/>
@@ -6136,13 +6136,13 @@ Context menu sub-item: Split path -&gt; After</extracomment>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="63"/>
         <source>Close transform path</source>
         <extracomment>Context menu item. Closes a popup</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="65"/>
         <source>Open transform path</source>
         <extracomment>Context menu item. Opens a popup</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="99"/>
@@ -6305,7 +6305,7 @@ or
 
 Drag and drop a file anywhere in this window to open the import path dialog</source>
         <extracomment>Placeholder text for empty path</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../Sidebar/PathEditor.qml" line="395"/>
@@ -7487,19 +7487,19 @@ Column name. Refers to which date the items were modified</extracomment>
         <location filename="../../../backend/models/src/assettreeitem.cpp" line="73"/>
         <source>User created</source>
         <extracomment>postfix added to search results for user created assets</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ustvaril uporabnik</translation>
     </message>
     <message>
         <location filename="../../../backend/models/src/assettreeitem.cpp" line="77"/>
         <source>Shared</source>
         <extracomment>postfix added to search results for assets that are shared with the user</extracomment>
-        <translation type="unfinished">V skupni rabi</translation>
+        <translation>V skupni rabi</translation>
     </message>
     <message>
         <location filename="../../../backend/models/src/customgeometrytreemodel.cpp" line="57"/>
         <source>%1 (built-in)</source>
         <extracomment>Postfix added to assets that are built into the application. %1 = asset name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>%1 (vgrajen)</translation>
     </message>
 </context>
 <context>
@@ -7584,19 +7584,19 @@ Column name. Refers to which date the items were modified</extracomment>
         <location filename="../../Sidebar/RobotEditor.qml" line="185"/>
         <source>My robots</source>
         <extracomment>Collapsible item in tree view. This section contains robots made by this user</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Moji roboti</translation>
     </message>
     <message>
         <location filename="../../Sidebar/RobotEditor.qml" line="187"/>
         <source>Shared with me</source>
         <extracomment>Collapsible item in tree view. This section contains robots that are shared with the user</extracomment>
-        <translation type="unfinished">Deljeno z mano</translation>
+        <translation>Deljeno z mano</translation>
     </message>
     <message>
         <location filename="../../Sidebar/RobotEditor.qml" line="219"/>
         <source>Compressed urdf format (*.zip)</source>
         <extracomment>File type filter</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Activation info</source>
@@ -7651,38 +7651,38 @@ Column name. Refers to which date the items were modified</extracomment>
         <location filename="../../../backend/models/src/robotlistmodel.cpp" line="41"/>
         <source>An error occurred when fetching list</source>
         <extracomment>Error message</extracomment>
-        <translation type="unfinished">Pri pridobivanju seznama je prišlo do napake</translation>
+        <translation>Pri pridobivanju seznama je prišlo do napake</translation>
     </message>
     <message>
         <location filename="../../../backend/models/src/robotlistmodel.cpp" line="157"/>
         <source>%1 has been activated</source>
         <comment>Status message: %1 = name</comment>
-        <translation type="unfinished">%1 je bil aktiviran</translation>
+        <translation>%1 je bil aktiviran</translation>
     </message>
     <message>
         <location filename="../../../backend/models/src/robotlistmodel.cpp" line="168"/>
         <source>Failed to verify if %1 has been activated. Refresh the list to check if it was successful</source>
         <comment>Warning message: %1 = name</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../backend/models/src/robotlistmodel.cpp" line="217"/>
         <source>%1 has been deactivated</source>
         <comment>Status message: %1 = name</comment>
-        <translation type="unfinished">%1 je bil deaktiviran</translation>
+        <translation>%1 je bil deaktiviran</translation>
     </message>
     <message>
         <location filename="../../../backend/models/src/robotlistmodel.cpp" line="227"/>
         <source>Failed to verify if %1 has been deactivated. Refresh the list to check if it was successful</source>
         <comment>Warning message: %1 = name</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../backend/models/src/robotlistmodel.cpp" line="280"/>
         <location filename="../../../backend/models/src/robotlistmodel.cpp" line="296"/>
         <source>Activated robots (%1/%2)</source>
         <extracomment>Collapsible section in list. Contains robots which are activated</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aktivirani roboti (%1/%2)</translation>
     </message>
 </context>
 <context>
@@ -8307,13 +8307,13 @@ Nove tarče niso bile dodane</translation>
         <location filename="../../Sidebar/RotaryTableEditor.qml" line="82"/>
         <source>User created</source>
         <extracomment>Collapsible item in tree view. This section contains rotary tables made by this user</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../Sidebar/RotaryTableEditor.qml" line="84"/>
         <source>Shared with me</source>
         <extracomment>Collapsible item in tree view. This section contains rotary tables that are shared with the user</extracomment>
-        <translation type="unfinished">Deljeno z mano</translation>
+        <translation>Deljeno z mano</translation>
     </message>
     <message>
         <location filename="../../Sidebar/RotaryTableEditor.qml" line="96"/>
@@ -8892,7 +8892,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="231"/>
         <source>Custom Geometries</source>
         <extracomment>Title: Referring to user-imported 3D objects</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Geometrije po meri</translation>
     </message>
     <message>
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="261"/>
@@ -8928,7 +8928,7 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <location filename="../../Sidebar/src/sidebarmodel.cpp" line="291"/>
         <source>Frames</source>
         <extracomment>Title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Okvirji</translation>
     </message>
     <message>
         <source>User Frame</source>
@@ -9743,13 +9743,13 @@ Cilj je nedosegljiv s trenutno konfiguracijo</translation>
         <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="407"/>
         <source>Unlock editing to edit path transform</source>
         <extracomment>Tooltip text for transform button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="411"/>
         <source>Edit path transform</source>
         <extracomment>Tooltip text for transform button</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="438"/>
@@ -10487,7 +10487,7 @@ Button. Import custom tool</extracomment>
         <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="211"/>
         <source>Mesh</source>
         <extracomment>Label for a button, select mesh</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mreža</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="221"/>
@@ -10577,13 +10577,13 @@ Button. Import custom tool</extracomment>
         <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="496"/>
         <source>CoG</source>
         <extracomment>Label for text field. Centre of Gravity</extracomment>
-        <translation type="unfinished">T</translation>
+        <translation>T</translation>
     </message>
     <message>
         <location filename="../../Sidebar/Assets/ToolEditorDelegate.qml" line="498"/>
         <source>Centre of Gravity</source>
         <extracomment>Tool-tip for CoG</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Težišče</translation>
     </message>
     <message>
         <source>Select color</source>
@@ -10788,13 +10788,13 @@ Button text</extracomment>
         <location filename="../../../backend/src/toolmodel.cpp" line="1985"/>
         <source>Failed to load %1 data</source>
         <extracomment>Error message: %1 = item name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Nalaganje %1 podatkov ni uspelo</translation>
     </message>
     <message>
         <location filename="../../../backend/src/toolmodel.cpp" line="2006"/>
         <source>Tool %1 data loaded from json</source>
         <extracomment>Status message: %1 = name</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Podatki orodja %1 naloženi iz json</translation>
     </message>
 </context>
 <context>
@@ -11068,7 +11068,7 @@ Rotacija (rad)
         <location filename="../../Sidebar/ToolSettingEditor.qml" line="171"/>
         <source>Tool number</source>
         <extracomment>Placeholder text for tool number</extracomment>
-        <translation type="unfinished">Številka orodja</translation>
+        <translation>Številka orodja</translation>
     </message>
     <message>
         <location filename="../../Sidebar/ToolSettingEditor.qml" line="44"/>
@@ -11357,7 +11357,7 @@ Tool tip</extracomment>
         <location filename="../../Sidebar/Assets/TransformPathPopup.qml" line="21"/>
         <source>Path Transform</source>
         <extracomment>Popup title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -11485,13 +11485,13 @@ Error message. %1 = name</extracomment>
         <location filename="../../Sidebar/UserFrameEditor.qml" line="26"/>
         <source>User frame</source>
         <extracomment>Separator label</extracomment>
-        <translation type="unfinished">Uporabniški Koordinantni Sistem</translation>
+        <translation>Uporabniški Koordinantni Sistem</translation>
     </message>
     <message>
         <location filename="../../Sidebar/UserFrameEditor.qml" line="41"/>
         <source>Object frame</source>
         <extracomment>Separator label</extracomment>
-        <translation type="unfinished">Koordinatni sistem predmeta</translation>
+        <translation>Koordinatni sistem predmeta</translation>
     </message>
 </context>
 <context>
