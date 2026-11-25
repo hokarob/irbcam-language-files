@@ -3180,13 +3180,13 @@ Placeholder text in text imput: regex</extracomment>
 <context>
     <name>ImportPathInterface</name>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="33"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="34"/>
         <source>File is empty</source>
         <extracomment>Error message: Attempting to load en empty file</extracomment>
         <translation>Datoteka je prazna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="40"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="41"/>
         <source>File is not a valid UTF-8 file
 Only UTF-8 encoded files are supported</source>
         <extracomment>Error message: The file has invalid encoding</extracomment>
@@ -3194,10 +3194,61 @@ Only UTF-8 encoded files are supported</source>
 Podprte so samo datoteke, kodirane z UTF-8</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="54"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="55"/>
         <source>Unsupported file type &apos;%1&apos;</source>
         <extracomment>Error message. %1 = file type</extracomment>
         <translation>Nepodprta vrsta datoteke &apos;%1&apos;</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="130"/>
+        <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
+Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
+        <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
+        <translation type="unfinished">Presežena največja velikost datoteke (%1 MB). Trenutna velikost datoteke (po stiskanju): %2 MB
+
+Večje poti lahko uvozite z razdelitvijo datoteke na manjše datoteke in uporabo možnosti &apos;append&apos;</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="154"/>
+        <source>Failed to start cloud job %1</source>
+        <extracomment>Error message: %1 = file name</extracomment>
+        <translation type="unfinished">Opravila v oblaku %1 ni bilo mogoče zagnati</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="185"/>
+        <source>Failed to get parsed %1 from the cloud</source>
+        <extracomment>Error message: %1 = file name</extracomment>
+        <translation type="unfinished">Pridobivanje parsiranega %1 iz oblaka ni uspelo</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="231"/>
+        <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
+        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
+        <translation type="unfinished">Število decimalnih mest, uporabljenih v datoteki %1, je %2 (nizka numerična natančnost).</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="252"/>
+        <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
+        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
+        <translation type="unfinished">%1 ciljev je izločenih iz datoteke %2: so bližji kot minimalni prag razdalje %3 mm.</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="264"/>
+        <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
+        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
+        <translation type="unfinished">%1 cilj je izločen iz datoteke %2: bližji je kot minimalni prag razdalje %3 mm.</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="285"/>
+        <source>Failed to import file %1</source>
+        <extracomment>Error message. %1 = file name</extracomment>
+        <translation type="unfinished">Ni uspelo uvoziti datoteko %1</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="293"/>
+        <source>Path imported from %1</source>
+        <extracomment>Notification. %1 = file name</extracomment>
+        <translation type="unfinished">Pot uvožena iz %1</translation>
     </message>
 </context>
 <context>
@@ -4354,46 +4405,58 @@ Enega ali več projektov je treba izbrisati, da lahko ustvarite nove projekte</t
 <context>
     <name>LoadingState</name>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="137"/>
+        <location filename="../../Views/LoadingState.qml" line="176"/>
         <source>Station</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Postaja</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="143"/>
+        <location filename="../../Views/LoadingState.qml" line="182"/>
         <source>Robot</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="149"/>
+        <location filename="../../Views/LoadingState.qml" line="188"/>
         <source>Tool</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Orodje</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="155"/>
+        <location filename="../../Views/LoadingState.qml" line="194"/>
         <source>Linear Track</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Linearni tir</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="161"/>
+        <location filename="../../Views/LoadingState.qml" line="200"/>
         <source>Rotary Table</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Rotacijska miza</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="167"/>
+        <location filename="../../Views/LoadingState.qml" line="206"/>
         <source>Additional Objects</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Dodatni objekti</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="174"/>
+        <location filename="../../Views/LoadingState.qml" line="213"/>
         <source>Asset upload</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Nalaganje sredstva</translation>
+    </message>
+    <message>
+        <location filename="../../Views/LoadingState.qml" line="219"/>
+        <source>Import path</source>
+        <extracomment>Title of loading state indicator</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Views/LoadingState.qml" line="227"/>
+        <source>Robotics</source>
+        <extracomment>Title of loading state indicator</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6572,55 +6635,55 @@ Drag and drop a file anywhere in this window to open the import path dialog</sou
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1782"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1802"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>Datoteke CSV ni bilo mogoče uvoziti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1788"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1808"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Pot, uvožena iz CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1805"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1825"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Ni uspelo razčleniti datoteke JSON</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1830"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1850"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Nalaganje poti ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1836"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1856"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Pot je naložena</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2404"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2424"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopiran cilj</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2409"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2429"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Kopirano %1 ciljev</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2450"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2470"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopirana pot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2455"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2475"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Kopirano %1 poti</translation>
@@ -7505,7 +7568,7 @@ Column name. Refers to which date the items were modified</extracomment>
 <context>
     <name>RobotDataInterface</name>
     <message>
-        <location filename="../../../backend/src/robotdatainterface.cpp" line="416"/>
+        <location filename="../../../backend/src/robotdatainterface.cpp" line="418"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 je bil aktiviran</translation>
@@ -7613,6 +7676,21 @@ Column name. Refers to which date the items were modified</extracomment>
         <source>Import</source>
         <extracomment>Collapsible section. This section contains tools to import a custom robot</extracomment>
         <translation>Uvozi</translation>
+    </message>
+</context>
+<context>
+    <name>RobotListDelegate</name>
+    <message>
+        <location filename="../../Controls/RobotListDelegate.qml" line="50"/>
+        <source>Activation info</source>
+        <extracomment>Tool tip: Shown when hovering above the checkmark button on an activated robot</extracomment>
+        <translation type="unfinished">Informacije o aktivaciji</translation>
+    </message>
+    <message>
+        <location filename="../../Controls/RobotListDelegate.qml" line="52"/>
+        <source>Activate robot</source>
+        <extracomment>Tool tip: Shown when hovering above the checkmark button on an inactive (not activated) robot</extracomment>
+        <translation type="unfinished">Aktiviraj robota</translation>
     </message>
 </context>
 <context>
@@ -8048,7 +8126,7 @@ Error status for solving path</extracomment>
         <translation>Razdalja med začetno točko loka in končno točko loka je premajhna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1051"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1053"/>
         <source>Failed to configure max distance at index %1
 No new targets were added
 </source>
@@ -8058,13 +8136,13 @@ Ni bilo dodanih novih ciljev
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1100"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1103"/>
         <source>Failed to find max distance</source>
         <extracomment>Error message from find max distance</extracomment>
         <translation>Ni uspelo najti največje razdalje</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1120"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1123"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
@@ -8072,13 +8150,13 @@ Found %1 possible solutions within the specified parameters</source>
 Najdenih %1 možnih rešitev znotraj določenih parametrov</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1126"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1129"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation>Optimizator je naletel na težavo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1135"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1138"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
@@ -8086,7 +8164,7 @@ No solutions found with the specified parameters</source>
 Ni najdenih rešitev z navedenimi parametri</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1141"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1144"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
@@ -8196,7 +8274,7 @@ Najdeno %1 možnih rešitev znotraj določenih parametrov</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="806"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1044"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1046"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Operacija prekinjena s strani uporabnika</translation>
@@ -8255,7 +8333,7 @@ Izračunan %1 od %2 ciljev</translation>
         <translation>Pot je bila uspešno izračunana v %1 ms</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1067"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1070"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
@@ -8263,7 +8341,7 @@ Izračunan %1 od %2 ciljev</translation>
 1 nova tarča dodana</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1076"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1079"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
@@ -8271,7 +8349,7 @@ Izračunan %1 od %2 ciljev</translation>
 %1 novih ciljev dodanih</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1082"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1085"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
@@ -9328,10 +9406,9 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Večje poti je mogoče uvoziti tako, da datoteko APT razdelite na manjše datoteke in uporabite »priloži«</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1128"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
-        <translation>Opravila v oblaku %1 ni bilo mogoče zagnati</translation>
+        <translation type="vanished">Opravila v oblaku %1 ni bilo mogoče zagnati</translation>
     </message>
     <message>
         <source>Failed to get parsed APT %1 from the cloud</source>
@@ -9477,49 +9554,42 @@ To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
         <translation>V projektu ni zaznanih sprememb</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1104"/>
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
-        <translation>Presežena največja velikost datoteke (%1 MB). Trenutna velikost datoteke (po stiskanju): %2 MB
+        <translation type="vanished">Presežena največja velikost datoteke (%1 MB). Trenutna velikost datoteke (po stiskanju): %2 MB
 
 Večje poti lahko uvozite z razdelitvijo datoteke na manjše datoteke in uporabo možnosti &apos;append&apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1159"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
-        <translation>Pridobivanje parsiranega %1 iz oblaka ni uspelo</translation>
+        <translation type="vanished">Pridobivanje parsiranega %1 iz oblaka ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1205"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation>Število decimalnih mest, uporabljenih v datoteki %1, je %2 (nizka numerična natančnost).</translation>
+        <translation type="vanished">Število decimalnih mest, uporabljenih v datoteki %1, je %2 (nizka numerična natančnost).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1226"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation>%1 ciljev je izločenih iz datoteke %2: so bližji kot minimalni prag razdalje %3 mm.</translation>
+        <translation type="vanished">%1 ciljev je izločenih iz datoteke %2: so bližji kot minimalni prag razdalje %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1240"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation>%1 cilj je izločen iz datoteke %2: bližji je kot minimalni prag razdalje %3 mm.</translation>
+        <translation type="vanished">%1 cilj je izločen iz datoteke %2: bližji je kot minimalni prag razdalje %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1261"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
-        <translation>Ni uspelo uvoziti datoteko %1</translation>
+        <translation type="vanished">Ni uspelo uvoziti datoteko %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1269"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
-        <translation>Pot uvožena iz %1</translation>
+        <translation type="vanished">Pot uvožena iz %1</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1323"/>

@@ -2993,13 +2993,13 @@ Placeholder text in text imput: regex</extracomment>
 <context>
     <name>ImportPathInterface</name>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="33"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="34"/>
         <source>File is empty</source>
         <extracomment>Error message: Attempting to load en empty file</extracomment>
         <translation>Failas yra tuščias</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="40"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="41"/>
         <source>File is not a valid UTF-8 file
 Only UTF-8 encoded files are supported</source>
         <extracomment>Error message: The file has invalid encoding</extracomment>
@@ -3007,10 +3007,60 @@ Only UTF-8 encoded files are supported</source>
 Palaikomi tik UTF-8 koduoti failai</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="54"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="55"/>
         <source>Unsupported file type &apos;%1&apos;</source>
         <extracomment>Error message. %1 = file type</extracomment>
         <translation>Nepalaikomas failo tipas &apos;%1&apos;</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="130"/>
+        <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
+Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
+        <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
+        <translation type="unfinished">Viršytas maksimalus failo dydis (%1 MB). Dabartinis failo dydis (po suspaudimo): %2 MB
+Didesnius kelius galima importuoti padalijus failą į mažesnius failus ir naudojant „append“ parinktį</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="154"/>
+        <source>Failed to start cloud job %1</source>
+        <extracomment>Error message: %1 = file name</extracomment>
+        <translation type="unfinished">Nepavyko pradėti debesų užduoties %1</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="185"/>
+        <source>Failed to get parsed %1 from the cloud</source>
+        <extracomment>Error message: %1 = file name</extracomment>
+        <translation type="unfinished">Nepavyko gauti išanalizuoto %1 iš debesies</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="231"/>
+        <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
+        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
+        <translation type="unfinished">Faile %1 naudojamų dešimtainių skaitmenų skaičius yra %2 (žemas skaitinis tikslumas).</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="252"/>
+        <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
+        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
+        <translation type="unfinished">%1 taikinių yra išfiltruota iš failo %2: jie yra arčiau nei minimalus atstumo slenkstis %3 mm.</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="264"/>
+        <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
+        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
+        <translation type="unfinished">%1 taikinys yra išfiltruotas iš failo %2: jis yra arčiau nei minimalus atstumo slenkstis %3 mm.</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="285"/>
+        <source>Failed to import file %1</source>
+        <extracomment>Error message. %1 = file name</extracomment>
+        <translation type="unfinished">Nepavyko importuoti failo %1</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="293"/>
+        <source>Path imported from %1</source>
+        <extracomment>Notification. %1 = file name</extracomment>
+        <translation type="unfinished">Kelias importuotas iš %1</translation>
     </message>
 </context>
 <context>
@@ -4221,46 +4271,58 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
 <context>
     <name>LoadingState</name>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="137"/>
+        <location filename="../../Views/LoadingState.qml" line="176"/>
         <source>Station</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Stotis</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="143"/>
+        <location filename="../../Views/LoadingState.qml" line="182"/>
         <source>Robot</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="149"/>
+        <location filename="../../Views/LoadingState.qml" line="188"/>
         <source>Tool</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Įrankis</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="155"/>
+        <location filename="../../Views/LoadingState.qml" line="194"/>
         <source>Linear Track</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Tiesinė trajektorija</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="161"/>
+        <location filename="../../Views/LoadingState.qml" line="200"/>
         <source>Rotary Table</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Sukamasis stalas</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="167"/>
+        <location filename="../../Views/LoadingState.qml" line="206"/>
         <source>Additional Objects</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Papildomi objektai</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="174"/>
+        <location filename="../../Views/LoadingState.qml" line="213"/>
         <source>Asset upload</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Ištekliaus įkėlimas</translation>
+    </message>
+    <message>
+        <location filename="../../Views/LoadingState.qml" line="219"/>
+        <source>Import path</source>
+        <extracomment>Title of loading state indicator</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Views/LoadingState.qml" line="227"/>
+        <source>Robotics</source>
+        <extracomment>Title of loading state indicator</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6990,55 +7052,55 @@ Vilkite ir numeskite failą bet kurioje šio lango vietoje, kad atidarytumėte i
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1782"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1802"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>Nepavyko importuoti CSV failo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1788"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1808"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Kelias importuotas iš CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1805"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1825"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko išanalizuoti JSON failo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1830"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1850"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Nepavyko įkelti kelio</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1836"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1856"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Kelias įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2404"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2424"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Nukopijuotas taikinys</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2409"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2429"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Nukopijuota %1 taikinių</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2450"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2470"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Nukopijuotas kelias</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2455"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2475"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Nukopijuota %1 kelių</translation>
@@ -8036,7 +8098,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="vanished"> įkeltas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotdatainterface.cpp" line="416"/>
+        <location filename="../../../backend/src/robotdatainterface.cpp" line="418"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 buvo aktyvuotas</translation>
@@ -8176,6 +8238,21 @@ Column name. Refers to which date the items were modified</extracomment>
         <source>Import</source>
         <extracomment>Collapsible section. This section contains tools to import a custom robot</extracomment>
         <translation>Importuoti</translation>
+    </message>
+</context>
+<context>
+    <name>RobotListDelegate</name>
+    <message>
+        <location filename="../../Controls/RobotListDelegate.qml" line="50"/>
+        <source>Activation info</source>
+        <extracomment>Tool tip: Shown when hovering above the checkmark button on an activated robot</extracomment>
+        <translation type="unfinished">Aktyvacijos informacija</translation>
+    </message>
+    <message>
+        <location filename="../../Controls/RobotListDelegate.qml" line="52"/>
+        <source>Activate robot</source>
+        <extracomment>Tool tip: Shown when hovering above the checkmark button on an inactive (not activated) robot</extracomment>
+        <translation type="unfinished">Aktyvuoti robotą</translation>
     </message>
 </context>
 <context>
@@ -8582,7 +8659,7 @@ Error status for solving path</extracomment>
         <translation>Atstumas tarp lanko pradžios taško ir lanko pabaigos taško yra per mažas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1051"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1053"/>
         <source>Failed to configure max distance at index %1
 No new targets were added
 </source>
@@ -8592,13 +8669,13 @@ Nepridėta naujų taikinių
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1100"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1103"/>
         <source>Failed to find max distance</source>
         <extracomment>Error message from find max distance</extracomment>
         <translation>Nepavyko rasti maksimalaus atstumo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1120"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1123"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
@@ -8606,13 +8683,13 @@ Found %1 possible solutions within the specified parameters</source>
 Rasta %1 galimų sprendimų pagal nurodytus parametrus</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1126"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1129"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation>Optimizatorius susidūrė su problema</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1135"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1138"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
@@ -8620,7 +8697,7 @@ No solutions found with the specified parameters</source>
 Sprendimų nerasta su nurodytais parametrais</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1141"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1144"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
@@ -8745,7 +8822,7 @@ Nėra tikslų</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="806"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1044"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1046"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Operacija nutraukta vartotojo</translation>
@@ -8770,7 +8847,7 @@ Solved %1 of %2 targets</source>
         <translation>Įrankis %1 turi būti apibrėžtas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1067"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1070"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
@@ -8778,7 +8855,7 @@ Solved %1 of %2 targets</source>
 1 naujas tikslas buvo pridėtas</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1076"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1079"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
@@ -8786,7 +8863,7 @@ Solved %1 of %2 targets</source>
 %1 naujų taikinių buvo pridėti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1082"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1085"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
@@ -9956,10 +10033,9 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Didesni keliai gali būti importuoti padalijant APT failą į mažesnius failus ir naudojant „papildymo“ parinktį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1128"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
-        <translation>Nepavyko pradėti debesų užduoties %1</translation>
+        <translation type="vanished">Nepavyko pradėti debesų užduoties %1</translation>
     </message>
     <message>
         <source>Failed to get parsed APT %1 from the cloud</source>
@@ -10060,48 +10136,41 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Tai gali būti dėl to, kad išsaugojimas yra iš senesnės IRBCAM versijos</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1104"/>
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
-        <translation>Viršytas maksimalus failo dydis (%1 MB). Dabartinis failo dydis (po suspaudimo): %2 MB
+        <translation type="vanished">Viršytas maksimalus failo dydis (%1 MB). Dabartinis failo dydis (po suspaudimo): %2 MB
 Didesnius kelius galima importuoti padalijus failą į mažesnius failus ir naudojant „append“ parinktį</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1159"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
-        <translation>Nepavyko gauti išanalizuoto %1 iš debesies</translation>
+        <translation type="vanished">Nepavyko gauti išanalizuoto %1 iš debesies</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1205"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation>Faile %1 naudojamų dešimtainių skaitmenų skaičius yra %2 (žemas skaitinis tikslumas).</translation>
+        <translation type="vanished">Faile %1 naudojamų dešimtainių skaitmenų skaičius yra %2 (žemas skaitinis tikslumas).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1226"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation>%1 taikinių yra išfiltruota iš failo %2: jie yra arčiau nei minimalus atstumo slenkstis %3 mm.</translation>
+        <translation type="vanished">%1 taikinių yra išfiltruota iš failo %2: jie yra arčiau nei minimalus atstumo slenkstis %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1240"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation>%1 taikinys yra išfiltruotas iš failo %2: jis yra arčiau nei minimalus atstumo slenkstis %3 mm.</translation>
+        <translation type="vanished">%1 taikinys yra išfiltruotas iš failo %2: jis yra arčiau nei minimalus atstumo slenkstis %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1261"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
-        <translation>Nepavyko importuoti failo %1</translation>
+        <translation type="vanished">Nepavyko importuoti failo %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1269"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
-        <translation>Kelias importuotas iš %1</translation>
+        <translation type="vanished">Kelias importuotas iš %1</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1323"/>

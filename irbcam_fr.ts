@@ -3159,13 +3159,13 @@ Placeholder text in text imput: regex</extracomment>
 <context>
     <name>ImportPathInterface</name>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="33"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="34"/>
         <source>File is empty</source>
         <extracomment>Error message: Attempting to load en empty file</extracomment>
         <translation>Le fichier est vide</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="40"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="41"/>
         <source>File is not a valid UTF-8 file
 Only UTF-8 encoded files are supported</source>
         <extracomment>Error message: The file has invalid encoding</extracomment>
@@ -3173,10 +3173,60 @@ Only UTF-8 encoded files are supported</source>
 Seuls les fichiers encodés en UTF-8 sont supportés</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="54"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="55"/>
         <source>Unsupported file type &apos;%1&apos;</source>
         <extracomment>Error message. %1 = file type</extracomment>
         <translation>Type de fichier non supporté &apos;%1&apos;</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="130"/>
+        <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
+Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
+        <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
+        <translation type="unfinished">Taille maximale du fichier (%1 Mo) dépassée. Taille actuelle du fichier (après compression) : %2 Mo
+Des trajectoires plus grandes peuvent être importées en divisant le fichier en fichiers plus petits et en utilisant l&apos;option &apos;append&apos;</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="154"/>
+        <source>Failed to start cloud job %1</source>
+        <extracomment>Error message: %1 = file name</extracomment>
+        <translation type="unfinished">Impossible de lancer le processus serveur %1</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="185"/>
+        <source>Failed to get parsed %1 from the cloud</source>
+        <extracomment>Error message: %1 = file name</extracomment>
+        <translation type="unfinished">Échec de la récupération de %1 parsé depuis le cloud</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="231"/>
+        <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
+        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
+        <translation type="unfinished">Le nombre de décimales utilisées dans le fichier %1 est %2 (faible précision numérique).</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="252"/>
+        <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
+        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
+        <translation type="unfinished">%1 cibles sont filtrées du fichier %2 : elles sont plus proches que le seuil de distance minimale de %3 mm.</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="264"/>
+        <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
+        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
+        <translation type="unfinished">%1 cible est filtrée du fichier %2 : elle est plus proche que le seuil de distance minimale de %3 mm.</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="285"/>
+        <source>Failed to import file %1</source>
+        <extracomment>Error message. %1 = file name</extracomment>
+        <translation type="unfinished">Échec de l&apos;importation du fichier %1</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="293"/>
+        <source>Path imported from %1</source>
+        <extracomment>Notification. %1 = file name</extracomment>
+        <translation type="unfinished">Chemin importé depuis %1</translation>
     </message>
 </context>
 <context>
@@ -4322,46 +4372,58 @@ Il faut supprimer au moins un projet avant de pouvoir en créer des nouveaux</tr
 <context>
     <name>LoadingState</name>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="137"/>
+        <location filename="../../Views/LoadingState.qml" line="176"/>
         <source>Station</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Station</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="143"/>
+        <location filename="../../Views/LoadingState.qml" line="182"/>
         <source>Robot</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="149"/>
+        <location filename="../../Views/LoadingState.qml" line="188"/>
         <source>Tool</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Outil</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="155"/>
+        <location filename="../../Views/LoadingState.qml" line="194"/>
         <source>Linear Track</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Piste linéaire</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="161"/>
+        <location filename="../../Views/LoadingState.qml" line="200"/>
         <source>Rotary Table</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Table rotative</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="167"/>
+        <location filename="../../Views/LoadingState.qml" line="206"/>
         <source>Additional Objects</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Objets supplémentaires</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="174"/>
+        <location filename="../../Views/LoadingState.qml" line="213"/>
         <source>Asset upload</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Téléversement d&apos;asset</translation>
+    </message>
+    <message>
+        <location filename="../../Views/LoadingState.qml" line="219"/>
+        <source>Import path</source>
+        <extracomment>Title of loading state indicator</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Views/LoadingState.qml" line="227"/>
+        <source>Robotics</source>
+        <extracomment>Title of loading state indicator</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6535,55 +6597,55 @@ Glissez-déposez un fichier n&apos;importe où dans cette fenêtre pour ouvrir l
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1782"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1802"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>Échec de l&apos;import du fichier CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1788"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1808"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Chemin importé depuis CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1805"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1825"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Échec de l&apos;analyse du fichier JSON</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1830"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1850"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Échec du chargement du chemin</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1836"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1856"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Chemin chargé</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2404"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2424"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Cible copiée</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2409"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2429"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>%1 cibles copiées</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2450"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2470"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Chemin copié</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2455"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2475"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Copié %1 chemins</translation>
@@ -7470,7 +7532,7 @@ Column name. Refers to which date the items were modified</extracomment>
 <context>
     <name>RobotDataInterface</name>
     <message>
-        <location filename="../../../backend/src/robotdatainterface.cpp" line="416"/>
+        <location filename="../../../backend/src/robotdatainterface.cpp" line="418"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 a été activé</translation>
@@ -7578,6 +7640,21 @@ Column name. Refers to which date the items were modified</extracomment>
         <source>Import</source>
         <extracomment>Collapsible section. This section contains tools to import a custom robot</extracomment>
         <translation>Importer</translation>
+    </message>
+</context>
+<context>
+    <name>RobotListDelegate</name>
+    <message>
+        <location filename="../../Controls/RobotListDelegate.qml" line="50"/>
+        <source>Activation info</source>
+        <extracomment>Tool tip: Shown when hovering above the checkmark button on an activated robot</extracomment>
+        <translation type="unfinished">Informations d&apos;activation</translation>
+    </message>
+    <message>
+        <location filename="../../Controls/RobotListDelegate.qml" line="52"/>
+        <source>Activate robot</source>
+        <extracomment>Tool tip: Shown when hovering above the checkmark button on an inactive (not activated) robot</extracomment>
+        <translation type="unfinished">Activer le robot</translation>
     </message>
 </context>
 <context>
@@ -8035,7 +8112,7 @@ Error status for solving path</extracomment>
         <translation>La distance entre le point de départ et le point d&apos;arrivée de l&apos;arc est trop petite</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1051"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1053"/>
         <source>Failed to configure max distance at index %1
 No new targets were added
 </source>
@@ -8045,13 +8122,13 @@ Aucune nouvelle cible n&apos;a été ajoutée
 </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1100"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1103"/>
         <source>Failed to find max distance</source>
         <extracomment>Error message from find max distance</extracomment>
         <translation>Échec de la recherche de la distance maximale</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1120"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1123"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
@@ -8059,13 +8136,13 @@ Found %1 possible solutions within the specified parameters</source>
 Trouvé %1 solutions possibles dans les paramètres spécifiés</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1126"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1129"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation>L&apos;optimiseur a rencontré un problème</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1135"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1138"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
@@ -8073,7 +8150,7 @@ No solutions found with the specified parameters</source>
 Aucune solution trouvée avec les paramètres spécifiés</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1141"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1144"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
@@ -8195,7 +8272,7 @@ Trouvé %1 solutions possibles dans les paramètres spécifiés</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="806"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1044"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1046"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Opération annulée par l&apos;utilisateur</translation>
@@ -8221,7 +8298,7 @@ Résolu %1 de %2 cibles</translation>
         <translation>L&apos;outil %1 doit être défini</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1067"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1070"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
@@ -8229,7 +8306,7 @@ Résolu %1 de %2 cibles</translation>
 1 nouvelle cible a été ajoutée</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1076"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1079"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
@@ -8237,7 +8314,7 @@ Résolu %1 de %2 cibles</translation>
 %1 nouvelles cibles ajoutées</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1082"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1085"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
@@ -9300,18 +9377,16 @@ Des longs chemins peuvent être importés en les découpant en plus petits fichi
         <translation>Le projet %1 a été partagé avec %2.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1104"/>
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
-        <translation>Taille maximale du fichier (%1 Mo) dépassée. Taille actuelle du fichier (après compression) : %2 Mo
+        <translation type="vanished">Taille maximale du fichier (%1 Mo) dépassée. Taille actuelle du fichier (après compression) : %2 Mo
 Des trajectoires plus grandes peuvent être importées en divisant le fichier en fichiers plus petits et en utilisant l&apos;option &apos;append&apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1128"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
-        <translation>Impossible de lancer le processus serveur %1</translation>
+        <translation type="vanished">Impossible de lancer le processus serveur %1</translation>
     </message>
     <message>
         <source>Failed to get parsed APT %1 from the cloud</source>
@@ -9412,40 +9487,34 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Cela peut arriver si la sauvegarde vient d&apos;une version d&apos;IRBCAM plus ancienne</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1159"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
-        <translation>Échec de la récupération de %1 parsé depuis le cloud</translation>
+        <translation type="vanished">Échec de la récupération de %1 parsé depuis le cloud</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1205"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation>Le nombre de décimales utilisées dans le fichier %1 est %2 (faible précision numérique).</translation>
+        <translation type="vanished">Le nombre de décimales utilisées dans le fichier %1 est %2 (faible précision numérique).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1226"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation>%1 cibles sont filtrées du fichier %2 : elles sont plus proches que le seuil de distance minimale de %3 mm.</translation>
+        <translation type="vanished">%1 cibles sont filtrées du fichier %2 : elles sont plus proches que le seuil de distance minimale de %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1240"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation>%1 cible est filtrée du fichier %2 : elle est plus proche que le seuil de distance minimale de %3 mm.</translation>
+        <translation type="vanished">%1 cible est filtrée du fichier %2 : elle est plus proche que le seuil de distance minimale de %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1261"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
-        <translation>Échec de l&apos;importation du fichier %1</translation>
+        <translation type="vanished">Échec de l&apos;importation du fichier %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1269"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
-        <translation>Chemin importé depuis %1</translation>
+        <translation type="vanished">Chemin importé depuis %1</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1323"/>

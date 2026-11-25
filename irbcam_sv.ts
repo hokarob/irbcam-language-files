@@ -3797,13 +3797,13 @@ Placeholder text in text imput: regex</extracomment>
 <context>
     <name>ImportPathInterface</name>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="33"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="34"/>
         <source>File is empty</source>
         <extracomment>Error message: Attempting to load en empty file</extracomment>
         <translation>Filen är tom</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="40"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="41"/>
         <source>File is not a valid UTF-8 file
 Only UTF-8 encoded files are supported</source>
         <extracomment>Error message: The file has invalid encoding</extracomment>
@@ -3811,10 +3811,60 @@ Only UTF-8 encoded files are supported</source>
 Endast UTF-8-kodade filer stöds</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="54"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="55"/>
         <source>Unsupported file type &apos;%1&apos;</source>
         <extracomment>Error message. %1 = file type</extracomment>
         <translation>Filtypen &apos;%1&apos; som inte stöds</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="130"/>
+        <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
+Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
+        <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
+        <translation type="unfinished">Maximal filstorlek (%1 MB) överskriden. Aktuell filstorlek (efter komprimering): %2 MB
+Större banor kan importeras genom att dela upp filen i mindre filer och använda alternativet &apos;append&apos;</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="154"/>
+        <source>Failed to start cloud job %1</source>
+        <extracomment>Error message: %1 = file name</extracomment>
+        <translation type="unfinished">Det gick inte att starta molnjobbet %1</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="185"/>
+        <source>Failed to get parsed %1 from the cloud</source>
+        <extracomment>Error message: %1 = file name</extracomment>
+        <translation type="unfinished">Misslyckades med att hämta parsad %1 från molnet</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="231"/>
+        <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
+        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
+        <translation type="unfinished">Antalet decimaler som används i filen %1 är %2 (låg numerisk precision).</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="252"/>
+        <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
+        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
+        <translation type="unfinished">%1 mål filtreras bort från filen %2: de är närmare än tröskelvärdet för minsta avstånd på %3 mm.</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="264"/>
+        <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
+        <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
+        <translation type="unfinished">%1-målet filtreras bort från filen %2: det är närmare än minsta avståndströskeln på %3 mm.</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="285"/>
+        <source>Failed to import file %1</source>
+        <extracomment>Error message. %1 = file name</extracomment>
+        <translation type="unfinished">Kunde inte importera fil %1</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="293"/>
+        <source>Path imported from %1</source>
+        <extracomment>Notification. %1 = file name</extracomment>
+        <translation type="unfinished">Bana importerad från %1</translation>
     </message>
 </context>
 <context>
@@ -5180,46 +5230,58 @@ Ett eller flera projekt måste tas bort för att kunna skapa nya projekt</transl
 <context>
     <name>LoadingState</name>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="137"/>
+        <location filename="../../Views/LoadingState.qml" line="176"/>
         <source>Station</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Station</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="143"/>
+        <location filename="../../Views/LoadingState.qml" line="182"/>
         <source>Robot</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="149"/>
+        <location filename="../../Views/LoadingState.qml" line="188"/>
         <source>Tool</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Verktyg</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="155"/>
+        <location filename="../../Views/LoadingState.qml" line="194"/>
         <source>Linear Track</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Linjär bana</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="161"/>
+        <location filename="../../Views/LoadingState.qml" line="200"/>
         <source>Rotary Table</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Roterande bord</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="167"/>
+        <location filename="../../Views/LoadingState.qml" line="206"/>
         <source>Additional Objects</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Ytterligare Objekt</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="174"/>
+        <location filename="../../Views/LoadingState.qml" line="213"/>
         <source>Asset upload</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Ladda upp tillgång</translation>
+    </message>
+    <message>
+        <location filename="../../Views/LoadingState.qml" line="219"/>
+        <source>Import path</source>
+        <extracomment>Title of loading state indicator</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Views/LoadingState.qml" line="227"/>
+        <source>Robotics</source>
+        <extracomment>Title of loading state indicator</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8171,55 +8233,55 @@ Dra och släpp en fil var som helst i det här fönstret för att öppna importd
 <context>
     <name>PathModel</name>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1782"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1802"/>
         <source>Failed to import CSV file</source>
         <extracomment>Error message. Failed to import path from CSV file</extracomment>
         <translation>Det gick inte att importera CSV-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1788"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1808"/>
         <source>Path imported from CSV</source>
         <extracomment>Status message</extracomment>
         <translation>Banan importerad från CSV</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1805"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1825"/>
         <source>Failed to parse JSON file</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att tolka JSON-fil</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1830"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1850"/>
         <source>Failed to load path</source>
         <extracomment>Error message</extracomment>
         <translation>Det gick inte att läsa in banan</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="1836"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="1856"/>
         <source>Path loaded</source>
         <extracomment>Status message</extracomment>
         <translation>Verktygsbana laddad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2404"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2424"/>
         <source>Copied target</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopierad punkt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2409"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2429"/>
         <source>Copied %1 targets</source>
         <extracomment>Notification message: %1 = number of targets copied</extracomment>
         <translation>Kopierade %1 punkter</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2450"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2470"/>
         <source>Copied path</source>
         <extracomment>Notification message</extracomment>
         <translation>Kopierad bana</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/pathmodel.cpp" line="2455"/>
+        <location filename="../../../backend/src/pathmodel.cpp" line="2475"/>
         <source>Copied %1 paths</source>
         <extracomment>Notification message: %1 = number of paths copied</extracomment>
         <translation>Kopierade %1 banor</translation>
@@ -9285,7 +9347,7 @@ Column name. Refers to which date the items were modified</extracomment>
         <translation type="vanished"> laddad</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/robotdatainterface.cpp" line="416"/>
+        <location filename="../../../backend/src/robotdatainterface.cpp" line="418"/>
         <source>%1 has been activated</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>%1 har aktiverats</translation>
@@ -9425,6 +9487,21 @@ Column name. Refers to which date the items were modified</extracomment>
         <source>Import</source>
         <extracomment>Collapsible section. This section contains tools to import a custom robot</extracomment>
         <translation>Importera</translation>
+    </message>
+</context>
+<context>
+    <name>RobotListDelegate</name>
+    <message>
+        <location filename="../../Controls/RobotListDelegate.qml" line="50"/>
+        <source>Activation info</source>
+        <extracomment>Tool tip: Shown when hovering above the checkmark button on an activated robot</extracomment>
+        <translation type="unfinished">Aktiveringsinformation</translation>
+    </message>
+    <message>
+        <location filename="../../Controls/RobotListDelegate.qml" line="52"/>
+        <source>Activate robot</source>
+        <extracomment>Tool tip: Shown when hovering above the checkmark button on an inactive (not activated) robot</extracomment>
+        <translation type="unfinished">Aktivera robot</translation>
     </message>
 </context>
 <context>
@@ -9916,7 +9993,7 @@ Error status for solving path</extracomment>
         <translation>Verktyg %1 måste definieras</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1051"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1053"/>
         <source>Failed to configure max distance at index %1
 No new targets were added
 </source>
@@ -9925,13 +10002,13 @@ No new targets were added
 Inga nya mål lades till</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1100"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1103"/>
         <source>Failed to find max distance</source>
         <extracomment>Error message from find max distance</extracomment>
         <translation>Det gick inte att hitta maxavstånd</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1120"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1123"/>
         <source>Operation aborted by user
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Warning message from optimizer. Optimizer was aborted by user. %1 = number of solutions found before it was aborted</extracomment>
@@ -9939,13 +10016,13 @@ Found %1 possible solutions within the specified parameters</source>
 Hittade %1 möjliga lösningar inom de angivna parametrarna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1126"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1129"/>
         <source>Optimizer encountered a problem</source>
         <extracomment>Error message from optimizer</extracomment>
         <translation>Optimeraren stötte på ett problem</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1135"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1138"/>
         <source>Optimizer finished
 No solutions found with the specified parameters</source>
         <extracomment>Warning message from optimizer. The optimiser finished successfully, but no soulution was found</extracomment>
@@ -9953,7 +10030,7 @@ No solutions found with the specified parameters</source>
 Inga lösningar hittades med de angivna parametrarna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1141"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1144"/>
         <source>Optimizer finished
 Found %1 possible solutions within the specified parameters</source>
         <extracomment>Notification message from optimizer. The optimiser finished successfully. %1 = number of solutions found</extracomment>
@@ -10083,7 +10160,7 @@ Inga punkter</translation>
     </message>
     <message>
         <location filename="../../../backend/src/roboticsinterface.cpp" line="806"/>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1044"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1046"/>
         <source>Operation aborted by user</source>
         <extracomment>Error status for solving path</extracomment>
         <translation>Operation avbröts av användaren</translation>
@@ -10110,7 +10187,7 @@ No new targets were added</source>
 Inga nya mål har lagts till</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1067"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1070"/>
         <source>Max distance configured successfully
 1 new target was added</source>
         <extracomment>Status message</extracomment>
@@ -10118,7 +10195,7 @@ Inga nya mål har lagts till</translation>
 1 ny punkt har lagts till</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1076"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1079"/>
         <source>Max distance configured successfully
 %1 new targets were added</source>
         <extracomment>Status message, %1 = number of new targets added</extracomment>
@@ -10126,7 +10203,7 @@ Inga nya mål har lagts till</translation>
 %1 nya punkter har lagts till</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/roboticsinterface.cpp" line="1082"/>
+        <location filename="../../../backend/src/roboticsinterface.cpp" line="1085"/>
         <source>Max distance configured successfully
 No new targets were added</source>
         <extracomment>Status message</extracomment>
@@ -11430,10 +11507,9 @@ Larger paths can be imported by splitting the APT file into smaller files and us
 Större banor kan importeras genom att dela upp APT-filen i mindre filer och använda alternativet &apos;lägg till&apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1128"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
-        <translation>Det gick inte att starta molnjobbet %1</translation>
+        <translation type="vanished">Det gick inte att starta molnjobbet %1</translation>
     </message>
     <message>
         <source>Failed to get parsed APT %1 from the cloud</source>
@@ -11456,48 +11532,41 @@ Större banor kan importeras genom att dela upp APT-filen i mindre filer och anv
         <translation type="vanished">Verktygsbana importerad från APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1104"/>
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
-        <translation>Maximal filstorlek (%1 MB) överskriden. Aktuell filstorlek (efter komprimering): %2 MB
+        <translation type="vanished">Maximal filstorlek (%1 MB) överskriden. Aktuell filstorlek (efter komprimering): %2 MB
 Större banor kan importeras genom att dela upp filen i mindre filer och använda alternativet &apos;append&apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1159"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
-        <translation>Misslyckades med att hämta parsad %1 från molnet</translation>
+        <translation type="vanished">Misslyckades med att hämta parsad %1 från molnet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1205"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation>Antalet decimaler som används i filen %1 är %2 (låg numerisk precision).</translation>
+        <translation type="vanished">Antalet decimaler som används i filen %1 är %2 (låg numerisk precision).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1226"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation>%1 mål filtreras bort från filen %2: de är närmare än tröskelvärdet för minsta avstånd på %3 mm.</translation>
+        <translation type="vanished">%1 mål filtreras bort från filen %2: de är närmare än tröskelvärdet för minsta avstånd på %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1240"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
-        <translation>%1-målet filtreras bort från filen %2: det är närmare än minsta avståndströskeln på %3 mm.</translation>
+        <translation type="vanished">%1-målet filtreras bort från filen %2: det är närmare än minsta avståndströskeln på %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1261"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
-        <translation>Kunde inte importera fil %1</translation>
+        <translation type="vanished">Kunde inte importera fil %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1269"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
-        <translation>Bana importerad från %1</translation>
+        <translation type="vanished">Bana importerad från %1</translation>
     </message>
     <message>
         <location filename="../../../backend/src/stationinterface.cpp" line="1323"/>
