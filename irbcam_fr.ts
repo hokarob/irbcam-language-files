@@ -10808,19 +10808,19 @@ Button text</extracomment>
         <translation>Échec du chargement du maillage %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1974"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1976"/>
         <source>Tool %1 mesh loaded from %2</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Maillage de l&apos;outil %1 chargé depuis %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1985"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1987"/>
         <source>Failed to load %1 data</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Échec du chargement des données %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2006"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2008"/>
         <source>Tool %1 data loaded from json</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Données de l&apos;outil %1 chargées depuis le json</translation>

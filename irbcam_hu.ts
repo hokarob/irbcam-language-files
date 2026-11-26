@@ -11537,19 +11537,19 @@ Button text</extracomment>
         <translation>Nem sikerült betölteni a %1 mesh-et</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1974"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1976"/>
         <source>Tool %1 mesh loaded from %2</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Eszköz %1 háló betöltve innen %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="1985"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="1987"/>
         <source>Failed to load %1 data</source>
         <extracomment>Error message: %1 = item name</extracomment>
         <translation>Nem sikerült betölteni %1 adat</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/toolmodel.cpp" line="2006"/>
+        <location filename="../../../backend/src/toolmodel.cpp" line="2008"/>
         <source>Tool %1 data loaded from json</source>
         <extracomment>Status message: %1 = name</extracomment>
         <translation>Tool %1 adatai betöltve jsonból</translation>
