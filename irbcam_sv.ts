@@ -5230,55 +5230,55 @@ Ett eller flera projekt måste tas bort för att kunna skapa nya projekt</transl
 <context>
     <name>LoadingState</name>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="176"/>
+        <location filename="../../Views/LoadingState.qml" line="185"/>
         <source>Station</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Station</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="182"/>
+        <location filename="../../Views/LoadingState.qml" line="191"/>
         <source>Robot</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="188"/>
+        <location filename="../../Views/LoadingState.qml" line="197"/>
         <source>Tool</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Verktyg</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="194"/>
+        <location filename="../../Views/LoadingState.qml" line="203"/>
         <source>Linear Track</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Linjär bana</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="200"/>
+        <location filename="../../Views/LoadingState.qml" line="209"/>
         <source>Rotary Table</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Roterande bord</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="206"/>
+        <location filename="../../Views/LoadingState.qml" line="215"/>
         <source>Additional Objects</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Ytterligare Objekt</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="213"/>
+        <location filename="../../Views/LoadingState.qml" line="222"/>
         <source>Asset upload</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation>Ladda upp tillgång</translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="219"/>
+        <location filename="../../Views/LoadingState.qml" line="228"/>
         <source>Import path</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../Views/LoadingState.qml" line="227"/>
+        <location filename="../../Views/LoadingState.qml" line="236"/>
         <source>Robotics</source>
         <extracomment>Title of loading state indicator</extracomment>
         <translation type="unfinished"></translation>
