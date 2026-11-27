@@ -2559,16 +2559,14 @@ Placeholder text where users input scaling multiplier</extracomment>
 <context>
     <name>ImportPath</name>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="55"/>
         <source>This option is not available for %1 files</source>
         <extracomment>Tool tip for disabled checkbox.</extracomment>
-        <translation>Ez a lehetőség nem érhető el %1 fájlok esetében</translation>
+        <translation type="vanished">Ez a lehetőség nem érhető el %1 fájlok esetében</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="70"/>
         <source>All supported files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation>Összes támogatott fájl</translation>
+        <translation type="vanished">Összes támogatott fájl</translation>
     </message>
     <message>
         <source>APT files</source>
@@ -2596,58 +2594,104 @@ Placeholder text where users input scaling multiplier</extracomment>
         <translation type="vanished">SVG fájlok</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="108"/>
         <source>Open file</source>
         <extracomment>Name of the file interface window</extracomment>
-        <translation>Fájl megnyitása</translation>
+        <translation type="vanished">Fájl megnyitása</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="150"/>
         <source>Import Path</source>
         <extracomment>Title</extracomment>
-        <translation>Import Útvonal</translation>
+        <translation type="vanished">Import Útvonal</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="187"/>
         <source>Documentation</source>
         <extracomment>Separator label. This section contains a link to the documentation</extracomment>
-        <translation>Dokumentáció</translation>
+        <translation type="vanished">Dokumentáció</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="196"/>
         <source>Supported file formats are:</source>
         <extracomment>Label. Supported file formats are listed below this line</extracomment>
-        <translation>Támogatott fájlformátumok:</translation>
+        <translation type="vanished">Támogatott fájlformátumok:</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="224"/>
         <source>Reference documentation for JSON and CSV format is in  %1our forum%2</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
-        <translation>A JSON és CSV formátum referencia dokumentációja a %1fórumunkon%2 található</translation>
+        <translation type="vanished">A JSON és CSV formátum referencia dokumentációja a %1fórumunkon%2 található</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="235"/>
         <source>Select File</source>
         <extracomment>Section separator label</extracomment>
-        <translation>Fájl kiválasztása</translation>
+        <translation type="vanished">Fájl kiválasztása</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="243"/>
         <source>File name: </source>
         <extracomment>Label</extracomment>
-        <translation>Fájlnév: </translation>
+        <translation type="vanished">Fájlnév: </translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="252"/>
         <source>No file selected</source>
         <extracomment>Placeholder file name until a file is selected</extracomment>
-        <translation>Nincs fájl kiválasztva</translation>
+        <translation type="vanished">Nincs fájl kiválasztva</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="163"/>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="51"/>
+        <source>Back</source>
+        <extracomment>Button text</extracomment>
+        <translation type="unfinished">Vissza</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="147"/>
+        <source>Paths</source>
+        <extracomment>Collapsible item in tree view. This section contains public linear tracks</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="149"/>
+        <source>My paths</source>
+        <extracomment>Collapsible item in tree view. This section contains linear tracks made by this user</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="151"/>
+        <source>Shared with me</source>
+        <extracomment>Collapsible item in tree view. This section contains linear tracks that are shared with the user</extracomment>
+        <translation type="unfinished">Megosztva velem</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="219"/>
         <source>The active subscription does not provide access to GCODE/APT parser. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation>Az aktív előfizetés nem biztosít hozzáférést a GCODE/APT elemzőhöz. Kattintson %1ide%2 az előfizetések kezeléséhez</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="232"/>
+        <source>Overwrite</source>
+        <extracomment>Import button</extracomment>
+        <translation type="unfinished">Felülírás</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="269"/>
+        <source>Delete %1</source>
+        <extracomment>Popup title. %1 = name of geometry</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="271"/>
+        <source>Are you sure you want to delete path %1?</source>
+        <extracomment>Popup content text. %1 = name of geometry</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="297"/>
+        <source>Overwrite Path</source>
+        <extracomment>Popup title: %1 = tool number</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="299"/>
+        <source>Are you sure you want to overwrite path %1 with path %2?</source>
+        <extracomment>Popup content text: %1 = name of geometry</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid file type. Only .apt, .gcode, .nc, .json, .csv, and .svg files are supported</source>
@@ -2655,64 +2699,54 @@ Placeholder text where users input scaling multiplier</extracomment>
         <translation type="vanished">Érvénytelen fájltípus. Csak .apt, .gcode, .nc, .json, .csv és .svg fájlok támogatottak</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="278"/>
         <source>%1 Import Options</source>
         <extracomment>Additional options when importing file. %1 = APT, GCODE, JSON, CSV or SVG depending on what type of file is selected</extracomment>
-        <translation>%1 Importálási beállítások</translation>
+        <translation type="vanished">%1 Importálási beállítások</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="285"/>
         <source>Minimum distance (mm)</source>
         <extracomment>Description for a text field where the user inputs the minimum distance between targets</extracomment>
-        <translation>Minimális távolság (mm)</translation>
+        <translation type="vanished">Minimális távolság (mm)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="287"/>
         <source>Minimum distance between targets. Range: 0.1 - 10 (mm). For distances smaller than 1, arc moves are converted to linear</source>
         <extracomment>Tool tip: Displayed when hovering over minimum distance label</extracomment>
-        <translation>Minimális távolság a célpontok között. Tartomány: 0,1 - 10 (mm). 1-nél kisebb távolságok esetén az íves mozgások lineárissá alakulnak</translation>
+        <translation type="vanished">Minimális távolság a célpontok között. Tartomány: 0,1 - 10 (mm). 1-nél kisebb távolságok esetén az íves mozgások lineárissá alakulnak</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="316"/>
         <source>Append</source>
         <extracomment>Checkbox: Select to append targets to existing path</extracomment>
-        <translation>Hozzáadás</translation>
+        <translation type="vanished">Hozzáadás</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="320"/>
         <source>Add to existing path instead of replacing</source>
         <extracomment>Tool tip for append checkbox.</extracomment>
-        <translation>Hozzáadás a meglévő útvonalhoz a helyettesítés helyett</translation>
+        <translation type="vanished">Hozzáadás a meglévő útvonalhoz a helyettesítés helyett</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="327"/>
         <source>Reverse INDIRV</source>
         <extracomment>Checkbox: Select to reverse INDIRV (initial direction vector). This is primarily for Catia users</extracomment>
-        <translation>INDIRV megfordítása</translation>
+        <translation type="vanished">INDIRV megfordítása</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="331"/>
         <source>Reverse direction of vector (Catia)</source>
         <extracomment>Tool tip for Reverse INDIRV checkbox</extracomment>
-        <translation>Vektor irányának megfordítása (CATIA)</translation>
+        <translation type="vanished">Vektor irányának megfordítása (CATIA)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="337"/>
         <source>No arcs</source>
         <extracomment>Checkbox: Select to disable arc moves</extracomment>
-        <translation>Nincsenek ívek</translation>
+        <translation type="vanished">Nincsenek ívek</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="341"/>
         <source>Arcs are split into linear moves</source>
         <extracomment>Tool tip for no arcs checkbox</extracomment>
-        <translation>Az íveket lineáris mozgásokra osztják fel</translation>
+        <translation type="vanished">Az íveket lineáris mozgásokra osztják fel</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="349"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
-        <translation>Fegyver be/ki</translation>
+        <translation type="vanished">Fegyver be/ki</translation>
     </message>
     <message>
         <source>Convert all feed speeds to rapid moves, except for cutting speed. This is useful if selecting &apos;Gun on/off&apos; when exporting</source>
@@ -2720,231 +2754,193 @@ Placeholder text where users input scaling multiplier</extracomment>
         <translation type="vanished">Alakítsd át az összes előtolási sebességet gyors mozgásokra, kivéve a vágási sebességet. Ez akkor hasznos, ha az exportáláskor kiválasztod a „Gun on/off” opciót</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="99"/>
         <source>%1 files</source>
         <extracomment>This will be seen in the file type filter in the file interface: %1 = file type. E.g. JSON files</extracomment>
-        <translation>%1 fájl</translation>
+        <translation type="vanished">%1 fájl</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="256"/>
         <source>Invalid file type</source>
         <extracomment>Tool tip: Invalid file type is selected</extracomment>
-        <translation>Érvénytelen fájltípus</translation>
+        <translation type="vanished">Érvénytelen fájltípus</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="271"/>
         <source>Click the ... button to browse for file or drag and drop a file anywhere in this window</source>
         <extracomment>Label</extracomment>
-        <translation>Kattintson a ... gombra a fájl tallózásához vagy húzzon és ejtsen egy fájlt bárhová ebben az ablakban</translation>
+        <translation type="vanished">Kattintson a ... gombra a fájl tallózásához vagy húzzon és ejtsen egy fájlt bárhová ebben az ablakban</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="361"/>
         <source>Include gun on/off. This is useful if selecting &apos;Gun on/off&apos; when exporting</source>
         <extracomment>Tool tip for Gun on/off checkbox</extracomment>
-        <translation>Gun be/ki beillesztése. Ez hasznos, ha exportáláskor a &apos;Gun on/off&apos; lehetőséget választja</translation>
+        <translation type="vanished">Gun be/ki beillesztése. Ez hasznos, ha exportáláskor a &apos;Gun on/off&apos; lehetőséget választja</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="372"/>
         <source>Use velocities</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
-        <translation>Sebességek használata</translation>
+        <translation type="vanished">Sebességek használata</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="377"/>
         <source>Convert all feed speeds to rapid moves, except for cutting speed</source>
         <extracomment>Tool tip for Gun on/off Velocity checkbox</extracomment>
-        <translation>Alakítsa át az összes előtolási sebességet gyors mozgásokká, kivéve a vágási sebességet</translation>
+        <translation type="vanished">Alakítsa át az összes előtolási sebességet gyors mozgásokká, kivéve a vágási sebességet</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="383"/>
         <source>Use M8/M9</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
-        <translation>Használja az M8/M9</translation>
+        <translation type="vanished">Használja az M8/M9</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="388"/>
         <source>Import M8 as gun on and M9 as gun off</source>
         <extracomment>Tool tip for Gun on/off M8/M9 checkbox</extracomment>
-        <translation>Importáld az M8-at mint fegyver bekapcsolva és az M9-et mint fegyver kikapcsolva</translation>
+        <translation type="vanished">Importáld az M8-at mint fegyver bekapcsolva és az M9-et mint fegyver kikapcsolva</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="396"/>
         <source>Split Path</source>
         <extracomment>Separator label: Options to split path in different ways</extracomment>
-        <translation>Útvonal felosztása</translation>
+        <translation type="vanished">Útvonal felosztása</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="406"/>
         <source>On coordinate frame change</source>
         <extracomment>Label: Split path on cooridnate frame change</extracomment>
-        <translation>Koordináta-keret változásakor</translation>
+        <translation type="vanished">Koordináta-keret változásakor</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="422"/>
         <source>On comment</source>
         <extracomment>Label: Split path on comment</extracomment>
-        <translation>Megjegyzés be</translation>
+        <translation type="vanished">Megjegyzés be</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="436"/>
         <source>Disabled</source>
         <extracomment>Drop-down menu option. Split path on comment disabled</extracomment>
-        <translation>Letiltva</translation>
+        <translation type="vanished">Letiltva</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="438"/>
         <source>Any</source>
         <extracomment>Drop-down menu option. Split path on any comment</extracomment>
-        <translation>Bármely</translation>
+        <translation type="vanished">Bármely</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="440"/>
         <source>Layer Start</source>
         <extracomment>Drop-down menu option. Split path on comment Layer Start</extracomment>
-        <translation>Réteg kezdete</translation>
+        <translation type="vanished">Réteg kezdete</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="442"/>
         <source>Path</source>
         <extracomment>Drop-down menu option. Split path on comment Path:</extracomment>
-        <translation>Útvonal</translation>
+        <translation type="vanished">Útvonal</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="444"/>
         <source>User Defined</source>
         <extracomment>Drop-down menu option. Split path on user defined comment</extracomment>
-        <translation>Felhasználó által definiált</translation>
+        <translation type="vanished">Felhasználó által definiált</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="455"/>
         <source>Splitting paths on comments is disabled</source>
         <extracomment>Tool-tip for drop-down option &apos;Disabled&apos;</extracomment>
-        <translation>Útvonalak megjegyzéseken történő felosztása le van tiltva</translation>
+        <translation type="vanished">Útvonalak megjegyzéseken történő felosztása le van tiltva</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="457"/>
         <source>Split path on any comment</source>
         <extracomment>Tool-tip for drop-down option &apos;Any&apos;</extracomment>
-        <translation>Útvonal felosztása bármely megjegyzésnél</translation>
+        <translation type="vanished">Útvonal felosztása bármely megjegyzésnél</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="459"/>
         <source>Split path on any comment that matches the form: %1. The part in the paranthesis () will be used as the path name. E.g. the comment %2 will create a path named %3</source>
         <extracomment>Tool-tip for drop-down option &apos;Layer Start&apos;</extracomment>
-        <translation>Útvonal felosztása bármely olyan megjegyzésnél, amely a következő formátumban van: %1. A zárójelben () lévő rész lesz az útvonal neve. Például a %2 megjegyzés létrehoz egy %3 nevű útvonalat</translation>
+        <translation type="vanished">Útvonal felosztása bármely olyan megjegyzésnél, amely a következő formátumban van: %1. A zárójelben () lévő rész lesz az útvonal neve. Például a %2 megjegyzés létrehoz egy %3 nevű útvonalat</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="462"/>
         <source>Split path on any comment that matches the form: %1. The part in the paranthesis () will be used as the path name. This mode is case insensitive. E.g. the comment %2 will create a path named %3</source>
         <extracomment>Tool-tip for drop-down option &apos;Path&apos;</extracomment>
-        <translation>Útvonal felosztása bármely, a következő formátumnak megfelelő megjegyzésnél: %1. A zárójelben () lévő rész lesz az útvonal neve. Ez a mód nem tesz különbséget a kis- és nagybetűk között. Pl. a %2 megjegyzés létrehoz egy %3 nevű útvonalat</translation>
+        <translation type="vanished">Útvonal felosztása bármely, a következő formátumnak megfelelő megjegyzésnél: %1. A zárójelben () lévő rész lesz az útvonal neve. Ez a mód nem tesz különbséget a kis- és nagybetűk között. Pl. a %2 megjegyzés létrehoz egy %3 nevű útvonalat</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="465"/>
         <source>User defined regex used to match comments that should be treated as path separators. It follows the syntax of google re2 (https://github.com/google/re2/wiki/Syntax)</source>
         <extracomment>Tool-tip for drop-down option &apos;User Defined&apos;</extracomment>
-        <translation>Felhasználó által definiált regex a megjegyzések illesztésére, amelyeket útvonal-elválasztóként kell kezelni. A google re2 szintaxisát követi (https://github.com/google/re2/wiki/Syntax)</translation>
+        <translation type="vanished">Felhasználó által definiált regex a megjegyzések illesztésére, amelyeket útvonal-elválasztóként kell kezelni. A google re2 szintaxisát követi (https://github.com/google/re2/wiki/Syntax)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="483"/>
-        <location filename="../../Popups/ImportPath.qml" line="493"/>
         <source>Regular expression</source>
         <extracomment>Label: regex
 ----------
 Placeholder text in text imput: regex</extracomment>
-        <translation>Reguláris kifejezés</translation>
+        <translation type="vanished">Reguláris kifejezés</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="497"/>
         <source>Regular expression used to capture comments that will generate different paths. Capture group 1 will be used to generate the name of the path. If capture group 1 does not exist then the whole matching expression will be used to generate the name</source>
         <extracomment>Tooltip: Description of how the regular expression is used to separate paths</extracomment>
-        <translation>Reguláris kifejezés a különböző útvonalakat generáló megjegyzések rögzítésére. Az 1. rögzítési csoportot használjuk az útvonal nevének generálására. Ha az 1. rögzítési csoport nem létezik, akkor a teljes egyező kifejezést használjuk a név generálására</translation>
+        <translation type="vanished">Reguláris kifejezés a különböző útvonalakat generáló megjegyzések rögzítésére. Az 1. rögzítési csoportot használjuk az útvonal nevének generálására. Ha az 1. rögzítési csoport nem létezik, akkor a teljes egyező kifejezést használjuk a név generálására</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="509"/>
         <source>Column separator</source>
         <extracomment>Which character to use for separating CSV columns</extracomment>
-        <translation>Oszlopelválasztó</translation>
+        <translation type="vanished">Oszlopelválasztó</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="521"/>
         <source>Comma &apos;,&apos;</source>
         <extracomment>Item in dropdown menu. Referring to using a comma character to separate columns in a CSV file</extracomment>
-        <translation>Vessző &apos;,&apos;</translation>
+        <translation type="vanished">Vessző &apos;,&apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="526"/>
         <source>Space &apos; &apos;</source>
         <extracomment>Item in dropdown menu. Referring to using a space character to separate columns in a CSV file</extracomment>
-        <translation>Tér</translation>
+        <translation type="vanished">Tér</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="536"/>
         <source>Row separator</source>
         <extracomment>Which character to use for separating CSV rows</extracomment>
-        <translation>Sor elválasztó</translation>
+        <translation type="vanished">Sor elválasztó</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="548"/>
         <source>Newline &apos;
 &apos;</source>
         <extracomment>Item in dropdown menu. Referring to a new line in a CSV file</extracomment>
-        <translation>Új sor
+        <translation type="vanished">Új sor
 &apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="553"/>
         <source>Semicolon &apos;;&apos;</source>
         <extracomment>Item in dropdown menu. Referring to the semicolon symbol</extracomment>
-        <translation>Pontosvessző &apos;;&apos;</translation>
+        <translation type="vanished">Pontosvessző &apos;;&apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="567"/>
         <source>Additional Transformations</source>
         <extracomment>Collapsible section title</extracomment>
-        <translation>További transzformációk</translation>
+        <translation type="vanished">További transzformációk</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="589"/>
         <source>Scaling presets</source>
         <extracomment>Title for drop-down menu where scaling presets may be selected</extracomment>
-        <translation>Méretezési előbeállítások</translation>
+        <translation type="vanished">Méretezési előbeállítások</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="604"/>
         <source>User defined</source>
         <extracomment>Drop-down menu item. Refers to user defined position units</extracomment>
-        <translation>Felhasználó által definiált</translation>
+        <translation type="vanished">Felhasználó által definiált</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="609"/>
         <source>From mm (no scaling)</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
-        <translation>Tól mm (skálázás nélkül)</translation>
+        <translation type="vanished">Tól mm (skálázás nélkül)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="614"/>
         <source>From cm</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
-        <translation>Cm-től</translation>
+        <translation type="vanished">Cm-től</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="619"/>
         <source>From m</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
-        <translation>Tól m</translation>
+        <translation type="vanished">Tól m</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="624"/>
         <source>From inches</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
-        <translation>Inchekből</translation>
+        <translation type="vanished">Inchekből</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="629"/>
         <source>From feet</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
-        <translation>A lábaktól</translation>
+        <translation type="vanished">A lábaktól</translation>
     </message>
     <message>
         <source>Apply rotation to targets</source>
@@ -2957,22 +2953,25 @@ Placeholder text in text imput: regex</extracomment>
         <translation type="vanished">Forgatást alkalmazni helyileg az egyes célpontokra</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="679"/>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="65"/>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="234"/>
         <source>Import</source>
-        <extracomment>Import button</extracomment>
+        <extracomment>Title
+----------
+Import button</extracomment>
         <translation>Importálás</translation>
     </message>
 </context>
 <context>
     <name>ImportPathInterface</name>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="34"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="54"/>
         <source>File is empty</source>
         <extracomment>Error message: Attempting to load en empty file</extracomment>
         <translation>A fájl üres</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="41"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="61"/>
         <source>File is not a valid UTF-8 file
 Only UTF-8 encoded files are supported</source>
         <extracomment>Error message: The file has invalid encoding</extracomment>
@@ -2980,13 +2979,14 @@ Only UTF-8 encoded files are supported</source>
 Csak UTF-8 kódolású fájlok támogatottak</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="55"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="75"/>
         <source>Unsupported file type &apos;%1&apos;</source>
         <extracomment>Error message. %1 = file type</extracomment>
         <translation>Nem támogatott fájltípus: &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="130"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="220"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="442"/>
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -2994,46 +2994,354 @@ Larger paths can be imported by splitting the file into smaller files and using 
 Nagyobb pályák importálhatók a fájl kisebb fájlokra bontásával és az &apos;append&apos; opció használatával</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="154"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="244"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation type="unfinished">Nem sikerült elindítani a felhő feladatot %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="185"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="275"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation type="unfinished">Nem sikerült lekérni az elemzett %1-et a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="231"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="321"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation type="unfinished">A %1 fájlban használt tizedesjegyek száma %2 (alacsony numerikus pontosság).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="252"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="342"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation type="unfinished">%1 célpont kiszűrve a %2 fájlból: közelebb vannak, mint a minimális távolságküszöb (%3 mm).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="264"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="354"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation type="unfinished">%1 célpont ki van szűrve a %2 fájlból: közelebb van, mint a minimális távolságküszöb %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="285"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="375"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation type="unfinished">Nem sikerült importálni a(z) %1 fájlt</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="293"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="383"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation type="unfinished">Útvonal importálva %1-ből</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="459"/>
+        <source>Failed to upload file %1</source>
+        <extracomment>Error message: %1 = file name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="505"/>
+        <source>Failed to confirm that the path was saved to the cloud (the path may or may not have been saved)</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="582"/>
+        <source>Failed to get path %1</source>
+        <extracomment>Error message: %1 = file name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="675"/>
+        <source>Failed to delete path %1</source>
+        <extracomment>Error message: %1 = file name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="693"/>
+        <source>Path %1 was deleted from the cloud</source>
+        <extracomment>Status message: %1= path name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ImportPathOptions</name>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="40"/>
+        <source>This option is not available for %1 files</source>
+        <extracomment>Tool tip for disabled checkbox.</extracomment>
+        <translation type="unfinished">Ez a lehetőség nem érhető el %1 fájlok esetében</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="49"/>
+        <source>%1 Import Options</source>
+        <extracomment>Additional options when importing file. %1 = APT, GCODE, JSON, CSV or SVG depending on what type of file is selected</extracomment>
+        <translation type="unfinished">%1 Importálási beállítások</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="56"/>
+        <source>Minimum distance (mm)</source>
+        <extracomment>Description for a text field where the user inputs the minimum distance between targets</extracomment>
+        <translation type="unfinished">Minimális távolság (mm)</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="58"/>
+        <source>Minimum distance between targets. Range: 0.1 - 10 (mm). For distances smaller than 1, arc moves are converted to linear</source>
+        <extracomment>Tool tip: Displayed when hovering over minimum distance label</extracomment>
+        <translation type="unfinished">Minimális távolság a célpontok között. Tartomány: 0,1 - 10 (mm). 1-nél kisebb távolságok esetén az íves mozgások lineárissá alakulnak</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="87"/>
+        <source>Append</source>
+        <extracomment>Checkbox: Select to append targets to existing path</extracomment>
+        <translation type="unfinished">Hozzáadás</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="94"/>
+        <source>Add to existing path instead of replacing</source>
+        <extracomment>Tool tip for append checkbox.</extracomment>
+        <translation type="unfinished">Hozzáadás a meglévő útvonalhoz a helyettesítés helyett</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="101"/>
+        <source>Reverse INDIRV</source>
+        <extracomment>Checkbox: Select to reverse INDIRV (initial direction vector). This is primarily for Catia users</extracomment>
+        <translation type="unfinished">INDIRV megfordítása</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="105"/>
+        <source>Reverse direction of vector (Catia)</source>
+        <extracomment>Tool tip for Reverse INDIRV checkbox</extracomment>
+        <translation type="unfinished">Vektor irányának megfordítása (CATIA)</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="111"/>
+        <source>No arcs</source>
+        <extracomment>Checkbox: Select to disable arc moves</extracomment>
+        <translation type="unfinished">Nincsenek ívek</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="115"/>
+        <source>Arcs are split into linear moves</source>
+        <extracomment>Tool tip for no arcs checkbox</extracomment>
+        <translation type="unfinished">Az íveket lineáris mozgásokra osztják fel</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="123"/>
+        <source>Gun on/off</source>
+        <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
+        <translation type="unfinished">Fegyver be/ki</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="135"/>
+        <source>Include gun on/off. This is useful if selecting &apos;Gun on/off&apos; when exporting</source>
+        <extracomment>Tool tip for Gun on/off checkbox</extracomment>
+        <translation type="unfinished">Gun be/ki beillesztése. Ez hasznos, ha exportáláskor a &apos;Gun on/off&apos; lehetőséget választja</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="146"/>
+        <source>Use velocities</source>
+        <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
+        <translation type="unfinished">Sebességek használata</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="151"/>
+        <source>Convert all feed speeds to rapid moves, except for cutting speed</source>
+        <extracomment>Tool tip for Gun on/off Velocity checkbox</extracomment>
+        <translation type="unfinished">Alakítsa át az összes előtolási sebességet gyors mozgásokká, kivéve a vágási sebességet</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="157"/>
+        <source>Use M8/M9</source>
+        <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
+        <translation type="unfinished">Használja az M8/M9</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="162"/>
+        <source>Import M8 as gun on and M9 as gun off</source>
+        <extracomment>Tool tip for Gun on/off M8/M9 checkbox</extracomment>
+        <translation type="unfinished">Importáld az M8-at mint fegyver bekapcsolva és az M9-et mint fegyver kikapcsolva</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="170"/>
+        <source>Split Path</source>
+        <extracomment>Separator label: Options to split path in different ways</extracomment>
+        <translation type="unfinished">Útvonal felosztása</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="180"/>
+        <source>On coordinate frame change</source>
+        <extracomment>Label: Split path on cooridnate frame change</extracomment>
+        <translation type="unfinished">Koordináta-keret változásakor</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="196"/>
+        <source>On comment</source>
+        <extracomment>Label: Split path on comment</extracomment>
+        <translation type="unfinished">Megjegyzés be</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="210"/>
+        <source>Disabled</source>
+        <extracomment>Drop-down menu option. Split path on comment disabled</extracomment>
+        <translation type="unfinished">Letiltva</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="212"/>
+        <source>Any</source>
+        <extracomment>Drop-down menu option. Split path on any comment</extracomment>
+        <translation type="unfinished">Bármely</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="214"/>
+        <source>Layer Start</source>
+        <extracomment>Drop-down menu option. Split path on comment Layer Start</extracomment>
+        <translation type="unfinished">Réteg kezdete</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="216"/>
+        <source>Path</source>
+        <extracomment>Drop-down menu option. Split path on comment Path:</extracomment>
+        <translation type="unfinished">Útvonal</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="218"/>
+        <source>User Defined</source>
+        <extracomment>Drop-down menu option. Split path on user defined comment</extracomment>
+        <translation type="unfinished">Felhasználó által definiált</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="229"/>
+        <source>Splitting paths on comments is disabled</source>
+        <extracomment>Tool-tip for drop-down option &apos;Disabled&apos;</extracomment>
+        <translation type="unfinished">Útvonalak megjegyzéseken történő felosztása le van tiltva</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="231"/>
+        <source>Split path on any comment</source>
+        <extracomment>Tool-tip for drop-down option &apos;Any&apos;</extracomment>
+        <translation type="unfinished">Útvonal felosztása bármely megjegyzésnél</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="233"/>
+        <source>Split path on any comment that matches the form: %1. The part in the paranthesis () will be used as the path name. E.g. the comment %2 will create a path named %3</source>
+        <extracomment>Tool-tip for drop-down option &apos;Layer Start&apos;</extracomment>
+        <translation type="unfinished">Útvonal felosztása bármely olyan megjegyzésnél, amely a következő formátumban van: %1. A zárójelben () lévő rész lesz az útvonal neve. Például a %2 megjegyzés létrehoz egy %3 nevű útvonalat</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="236"/>
+        <source>Split path on any comment that matches the form: %1. The part in the paranthesis () will be used as the path name. This mode is case insensitive. E.g. the comment %2 will create a path named %3</source>
+        <extracomment>Tool-tip for drop-down option &apos;Path&apos;</extracomment>
+        <translation type="unfinished">Útvonal felosztása bármely, a következő formátumnak megfelelő megjegyzésnél: %1. A zárójelben () lévő rész lesz az útvonal neve. Ez a mód nem tesz különbséget a kis- és nagybetűk között. Pl. a %2 megjegyzés létrehoz egy %3 nevű útvonalat</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="239"/>
+        <source>User defined regex used to match comments that should be treated as path separators. It follows the syntax of google re2 (https://github.com/google/re2/wiki/Syntax)</source>
+        <extracomment>Tool-tip for drop-down option &apos;User Defined&apos;</extracomment>
+        <translation type="unfinished">Felhasználó által definiált regex a megjegyzések illesztésére, amelyeket útvonal-elválasztóként kell kezelni. A google re2 szintaxisát követi (https://github.com/google/re2/wiki/Syntax)</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="257"/>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="267"/>
+        <source>Regular expression</source>
+        <extracomment>Label: regex
+----------
+Placeholder text in text imput: regex</extracomment>
+        <translation type="unfinished">Reguláris kifejezés</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="271"/>
+        <source>Regular expression used to capture comments that will generate different paths. Capture group 1 will be used to generate the name of the path. If capture group 1 does not exist then the whole matching expression will be used to generate the name</source>
+        <extracomment>Tooltip: Description of how the regular expression is used to separate paths</extracomment>
+        <translation type="unfinished">Reguláris kifejezés a különböző útvonalakat generáló megjegyzések rögzítésére. Az 1. rögzítési csoportot használjuk az útvonal nevének generálására. Ha az 1. rögzítési csoport nem létezik, akkor a teljes egyező kifejezést használjuk a név generálására</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="283"/>
+        <source>Column separator</source>
+        <extracomment>Which character to use for separating CSV columns</extracomment>
+        <translation type="unfinished">Oszlopelválasztó</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="295"/>
+        <source>Comma &apos;,&apos;</source>
+        <extracomment>Item in dropdown menu. Referring to using a comma character to separate columns in a CSV file</extracomment>
+        <translation type="unfinished">Vessző &apos;,&apos;</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="300"/>
+        <source>Space &apos; &apos;</source>
+        <extracomment>Item in dropdown menu. Referring to using a space character to separate columns in a CSV file</extracomment>
+        <translation type="unfinished">Tér</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="310"/>
+        <source>Row separator</source>
+        <extracomment>Which character to use for separating CSV rows</extracomment>
+        <translation type="unfinished">Sor elválasztó</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="322"/>
+        <source>Newline &apos;
+&apos;</source>
+        <extracomment>Item in dropdown menu. Referring to a new line in a CSV file</extracomment>
+        <translation type="unfinished">Új sor
+&apos;</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="327"/>
+        <source>Semicolon &apos;;&apos;</source>
+        <extracomment>Item in dropdown menu. Referring to the semicolon symbol</extracomment>
+        <translation type="unfinished">Pontosvessző &apos;;&apos;</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="341"/>
+        <source>Additional Transformations</source>
+        <extracomment>Collapsible section title</extracomment>
+        <translation type="unfinished">További transzformációk</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="364"/>
+        <source>Scaling presets</source>
+        <extracomment>Title for drop-down menu where scaling presets may be selected</extracomment>
+        <translation type="unfinished">Méretezési előbeállítások</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="379"/>
+        <source>User defined</source>
+        <extracomment>Drop-down menu item. Refers to user defined position units</extracomment>
+        <translation type="unfinished">Felhasználó által definiált</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="384"/>
+        <source>From mm (no scaling)</source>
+        <extracomment>Drop-down menu item. Refers to position units</extracomment>
+        <translation type="unfinished">Tól mm (skálázás nélkül)</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="389"/>
+        <source>From cm</source>
+        <extracomment>Drop-down menu item. Refers to position units</extracomment>
+        <translation type="unfinished">Cm-től</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="394"/>
+        <source>From m</source>
+        <extracomment>Drop-down menu item. Refers to position units</extracomment>
+        <translation type="unfinished">Tól m</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="399"/>
+        <source>From inches</source>
+        <extracomment>Drop-down menu item. Refers to position units</extracomment>
+        <translation type="unfinished">Inchekből</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="404"/>
+        <source>From feet</source>
+        <extracomment>Drop-down menu item. Refers to position units</extracomment>
+        <translation type="unfinished">A lábaktól</translation>
     </message>
 </context>
 <context>
@@ -3202,49 +3510,49 @@ Nagyobb pályák importálhatók a fájl kisebb fájlokra bontásával és az &a
         <translation type="obsolete">Hibakód: </translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="112"/>
+        <location filename="../../Irbcam.qml" line="113"/>
         <source>Untitled</source>
         <extracomment>Header. Placeholder if the project has no name (it is not saved yet)</extracomment>
         <translation>Névtelen</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="116"/>
+        <location filename="../../Irbcam.qml" line="117"/>
         <source>%1 (Read only)</source>
         <extracomment>Header: %1 = project name, &apos;read only&apos; refers to that the user does not have write permission for this project</extracomment>
         <translation>%1 (Csak olvasható)</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="123"/>
+        <location filename="../../Irbcam.qml" line="124"/>
         <source>No project loaded</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Nincs projekt betöltve</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="125"/>
+        <location filename="../../Irbcam.qml" line="126"/>
         <source>Currenly loded project</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Jelenleg betöltött projekt</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="127"/>
+        <location filename="../../Irbcam.qml" line="128"/>
         <source>Contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Nem mentett módosításokat tartalmaz</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="160"/>
+        <location filename="../../Irbcam.qml" line="161"/>
         <source>Clear all</source>
         <extracomment>Button. Clear (acknowledge) all acknowledgeable messages</extracomment>
         <translation>Összes törlése</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="386"/>
+        <location filename="../../Irbcam.qml" line="387"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Felülír %1</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="388"/>
+        <location filename="../../Irbcam.qml" line="389"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Biztosan felül szeretné írni a(z) %1 projektet?&lt;br&gt;&lt;br&gt;Ezt a projektet korábban a %2 verzióval mentették.&lt;br&gt;&lt;br&gt;Ha felülírja, akkor előfordulhat, hogy nem lehet újra megnyitni az IRBCAM %2 segítségével.&lt;br&gt;&lt;br&gt;Ha szeretne egy másolatot megtartani, akkor mentse a projektet új névvel</translation>
@@ -3316,49 +3624,49 @@ Nagyobb pályák importálhatók a fájl kisebb fájlokra bontásával és az &a
         <translation type="vanished">Viszlát </translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="91"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="92"/>
         <source>Failed to sign in user %1</source>
         <extracomment>Error message. %1 = user name</extracomment>
         <translation>Nem sikerült bejelentkezni a felhasználónak: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="158"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="159"/>
         <source>Goodbye %1</source>
         <extracomment>Status message shown on logout. %1 = full name</extracomment>
         <translation>Viszlát %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="228"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="229"/>
         <source>Failed to validate session token</source>
         <extracomment>Error message</extracomment>
         <translation>A munkamenet token érvényesítése nem sikerült</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="269"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="270"/>
         <source>Failed to get admin details</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült lekérni az adminisztrátori adatokat</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="524"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="525"/>
         <source>Failed to check for updates</source>
         <extracomment>Warning message: Shown if the client is unable to check for updates</extracomment>
         <translation>Nem sikerült ellenőrizni a frissítéseket</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="955"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="980"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>ismeretlen felhasználó</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="964"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="989"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>ismeretlen felhasználónév</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1016"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1041"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -3368,184 +3676,184 @@ Egyes beállítások nem voltak elérhetők a felhőben. Ez valószínűleg új 
 Az érintett beállításokat alapértelmezett értékekre állították</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1047"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1072"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation>Üdvözöljük, %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1028"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1053"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation>Nem sikerült betölteni a %1 beállításait</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1036"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1061"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation>%1 beállításai betöltve</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1069"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1094"/>
         <source>Failed to get user details</source>
         <extracomment>Error message.</extracomment>
         <translation>Nem sikerült lekérni a felhasználó adatait</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1179"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1204"/>
         <source>Network error: The response contained no data</source>
         <extracomment>Error message.</extracomment>
         <translation>Hálózati hiba: A válasz nem tartalmazott adatokat</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1198"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1223"/>
         <source>Network error: Failed to parse response</source>
         <extracomment>Error message.</extracomment>
         <translation>Hálózati hiba: Nem sikerült elemezni a választ</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1238"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1263"/>
         <source>Your session has expired. Please sign in again.</source>
         <extracomment>Error message.</extracomment>
         <translation>A munkamenet lejárt. Kérjük, jelentkezzen be újra.</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1249"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1274"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
         <translation>Távoli hiba: %1 kód: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1263"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1288"/>
         <source>Network error: %1</source>
         <extracomment>Error message: %1 = message</extracomment>
         <translation>Hálózati hiba: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1270"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1295"/>
         <source>Network error: %1
 code: %2</source>
         <extracomment>Error message: %1 = message, %2 = code</extracomment>
         <translation>Hálózati hiba: %1 kód: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1307"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1332"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation>Inicializálatlan</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1310"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1335"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation>Tétlen</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1313"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1338"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation>Leírás lekérése</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1316"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1341"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation>Letöltés</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1319"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1344"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation>Kicsomagolás</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1322"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1347"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation>Betöltés</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1325"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1350"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation>Törlés</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1328"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1353"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation>Feltöltés</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1331"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1356"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation>Lista lekérése</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1334"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1359"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation>Dekódolás</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1337"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1362"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation>Ellenőrzés</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1340"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1365"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation>Eszközök betöltése</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1343"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1368"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation>Feldolgozás</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1346"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1371"/>
         <source>Error</source>
         <extracomment>Network status: An error has ocurred</extracomment>
         <translation>Hiba</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1349"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1374"/>
         <source>Awaiting user input</source>
         <extracomment>Network status</extracomment>
         <translation>Várakozás a felhasználói bevitelre</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1352"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1377"/>
         <source>Waiting for server</source>
         <extracomment>Network status: Waiting for a response from the server</extracomment>
         <translation>Várakozás a szerverre</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1355"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1380"/>
         <source>Sharing</source>
         <extracomment>Network status: Sharing asset/project</extracomment>
         <translation>Megosztás</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1361"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1386"/>
         <source>Unknown</source>
         <extracomment>Network status</extracomment>
         <translation>Ismeretlen</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1457"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1482"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
         <translation>Elérhető az IRBCAM új kisebb verziója. Mentsd el a munkádat és töltsd újra az oldalt a legújabb funkciókért</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1464"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1489"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -3563,7 +3871,7 @@ Kérjük, mentse el munkáját, és töltse újra az oldalt a lehető leghamarab
         <translation type="vanished">Nem sikerült betölteni a beállításokat a(z) </translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1492"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1517"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült lekérni a felhő feladat állapotát</translation>
@@ -4114,6 +4422,75 @@ Postfix for linear track position. Referring to the unit millimetres</extracomme
         <source>Import</source>
         <extracomment>Collapsible section: This section contains tools to import a custom linear track</extracomment>
         <translation>Importálás</translation>
+    </message>
+</context>
+<context>
+    <name>LoadPathFile</name>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="30"/>
+        <source>All supported files</source>
+        <extracomment>This will be seen in the file type filter in the file interface</extracomment>
+        <translation type="unfinished">Összes támogatott fájl</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="59"/>
+        <source>%1 files</source>
+        <extracomment>This will be seen in the file type filter in the file interface: %1 = file type. E.g. JSON files</extracomment>
+        <translation type="unfinished">%1 fájl</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="68"/>
+        <source>Open file</source>
+        <extracomment>Name of the file interface window</extracomment>
+        <translation type="unfinished">Fájl megnyitása</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="77"/>
+        <source>Select File</source>
+        <extracomment>Section separator label</extracomment>
+        <translation type="unfinished">Fájl kiválasztása</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="84"/>
+        <source>File name: </source>
+        <extracomment>Label</extracomment>
+        <translation type="unfinished">Fájlnév: </translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="93"/>
+        <source>No file selected</source>
+        <extracomment>Placeholder file name until a file is selected</extracomment>
+        <translation type="unfinished">Nincs fájl kiválasztva</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="100"/>
+        <source>Invalid file type</source>
+        <extracomment>Tool tip: Invalid file type is selected</extracomment>
+        <translation type="unfinished">Érvénytelen fájltípus</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="116"/>
+        <source>Click the ... button to browse for file or drag and drop a file anywhere in this window</source>
+        <extracomment>Label</extracomment>
+        <translation type="unfinished">Kattintson a ... gombra a fájl tallózásához vagy húzzon és ejtsen egy fájlt bárhová ebben az ablakban</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="123"/>
+        <source>Documentation</source>
+        <extracomment>Separator label. This section contains a link to the documentation</extracomment>
+        <translation type="unfinished">Dokumentáció</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="132"/>
+        <source>Supported file formats are:</source>
+        <extracomment>Label. Supported file formats are listed below this line</extracomment>
+        <translation type="unfinished">Támogatott fájlformátumok:</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="162"/>
+        <source>Reference documentation for JSON and CSV format is in  %1our forum%2</source>
+        <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
+        <translation type="unfinished">A JSON és CSV formátum referencia dokumentációja a %1fórumunkon%2 található</translation>
     </message>
 </context>
 <context>
@@ -4975,7 +5352,7 @@ Tooltip for to-target field</extracomment>
 <context>
     <name>Menus</name>
     <message>
-        <location filename="../../Menus.qml" line="122"/>
+        <location filename="../../Menus.qml" line="123"/>
         <source>&amp;File</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Fájl</translation>
@@ -5038,7 +5415,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Kilépés (CTRL+Q)</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="208"/>
+        <location filename="../../Menus.qml" line="216"/>
         <source>&amp;Edit</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Szerkesztés</translation>
@@ -5054,13 +5431,13 @@ Tooltip for to-target field</extracomment>
         <translation type="vanished">&amp;Objektum keret</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="232"/>
+        <location filename="../../Menus.qml" line="240"/>
         <source>&amp;Robot</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Robot</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="249"/>
+        <location filename="../../Menus.qml" line="257"/>
         <source>&amp;Linear Track</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Lineáris pálya</translation>
@@ -5071,19 +5448,19 @@ Tooltip for to-target field</extracomment>
         <translation type="vanished">&amp;További objektumok</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="274"/>
+        <location filename="../../Menus.qml" line="282"/>
         <source>Tar&amp;gets</source>
         <extracomment>Menu item</extracomment>
         <translation>Célok</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="412"/>
+        <location filename="../../Menus.qml" line="429"/>
         <source>User Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Felhasználói rendszer</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="420"/>
+        <location filename="../../Menus.qml" line="437"/>
         <source>Object Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Munkadarab rendszer</translation>
@@ -5097,7 +5474,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Mechanizmus</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="428"/>
+        <location filename="../../Menus.qml" line="445"/>
         <source>Robot</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Robot</translation>
@@ -5111,7 +5488,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Robot kiválasztás</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="468"/>
+        <location filename="../../Menus.qml" line="485"/>
         <source>Linear Track</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Lineáris egység</translation>
@@ -5153,13 +5530,13 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Válassza lineáris asztal</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="444"/>
+        <location filename="../../Menus.qml" line="461"/>
         <source>Tool</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Kiválasztás</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="452"/>
+        <location filename="../../Menus.qml" line="469"/>
         <source>Tool Base</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Álló eszköz</translation>
@@ -5253,7 +5630,7 @@ Tooltip for to-target field</extracomment>
         <translation type="vanished">R&amp;obot</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="241"/>
+        <location filename="../../Menus.qml" line="249"/>
         <source>&amp;Tool</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Eszköz</translation>
@@ -5267,7 +5644,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Optimalizáló</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="168"/>
+        <location filename="../../Menus.qml" line="169"/>
         <source>&amp;Import Path</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Importálás útvonala</translation>
@@ -5285,7 +5662,7 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Maximális távolság</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="125"/>
+        <location filename="../../Menus.qml" line="126"/>
         <source>&amp;New</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Új</translation>
@@ -5299,19 +5676,19 @@ Tooltip for to-target field</extracomment>
         <translation type="obsolete">Tájolás</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="41"/>
+        <location filename="../../Menus.qml" line="42"/>
         <source>New Project Wizard</source>
         <extracomment>Title of a dialog box</extracomment>
         <translation>Új projekt varázsló</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="43"/>
+        <location filename="../../Menus.qml" line="44"/>
         <source>New Empty Project</source>
         <extracomment>Title of a dialog box</extracomment>
         <translation>Új üres projekt</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="45"/>
+        <location filename="../../Menus.qml" line="46"/>
         <source>This action will remove all unsaved changes in the current project
 
 Do you want to continue?</source>
@@ -5320,151 +5697,151 @@ Do you want to continue?</source>
 Folytatja?</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="130"/>
+        <location filename="../../Menus.qml" line="131"/>
         <source>&amp;Empty Project</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Üres projekt</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="145"/>
+        <location filename="../../Menus.qml" line="146"/>
         <source>&amp;Open Project</source>
         <extracomment>Menu item</extracomment>
         <translation>Pr&amp;ojekt megnyitása</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="153"/>
+        <location filename="../../Menus.qml" line="154"/>
         <source>&amp;Save Project</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Projekt mentése</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="162"/>
+        <location filename="../../Menus.qml" line="163"/>
         <source>Save Project &amp;As ...</source>
         <extracomment>Menu item</extracomment>
         <translation>Projekt mentése másként...</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="138"/>
+        <location filename="../../Menus.qml" line="139"/>
         <source>&amp;Project Wizard</source>
         <extracomment>Menu item</extracomment>
         <translation>Projekt varázsló</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="75"/>
+        <location filename="../../Menus.qml" line="76"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Ez a modul nem mentett módosításokat tartalmaz</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="177"/>
+        <location filename="../../Menus.qml" line="185"/>
         <source>S&amp;ettings</source>
         <extracomment>Menu item</extracomment>
         <translation>B&amp;eállítások</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="184"/>
+        <location filename="../../Menus.qml" line="192"/>
         <source>Project &amp;Info</source>
         <extracomment>Menu item</extracomment>
         <translation>Projekt és &amp;Info</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="213"/>
+        <location filename="../../Menus.qml" line="221"/>
         <source>&amp;Frames</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Keretek</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="257"/>
+        <location filename="../../Menus.qml" line="265"/>
         <source>Rotary Ta&amp;ble</source>
         <extracomment>Menu item</extracomment>
         <translation>Forgóasztal</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="265"/>
+        <location filename="../../Menus.qml" line="273"/>
         <source>&amp;Custom Geometries</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Egyéni Geometriák</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="283"/>
+        <location filename="../../Menus.qml" line="300"/>
         <source>&amp;Export Options</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Exportálási beállítások</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="300"/>
+        <location filename="../../Menus.qml" line="317"/>
         <source>&amp;Analyze</source>
         <extracomment>Menu title</extracomment>
         <translation>Elemzés</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="303"/>
+        <location filename="../../Menus.qml" line="320"/>
         <source>&amp;Optimizer</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Optimalizáló</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="314"/>
+        <location filename="../../Menus.qml" line="331"/>
         <source>&amp;View</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Nézet</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="317"/>
+        <location filename="../../Menus.qml" line="334"/>
         <source>Camera</source>
         <extracomment>Sub-menu View/Camera</extracomment>
         <translation>Kamera</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="322"/>
+        <location filename="../../Menus.qml" line="339"/>
         <source>Reset</source>
         <extracomment>Menu item: Reset camera to default location</extracomment>
         <translation>Visszaállítás</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="326"/>
+        <location filename="../../Menus.qml" line="343"/>
         <source>Reset camera to default</source>
         <extracomment>Tooltip for &quot;Reset&quot;</extracomment>
         <translation>Kamera visszaállítása alapértelmezettre</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="330"/>
+        <location filename="../../Menus.qml" line="347"/>
         <source>Home</source>
         <extracomment>Menu item: Reset camera to last saved location</extracomment>
         <translation>Kezdőlap</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="333"/>
+        <location filename="../../Menus.qml" line="350"/>
         <source>Reset camera to last saved position</source>
         <extracomment>Tooltip for &quot;Home&quot;</extracomment>
         <translation>Kamera visszaállítása az utolsó mentett pozícióra</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="370"/>
+        <location filename="../../Menus.qml" line="387"/>
         <source>Station</source>
         <extracomment>Menu item</extracomment>
         <translation>Állomás</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="382"/>
+        <location filename="../../Menus.qml" line="399"/>
         <source>2D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation>2D ábra</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="388"/>
+        <location filename="../../Menus.qml" line="405"/>
         <source>3D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation>3D ábra</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="404"/>
+        <location filename="../../Menus.qml" line="421"/>
         <source>Global</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Globális</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="436"/>
+        <location filename="../../Menus.qml" line="453"/>
         <source>Robot Flange</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Robotkar vége</translation>
@@ -5475,43 +5852,43 @@ Folytatja?</translation>
         <translation type="vanished">Állandó Szerszámbázis</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="492"/>
+        <location filename="../../Menus.qml" line="509"/>
         <source>Scene Focus Point</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Jelenet fókuszpont</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="460"/>
+        <location filename="../../Menus.qml" line="477"/>
         <source>Rotary Table</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Forgóasztal</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="476"/>
+        <location filename="../../Menus.qml" line="493"/>
         <source>Target</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Cél</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="484"/>
+        <location filename="../../Menus.qml" line="501"/>
         <source>Path</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Útvonal</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="504"/>
+        <location filename="../../Menus.qml" line="521"/>
         <source>No plugins are enabled</source>
         <extracomment>Tool tip to explain why plugins are greyed out</extracomment>
         <translation>Egyetlen bővítmény sincs engedélyezve</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="532"/>
+        <location filename="../../Menus.qml" line="549"/>
         <source>This plugin does not have valid source content</source>
         <extracomment>Tool tip to explain why button is greyed out</extracomment>
         <translation>Ez a bővítmény nem rendelkezik érvényes forrás tartalommal</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="591"/>
+        <location filename="../../Menus.qml" line="608"/>
         <source>Feedback</source>
         <extracomment>Menu item</extracomment>
         <translation>Visszajelzés</translation>
@@ -5525,7 +5902,7 @@ Folytatja?</translation>
         <translation type="obsolete">Ortogonális Megtekintés</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="376"/>
+        <location filename="../../Menus.qml" line="393"/>
         <source>Combination View</source>
         <extracomment>Menu item</extracomment>
         <translation>Többszörös nézet</translation>
@@ -5547,7 +5924,7 @@ Folytatja?</translation>
         <translation type="obsolete">Lejátszás hátra</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="511"/>
+        <location filename="../../Menus.qml" line="528"/>
         <source>&amp;Plugins</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Beépülő modulok</translation>
@@ -5561,7 +5938,7 @@ Folytatja?</translation>
         <translation type="vanished">Ez a bővítmény nem érhető el: </translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="574"/>
+        <location filename="../../Menus.qml" line="591"/>
         <source>Forum</source>
         <extracomment>Menu item</extracomment>
         <translation>Fórum</translation>
@@ -5599,7 +5976,7 @@ Folytatja?</translation>
         <translation type="vanished">Bővítmény beállítások</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="561"/>
+        <location filename="../../Menus.qml" line="578"/>
         <source>&amp;Help</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Segítség</translation>
@@ -5609,7 +5986,7 @@ Folytatja?</translation>
         <translation type="obsolete">3D mozgatás</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="399"/>
+        <location filename="../../Menus.qml" line="416"/>
         <source>Coordinate Systems</source>
         <extracomment>Menu title</extracomment>
         <translation>Koordináta rendszerek</translation>
@@ -5623,7 +6000,7 @@ Folytatja?</translation>
         <translation type="obsolete">Nyelv / Egységek</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="585"/>
+        <location filename="../../Menus.qml" line="602"/>
         <source>About IRBCAM</source>
         <extracomment>Menu item</extracomment>
         <translation>Az IRBCAM-ról</translation>
@@ -6368,29 +6745,29 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
 <context>
     <name>PathContextMenu</name>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="199"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="201"/>
         <source>Add new path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Új útvonal hozzáadása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="174"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="176"/>
         <source>Add new</source>
         <extracomment>Context menu item</extracomment>
         <translation>Új hozzáadása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="177"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="179"/>
         <source>Path</source>
         <extracomment>Context menu sub-item: Add new -&gt; Path</extracomment>
         <translation>Útvonal</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="111"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="155"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="179"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="190"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="233"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="113"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="157"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="181"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="192"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="235"/>
         <source>Before</source>
         <extracomment>Context menu sub-item: Paste path(s) -&gt; Before
 ----------
@@ -6404,11 +6781,11 @@ Context menu sub-item: Split path -&gt; Before</extracomment>
         <translation>Előtt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="113"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="161"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="181"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="192"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="237"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="115"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="163"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="183"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="194"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="239"/>
         <source>After</source>
         <extracomment>Context menu sub-item: Paste path(s) -&gt; After
 ----------
@@ -6422,91 +6799,91 @@ Context menu sub-item: Split path -&gt; After</extracomment>
         <translation>Után</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="183"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="185"/>
         <source>Target</source>
         <extracomment>Context menu sub-item: Add new -&gt; Target</extracomment>
         <translation>Cél</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="57"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="59"/>
         <source>Copy path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Útvonal másolása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="259"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="261"/>
         <source>Delete path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Útvonal törlése</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="188"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="190"/>
         <source>Add new target</source>
         <extracomment>Context menu item</extracomment>
         <translation>Új cél hozzáadása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="51"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="53"/>
         <source>Copy paths</source>
         <extracomment>Context menu item</extracomment>
         <translation>Útvonalak másolása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="53"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="55"/>
         <source>Copy targets in paths</source>
         <extracomment>Context menu item</extracomment>
         <translation>Célpontok másolása az útvonalakban</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="59"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="61"/>
         <source>Copy targets in path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Célok másolása az útvonalban</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="63"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="65"/>
         <source>Close transform path</source>
         <extracomment>Context menu item. Closes a popup</extracomment>
         <translation>Transzformációs útvonal bezárása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="65"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="67"/>
         <source>Open transform path</source>
         <extracomment>Context menu item. Opens a popup</extracomment>
         <translation>Transzformációs útvonal megnyitása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="78"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="80"/>
         <source>Copy target</source>
         <extracomment>Context menu item</extracomment>
         <translation>Cél másolása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="126"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="128"/>
         <source>Paste targets in a new path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Illessze be a célokat egy új útvonalba</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="128"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="130"/>
         <source>Paste target in a new path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Cél beillesztése új útvonalba</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="221"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="223"/>
         <source>Split path after</source>
         <extracomment>Context menu item</extracomment>
         <translation>Útvonal elágazása után</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="226"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="228"/>
         <source>Split path before</source>
         <extracomment>Context menu item</extracomment>
         <translation>Az út felosztása előtt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="231"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="233"/>
         <source>Split path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Elágazó pálya</translation>
@@ -6517,26 +6894,26 @@ Context menu sub-item: Split path -&gt; After</extracomment>
         <translation type="vanished">Menj a célhoz</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="328"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="332"/>
         <source>Expand all</source>
         <extracomment>Context menu item: Expand all items in list</extracomment>
         <translation>Összes kibontása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="330"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="334"/>
         <source>Collapse all</source>
         <extracomment>Context menu item: Collapse all items in list</extracomment>
         <translation>Összes összecsukása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="335"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="339"/>
         <source>Expand</source>
         <extracomment>Context menu</extracomment>
         <translation>Kibontás</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="337"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="352"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="341"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="356"/>
         <source>Current</source>
         <extracomment>Context menu sub-item: Expand -&gt; Current
 ----------
@@ -6544,8 +6921,8 @@ Context menu sub-item: Collapse -&gt; Current</extracomment>
         <translation>Aktuális</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="340"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="355"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="344"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="359"/>
         <source>Targets</source>
         <extracomment>Context menu sub-item: Expand -&gt; Targets
 ----------
@@ -6553,8 +6930,8 @@ Context menu sub-item: Collapse -&gt; Targets</extracomment>
         <translation>Célok</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="344"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="359"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="348"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="363"/>
         <source>Selection</source>
         <extracomment>Context menu sub-item: Expand -&gt; Selection
 ----------
@@ -6562,8 +6939,8 @@ Context menu sub-item: Collapse -&gt; Selection</extracomment>
         <translation>Kiválasztás</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="347"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="362"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="351"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="366"/>
         <source>All</source>
         <extracomment>Context menu sub-item: Expand -&gt; All
 ----------
@@ -6571,99 +6948,105 @@ Context menu sub-item: Collapse -&gt; All</extracomment>
         <translation>Összes</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="350"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="354"/>
         <source>Collapse</source>
         <extracomment>Context menu</extracomment>
         <translation>Összecsuk</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="212"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="214"/>
         <source>Combine selected paths</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kiválasztott útvonalak egyesítése</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="74"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="76"/>
         <source>Copy selected targets</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kiválasztott célpontok másolása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="140"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="142"/>
         <source>Paste targets at the beginning of path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Célpontok beillesztése az útvonal elején</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="142"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="144"/>
         <source>Paste target at the beginning of path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Illessze be a célt az út elején</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="158"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="160"/>
         <source>Replace</source>
         <extracomment>Context menu sub-item: Paste target(s) -&gt; Replace</extracomment>
         <translation>Csere</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="265"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="267"/>
         <source>Delete target</source>
         <extracomment>Context menu item</extracomment>
         <translation>Cél törlése</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="279"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="281"/>
         <source>Rename path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Útvonal átnevezése</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="297"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="299"/>
         <source>Close go to target</source>
         <extracomment>Context menu item.</extracomment>
         <translation>Menj közel a célponthoz</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="299"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="301"/>
         <source>Open go to target</source>
         <extracomment>Context menu item Opens a popup with go to target index</extracomment>
         <translation>Célponthoz ugrás megnyitása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="314"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="311"/>
+        <source>Import path</source>
+        <extracomment>Context menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="318"/>
         <source>Open project</source>
         <extracomment>Context menu item</extracomment>
         <translation>Projekt megnyitása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="95"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="106"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="97"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="108"/>
         <source>Paste paths</source>
         <extracomment>Context menu item</extracomment>
         <translation>Útvonalak beillesztése</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="99"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="108"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="101"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="110"/>
         <source>Paste path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Útvonal beillesztése</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="150"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="152"/>
         <source>Paste targets</source>
         <extracomment>Context menu item</extracomment>
         <translation>Célok beillesztése</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="152"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="154"/>
         <source>Paste target</source>
         <extracomment>Context menu item</extracomment>
         <translation>Cél beillesztése</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="252"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="254"/>
         <source>Delete selected</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kiválasztottak törlése</translation>
@@ -6674,22 +7057,21 @@ Context menu sub-item: Collapse -&gt; All</extracomment>
         <translation type="obsolete">Törlés</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="288"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="290"/>
         <source>Close max distance editor</source>
         <extracomment>Context menu item</extracomment>
         <translation>Maximális távolság szerkesztő bezárása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="290"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="292"/>
         <source>Open max distance editor</source>
         <extracomment>Context menu item</extracomment>
         <translation>Nyisd meg a maximális távolság szerkesztőt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="308"/>
         <source>Import Path</source>
         <extracomment>Context menu item</extracomment>
-        <translation>Importálási útvonal</translation>
+        <translation type="vanished">Importálási útvonal</translation>
     </message>
 </context>
 <context>
@@ -6763,7 +7145,6 @@ Right click to see available options for populating the path</source>
         <translation type="vanished">Az útvonallista üres. Jobb klikk a rendelkezésre álló opciók megtekintéséhez az útvonal feltöltéséhez</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="384"/>
         <source>The path list is empty
 
 Right click to see available options for populating the path
@@ -6772,7 +7153,7 @@ or
 
 Drag and drop a file anywhere in this window to open the import path dialog</source>
         <extracomment>Placeholder text for empty path</extracomment>
-        <translation>Az útvonallista üres
+        <translation type="vanished">Az útvonallista üres
 
 Kattintson jobb gombbal az elérhető lehetőségek megtekintéséhez az útvonal feltöltéséhez
 
@@ -6781,142 +7162,119 @@ vagy
 Húzzon és dobjon egy fájlt bárhová ebben az ablakban az import útvonal párbeszédpanel megnyitásához</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="395"/>
         <source>Target list navigation</source>
         <extracomment>Info card title</extracomment>
-        <translation>Céllista navigáció</translation>
+        <translation type="vanished">Céllista navigáció</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="398"/>
         <source>Hide navigation info</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
-        <translation>Navigációs információ elrejtése</translation>
+        <translation type="vanished">Navigációs információ elrejtése</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="400"/>
         <source>Show navigation info</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
-        <translation>Navigációs információ megjelenítése</translation>
+        <translation type="vanished">Navigációs információ megjelenítése</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="404"/>
         <source>Selection</source>
         <extracomment>Info card action</extracomment>
-        <translation>Kiválasztás</translation>
+        <translation type="vanished">Kiválasztás</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="407"/>
         <source>Left click</source>
         <extracomment>Info card operation: Selection</extracomment>
-        <translation>Bal klikk</translation>
+        <translation type="vanished">Bal klikk</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="409"/>
         <source>Up/down arrow keys</source>
         <extracomment>Info card operation: Selection</extracomment>
-        <translation>Fel/le nyíl billentyűk</translation>
+        <translation type="vanished">Fel/le nyíl billentyűk</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="411"/>
         <source>Modifiers:</source>
         <extracomment>Info card operation: Selection sub category</extracomment>
-        <translation>Módosítók:</translation>
+        <translation type="vanished">Módosítók:</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="415"/>
         <source>%1 - Select range</source>
         <extracomment>Info card detail: Modifiers - %1 = shift</extracomment>
-        <translation>%1 - Tartomány kiválasztása</translation>
+        <translation type="vanished">%1 - Tartomány kiválasztása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="417"/>
         <source>%1 - Select additional (mouse only)</source>
         <extracomment>Info card detail: Modifiers - %1 = ctrl</extracomment>
-        <translation>%1 - További kiválasztása (csak egérrel)</translation>
+        <translation type="vanished">%1 - További kiválasztása (csak egérrel)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="419"/>
         <source>%1 + %2 - Select additional range</source>
         <extracomment>Info card detail: Modifiers - %1 = shift, %2 = ctrl</extracomment>
-        <translation>%1 + %2 - Válasszon további tartományt</translation>
+        <translation type="vanished">%1 + %2 - Válasszon további tartományt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="424"/>
         <source>Open context menu</source>
         <extracomment>Info card action</extracomment>
-        <translation>Kontextus menü megnyitása</translation>
+        <translation type="vanished">Kontextus menü megnyitása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="426"/>
         <source>Right click</source>
         <extracomment>Info card operation: Open context menu</extracomment>
-        <translation>Jobb kattintás</translation>
+        <translation type="vanished">Jobb kattintás</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="428"/>
         <source>Content of the context menu will depend on what element is clicked</source>
         <extracomment>Info card detail: Right click</extracomment>
-        <translation>A helyi menü tartalma attól függ, hogy melyik elemre kattintanak</translation>
+        <translation type="vanished">A helyi menü tartalma attól függ, hogy melyik elemre kattintanak</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="432"/>
         <source>Expand/collapse</source>
         <extracomment>Info card action</extracomment>
-        <translation>Kibontás/Összecsukás</translation>
+        <translation type="vanished">Kibontás/Összecsukás</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="435"/>
         <source>Double click</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
-        <translation>Dupla kattintás</translation>
+        <translation type="vanished">Dupla kattintás</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="437"/>
         <source>Right arrow key (expand)</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
-        <translation>Jobbra nyíl billentyű (kibont)</translation>
+        <translation type="vanished">Jobbra nyíl billentyű (kibont)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="439"/>
         <source>Left arrow key (collapse)</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
-        <translation>Balra nyíl billentyű (összecsuk)</translation>
+        <translation type="vanished">Balra nyíl billentyű (összecsuk)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="444"/>
         <source>Copy selected</source>
         <extracomment>Info card action</extracomment>
-        <translation>Kiválasztott másolása</translation>
+        <translation type="vanished">Kiválasztott másolása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="449"/>
         <source>Paste copied</source>
         <extracomment>Info card action</extracomment>
-        <translation>Másolt beillesztése</translation>
+        <translation type="vanished">Másolt beillesztése</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="452"/>
         <source>Pastes after the selected element</source>
         <extracomment>Info card detail: Paste copied</extracomment>
-        <translation>Beillesztés a kiválasztott elem után</translation>
+        <translation type="vanished">Beillesztés a kiválasztott elem után</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="456"/>
         <source>Delete selected</source>
         <extracomment>Info card action</extracomment>
-        <translation>Kiválasztottak törlése</translation>
+        <translation type="vanished">Kiválasztottak törlése</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="461"/>
         <source>Undo last action</source>
         <extracomment>Info card action</extracomment>
-        <translation>Utolsó művelet visszavonása</translation>
+        <translation type="vanished">Utolsó művelet visszavonása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="466"/>
         <source>Redo last action</source>
         <extracomment>Info card action</extracomment>
-        <translation>Utolsó művelet ismétlése</translation>
+        <translation type="vanished">Utolsó művelet ismétlése</translation>
     </message>
     <message>
         <source>Configure Path</source>
@@ -7971,13 +8329,13 @@ Kérjük, ellenőrizze az internetkapcsolatot, és próbálja újra</translation
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="233"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="236"/>
         <source>years</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; years</extracomment>
         <translation>évek</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="235"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="238"/>
         <source>year</source>
         <extracomment>Used to format a label. Singular form. Example usage: This will expire in 1 year</extracomment>
         <translation>év</translation>
@@ -7993,63 +8351,63 @@ Kérjük, ellenőrizze az internetkapcsolatot, és próbálja újra</translation
         <translation type="vanished">hónap</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="263"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="266"/>
         <source>days</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; days</extracomment>
         <translation>napok</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="265"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="268"/>
         <source>day</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 day</extracomment>
         <translation>nap</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="277"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="280"/>
         <source>hours</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; hours</extracomment>
         <translation>órák</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="279"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="282"/>
         <source>hour</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 hour</extracomment>
         <translation>óra</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="293"/>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="310"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="296"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="313"/>
         <source>minutes</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; minutes</extracomment>
         <translation>percek</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="295"/>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="312"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="298"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="315"/>
         <source>minute</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 minute</extracomment>
         <translation>perc</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="300"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="303"/>
         <source>less than 1 minute</source>
         <extracomment>Used to format a label. Example usage: This will expire in less than 1 minute</extracomment>
         <translation>1 percnél kevesebb</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="328"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="331"/>
         <source>seconds</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; seconds</extracomment>
         <translation>másodpercek</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="330"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="333"/>
         <source>second</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 second</extracomment>
         <translation>másodperc</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="336"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="339"/>
         <source>1 second</source>
         <extracomment>Used to format a label. Denotes that a process has one second or less left (or has been active for one second or less)</extracomment>
         <translation>1 másodperc</translation>
@@ -9455,25 +9813,25 @@ Kattintson újra a felülíráshoz</translation>
 <context>
     <name>Sidebar</name>
     <message>
-        <location filename="../../Sidebar/Sidebar.qml" line="172"/>
+        <location filename="../../Sidebar/Sidebar.qml" line="174"/>
         <source>Remove shortcut</source>
         <extracomment>Context menu item, remove sidebar shortcut</extracomment>
         <translation>Parancsikon eltávolítása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Sidebar.qml" line="177"/>
+        <location filename="../../Sidebar/Sidebar.qml" line="179"/>
         <source>Reset to default</source>
         <extracomment>Context menu item, reset all sidebar shortcuts to default</extracomment>
         <translation>Visszaállítás alapértelmezettre</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Sidebar.qml" line="240"/>
+        <location filename="../../Sidebar/Sidebar.qml" line="242"/>
         <source>Back</source>
         <extracomment>Button: Navigate back</extracomment>
         <translation>Vissza</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Sidebar.qml" line="251"/>
+        <location filename="../../Sidebar/Sidebar.qml" line="253"/>
         <source>Project Wizard</source>
         <extracomment>Title</extracomment>
         <translation>Projekt varázsló</translation>
@@ -9487,7 +9845,7 @@ Kattintson újra a felülíráshoz</translation>
         <translation type="vanished">Befejez</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Sidebar.qml" line="259"/>
+        <location filename="../../Sidebar/Sidebar.qml" line="261"/>
         <source>Next</source>
         <extracomment>Button: Navigate to next view</extracomment>
         <translation>Következő</translation>
@@ -9525,13 +9883,13 @@ Kattintson újra a felülíráshoz</translation>
         <translation type="vanished">További objektumok</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="237"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="239"/>
         <source>DH Table</source>
         <extracomment>Title</extracomment>
         <translation>DH táblázat</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="249"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="251"/>
         <source>Linear Track</source>
         <extracomment>Title</extracomment>
         <translation>Lineáris egység</translation>
@@ -9542,43 +9900,43 @@ Kattintson újra a felülíráshoz</translation>
         <translation type="vanished">Munkadarab rendszer</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="231"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="233"/>
         <source>Custom Geometries</source>
         <extracomment>Title: Referring to user-imported 3D objects</extracomment>
         <translation>Egyéni Geometriák</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="261"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="263"/>
         <source>Optimizer</source>
         <extracomment>Title</extracomment>
         <translation>Optimalizáló</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="267"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="269"/>
         <source>Targets</source>
         <extracomment>Title</extracomment>
         <translation>Célpontok</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="273"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="275"/>
         <source>Robot</source>
         <extracomment>Title</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="279"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="281"/>
         <source>Rotary Table</source>
         <extracomment>Title</extracomment>
         <translation>Forgóasztal</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="285"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="287"/>
         <source>Tool</source>
         <extracomment>Title</extracomment>
         <translation>Kiválasztás</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="291"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="293"/>
         <source>Frames</source>
         <extracomment>Title</extracomment>
         <translation>Keretek</translation>
@@ -10111,20 +10469,20 @@ Nagyobb útvonalak importálhatók az APT fájl kisebb fájlokra való felosztá
         <translation type="vanished">Pálya importálva az APT %1-ből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1362"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1394"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1148"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1180"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült lekérni a robot kódját a felhőből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1575"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1361"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült helyreállítani a mentett projektet</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1587"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1373"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -10132,56 +10490,56 @@ This may be due to the save coming from an older version of IRBCAM</source>
 Ez lehet, hogy azért van, mert a mentés egy régebbi IRBCAM verzióból származik</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1613"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1399"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Hiányzó információ a felhőből lekért projektben</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1662"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1448"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült lekérni a felhasználói keret adatokat</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1680"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1466"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült betölteni a felhasználói keretadatokat</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1690"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1476"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Az objektum keret adatainak lekérése sikertelen</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1699"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1485"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült betölteni az objektum keret adatait</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1732"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1518"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Hiányzó vagy sérült útvonal-információ a mentett projektből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1758"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1544"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>Útvonal importálása</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1917"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1924"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1703"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1710"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH-táblázat</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1595"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1381"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -10226,56 +10584,56 @@ Nagyobb pályák importálhatók a fájl kisebb fájlokra bontásával és az &a
         <translation type="vanished">Útvonal importálva %1-ből</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1323"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1471"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1109"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1257"/>
         <source>Blend radius is overlapping at target %1. Try reducing the target velocity or increasing the maximum acceleration</source>
         <extracomment>Error message</extracomment>
         <translation>A keverési sugár átfedésben van a %1 célpontnál. Próbálja csökkenteni a célsebességet vagy növelni a maximális gyorsulást</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1332"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1480"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1118"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1266"/>
         <source>Target %1 is too close. Try reimporting the path with minimum distance between targets &gt;= %2 mm or manually adjust the target so that the distance between two consecutive targets &gt;=  %2 mm</source>
         <extracomment>Error message</extracomment>
         <translation>A %1 célpont túl közel van. Próbálja meg újraimportálni az útvonalat a célpontok közötti minimális távolsággal &gt;= %2 mm vagy állítsa be manuálisan a célpontot úgy, hogy a két egymást követő célpont közötti távolság &gt;= %2 mm</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1774"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1782"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1792"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1560"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1568"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1578"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1801"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1587"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>eszköz</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1866"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1874"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1884"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1652"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1660"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1670"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>forgóasztal</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1652"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1438"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Nem sikerült betölteni a projekt adatokat</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1988"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1774"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projekt %1 betöltve</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1896"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1904"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1682"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1690"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>Lineáris sín</translation>
@@ -10436,122 +10794,122 @@ A cél nem érhető el a jelenlegi konfigurációval</translation>
 <context>
     <name>TargetDelegate</name>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="304"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="308"/>
         <source>Joint target</source>
         <extracomment>Tooltip text</extracomment>
         <translation>Célízület</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="313"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="317"/>
         <source>Feed speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in linear velocity (feed speed)</extracomment>
         <translation>Előtolási sebesség módosítása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="321"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="325"/>
         <source>Tool change</source>
         <extracomment>Tool tip. Explains that this icon indicates a tool change</extracomment>
         <translation>Szerszámcsere</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="328"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="332"/>
         <source>Spindle speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in spindle speed</extracomment>
         <translation>Főorsó sebesség változása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="330"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="334"/>
         <source>Tool command change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool command</extracomment>
         <translation>Eszközparancs módosítása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="337"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="341"/>
         <source>Gun On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun on</extracomment>
         <translation>Gun Bekapcsolva változás</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="339"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="343"/>
         <source>Tool On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool on</extracomment>
         <translation>Eszköz Be változtatása</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="347"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="351"/>
         <source>Gun Off change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun off</extracomment>
         <translation>Fegyver Ki változtatás</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="349"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="353"/>
         <source>Tool Off change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool off</extracomment>
         <translation>Eszköz ki változás</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="375"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="379"/>
         <source>Target is successfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>A cél sikeresen megoldva</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="377"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="381"/>
         <source>Path is succesfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Az útvonal sikeresen megoldódott</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="380"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="384"/>
         <source>Target failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>A cél megoldása sikertelen volt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="382"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="386"/>
         <source>Path failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Az útvonal megoldása sikertelen</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="407"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="411"/>
         <source>Unlock editing to edit path transform</source>
         <extracomment>Tooltip text for transform button</extracomment>
         <translation>Szerkesztés feloldása az útvonal transzformáció szerkesztéséhez</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="411"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="415"/>
         <source>Edit path transform</source>
         <extracomment>Tooltip text for transform button</extracomment>
         <translation>Útvonal transzformáció szerkesztése</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="438"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="442"/>
         <source>Unlock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Szerkesztés feloldása ehhez a célponthoz</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="442"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="446"/>
         <source>Lock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Zárolja ennek a célnak a szerkesztését</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="448"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="452"/>
         <source>Unlock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Szerkesztés feloldása minden célpontnál ebben az útvonalban</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="452"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="456"/>
         <source>Lock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Zárolja a szerkesztést minden célpont esetében ebben az útvonalban</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="522"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="537"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="526"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="541"/>
         <source>mm</source>
         <extracomment>Unit millimetres
 ----------
@@ -10559,98 +10917,98 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="539"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="543"/>
         <source>s</source>
         <extracomment>Unit seconds. Part of a fraction mm/s</extracomment>
         <translation>s</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="613"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="617"/>
         <source>Speed</source>
         <extracomment>Label over input field</extracomment>
         <translation>Sebesség</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="618"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="622"/>
         <source>Tool</source>
         <extracomment>Label over input field</extracomment>
         <translation>Kiválasztás</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="624"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="628"/>
         <source>Spindle</source>
         <extracomment>Label over input field</extracomment>
         <translation>Orsó</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="630"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="634"/>
         <source>Tool CMD</source>
         <extracomment>Label over input field</extracomment>
         <translation>Eszköz CMD</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="636"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="640"/>
         <source>Gun On/Off</source>
         <extracomment>Label over input field</extracomment>
         <translation>Pisztoly be/ki</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="642"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="646"/>
         <source>Tool On/Off</source>
         <extracomment>Label over input field</extracomment>
         <translation>Eszköz Be/Ki</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="660"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="664"/>
         <source>Input</source>
         <extracomment>Dropdown menu item. Speed mode: input</extracomment>
         <translation>Bemenet</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="665"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="669"/>
         <source>Cutting</source>
         <extracomment>Dropdown menu item. Speed mode: cutting</extracomment>
         <translation>Vágás</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="670"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="674"/>
         <source>Rapid</source>
         <extracomment>Dropdown menu item. Speed mode: rapid</extracomment>
         <translation>Gyors</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="699"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="703"/>
         <source>rpm</source>
         <extracomment>Unit: revolutions per minute</extracomment>
         <translation>fordulatszám</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="724"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="728"/>
         <source>V</source>
         <extracomment>Input field prefix. Denotes velocity</extracomment>
         <translation>V</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="731"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="735"/>
         <source>Motion type: </source>
         <extracomment>Droptown menu text</extracomment>
         <translation>Mozgás típusa:</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="752"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="756"/>
         <source>Linear</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation>Lineáris</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="756"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="760"/>
         <source>Joint</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation>Ízület</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="306"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="754"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="310"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="758"/>
         <source>Arc midpoint</source>
         <extracomment>Tooltip text
 ----------
@@ -10658,14 +11016,14 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Ív középpontja</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="244"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="248"/>
         <source>Undefined</source>
         <extracomment>Placeholder text for missing name</extracomment>
         <translation>Nem definiált</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="301"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="739"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="305"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="743"/>
         <source>Rotary lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -10673,8 +11031,8 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Forgó emelőpont</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="298"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="735"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="302"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="739"/>
         <source>Linear lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -10702,6 +11060,171 @@ Droptown menu text, motion type for target</extracomment>
     <message>
         <source>Velocity</source>
         <translation type="obsolete">Sebesség</translation>
+    </message>
+</context>
+<context>
+    <name>TargetList</name>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="309"/>
+        <source>Add a new path</source>
+        <extracomment>Button: Add new path</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="318"/>
+        <source>The path list is empty
+
+Right click to see available options for populating the path
+
+or
+
+Drag and drop a file anywhere in this window to open the import path dialog</source>
+        <extracomment>Placeholder text for empty path</extracomment>
+        <translation type="unfinished">Az útvonallista üres
+
+Kattintson jobb gombbal az elérhető lehetőségek megtekintéséhez az útvonal feltöltéséhez
+
+vagy
+
+Húzzon és dobjon egy fájlt bárhová ebben az ablakban az import útvonal párbeszédpanel megnyitásához</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="359"/>
+        <source>Target list navigation</source>
+        <extracomment>Info card title</extracomment>
+        <translation type="unfinished">Céllista navigáció</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="362"/>
+        <source>Hide navigation info</source>
+        <extracomment>Info card tooltip when the card is expanded</extracomment>
+        <translation type="unfinished">Navigációs információ elrejtése</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="364"/>
+        <source>Show navigation info</source>
+        <extracomment>Info card tooltip when the card is collapsed</extracomment>
+        <translation type="unfinished">Navigációs információ megjelenítése</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="368"/>
+        <source>Selection</source>
+        <extracomment>Info card action</extracomment>
+        <translation type="unfinished">Kiválasztás</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="371"/>
+        <source>Left click</source>
+        <extracomment>Info card operation: Selection</extracomment>
+        <translation type="unfinished">Bal klikk</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="373"/>
+        <source>Up/down arrow keys</source>
+        <extracomment>Info card operation: Selection</extracomment>
+        <translation type="unfinished">Fel/le nyíl billentyűk</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="375"/>
+        <source>Modifiers:</source>
+        <extracomment>Info card operation: Selection sub category</extracomment>
+        <translation type="unfinished">Módosítók:</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="379"/>
+        <source>%1 - Select range</source>
+        <extracomment>Info card detail: Modifiers - %1 = shift</extracomment>
+        <translation type="unfinished">%1 - Tartomány kiválasztása</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="381"/>
+        <source>%1 - Select additional (mouse only)</source>
+        <extracomment>Info card detail: Modifiers - %1 = ctrl</extracomment>
+        <translation type="unfinished">%1 - További kiválasztása (csak egérrel)</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="383"/>
+        <source>%1 + %2 - Select additional range</source>
+        <extracomment>Info card detail: Modifiers - %1 = shift, %2 = ctrl</extracomment>
+        <translation type="unfinished">%1 + %2 - Válasszon további tartományt</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="388"/>
+        <source>Open context menu</source>
+        <extracomment>Info card action</extracomment>
+        <translation type="unfinished">Kontextus menü megnyitása</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="390"/>
+        <source>Right click</source>
+        <extracomment>Info card operation: Open context menu</extracomment>
+        <translation type="unfinished">Jobb kattintás</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="392"/>
+        <source>Content of the context menu will depend on what element is clicked</source>
+        <extracomment>Info card detail: Right click</extracomment>
+        <translation type="unfinished">A helyi menü tartalma attól függ, hogy melyik elemre kattintanak</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="396"/>
+        <source>Expand/collapse</source>
+        <extracomment>Info card action</extracomment>
+        <translation type="unfinished">Kibontás/Összecsukás</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="399"/>
+        <source>Double click</source>
+        <extracomment>Info card operation: Expand/collapse</extracomment>
+        <translation type="unfinished">Dupla kattintás</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="401"/>
+        <source>Right arrow key (expand)</source>
+        <extracomment>Info card operation: Expand/collapse</extracomment>
+        <translation type="unfinished">Jobbra nyíl billentyű (kibont)</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="403"/>
+        <source>Left arrow key (collapse)</source>
+        <extracomment>Info card operation: Expand/collapse</extracomment>
+        <translation type="unfinished">Balra nyíl billentyű (összecsuk)</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="408"/>
+        <source>Copy selected</source>
+        <extracomment>Info card action</extracomment>
+        <translation type="unfinished">Kiválasztott másolása</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="413"/>
+        <source>Paste copied</source>
+        <extracomment>Info card action</extracomment>
+        <translation type="unfinished">Másolt beillesztése</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="416"/>
+        <source>Pastes after the selected element</source>
+        <extracomment>Info card detail: Paste copied</extracomment>
+        <translation type="unfinished">Beillesztés a kiválasztott elem után</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="420"/>
+        <source>Delete selected</source>
+        <extracomment>Info card action</extracomment>
+        <translation type="unfinished">Kiválasztottak törlése</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="425"/>
+        <source>Undo last action</source>
+        <extracomment>Info card action</extracomment>
+        <translation type="unfinished">Utolsó művelet visszavonása</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="430"/>
+        <source>Redo last action</source>
+        <extracomment>Info card action</extracomment>
+        <translation type="unfinished">Utolsó művelet ismétlése</translation>
     </message>
 </context>
 <context>
@@ -12226,8 +12749,8 @@ Error message. %1 = name</extracomment>
 <context>
     <name>UtilitiesInterface</name>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="350"/>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="441"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="353"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="444"/>
         <source>Fixed Angle</source>
         <extracomment>Dropdown menu item: Select tool roll mode
 ----------
@@ -12245,7 +12768,7 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="obsolete">Dinamikus szög 2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="359"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="362"/>
         <source>No Change</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Nincs változás</translation>
@@ -12288,115 +12811,121 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Görgő</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="114"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="111"/>
+        <source>Extruder</source>
+        <extracomment>Collapsible list section. Tool category</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="117"/>
         <source>Unknown (%1)</source>
         <extracomment>Collapsible list section. %1 = number</extracomment>
         <translation>Ismeretlen (%1)</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="353"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="356"/>
         <source>Dynamic Angle</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Dinamikus Szög</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="356"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="359"/>
         <source>Fixed Angle + Deviation</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Rögzített Szög + Eltérés</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="362"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="365"/>
         <source>Roller Mode</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Görgő mód</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="378"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="381"/>
         <source>RZ2 is equal to the tool roll angle with corrections to account for singularities</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>RZ2 egyenlő az eszköz roll szögével, korrekciókkal a szingularitások figyelembevételére</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="381"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="384"/>
         <source>RZ2 is set to the tool roll angle for the first target. For all other targets, it is dynamically adjusted by increasing and decreasing in 1-degree steps up to the maximum deviation from the starting tool roll angle</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>RZ2 be van állítva az első célpont eszköz roll-szögére. Az összes többi célpont esetében dinamikusan kerül beállításra, 1 fokos lépésekkel növelve és csökkentve, legfeljebb a kiindulási eszköz roll-szögtől való maximális eltérésig</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="388"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="391"/>
         <source>RZ2 follows the fixed angle but is also dynamically adjusted by increasing and decreasing in 1-degree steps up to the maximum deviation from the starting tool roll angle</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>Az RZ2 követi a rögzített szöget, de dinamikusan is módosul, 1 fokos lépésekben növelve és csökkentve, legfeljebb a kiindulási eszköz gördülési szögtől való maximális eltérésig</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="394"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="397"/>
         <source>RZ2 is unchanged</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>RZ2 változatlan</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="397"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="400"/>
         <source>RZ2 is calculated such that the roller direction is along the path</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>RZ2-t úgy számítják ki, hogy a görgő iránya a pálya mentén haladjon</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="411"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="414"/>
         <source>Fixed Position</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Rögzített pozíció</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="414"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="417"/>
         <source>Dynamic Position</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Dinamikus Pozíció</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="417"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="420"/>
         <source>Positive Only</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Csak pozitív</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="420"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="423"/>
         <source>Negative Only</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Csak negatív</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="423"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="426"/>
         <source>Batch Mode</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Kötegelt mód</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="444"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="447"/>
         <source>Rotation Compensation</source>
         <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Forgás kompenzáció</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="447"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="450"/>
         <source>Position Compensation</source>
         <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Pozíció-kompenzáció</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="465"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="468"/>
         <source>Rotary table angle is fixed</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>A forgóasztal szöge rögzített</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="468"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="471"/>
         <source>Rotary table angle is dynamically computed to compensate for rotational changes between the targets</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>A forgóasztal szöge dinamikusan kerül kiszámításra, hogy kompenzálja a célpontok közötti forgási változásokat</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="471"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="474"/>
         <source>Rotary table angle is dynamically computed to compensate for positional changes between the targets</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>A forgóasztal szöge dinamikusan kerül kiszámításra, hogy kompenzálja a célpontok közötti pozícióváltozásokat</translation>

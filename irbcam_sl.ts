@@ -2768,16 +2768,14 @@ Placeholder text where users input scaling multiplier</extracomment>
 <context>
     <name>ImportPath</name>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="55"/>
         <source>This option is not available for %1 files</source>
         <extracomment>Tool tip for disabled checkbox.</extracomment>
-        <translation>Ta možnost ni na voljo za %1 datoteke</translation>
+        <translation type="vanished">Ta možnost ni na voljo za %1 datoteke</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="70"/>
         <source>All supported files</source>
         <extracomment>This will be seen in the file type filter in the file interface</extracomment>
-        <translation>Vse podprte datoteke</translation>
+        <translation type="vanished">Vse podprte datoteke</translation>
     </message>
     <message>
         <source>APT files</source>
@@ -2805,16 +2803,14 @@ Placeholder text where users input scaling multiplier</extracomment>
         <translation type="vanished">SVG datoteke</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="108"/>
         <source>Open file</source>
         <extracomment>Name of the file interface window</extracomment>
-        <translation>Odpri datoteko</translation>
+        <translation type="vanished">Odpri datoteko</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="150"/>
         <source>Import Path</source>
         <extracomment>Title</extracomment>
-        <translation>Uvozi pot</translation>
+        <translation type="vanished">Uvozi pot</translation>
     </message>
     <message>
         <source>The active subscription does not provide access to APT parser. Click %1here%2 to manage subscriptions</source>
@@ -2822,46 +2818,94 @@ Placeholder text where users input scaling multiplier</extracomment>
         <translation type="obsolete">Aktivna naročnina ne omogoča dostopa do razčlenjevalnika APT. Kliknite %1tukaj%2 za upravljanje naročnin</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="187"/>
         <source>Documentation</source>
         <extracomment>Separator label. This section contains a link to the documentation</extracomment>
-        <translation>Dokumentacija</translation>
+        <translation type="vanished">Dokumentacija</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="196"/>
         <source>Supported file formats are:</source>
         <extracomment>Label. Supported file formats are listed below this line</extracomment>
-        <translation>Podprti formati datotek so:</translation>
+        <translation type="vanished">Podprti formati datotek so:</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="224"/>
         <source>Reference documentation for JSON and CSV format is in  %1our forum%2</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
-        <translation>Referenčna dokumentacija za formate JSON in CSV je v %1našem forumu%2</translation>
+        <translation type="vanished">Referenčna dokumentacija za formate JSON in CSV je v %1našem forumu%2</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="235"/>
         <source>Select File</source>
         <extracomment>Section separator label</extracomment>
-        <translation>Izberi datoteko</translation>
+        <translation type="vanished">Izberi datoteko</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="243"/>
         <source>File name: </source>
         <extracomment>Label</extracomment>
-        <translation>Ime datoteke: </translation>
+        <translation type="vanished">Ime datoteke: </translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="252"/>
         <source>No file selected</source>
         <extracomment>Placeholder file name until a file is selected</extracomment>
-        <translation>Nobena datoteka ni izbrana</translation>
+        <translation type="vanished">Nobena datoteka ni izbrana</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="163"/>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="51"/>
+        <source>Back</source>
+        <extracomment>Button text</extracomment>
+        <translation type="unfinished">Nazaj</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="147"/>
+        <source>Paths</source>
+        <extracomment>Collapsible item in tree view. This section contains public linear tracks</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="149"/>
+        <source>My paths</source>
+        <extracomment>Collapsible item in tree view. This section contains linear tracks made by this user</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="151"/>
+        <source>Shared with me</source>
+        <extracomment>Collapsible item in tree view. This section contains linear tracks that are shared with the user</extracomment>
+        <translation type="unfinished">Deljeno z mano</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="219"/>
         <source>The active subscription does not provide access to GCODE/APT parser. Click %1here%2 to manage subscriptions</source>
         <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
         <translation>Aktivna naročnina ne zagotavlja dostopa do razčlenjevalnika GCODE/APT. Kliknite %1tukaj%2 za upravljanje naročnin</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="232"/>
+        <source>Overwrite</source>
+        <extracomment>Import button</extracomment>
+        <translation type="unfinished">Prepiši</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="269"/>
+        <source>Delete %1</source>
+        <extracomment>Popup title. %1 = name of geometry</extracomment>
+        <translation type="unfinished">Izbriši %1</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="271"/>
+        <source>Are you sure you want to delete path %1?</source>
+        <extracomment>Popup content text. %1 = name of geometry</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="297"/>
+        <source>Overwrite Path</source>
+        <extracomment>Popup title: %1 = tool number</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="299"/>
+        <source>Are you sure you want to overwrite path %1 with path %2?</source>
+        <extracomment>Popup content text: %1 = name of geometry</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid file type. Only .apt, .gcode, .nc, .json, .csv, and .svg files are supported</source>
@@ -2869,64 +2913,54 @@ Placeholder text where users input scaling multiplier</extracomment>
         <translation type="vanished">Neveljavna vrsta datoteke. Podprte so samo datoteke .apt, .gcode, .nc, .json, .csv in .svg</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="278"/>
         <source>%1 Import Options</source>
         <extracomment>Additional options when importing file. %1 = APT, GCODE, JSON, CSV or SVG depending on what type of file is selected</extracomment>
-        <translation>%1 Možnosti uvoza</translation>
+        <translation type="vanished">%1 Možnosti uvoza</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="285"/>
         <source>Minimum distance (mm)</source>
         <extracomment>Description for a text field where the user inputs the minimum distance between targets</extracomment>
-        <translation>Najmanjša razdalja (mm)</translation>
+        <translation type="vanished">Najmanjša razdalja (mm)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="287"/>
         <source>Minimum distance between targets. Range: 0.1 - 10 (mm). For distances smaller than 1, arc moves are converted to linear</source>
         <extracomment>Tool tip: Displayed when hovering over minimum distance label</extracomment>
-        <translation>Najmanjša razdalja med cilji. Obseg: 0.1 - 10 (mm). Za razdalje manjše od 1 se lokovni premiki pretvorijo v linearne</translation>
+        <translation type="vanished">Najmanjša razdalja med cilji. Obseg: 0.1 - 10 (mm). Za razdalje manjše od 1 se lokovni premiki pretvorijo v linearne</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="316"/>
         <source>Append</source>
         <extracomment>Checkbox: Select to append targets to existing path</extracomment>
-        <translation>Dodaj</translation>
+        <translation type="vanished">Dodaj</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="320"/>
         <source>Add to existing path instead of replacing</source>
         <extracomment>Tool tip for append checkbox.</extracomment>
-        <translation>Dodajte obstoječi poti namesto zamenjave</translation>
+        <translation type="vanished">Dodajte obstoječi poti namesto zamenjave</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="327"/>
         <source>Reverse INDIRV</source>
         <extracomment>Checkbox: Select to reverse INDIRV (initial direction vector). This is primarily for Catia users</extracomment>
-        <translation>Obrni INDIRV</translation>
+        <translation type="vanished">Obrni INDIRV</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="331"/>
         <source>Reverse direction of vector (Catia)</source>
         <extracomment>Tool tip for Reverse INDIRV checkbox</extracomment>
-        <translation>Reverse direction of vector (Catia)</translation>
+        <translation type="vanished">Reverse direction of vector (Catia)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="337"/>
         <source>No arcs</source>
         <extracomment>Checkbox: Select to disable arc moves</extracomment>
-        <translation>Brez lokov</translation>
+        <translation type="vanished">Brez lokov</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="341"/>
         <source>Arcs are split into linear moves</source>
         <extracomment>Tool tip for no arcs checkbox</extracomment>
-        <translation>Loki so razdeljeni na linearne gibe</translation>
+        <translation type="vanished">Loki so razdeljeni na linearne gibe</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="349"/>
         <source>Gun on/off</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
-        <translation>Varilna pištola vključeno/izključeno</translation>
+        <translation type="vanished">Varilna pištola vključeno/izključeno</translation>
     </message>
     <message>
         <source>Convert all feed speeds to rapid moves, except for cutting speed. This is useful if selecting &apos;Gun on/off&apos; when exporting</source>
@@ -2934,231 +2968,188 @@ Placeholder text where users input scaling multiplier</extracomment>
         <translation type="vanished">Pretvori vse hitrosti dovajanja v hitre premike, razen hitrosti rezanja. To je uporabno, če izberete &apos;Gun on/off&apos; pri izvozu</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="99"/>
-        <source>%1 files</source>
-        <extracomment>This will be seen in the file type filter in the file interface: %1 = file type. E.g. JSON files</extracomment>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../../Popups/ImportPath.qml" line="256"/>
         <source>Invalid file type</source>
         <extracomment>Tool tip: Invalid file type is selected</extracomment>
-        <translation>Neveljaven tip datoteke</translation>
+        <translation type="vanished">Neveljaven tip datoteke</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="271"/>
         <source>Click the ... button to browse for file or drag and drop a file anywhere in this window</source>
         <extracomment>Label</extracomment>
-        <translation>Kliknite gumb ... za brskanje po datotekah ali povlecite in spustite datoteko kamorkoli v tem oknu</translation>
+        <translation type="vanished">Kliknite gumb ... za brskanje po datotekah ali povlecite in spustite datoteko kamorkoli v tem oknu</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="361"/>
         <source>Include gun on/off. This is useful if selecting &apos;Gun on/off&apos; when exporting</source>
         <extracomment>Tool tip for Gun on/off checkbox</extracomment>
-        <translation>Vključi vklop/izklop pištole. To je koristno, če izberete &apos;Gun on/off&apos; pri izvozu</translation>
+        <translation type="vanished">Vključi vklop/izklop pištole. To je koristno, če izberete &apos;Gun on/off&apos; pri izvozu</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="372"/>
         <source>Use velocities</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
-        <translation>Uporabi hitrosti</translation>
+        <translation type="vanished">Uporabi hitrosti</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="377"/>
         <source>Convert all feed speeds to rapid moves, except for cutting speed</source>
         <extracomment>Tool tip for Gun on/off Velocity checkbox</extracomment>
-        <translation>Pretvori vse hitrosti podajanja v hitre premike, razen hitrosti rezanja</translation>
+        <translation type="vanished">Pretvori vse hitrosti podajanja v hitre premike, razen hitrosti rezanja</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="383"/>
         <source>Use M8/M9</source>
         <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
-        <translation>Uporabi M8/M9</translation>
+        <translation type="vanished">Uporabi M8/M9</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="388"/>
         <source>Import M8 as gun on and M9 as gun off</source>
         <extracomment>Tool tip for Gun on/off M8/M9 checkbox</extracomment>
-        <translation>Uvozi M8 kot vklop pištole in M9 kot izklop pištole</translation>
+        <translation type="vanished">Uvozi M8 kot vklop pištole in M9 kot izklop pištole</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="396"/>
         <source>Split Path</source>
         <extracomment>Separator label: Options to split path in different ways</extracomment>
-        <translation>Razdeli pot</translation>
+        <translation type="vanished">Razdeli pot</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="406"/>
         <source>On coordinate frame change</source>
         <extracomment>Label: Split path on cooridnate frame change</extracomment>
-        <translation>Ob spremembi koordinatnega okvira</translation>
+        <translation type="vanished">Ob spremembi koordinatnega okvira</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="422"/>
         <source>On comment</source>
         <extracomment>Label: Split path on comment</extracomment>
-        <translation>Na komentar</translation>
+        <translation type="vanished">Na komentar</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="436"/>
         <source>Disabled</source>
         <extracomment>Drop-down menu option. Split path on comment disabled</extracomment>
-        <translation>Onemogočeno</translation>
+        <translation type="vanished">Onemogočeno</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="438"/>
         <source>Any</source>
         <extracomment>Drop-down menu option. Split path on any comment</extracomment>
-        <translation>Katerikoli</translation>
+        <translation type="vanished">Katerikoli</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="440"/>
         <source>Layer Start</source>
         <extracomment>Drop-down menu option. Split path on comment Layer Start</extracomment>
-        <translation>Začetek plasti</translation>
+        <translation type="vanished">Začetek plasti</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="442"/>
         <source>Path</source>
         <extracomment>Drop-down menu option. Split path on comment Path:</extracomment>
-        <translation>Pot</translation>
+        <translation type="vanished">Pot</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="444"/>
         <source>User Defined</source>
         <extracomment>Drop-down menu option. Split path on user defined comment</extracomment>
-        <translation>Uporabniško definirano</translation>
+        <translation type="vanished">Uporabniško definirano</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="455"/>
         <source>Splitting paths on comments is disabled</source>
         <extracomment>Tool-tip for drop-down option &apos;Disabled&apos;</extracomment>
-        <translation>Razdeljevanje poti na komentarjih je onemogočeno</translation>
+        <translation type="vanished">Razdeljevanje poti na komentarjih je onemogočeno</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="457"/>
         <source>Split path on any comment</source>
         <extracomment>Tool-tip for drop-down option &apos;Any&apos;</extracomment>
-        <translation>Razdeli pot na katerikoli komentar</translation>
+        <translation type="vanished">Razdeli pot na katerikoli komentar</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="459"/>
         <source>Split path on any comment that matches the form: %1. The part in the paranthesis () will be used as the path name. E.g. the comment %2 will create a path named %3</source>
         <extracomment>Tool-tip for drop-down option &apos;Layer Start&apos;</extracomment>
-        <translation>Razdeli pot na kateri koli komentar, ki se ujema z obliko: %1. Del v oklepaju () bo uporabljen kot ime poti. Npr. komentar %2 bo ustvaril pot z imenom %3</translation>
+        <translation type="vanished">Razdeli pot na kateri koli komentar, ki se ujema z obliko: %1. Del v oklepaju () bo uporabljen kot ime poti. Npr. komentar %2 bo ustvaril pot z imenom %3</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="462"/>
         <source>Split path on any comment that matches the form: %1. The part in the paranthesis () will be used as the path name. This mode is case insensitive. E.g. the comment %2 will create a path named %3</source>
         <extracomment>Tool-tip for drop-down option &apos;Path&apos;</extracomment>
-        <translation>Razdeli pot na katerikoli komentar, ki se ujema z obliko: %1. Del v oklepajih () bo uporabljen kot ime poti. Ta način ne razlikuje med velikimi in malimi črkami. Npr. komentar %2 bo ustvaril pot z imenom %3</translation>
+        <translation type="vanished">Razdeli pot na katerikoli komentar, ki se ujema z obliko: %1. Del v oklepajih () bo uporabljen kot ime poti. Ta način ne razlikuje med velikimi in malimi črkami. Npr. komentar %2 bo ustvaril pot z imenom %3</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="465"/>
         <source>User defined regex used to match comments that should be treated as path separators. It follows the syntax of google re2 (https://github.com/google/re2/wiki/Syntax)</source>
         <extracomment>Tool-tip for drop-down option &apos;User Defined&apos;</extracomment>
-        <translation>Uporabniško definiran regex, ki se uporablja za ujemanje komentarjev, ki naj se obravnavajo kot ločila poti. Sledi sintaksi Google RE2 (https://github.com/google/re2/wiki/Syntax)</translation>
+        <translation type="vanished">Uporabniško definiran regex, ki se uporablja za ujemanje komentarjev, ki naj se obravnavajo kot ločila poti. Sledi sintaksi Google RE2 (https://github.com/google/re2/wiki/Syntax)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="483"/>
-        <location filename="../../Popups/ImportPath.qml" line="493"/>
         <source>Regular expression</source>
         <extracomment>Label: regex
 ----------
 Placeholder text in text imput: regex</extracomment>
-        <translation>Regularni izraz</translation>
+        <translation type="vanished">Regularni izraz</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="497"/>
         <source>Regular expression used to capture comments that will generate different paths. Capture group 1 will be used to generate the name of the path. If capture group 1 does not exist then the whole matching expression will be used to generate the name</source>
         <extracomment>Tooltip: Description of how the regular expression is used to separate paths</extracomment>
-        <translation>Regularni izraz, uporabljen za zajemanje komentarjev, ki bodo generirali različne poti. Zajemna skupina 1 bo uporabljena za generiranje imena poti. Če zajemna skupina 1 ne obstaja, bo celoten ujemajoči izraz uporabljen za generiranje imena</translation>
+        <translation type="vanished">Regularni izraz, uporabljen za zajemanje komentarjev, ki bodo generirali različne poti. Zajemna skupina 1 bo uporabljena za generiranje imena poti. Če zajemna skupina 1 ne obstaja, bo celoten ujemajoči izraz uporabljen za generiranje imena</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="509"/>
         <source>Column separator</source>
         <extracomment>Which character to use for separating CSV columns</extracomment>
-        <translation>Ločilo stolpcev</translation>
+        <translation type="vanished">Ločilo stolpcev</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="521"/>
         <source>Comma &apos;,&apos;</source>
         <extracomment>Item in dropdown menu. Referring to using a comma character to separate columns in a CSV file</extracomment>
-        <translation>Vejica &apos;,&apos;</translation>
+        <translation type="vanished">Vejica &apos;,&apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="526"/>
         <source>Space &apos; &apos;</source>
         <extracomment>Item in dropdown menu. Referring to using a space character to separate columns in a CSV file</extracomment>
-        <translation>Presledek &apos; &apos;</translation>
+        <translation type="vanished">Presledek &apos; &apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="536"/>
         <source>Row separator</source>
         <extracomment>Which character to use for separating CSV rows</extracomment>
-        <translation>Ločilo vrstic</translation>
+        <translation type="vanished">Ločilo vrstic</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="548"/>
         <source>Newline &apos;
 &apos;</source>
         <extracomment>Item in dropdown menu. Referring to a new line in a CSV file</extracomment>
-        <translation>Nova vrstica 
+        <translation type="vanished">Nova vrstica 
 &apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="553"/>
         <source>Semicolon &apos;;&apos;</source>
         <extracomment>Item in dropdown menu. Referring to the semicolon symbol</extracomment>
-        <translation>Podpičje &apos;;&apos;</translation>
+        <translation type="vanished">Podpičje &apos;;&apos;</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="567"/>
         <source>Additional Transformations</source>
         <extracomment>Collapsible section title</extracomment>
-        <translation>Dodatne transformacije</translation>
+        <translation type="vanished">Dodatne transformacije</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="589"/>
         <source>Scaling presets</source>
         <extracomment>Title for drop-down menu where scaling presets may be selected</extracomment>
-        <translation>Skaliranje prednastavitev</translation>
+        <translation type="vanished">Skaliranje prednastavitev</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="604"/>
         <source>User defined</source>
         <extracomment>Drop-down menu item. Refers to user defined position units</extracomment>
-        <translation>Uporabniško definirano</translation>
+        <translation type="vanished">Uporabniško definirano</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="609"/>
         <source>From mm (no scaling)</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
-        <translation>Od mm (brez skaliranja)</translation>
+        <translation type="vanished">Od mm (brez skaliranja)</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="614"/>
         <source>From cm</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
-        <translation>Od cm</translation>
+        <translation type="vanished">Od cm</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="619"/>
         <source>From m</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
-        <translation>Iz m</translation>
+        <translation type="vanished">Iz m</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="624"/>
         <source>From inches</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
-        <translation>Od palcev</translation>
+        <translation type="vanished">Od palcev</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="629"/>
         <source>From feet</source>
         <extracomment>Drop-down menu item. Refers to position units</extracomment>
-        <translation>Od nog</translation>
+        <translation type="vanished">Od nog</translation>
     </message>
     <message>
         <source>Apply rotation to targets</source>
@@ -3171,22 +3162,25 @@ Placeholder text in text imput: regex</extracomment>
         <translation type="vanished">Uporabi rotacijo lokalno na posamezne cilje</translation>
     </message>
     <message>
-        <location filename="../../Popups/ImportPath.qml" line="679"/>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="65"/>
+        <location filename="../../Sidebar/Assets/ImportPath.qml" line="234"/>
         <source>Import</source>
-        <extracomment>Import button</extracomment>
+        <extracomment>Title
+----------
+Import button</extracomment>
         <translation>Uvozi</translation>
     </message>
 </context>
 <context>
     <name>ImportPathInterface</name>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="34"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="54"/>
         <source>File is empty</source>
         <extracomment>Error message: Attempting to load en empty file</extracomment>
         <translation>Datoteka je prazna</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="41"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="61"/>
         <source>File is not a valid UTF-8 file
 Only UTF-8 encoded files are supported</source>
         <extracomment>Error message: The file has invalid encoding</extracomment>
@@ -3194,13 +3188,14 @@ Only UTF-8 encoded files are supported</source>
 Podprte so samo datoteke, kodirane z UTF-8</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="55"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="75"/>
         <source>Unsupported file type &apos;%1&apos;</source>
         <extracomment>Error message. %1 = file type</extracomment>
         <translation>Nepodprta vrsta datoteke &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="130"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="220"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="442"/>
         <source>Maximum file size (%1 MB) exceeded. Current file size (after compression): %2 MB
 Larger paths can be imported by splitting the file into smaller files and using the &apos;append&apos; option</source>
         <extracomment>Error message: %1 = file size limit in megabytes, %2 = file size in megabytes</extracomment>
@@ -3209,46 +3204,354 @@ Larger paths can be imported by splitting the file into smaller files and using 
 Večje poti lahko uvozite z razdelitvijo datoteke na manjše datoteke in uporabo možnosti &apos;append&apos;</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="154"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="244"/>
         <source>Failed to start cloud job %1</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation type="unfinished">Opravila v oblaku %1 ni bilo mogoče zagnati</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="185"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="275"/>
         <source>Failed to get parsed %1 from the cloud</source>
         <extracomment>Error message: %1 = file name</extracomment>
         <translation type="unfinished">Pridobivanje parsiranega %1 iz oblaka ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="231"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="321"/>
         <source>The number of decimal places used in the file %1 is %2 (low numeric precision).</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation type="unfinished">Število decimalnih mest, uporabljenih v datoteki %1, je %2 (nizka numerična natančnost).</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="252"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="342"/>
         <source>%1 targets are filtered out from the file %2: they are closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation type="unfinished">%1 ciljev je izločenih iz datoteke %2: so bližji kot minimalni prag razdalje %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="264"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="354"/>
         <source>%1 target is filtered out from the file %2: it is closer than the minimum distance threshold of %3 mm.</source>
         <extracomment>Warning message. %1 = file name, %2 = number</extracomment>
         <translation type="unfinished">%1 cilj je izločen iz datoteke %2: bližji je kot minimalni prag razdalje %3 mm.</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="285"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="375"/>
         <source>Failed to import file %1</source>
         <extracomment>Error message. %1 = file name</extracomment>
         <translation type="unfinished">Ni uspelo uvoziti datoteko %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/importpathinterface.cpp" line="293"/>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="383"/>
         <source>Path imported from %1</source>
         <extracomment>Notification. %1 = file name</extracomment>
         <translation type="unfinished">Pot uvožena iz %1</translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="459"/>
+        <source>Failed to upload file %1</source>
+        <extracomment>Error message: %1 = file name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="505"/>
+        <source>Failed to confirm that the path was saved to the cloud (the path may or may not have been saved)</source>
+        <extracomment>Error message</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="582"/>
+        <source>Failed to get path %1</source>
+        <extracomment>Error message: %1 = file name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="675"/>
+        <source>Failed to delete path %1</source>
+        <extracomment>Error message: %1 = file name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/src/importpathinterface.cpp" line="693"/>
+        <source>Path %1 was deleted from the cloud</source>
+        <extracomment>Status message: %1= path name</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ImportPathOptions</name>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="40"/>
+        <source>This option is not available for %1 files</source>
+        <extracomment>Tool tip for disabled checkbox.</extracomment>
+        <translation type="unfinished">Ta možnost ni na voljo za %1 datoteke</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="49"/>
+        <source>%1 Import Options</source>
+        <extracomment>Additional options when importing file. %1 = APT, GCODE, JSON, CSV or SVG depending on what type of file is selected</extracomment>
+        <translation type="unfinished">%1 Možnosti uvoza</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="56"/>
+        <source>Minimum distance (mm)</source>
+        <extracomment>Description for a text field where the user inputs the minimum distance between targets</extracomment>
+        <translation type="unfinished">Najmanjša razdalja (mm)</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="58"/>
+        <source>Minimum distance between targets. Range: 0.1 - 10 (mm). For distances smaller than 1, arc moves are converted to linear</source>
+        <extracomment>Tool tip: Displayed when hovering over minimum distance label</extracomment>
+        <translation type="unfinished">Najmanjša razdalja med cilji. Obseg: 0.1 - 10 (mm). Za razdalje manjše od 1 se lokovni premiki pretvorijo v linearne</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="87"/>
+        <source>Append</source>
+        <extracomment>Checkbox: Select to append targets to existing path</extracomment>
+        <translation type="unfinished">Dodaj</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="94"/>
+        <source>Add to existing path instead of replacing</source>
+        <extracomment>Tool tip for append checkbox.</extracomment>
+        <translation type="unfinished">Dodajte obstoječi poti namesto zamenjave</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="101"/>
+        <source>Reverse INDIRV</source>
+        <extracomment>Checkbox: Select to reverse INDIRV (initial direction vector). This is primarily for Catia users</extracomment>
+        <translation type="unfinished">Obrni INDIRV</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="105"/>
+        <source>Reverse direction of vector (Catia)</source>
+        <extracomment>Tool tip for Reverse INDIRV checkbox</extracomment>
+        <translation type="unfinished">Reverse direction of vector (Catia)</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="111"/>
+        <source>No arcs</source>
+        <extracomment>Checkbox: Select to disable arc moves</extracomment>
+        <translation type="unfinished">Brez lokov</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="115"/>
+        <source>Arcs are split into linear moves</source>
+        <extracomment>Tool tip for no arcs checkbox</extracomment>
+        <translation type="unfinished">Loki so razdeljeni na linearne gibe</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="123"/>
+        <source>Gun on/off</source>
+        <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
+        <translation type="unfinished">Varilna pištola vključeno/izključeno</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="135"/>
+        <source>Include gun on/off. This is useful if selecting &apos;Gun on/off&apos; when exporting</source>
+        <extracomment>Tool tip for Gun on/off checkbox</extracomment>
+        <translation type="unfinished">Vključi vklop/izklop pištole. To je koristno, če izberete &apos;Gun on/off&apos; pri izvozu</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="146"/>
+        <source>Use velocities</source>
+        <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
+        <translation type="unfinished">Uporabi hitrosti</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="151"/>
+        <source>Convert all feed speeds to rapid moves, except for cutting speed</source>
+        <extracomment>Tool tip for Gun on/off Velocity checkbox</extracomment>
+        <translation type="unfinished">Pretvori vse hitrosti podajanja v hitre premike, razen hitrosti rezanja</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="157"/>
+        <source>Use M8/M9</source>
+        <extracomment>Checkbox: Select to include commands to turn on or off the tool (e.g. a plasma gun)</extracomment>
+        <translation type="unfinished">Uporabi M8/M9</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="162"/>
+        <source>Import M8 as gun on and M9 as gun off</source>
+        <extracomment>Tool tip for Gun on/off M8/M9 checkbox</extracomment>
+        <translation type="unfinished">Uvozi M8 kot vklop pištole in M9 kot izklop pištole</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="170"/>
+        <source>Split Path</source>
+        <extracomment>Separator label: Options to split path in different ways</extracomment>
+        <translation type="unfinished">Razdeli pot</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="180"/>
+        <source>On coordinate frame change</source>
+        <extracomment>Label: Split path on cooridnate frame change</extracomment>
+        <translation type="unfinished">Ob spremembi koordinatnega okvira</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="196"/>
+        <source>On comment</source>
+        <extracomment>Label: Split path on comment</extracomment>
+        <translation type="unfinished">Na komentar</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="210"/>
+        <source>Disabled</source>
+        <extracomment>Drop-down menu option. Split path on comment disabled</extracomment>
+        <translation type="unfinished">Onemogočeno</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="212"/>
+        <source>Any</source>
+        <extracomment>Drop-down menu option. Split path on any comment</extracomment>
+        <translation type="unfinished">Katerikoli</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="214"/>
+        <source>Layer Start</source>
+        <extracomment>Drop-down menu option. Split path on comment Layer Start</extracomment>
+        <translation type="unfinished">Začetek plasti</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="216"/>
+        <source>Path</source>
+        <extracomment>Drop-down menu option. Split path on comment Path:</extracomment>
+        <translation type="unfinished">Pot</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="218"/>
+        <source>User Defined</source>
+        <extracomment>Drop-down menu option. Split path on user defined comment</extracomment>
+        <translation type="unfinished">Uporabniško definirano</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="229"/>
+        <source>Splitting paths on comments is disabled</source>
+        <extracomment>Tool-tip for drop-down option &apos;Disabled&apos;</extracomment>
+        <translation type="unfinished">Razdeljevanje poti na komentarjih je onemogočeno</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="231"/>
+        <source>Split path on any comment</source>
+        <extracomment>Tool-tip for drop-down option &apos;Any&apos;</extracomment>
+        <translation type="unfinished">Razdeli pot na katerikoli komentar</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="233"/>
+        <source>Split path on any comment that matches the form: %1. The part in the paranthesis () will be used as the path name. E.g. the comment %2 will create a path named %3</source>
+        <extracomment>Tool-tip for drop-down option &apos;Layer Start&apos;</extracomment>
+        <translation type="unfinished">Razdeli pot na kateri koli komentar, ki se ujema z obliko: %1. Del v oklepaju () bo uporabljen kot ime poti. Npr. komentar %2 bo ustvaril pot z imenom %3</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="236"/>
+        <source>Split path on any comment that matches the form: %1. The part in the paranthesis () will be used as the path name. This mode is case insensitive. E.g. the comment %2 will create a path named %3</source>
+        <extracomment>Tool-tip for drop-down option &apos;Path&apos;</extracomment>
+        <translation type="unfinished">Razdeli pot na katerikoli komentar, ki se ujema z obliko: %1. Del v oklepajih () bo uporabljen kot ime poti. Ta način ne razlikuje med velikimi in malimi črkami. Npr. komentar %2 bo ustvaril pot z imenom %3</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="239"/>
+        <source>User defined regex used to match comments that should be treated as path separators. It follows the syntax of google re2 (https://github.com/google/re2/wiki/Syntax)</source>
+        <extracomment>Tool-tip for drop-down option &apos;User Defined&apos;</extracomment>
+        <translation type="unfinished">Uporabniško definiran regex, ki se uporablja za ujemanje komentarjev, ki naj se obravnavajo kot ločila poti. Sledi sintaksi Google RE2 (https://github.com/google/re2/wiki/Syntax)</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="257"/>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="267"/>
+        <source>Regular expression</source>
+        <extracomment>Label: regex
+----------
+Placeholder text in text imput: regex</extracomment>
+        <translation type="unfinished">Regularni izraz</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="271"/>
+        <source>Regular expression used to capture comments that will generate different paths. Capture group 1 will be used to generate the name of the path. If capture group 1 does not exist then the whole matching expression will be used to generate the name</source>
+        <extracomment>Tooltip: Description of how the regular expression is used to separate paths</extracomment>
+        <translation type="unfinished">Regularni izraz, uporabljen za zajemanje komentarjev, ki bodo generirali različne poti. Zajemna skupina 1 bo uporabljena za generiranje imena poti. Če zajemna skupina 1 ne obstaja, bo celoten ujemajoči izraz uporabljen za generiranje imena</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="283"/>
+        <source>Column separator</source>
+        <extracomment>Which character to use for separating CSV columns</extracomment>
+        <translation type="unfinished">Ločilo stolpcev</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="295"/>
+        <source>Comma &apos;,&apos;</source>
+        <extracomment>Item in dropdown menu. Referring to using a comma character to separate columns in a CSV file</extracomment>
+        <translation type="unfinished">Vejica &apos;,&apos;</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="300"/>
+        <source>Space &apos; &apos;</source>
+        <extracomment>Item in dropdown menu. Referring to using a space character to separate columns in a CSV file</extracomment>
+        <translation type="unfinished">Presledek &apos; &apos;</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="310"/>
+        <source>Row separator</source>
+        <extracomment>Which character to use for separating CSV rows</extracomment>
+        <translation type="unfinished">Ločilo vrstic</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="322"/>
+        <source>Newline &apos;
+&apos;</source>
+        <extracomment>Item in dropdown menu. Referring to a new line in a CSV file</extracomment>
+        <translation type="unfinished">Nova vrstica 
+&apos;</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="327"/>
+        <source>Semicolon &apos;;&apos;</source>
+        <extracomment>Item in dropdown menu. Referring to the semicolon symbol</extracomment>
+        <translation type="unfinished">Podpičje &apos;;&apos;</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="341"/>
+        <source>Additional Transformations</source>
+        <extracomment>Collapsible section title</extracomment>
+        <translation type="unfinished">Dodatne transformacije</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="364"/>
+        <source>Scaling presets</source>
+        <extracomment>Title for drop-down menu where scaling presets may be selected</extracomment>
+        <translation type="unfinished">Skaliranje prednastavitev</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="379"/>
+        <source>User defined</source>
+        <extracomment>Drop-down menu item. Refers to user defined position units</extracomment>
+        <translation type="unfinished">Uporabniško definirano</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="384"/>
+        <source>From mm (no scaling)</source>
+        <extracomment>Drop-down menu item. Refers to position units</extracomment>
+        <translation type="unfinished">Od mm (brez skaliranja)</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="389"/>
+        <source>From cm</source>
+        <extracomment>Drop-down menu item. Refers to position units</extracomment>
+        <translation type="unfinished">Od cm</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="394"/>
+        <source>From m</source>
+        <extracomment>Drop-down menu item. Refers to position units</extracomment>
+        <translation type="unfinished">Iz m</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="399"/>
+        <source>From inches</source>
+        <extracomment>Drop-down menu item. Refers to position units</extracomment>
+        <translation type="unfinished">Od palcev</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/ImportPathOptions.qml" line="404"/>
+        <source>From feet</source>
+        <extracomment>Drop-down menu item. Refers to position units</extracomment>
+        <translation type="unfinished">Od nog</translation>
     </message>
 </context>
 <context>
@@ -3421,49 +3724,49 @@ Tool tip for text field.</extracomment>
 <context>
     <name>Irbcam</name>
     <message>
-        <location filename="../../Irbcam.qml" line="112"/>
+        <location filename="../../Irbcam.qml" line="113"/>
         <source>Untitled</source>
         <extracomment>Header. Placeholder if the project has no name (it is not saved yet)</extracomment>
         <translation>Brez naslova</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="116"/>
+        <location filename="../../Irbcam.qml" line="117"/>
         <source>%1 (Read only)</source>
         <extracomment>Header: %1 = project name, &apos;read only&apos; refers to that the user does not have write permission for this project</extracomment>
         <translation>%1 (Samo za branje)</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="123"/>
+        <location filename="../../Irbcam.qml" line="124"/>
         <source>No project loaded</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Noben projekt ni naložen</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="125"/>
+        <location filename="../../Irbcam.qml" line="126"/>
         <source>Currenly loded project</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Trenutno naložen projekt</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="127"/>
+        <location filename="../../Irbcam.qml" line="128"/>
         <source>Contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Vsebuje neshranjene spremembe</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="160"/>
+        <location filename="../../Irbcam.qml" line="161"/>
         <source>Clear all</source>
         <extracomment>Button. Clear (acknowledge) all acknowledgeable messages</extracomment>
         <translation>Počisti vse</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="386"/>
+        <location filename="../../Irbcam.qml" line="387"/>
         <source>Overwrite %1</source>
         <extracomment>Popup title. %1 = project name</extracomment>
         <translation>Prepiši %1</translation>
     </message>
     <message>
-        <location filename="../../Irbcam.qml" line="388"/>
+        <location filename="../../Irbcam.qml" line="389"/>
         <source>Are you sure you want to overwrite project %1?&lt;br&gt;&lt;br&gt;This project was previously saved with version %2&lt;br&gt;&lt;br&gt;If you overwrite it then it may not be possible to open it again with IRBCAM %2&lt;br&gt;&lt;br&gt;If you want to keep a copy then you can save the project with a new name</source>
         <extracomment>Popup text. %1 = project name, %2 version number</extracomment>
         <translation>Ali ste prepričani, da želite prepisati projekt %1?&lt;br&gt;&lt;br&gt;Ta projekt je bil prej shranjen z različico %2&lt;br&gt;&lt;br&gt;Če ga boste prepisali, potem morda ne bo več mogoče odpreti z IRBCAM %2&lt;br&gt;&lt;br&gt;Če želite obdržati kopijo, potem lahko shranite projekt z novim imenom</translation>
@@ -3532,49 +3835,49 @@ Tool tip for text field.</extracomment>
 <context>
     <name>IrbcamNetwork</name>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="91"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="92"/>
         <source>Failed to sign in user %1</source>
         <extracomment>Error message. %1 = user name</extracomment>
         <translation>Prijava uporabnika %1 ni uspela</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="158"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="159"/>
         <source>Goodbye %1</source>
         <extracomment>Status message shown on logout. %1 = full name</extracomment>
         <translation>Na svidenje %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="228"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="229"/>
         <source>Failed to validate session token</source>
         <extracomment>Error message</extracomment>
         <translation>Ni uspelo preveriti žetona seje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="269"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="270"/>
         <source>Failed to get admin details</source>
         <extracomment>Error message</extracomment>
         <translation>Podatkov o skrbniku ni bilo mogoče pridobiti</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="524"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="525"/>
         <source>Failed to check for updates</source>
         <extracomment>Warning message: Shown if the client is unable to check for updates</extracomment>
         <translation>Preverjanje posodobitev ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="955"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="980"/>
         <source>unknown user</source>
         <extracomment>Placeholder for full name until it has been fetched</extracomment>
         <translation>Neznan uporabnik</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="964"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="989"/>
         <source>unknown username</source>
         <extracomment>Placeholder for username until it has been fetched</extracomment>
         <translation>Neznan uporabniški račun</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1016"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1041"/>
         <source>Settings for %1 loaded
 Some settings were not available in the cloud. This is likely due to new settings being introduced in IRBCAM
 The affected settings have been set to their default values</source>
@@ -3584,49 +3887,49 @@ Nekatere nastavitve niso bile na voljo v oblaku. To je verjetno posledica novih 
 Prizadete nastavitve so bile nastavljene na privzete vrednosti</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1028"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1053"/>
         <source>Failed to load settings for %1</source>
         <extracomment>Warning message: %1 = full name</extracomment>
         <translation>Nalaganje nastavitev za %1 ni uspelo</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1036"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1061"/>
         <source>Settings for %1 loaded</source>
         <extracomment>Status message. %1 = full name</extracomment>
         <translation>Nastavitve za %1 so naložene</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1047"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1072"/>
         <source>Welcome %1</source>
         <extracomment>Status message shown on login - %1 = full name</extracomment>
         <translation>Dobrodošli %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1069"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1094"/>
         <source>Failed to get user details</source>
         <extracomment>Error message.</extracomment>
         <translation>Ni uspelo pridobiti podatkov o uporabniku</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1179"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1204"/>
         <source>Network error: The response contained no data</source>
         <extracomment>Error message.</extracomment>
         <translation>Omrežna napaka: Odgovor ni vseboval podatkov</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1198"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1223"/>
         <source>Network error: Failed to parse response</source>
         <extracomment>Error message.</extracomment>
         <translation>Omrežna napaka: Ni uspelo razčleniti odziva</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1238"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1263"/>
         <source>Your session has expired. Please sign in again.</source>
         <extracomment>Error message.</extracomment>
         <translation>Vaša seja je potekla. Ponovno se prijavite.</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1249"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1274"/>
         <source>Remote error: %1
 code: %2</source>
         <extracomment>Error message. %1 = message, %2 = error code</extracomment>
@@ -3634,128 +3937,128 @@ code: %2</source>
 koda: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1263"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1288"/>
         <source>Network error: %1</source>
         <extracomment>Error message: %1 = message</extracomment>
         <translation>Napaka omrežja: %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1270"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1295"/>
         <source>Network error: %1
 code: %2</source>
         <extracomment>Error message: %1 = message, %2 = code</extracomment>
         <translation>Napaka omrežja: %1 koda: %2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1307"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1332"/>
         <source>Uninitialized</source>
         <extracomment>Network status: Connection is not initialised</extracomment>
         <translation>Neinicializirano</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1310"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1335"/>
         <source>Idle</source>
         <extracomment>Network status: Network is ready for a new connection</extracomment>
         <translation>Nedejaven</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1313"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1338"/>
         <source>Fetching description</source>
         <extracomment>Network status: Fetching info from server</extracomment>
         <translation>Pridobivanje opisa</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1316"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1341"/>
         <source>Downloading</source>
         <extracomment>Network status: Downloading</extracomment>
         <translation>Prenašanje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1319"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1344"/>
         <source>Unpacking</source>
         <extracomment>Network status: Unpacking downloaded content</extracomment>
         <translation>Razpakiranje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1322"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1347"/>
         <source>Loading</source>
         <extracomment>Network status: Loading downloaded content</extracomment>
         <translation>Nalaganje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1325"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1350"/>
         <source>Deleting</source>
         <extracomment>Network status: Deleting data from server</extracomment>
         <translation>Brisanje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1328"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1353"/>
         <source>Uploading</source>
         <extracomment>Network status: Uploading data to server</extracomment>
         <translation>Nalaganje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1331"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1356"/>
         <source>Fetching list</source>
         <extracomment>Network status: Fetching list data from server</extracomment>
         <translation>Pridobivanje seznama</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1334"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1359"/>
         <source>Decoding</source>
         <extracomment>Network status: Decoding downloaded content</extracomment>
         <translation>Dekodiranje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1337"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1362"/>
         <source>Verifying</source>
         <extracomment>Network status: Verifying downloaded content</extracomment>
         <translation>Verifikacija</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1340"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1365"/>
         <source>Loading assets</source>
         <extracomment>Network status: Downloading/loading additional assets</extracomment>
         <translation>Nalaganje sredstev</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1343"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1368"/>
         <source>Processing</source>
         <extracomment>Network status: Server is processing uploaded content</extracomment>
         <translation>Procesiranje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1346"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1371"/>
         <source>Error</source>
         <extracomment>Network status: An error has ocurred</extracomment>
         <translation>Napaka</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1349"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1374"/>
         <source>Awaiting user input</source>
         <extracomment>Network status</extracomment>
         <translation>Čakam na uporabniški vnos</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1352"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1377"/>
         <source>Waiting for server</source>
         <extracomment>Network status: Waiting for a response from the server</extracomment>
         <translation>Čakanje na strežnik</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1355"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1380"/>
         <source>Sharing</source>
         <extracomment>Network status: Sharing asset/project</extracomment>
         <translation>V skupni rabi</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1361"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1386"/>
         <source>Unknown</source>
         <extracomment>Network status</extracomment>
         <translation>Neznano</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1457"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1482"/>
         <source>A new minor version of IRBCAM is available.
 Save your work and reload page to get the newest features</source>
         <extracomment>Warning message</extracomment>
@@ -3763,7 +4066,7 @@ Save your work and reload page to get the newest features</source>
 Shranite svoje delo in znova naložite stran, da dobite najnovejše funkcije</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1464"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1489"/>
         <source>A new major version of IRBCAM is available.
 Some features may be unavailable until page is reloaded.
 Please save your work and reload page as soon as possible</source>
@@ -3773,7 +4076,7 @@ Nekatere funkcije morda ne bodo na voljo, dokler se stran znova ne naloži.
 Prosimo, da shranite svoje delo in čim prej znova naložite stran</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/networking.cpp" line="1492"/>
+        <location filename="../../../backend/utilities/src/networking.cpp" line="1517"/>
         <source>Failed to get cloud job status</source>
         <extracomment>Error message</extracomment>
         <translation>Statusa opravila v oblaku ni bilo mogoče pridobiti</translation>
@@ -4276,6 +4579,75 @@ Tool tip for text field</extracomment>
         <source>Import</source>
         <extracomment>Collapsible section: This section contains tools to import a custom linear track</extracomment>
         <translation>Uvozi</translation>
+    </message>
+</context>
+<context>
+    <name>LoadPathFile</name>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="30"/>
+        <source>All supported files</source>
+        <extracomment>This will be seen in the file type filter in the file interface</extracomment>
+        <translation type="unfinished">Vse podprte datoteke</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="59"/>
+        <source>%1 files</source>
+        <extracomment>This will be seen in the file type filter in the file interface: %1 = file type. E.g. JSON files</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="68"/>
+        <source>Open file</source>
+        <extracomment>Name of the file interface window</extracomment>
+        <translation type="unfinished">Odpri datoteko</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="77"/>
+        <source>Select File</source>
+        <extracomment>Section separator label</extracomment>
+        <translation type="unfinished">Izberi datoteko</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="84"/>
+        <source>File name: </source>
+        <extracomment>Label</extracomment>
+        <translation type="unfinished">Ime datoteke: </translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="93"/>
+        <source>No file selected</source>
+        <extracomment>Placeholder file name until a file is selected</extracomment>
+        <translation type="unfinished">Nobena datoteka ni izbrana</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="100"/>
+        <source>Invalid file type</source>
+        <extracomment>Tool tip: Invalid file type is selected</extracomment>
+        <translation type="unfinished">Neveljaven tip datoteke</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="116"/>
+        <source>Click the ... button to browse for file or drag and drop a file anywhere in this window</source>
+        <extracomment>Label</extracomment>
+        <translation type="unfinished">Kliknite gumb ... za brskanje po datotekah ali povlecite in spustite datoteko kamorkoli v tem oknu</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="123"/>
+        <source>Documentation</source>
+        <extracomment>Separator label. This section contains a link to the documentation</extracomment>
+        <translation type="unfinished">Dokumentacija</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="132"/>
+        <source>Supported file formats are:</source>
+        <extracomment>Label. Supported file formats are listed below this line</extracomment>
+        <translation type="unfinished">Podprti formati datotek so:</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/LoadPathFile.qml" line="162"/>
+        <source>Reference documentation for JSON and CSV format is in  %1our forum%2</source>
+        <extracomment>Label. %1 = start of link, %2 = end of link</extracomment>
+        <translation type="unfinished">Referenčna dokumentacija za formate JSON in CSV je v %1našem forumu%2</translation>
     </message>
 </context>
 <context>
@@ -4891,25 +5263,25 @@ Tooltip for to-target field</extracomment>
 <context>
     <name>Menus</name>
     <message>
-        <location filename="../../Menus.qml" line="122"/>
+        <location filename="../../Menus.qml" line="123"/>
         <source>&amp;File</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Datoteka</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="41"/>
+        <location filename="../../Menus.qml" line="42"/>
         <source>New Project Wizard</source>
         <extracomment>Title of a dialog box</extracomment>
         <translation>Čarovnik za nov projekt</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="43"/>
+        <location filename="../../Menus.qml" line="44"/>
         <source>New Empty Project</source>
         <extracomment>Title of a dialog box</extracomment>
         <translation>Nov prazen projekt</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="45"/>
+        <location filename="../../Menus.qml" line="46"/>
         <source>This action will remove all unsaved changes in the current project
 
 Do you want to continue?</source>
@@ -4919,61 +5291,61 @@ Do you want to continue?</source>
 Želite nadaljevati?</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="75"/>
+        <location filename="../../Menus.qml" line="76"/>
         <source>This module contains unsaved changes</source>
         <extracomment>Tool tip text</extracomment>
         <translation>Ta modul vsebuje neshranjene spremembe</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="125"/>
+        <location filename="../../Menus.qml" line="126"/>
         <source>&amp;New</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Novo</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="130"/>
+        <location filename="../../Menus.qml" line="131"/>
         <source>&amp;Empty Project</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Prazen projekt</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="138"/>
+        <location filename="../../Menus.qml" line="139"/>
         <source>&amp;Project Wizard</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Čarovnik za projekt</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="145"/>
+        <location filename="../../Menus.qml" line="146"/>
         <source>&amp;Open Project</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Odpri projekt</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="153"/>
+        <location filename="../../Menus.qml" line="154"/>
         <source>&amp;Save Project</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Shrani projekt</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="162"/>
+        <location filename="../../Menus.qml" line="163"/>
         <source>Save Project &amp;As ...</source>
         <extracomment>Menu item</extracomment>
         <translation>Shrani projekt &amp;kot ...</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="177"/>
+        <location filename="../../Menus.qml" line="185"/>
         <source>S&amp;ettings</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Nastavitve</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="184"/>
+        <location filename="../../Menus.qml" line="192"/>
         <source>Project &amp;Info</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Informacije o projektu</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="208"/>
+        <location filename="../../Menus.qml" line="216"/>
         <source>&amp;Edit</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Uredi</translation>
@@ -4989,61 +5361,61 @@ Do you want to continue?</source>
         <translation type="vanished">&amp;Koordinatni sistem objekta</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="232"/>
+        <location filename="../../Menus.qml" line="240"/>
         <source>&amp;Robot</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Robot</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="249"/>
+        <location filename="../../Menus.qml" line="257"/>
         <source>&amp;Linear Track</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Linearni pomik</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="257"/>
+        <location filename="../../Menus.qml" line="265"/>
         <source>Rotary Ta&amp;ble</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Rotacijska miza </translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="283"/>
+        <location filename="../../Menus.qml" line="300"/>
         <source>&amp;Export Options</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Izvoz Možnosti</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="317"/>
+        <location filename="../../Menus.qml" line="334"/>
         <source>Camera</source>
         <extracomment>Sub-menu View/Camera</extracomment>
         <translation>Kamera</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="322"/>
+        <location filename="../../Menus.qml" line="339"/>
         <source>Reset</source>
         <extracomment>Menu item: Reset camera to default location</extracomment>
         <translation>Ponastavi</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="326"/>
+        <location filename="../../Menus.qml" line="343"/>
         <source>Reset camera to default</source>
         <extracomment>Tooltip for &quot;Reset&quot;</extracomment>
         <translation>Ponastavi kamero na privzeto</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="330"/>
+        <location filename="../../Menus.qml" line="347"/>
         <source>Home</source>
         <extracomment>Menu item: Reset camera to last saved location</extracomment>
         <translation>Dom</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="333"/>
+        <location filename="../../Menus.qml" line="350"/>
         <source>Reset camera to last saved position</source>
         <extracomment>Tooltip for &quot;Home&quot;</extracomment>
         <translation>Ponastavi kamero na zadnjo shranjeno pozicijo</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="436"/>
+        <location filename="../../Menus.qml" line="453"/>
         <source>Robot Flange</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Robotska flanša</translation>
@@ -5054,13 +5426,13 @@ Do you want to continue?</source>
         <translation type="vanished">Nepremična orodna baza</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="492"/>
+        <location filename="../../Menus.qml" line="509"/>
         <source>Scene Focus Point</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Fokusna točka scene</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="460"/>
+        <location filename="../../Menus.qml" line="477"/>
         <source>Rotary Table</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>&amp;Rotacijska miza </translation>
@@ -5076,175 +5448,175 @@ Do you want to continue?</source>
         <translation type="vanished">&amp;Dodatni objekti</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="274"/>
+        <location filename="../../Menus.qml" line="282"/>
         <source>Tar&amp;gets</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Točke</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="300"/>
+        <location filename="../../Menus.qml" line="317"/>
         <source>&amp;Analyze</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Analiziraj</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="303"/>
+        <location filename="../../Menus.qml" line="320"/>
         <source>&amp;Optimizer</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Optimizator</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="412"/>
+        <location filename="../../Menus.qml" line="429"/>
         <source>User Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Uporabniški koordinantni sistem</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="420"/>
+        <location filename="../../Menus.qml" line="437"/>
         <source>Object Frame</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Koordinatni sistem objekta</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="428"/>
+        <location filename="../../Menus.qml" line="445"/>
         <source>Robot</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="444"/>
+        <location filename="../../Menus.qml" line="461"/>
         <source>Tool</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Orodje</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="241"/>
+        <location filename="../../Menus.qml" line="249"/>
         <source>&amp;Tool</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Orodje</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="168"/>
+        <location filename="../../Menus.qml" line="169"/>
         <source>&amp;Import Path</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Uvozi pot</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="213"/>
+        <location filename="../../Menus.qml" line="221"/>
         <source>&amp;Frames</source>
         <extracomment>Menu item</extracomment>
         <translation>&amp;Okvirji</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="265"/>
+        <location filename="../../Menus.qml" line="273"/>
         <source>&amp;Custom Geometries</source>
         <extracomment>Menu item</extracomment>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="314"/>
+        <location filename="../../Menus.qml" line="331"/>
         <source>&amp;View</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Pogled</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="370"/>
+        <location filename="../../Menus.qml" line="387"/>
         <source>Station</source>
         <extracomment>Menu item</extracomment>
         <translation>Postaja</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="382"/>
+        <location filename="../../Menus.qml" line="399"/>
         <source>2D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation>2D Prikaz</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="388"/>
+        <location filename="../../Menus.qml" line="405"/>
         <source>3D Plot</source>
         <extracomment>Menu item</extracomment>
         <translation>3D Prikaz</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="404"/>
+        <location filename="../../Menus.qml" line="421"/>
         <source>Global</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Globalno</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="452"/>
+        <location filename="../../Menus.qml" line="469"/>
         <source>Tool Base</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Baza orodja</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="468"/>
+        <location filename="../../Menus.qml" line="485"/>
         <source>Linear Track</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Linearni tir</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="476"/>
+        <location filename="../../Menus.qml" line="493"/>
         <source>Target</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Točka</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="484"/>
+        <location filename="../../Menus.qml" line="501"/>
         <source>Path</source>
         <extracomment>Checkbox to control visibility of a coordinate system</extracomment>
         <translation>Pot</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="504"/>
+        <location filename="../../Menus.qml" line="521"/>
         <source>No plugins are enabled</source>
         <extracomment>Tool tip to explain why plugins are greyed out</extracomment>
         <translation>Noben vtičnik ni omogočen</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="532"/>
+        <location filename="../../Menus.qml" line="549"/>
         <source>This plugin does not have valid source content</source>
         <extracomment>Tool tip to explain why button is greyed out</extracomment>
         <translation>Ta vtičnik nima veljavne izvorne vsebine</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="591"/>
+        <location filename="../../Menus.qml" line="608"/>
         <source>Feedback</source>
         <extracomment>Menu item</extracomment>
         <translation>Povratne informacije</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="376"/>
+        <location filename="../../Menus.qml" line="393"/>
         <source>Combination View</source>
         <extracomment>Menu item</extracomment>
         <translation>Kombiniran pogled</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="511"/>
+        <location filename="../../Menus.qml" line="528"/>
         <source>&amp;Plugins</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Vtičniki</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="574"/>
+        <location filename="../../Menus.qml" line="591"/>
         <source>Forum</source>
         <extracomment>Menu item</extracomment>
         <translation>Forum</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="561"/>
+        <location filename="../../Menus.qml" line="578"/>
         <source>&amp;Help</source>
         <extracomment>Menu title</extracomment>
         <translation>&amp;Pomoč</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="399"/>
+        <location filename="../../Menus.qml" line="416"/>
         <source>Coordinate Systems</source>
         <extracomment>Menu title</extracomment>
         <translation>Koordinatni sistemi</translation>
     </message>
     <message>
-        <location filename="../../Menus.qml" line="585"/>
+        <location filename="../../Menus.qml" line="602"/>
         <source>About IRBCAM</source>
         <extracomment>Menu item</extracomment>
         <translation>O IRBCAM</translation>
@@ -6021,29 +6393,29 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
 <context>
     <name>PathContextMenu</name>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="199"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="201"/>
         <source>Add new path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Dodaj novo pot</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="174"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="176"/>
         <source>Add new</source>
         <extracomment>Context menu item</extracomment>
         <translation>Dodaj novo</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="177"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="179"/>
         <source>Path</source>
         <extracomment>Context menu sub-item: Add new -&gt; Path</extracomment>
         <translation>Pot</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="111"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="155"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="179"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="190"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="233"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="113"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="157"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="181"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="192"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="235"/>
         <source>Before</source>
         <extracomment>Context menu sub-item: Paste path(s) -&gt; Before
 ----------
@@ -6057,11 +6429,11 @@ Context menu sub-item: Split path -&gt; Before</extracomment>
         <translation>Pred</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="113"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="161"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="181"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="192"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="237"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="115"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="163"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="183"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="194"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="239"/>
         <source>After</source>
         <extracomment>Context menu sub-item: Paste path(s) -&gt; After
 ----------
@@ -6075,195 +6447,201 @@ Context menu sub-item: Split path -&gt; After</extracomment>
         <translation>Po</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="183"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="185"/>
         <source>Target</source>
         <extracomment>Context menu sub-item: Add new -&gt; Target</extracomment>
         <translation>Točka</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="57"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="59"/>
         <source>Copy path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopiraj pot</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="259"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="261"/>
         <source>Delete path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Izbriši pot</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="188"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="190"/>
         <source>Add new target</source>
         <extracomment>Context menu item</extracomment>
         <translation>Dodaj nov cilj</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="78"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="80"/>
         <source>Copy target</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopiraj cilj</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="140"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="142"/>
         <source>Paste targets at the beginning of path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Prilepi cilje na začetku poti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="142"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="144"/>
         <source>Paste target at the beginning of path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Prilepi cilj na začetek poti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="221"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="223"/>
         <source>Split path after</source>
         <extracomment>Context menu item</extracomment>
         <translation>Razveji pot po</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="226"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="228"/>
         <source>Split path before</source>
         <extracomment>Context menu item</extracomment>
         <translation>Razdeli pot pred</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="231"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="233"/>
         <source>Split path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Razcep poti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="212"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="214"/>
         <source>Combine selected paths</source>
         <extracomment>Context menu item</extracomment>
         <translation>Združi izbrane poti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="74"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="76"/>
         <source>Copy selected targets</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopiraj izbrane cilje</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="265"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="267"/>
         <source>Delete target</source>
         <extracomment>Context menu item</extracomment>
         <translation>Izbriši cilj</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="297"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="299"/>
         <source>Close go to target</source>
         <extracomment>Context menu item.</extracomment>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="299"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="301"/>
         <source>Open go to target</source>
         <extracomment>Context menu item Opens a popup with go to target index</extracomment>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="314"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="311"/>
+        <source>Import path</source>
+        <extracomment>Context menu item</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="318"/>
         <source>Open project</source>
         <extracomment>Context menu item</extracomment>
         <translation>Odpri projekt</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="95"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="106"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="97"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="108"/>
         <source>Paste paths</source>
         <extracomment>Context menu item</extracomment>
         <translation>Prilepi poti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="51"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="53"/>
         <source>Copy paths</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopiraj poti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="53"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="55"/>
         <source>Copy targets in paths</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopiraj cilje v poti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="59"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="61"/>
         <source>Copy targets in path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Kopiraj cilje v poti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="63"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="65"/>
         <source>Close transform path</source>
         <extracomment>Context menu item. Closes a popup</extracomment>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="65"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="67"/>
         <source>Open transform path</source>
         <extracomment>Context menu item. Opens a popup</extracomment>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="99"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="108"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="101"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="110"/>
         <source>Paste path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Prilepi pot</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="126"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="128"/>
         <source>Paste targets in a new path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Prilepi cilje v novo pot</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="128"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="130"/>
         <source>Paste target in a new path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Prilepi cilj v novo pot</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="150"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="152"/>
         <source>Paste targets</source>
         <extracomment>Context menu item</extracomment>
         <translation>Prilepi cilje</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="152"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="154"/>
         <source>Paste target</source>
         <extracomment>Context menu item</extracomment>
         <translation>Prilepi cilj</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="158"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="160"/>
         <source>Replace</source>
         <extracomment>Context menu sub-item: Paste target(s) -&gt; Replace</extracomment>
         <translation>Zamenjaj</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="252"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="254"/>
         <source>Delete selected</source>
         <extracomment>Context menu item</extracomment>
         <translation>Izbriši izbrane</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="279"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="281"/>
         <source>Rename path</source>
         <extracomment>Context menu item</extracomment>
         <translation>Preimenuj pot</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="288"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="290"/>
         <source>Close max distance editor</source>
         <extracomment>Context menu item</extracomment>
         <translation>Zapri urejevalnik maksimalne razdalje</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="290"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="292"/>
         <source>Open max distance editor</source>
         <extracomment>Context menu item</extracomment>
         <translation>Odpri urejevalnik maksimalne razdalje</translation>
@@ -6274,32 +6652,31 @@ Context menu sub-item: Split path -&gt; After</extracomment>
         <translation type="vanished">Pojdi na cilj</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="308"/>
         <source>Import Path</source>
         <extracomment>Context menu item</extracomment>
-        <translation>Uvozi pot</translation>
+        <translation type="vanished">Uvozi pot</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="328"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="332"/>
         <source>Expand all</source>
         <extracomment>Context menu item: Expand all items in list</extracomment>
         <translation>Razširi vse</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="330"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="334"/>
         <source>Collapse all</source>
         <extracomment>Context menu item: Collapse all items in list</extracomment>
         <translation>Strni vse</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="335"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="339"/>
         <source>Expand</source>
         <extracomment>Context menu</extracomment>
         <translation>Razširi</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="337"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="352"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="341"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="356"/>
         <source>Current</source>
         <extracomment>Context menu sub-item: Expand -&gt; Current
 ----------
@@ -6307,8 +6684,8 @@ Context menu sub-item: Collapse -&gt; Current</extracomment>
         <translation>Trenutni</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="340"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="355"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="344"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="359"/>
         <source>Targets</source>
         <extracomment>Context menu sub-item: Expand -&gt; Targets
 ----------
@@ -6316,8 +6693,8 @@ Context menu sub-item: Collapse -&gt; Targets</extracomment>
         <translation>Točke</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="344"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="359"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="348"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="363"/>
         <source>Selection</source>
         <extracomment>Context menu sub-item: Expand -&gt; Selection
 ----------
@@ -6325,8 +6702,8 @@ Context menu sub-item: Collapse -&gt; Selection</extracomment>
         <translation>Izbor</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="347"/>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="362"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="351"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="366"/>
         <source>All</source>
         <extracomment>Context menu sub-item: Expand -&gt; All
 ----------
@@ -6334,7 +6711,7 @@ Context menu sub-item: Collapse -&gt; All</extracomment>
         <translation>Vsi</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="350"/>
+        <location filename="../../Sidebar/Assets/PathContextMenu.qml" line="354"/>
         <source>Collapse</source>
         <extracomment>Context menu</extracomment>
         <translation>Strni</translation>
@@ -6359,154 +6736,119 @@ Right click to see available options for populating the path</source>
         <translation type="vanished">Seznam poti je prazen Desni klik za ogled razpoložljivih možnosti za zapolnitev poti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="384"/>
-        <source>The path list is empty
-
-Right click to see available options for populating the path
-
-or
-
-Drag and drop a file anywhere in this window to open the import path dialog</source>
-        <extracomment>Placeholder text for empty path</extracomment>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="395"/>
         <source>Target list navigation</source>
         <extracomment>Info card title</extracomment>
-        <translation>Navigacija ciljnega seznama</translation>
+        <translation type="vanished">Navigacija ciljnega seznama</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="398"/>
         <source>Hide navigation info</source>
         <extracomment>Info card tooltip when the card is expanded</extracomment>
-        <translation>Skrij navigacijske informacije</translation>
+        <translation type="vanished">Skrij navigacijske informacije</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="400"/>
         <source>Show navigation info</source>
         <extracomment>Info card tooltip when the card is collapsed</extracomment>
-        <translation>Prikaži navigacijske informacije</translation>
+        <translation type="vanished">Prikaži navigacijske informacije</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="404"/>
         <source>Selection</source>
         <extracomment>Info card action</extracomment>
-        <translation>Izbor</translation>
+        <translation type="vanished">Izbor</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="407"/>
         <source>Left click</source>
         <extracomment>Info card operation: Selection</extracomment>
-        <translation>Levi klik</translation>
+        <translation type="vanished">Levi klik</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="409"/>
         <source>Up/down arrow keys</source>
         <extracomment>Info card operation: Selection</extracomment>
-        <translation>Puščične tipke gor/dol</translation>
+        <translation type="vanished">Puščične tipke gor/dol</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="411"/>
         <source>Modifiers:</source>
         <extracomment>Info card operation: Selection sub category</extracomment>
-        <translation>Modifikatorji:</translation>
+        <translation type="vanished">Modifikatorji:</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="415"/>
         <source>%1 - Select range</source>
         <extracomment>Info card detail: Modifiers - %1 = shift</extracomment>
-        <translation>%1 - Izberi obseg</translation>
+        <translation type="vanished">%1 - Izberi obseg</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="417"/>
         <source>%1 - Select additional (mouse only)</source>
         <extracomment>Info card detail: Modifiers - %1 = ctrl</extracomment>
-        <translation>%1 - Izberi dodatne (samo miška)</translation>
+        <translation type="vanished">%1 - Izberi dodatne (samo miška)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="419"/>
         <source>%1 + %2 - Select additional range</source>
         <extracomment>Info card detail: Modifiers - %1 = shift, %2 = ctrl</extracomment>
-        <translation>%1 + %2 - Izberi dodatno območje</translation>
+        <translation type="vanished">%1 + %2 - Izberi dodatno območje</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="424"/>
         <source>Open context menu</source>
         <extracomment>Info card action</extracomment>
-        <translation>Odpri kontekstni meni</translation>
+        <translation type="vanished">Odpri kontekstni meni</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="426"/>
         <source>Right click</source>
         <extracomment>Info card operation: Open context menu</extracomment>
-        <translation>Desni klik</translation>
+        <translation type="vanished">Desni klik</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="428"/>
         <source>Content of the context menu will depend on what element is clicked</source>
         <extracomment>Info card detail: Right click</extracomment>
-        <translation>Vsebina kontekstnega menija bo odvisna od tega, kateri element je kliknjen</translation>
+        <translation type="vanished">Vsebina kontekstnega menija bo odvisna od tega, kateri element je kliknjen</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="432"/>
         <source>Expand/collapse</source>
         <extracomment>Info card action</extracomment>
-        <translation>Razširi/Zloži</translation>
+        <translation type="vanished">Razširi/Zloži</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="435"/>
         <source>Double click</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
-        <translation>Dvojni klik</translation>
+        <translation type="vanished">Dvojni klik</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="437"/>
         <source>Right arrow key (expand)</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
-        <translation>Desna puščična tipka (razširi)</translation>
+        <translation type="vanished">Desna puščična tipka (razširi)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="439"/>
         <source>Left arrow key (collapse)</source>
         <extracomment>Info card operation: Expand/collapse</extracomment>
-        <translation>Leva puščična tipka (strni)</translation>
+        <translation type="vanished">Leva puščična tipka (strni)</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="444"/>
         <source>Copy selected</source>
         <extracomment>Info card action</extracomment>
-        <translation>Kopiraj izbrano</translation>
+        <translation type="vanished">Kopiraj izbrano</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="449"/>
         <source>Paste copied</source>
         <extracomment>Info card action</extracomment>
-        <translation>Prilepi kopirano</translation>
+        <translation type="vanished">Prilepi kopirano</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="452"/>
         <source>Pastes after the selected element</source>
         <extracomment>Info card detail: Paste copied</extracomment>
-        <translation>Prilepi za izbranim elementom</translation>
+        <translation type="vanished">Prilepi za izbranim elementom</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="456"/>
         <source>Delete selected</source>
         <extracomment>Info card action</extracomment>
-        <translation>Izbriši izbrane</translation>
+        <translation type="vanished">Izbriši izbrane</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="461"/>
         <source>Undo last action</source>
         <extracomment>Info card action</extracomment>
-        <translation>Razveljavi zadnje dejanje</translation>
+        <translation type="vanished">Razveljavi zadnje dejanje</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/PathEditor.qml" line="466"/>
         <source>Redo last action</source>
         <extracomment>Info card action</extracomment>
-        <translation>Ponovi zadnje dejanje</translation>
+        <translation type="vanished">Ponovi zadnje dejanje</translation>
     </message>
     <message>
         <source>Expand/collapse all targets</source>
@@ -7414,13 +7756,13 @@ Please make sure you are connected to the internet and try again</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="233"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="236"/>
         <source>years</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; years</extracomment>
         <translation>Leta</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="235"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="238"/>
         <source>year</source>
         <extracomment>Used to format a label. Singular form. Example usage: This will expire in 1 year</extracomment>
         <translation>Leto</translation>
@@ -7436,63 +7778,63 @@ Please make sure you are connected to the internet and try again</source>
         <translation type="vanished">Mesec</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="263"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="266"/>
         <source>days</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; days</extracomment>
         <translation>Dnevi</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="265"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="268"/>
         <source>day</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 day</extracomment>
         <translation>Dan</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="277"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="280"/>
         <source>hours</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; hours</extracomment>
         <translation>Ure</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="279"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="282"/>
         <source>hour</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 hour</extracomment>
         <translation>Ura</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="293"/>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="310"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="296"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="313"/>
         <source>minutes</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; minutes</extracomment>
         <translation>Minute</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="295"/>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="312"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="298"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="315"/>
         <source>minute</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 minute</extracomment>
         <translation>Minuta</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="300"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="303"/>
         <source>less than 1 minute</source>
         <extracomment>Used to format a label. Example usage: This will expire in less than 1 minute</extracomment>
         <translation>Manj kot 1 minuta</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="328"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="331"/>
         <source>seconds</source>
         <extracomment>Used to format a label. Plural form. Example usage: This will expire in &lt;number&gt; seconds</extracomment>
         <translation>sekunde</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="330"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="333"/>
         <source>second</source>
         <extracomment>Used to format a label. Singlar form. Example usage: This will expire in 1 second</extracomment>
         <translation>sekunda</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="336"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="339"/>
         <source>1 second</source>
         <extracomment>Used to format a label. Denotes that a process has one second or less left (or has been active for one second or less)</extracomment>
         <translation>1 sekunda</translation>
@@ -8888,31 +9230,31 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
 <context>
     <name>Sidebar</name>
     <message>
-        <location filename="../../Sidebar/Sidebar.qml" line="172"/>
+        <location filename="../../Sidebar/Sidebar.qml" line="174"/>
         <source>Remove shortcut</source>
         <extracomment>Context menu item, remove sidebar shortcut</extracomment>
         <translation>Odstrani bližnjico</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Sidebar.qml" line="177"/>
+        <location filename="../../Sidebar/Sidebar.qml" line="179"/>
         <source>Reset to default</source>
         <extracomment>Context menu item, reset all sidebar shortcuts to default</extracomment>
         <translation>Ponastavi na privzeto</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Sidebar.qml" line="240"/>
+        <location filename="../../Sidebar/Sidebar.qml" line="242"/>
         <source>Back</source>
         <extracomment>Button: Navigate back</extracomment>
         <translation>Nazaj</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Sidebar.qml" line="251"/>
+        <location filename="../../Sidebar/Sidebar.qml" line="253"/>
         <source>Project Wizard</source>
         <extracomment>Title</extracomment>
         <translation>Čarovnik projekta</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Sidebar.qml" line="259"/>
+        <location filename="../../Sidebar/Sidebar.qml" line="261"/>
         <source>Next</source>
         <extracomment>Button: Navigate to next view</extracomment>
         <translation>Naslednji</translation>
@@ -8950,13 +9292,13 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <translation type="vanished">Dodatni objekti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="237"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="239"/>
         <source>DH Table</source>
         <extracomment>Title</extracomment>
         <translation>DH tabela </translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="249"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="251"/>
         <source>Linear Track</source>
         <extracomment>Title</extracomment>
         <translation>Linearni tir</translation>
@@ -8967,43 +9309,43 @@ Dropdown menu text. %1 = currently active mode (E.g. Index Mode: No Group)</extr
         <translation type="vanished">Koordinatni sistem objekta</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="231"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="233"/>
         <source>Custom Geometries</source>
         <extracomment>Title: Referring to user-imported 3D objects</extracomment>
         <translation>Geometrije po meri</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="261"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="263"/>
         <source>Optimizer</source>
         <extracomment>Title</extracomment>
         <translation>Optimizator</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="267"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="269"/>
         <source>Targets</source>
         <extracomment>Title</extracomment>
         <translation>Točke</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="273"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="275"/>
         <source>Robot</source>
         <extracomment>Title</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="279"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="281"/>
         <source>Rotary Table</source>
         <extracomment>Title</extracomment>
         <translation>Rotacijska miza</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="285"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="287"/>
         <source>Tool</source>
         <extracomment>Title</extracomment>
         <translation>Orodje</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="291"/>
+        <location filename="../../Sidebar/src/sidebarmodel.cpp" line="293"/>
         <source>Frames</source>
         <extracomment>Title</extracomment>
         <translation>Okvirji</translation>
@@ -9431,20 +9773,20 @@ Večje poti je mogoče uvoziti tako, da datoteko APT razdelite na manjše datote
         <translation type="vanished">Pot, uvožena iz APT %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1362"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1394"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1148"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1180"/>
         <source>Failed to get robot code from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Kode robota iz oblaka ni bilo mogoče pridobiti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1575"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1361"/>
         <source>Failed to recover saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Shranjenega projekta ni bilo mogoče obnoviti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1587"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1373"/>
         <source>Missing %1 info in project retrieved from the cloud
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -9452,7 +9794,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1595"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1381"/>
         <source>Project was loaded but %1 data was corrupt or missing
 This may be due to the save coming from an older version of IRBCAM</source>
         <extracomment>Warning message: %1 = missing attribute</extracomment>
@@ -9460,60 +9802,60 @@ This may be due to the save coming from an older version of IRBCAM</source>
 To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1662"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1448"/>
         <source>Failed to get user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Ni uspelo pridobiti podatkov uporabniškega okvirja</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1680"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1466"/>
         <source>Failed to load user frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Ni uspelo naložiti podatkov uporabniškega okvirja</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1690"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1476"/>
         <source>Failed to get object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Ni uspelo pridobiti podatkov o okvirju objekta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1699"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1485"/>
         <source>Failed to load object frame data</source>
         <extracomment>Error message</extracomment>
         <translation>Ni uspelo naložiti podatkov o okvirju objekta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1774"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1782"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1792"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1560"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1568"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1578"/>
         <source>robot</source>
         <extracomment>Attribute: robot</extracomment>
         <translation>Robot</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1801"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1587"/>
         <source>tool</source>
         <extracomment>Attribute: tool</extracomment>
         <translation>Orodje</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1866"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1874"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1884"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1652"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1660"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1670"/>
         <source>rotary table</source>
         <extracomment>Attribute: rotary table</extracomment>
         <translation>Rotacijska miza </translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1896"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1904"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1682"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1690"/>
         <source>linear track</source>
         <extracomment>Attribute: linear track</extracomment>
         <translation>Linearni pomik</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1613"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1399"/>
         <source>Missing info in project retrieved from the cloud</source>
         <extracomment>Error message</extracomment>
         <translation>Manjkajoče informacije v projektu, pridobljene iz oblaka</translation>
@@ -9526,7 +9868,7 @@ This may be due to the save coming from an older version of IRBCAM</source>
 To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1652"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1438"/>
         <source>Failed to load project data</source>
         <extracomment>Error message</extracomment>
         <translation>Podatkov projekta ni bilo mogoče naložiti</translation>
@@ -9542,7 +9884,7 @@ To je lahko posledica shranjevanja iz starejše različice IRBCAM</translation>
         <translation type="vanished">V shranjenem projektu manjkajo informacije o tabeli DH</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1988"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1774"/>
         <source>Project %1 loaded</source>
         <extracomment>Status message: %1 = project name</extracomment>
         <translation>Projekt %1 je naložen</translation>
@@ -9592,34 +9934,34 @@ Večje poti lahko uvozite z razdelitvijo datoteke na manjše datoteke in uporabo
         <translation type="vanished">Pot uvožena iz %1</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1323"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1471"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1109"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1257"/>
         <source>Blend radius is overlapping at target %1. Try reducing the target velocity or increasing the maximum acceleration</source>
         <extracomment>Error message</extracomment>
         <translation>Polmer mešanja se prekriva pri cilju %1. Poskusite zmanjšati ciljno hitrost ali povečati največji pospešek</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1332"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1480"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1118"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1266"/>
         <source>Target %1 is too close. Try reimporting the path with minimum distance between targets &gt;= %2 mm or manually adjust the target so that the distance between two consecutive targets &gt;=  %2 mm</source>
         <extracomment>Error message</extracomment>
         <translation>Cilj %1 je preblizu. Poskusite ponovno uvoziti pot z minimalno razdaljo med cilji &gt;= %2 mm ali ročno prilagodite cilj tako, da je razdalja med dvema zaporednima ciljema &gt;= %2 mm</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1732"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1518"/>
         <source>Missing or corrupt path information from saved project</source>
         <extracomment>Error message</extracomment>
         <translation>Manjkajoče ali poškodovane informacije o poti iz shranjenega projekta</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1758"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1544"/>
         <source>path import</source>
         <extracomment>Attribute: path import</extracomment>
         <translation>uvoz poti</translation>
     </message>
     <message>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1917"/>
-        <location filename="../../../backend/src/stationinterface.cpp" line="1924"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1703"/>
+        <location filename="../../../backend/src/stationinterface.cpp" line="1710"/>
         <source>DH table</source>
         <extracomment>Attribute: DH table</extracomment>
         <translation>DH tabela</translation>
@@ -9732,122 +10074,122 @@ Cilj je nedosegljiv s trenutno konfiguracijo</translation>
         <translation type="vanished">Sprememba hitrosti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="304"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="308"/>
         <source>Joint target</source>
         <extracomment>Tooltip text</extracomment>
         <translation>Cilj sklepa</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="313"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="317"/>
         <source>Feed speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in linear velocity (feed speed)</extracomment>
         <translation>Sprememba hitrosti posuva</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="321"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="325"/>
         <source>Tool change</source>
         <extracomment>Tool tip. Explains that this icon indicates a tool change</extracomment>
         <translation>Sprememba orodja</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="328"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="332"/>
         <source>Spindle speed change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in spindle speed</extracomment>
         <translation>Sprememba hitrosti vretena</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="330"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="334"/>
         <source>Tool command change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool command</extracomment>
         <translation>Sprememba ukaza orodja</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="337"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="341"/>
         <source>Gun On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun on</extracomment>
         <translation>Pištola vključena sprememba</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="339"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="343"/>
         <source>Tool On change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool on</extracomment>
         <translation>Orodje vključeno ob spremembi</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="347"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="351"/>
         <source>Gun Off change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in gun off</extracomment>
         <translation>Pištola izključena sprememba</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="349"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="353"/>
         <source>Tool Off change</source>
         <extracomment>Tool tip. Explains that this icon indicates a change in tool off</extracomment>
         <translation>Orodje izključeno sprememba</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="375"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="379"/>
         <source>Target is successfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Cilj je uspešno rešen</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="377"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="381"/>
         <source>Path is succesfully solved</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Pot je uspešno rešen</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="380"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="384"/>
         <source>Target failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Cilj ni uspel rešiti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="382"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="386"/>
         <source>Path failed to solve</source>
         <extracomment>Tooltip text for status icon</extracomment>
         <translation>Pot ni uspelo rešiti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="407"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="411"/>
         <source>Unlock editing to edit path transform</source>
         <extracomment>Tooltip text for transform button</extracomment>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="411"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="415"/>
         <source>Edit path transform</source>
         <extracomment>Tooltip text for transform button</extracomment>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="438"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="442"/>
         <source>Unlock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Odkleni urejanje za ta cilj</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="442"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="446"/>
         <source>Lock editing for this target</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Zakleni urejanje za ta cilj</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="448"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="452"/>
         <source>Unlock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Odkleni urejanje za vse cilje na tej poti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="452"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="456"/>
         <source>Lock editing for all targets in this path</source>
         <extracomment>Tooltip text for lock button</extracomment>
         <translation>Zakleni urejanje za vse cilje v tej poti</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="522"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="537"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="526"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="541"/>
         <source>mm</source>
         <extracomment>Unit millimetres
 ----------
@@ -9855,98 +10197,98 @@ Unit millimetres. Part of a fraction mm/s</extracomment>
         <translation>mm</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="539"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="543"/>
         <source>s</source>
         <extracomment>Unit seconds. Part of a fraction mm/s</extracomment>
         <translation>s</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="613"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="617"/>
         <source>Speed</source>
         <extracomment>Label over input field</extracomment>
         <translation>Hitrost</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="618"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="622"/>
         <source>Tool</source>
         <extracomment>Label over input field</extracomment>
         <translation>Orodje</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="624"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="628"/>
         <source>Spindle</source>
         <extracomment>Label over input field</extracomment>
         <translation>Vreteno</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="630"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="634"/>
         <source>Tool CMD</source>
         <extracomment>Label over input field</extracomment>
         <translation>Orodje CMD</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="636"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="640"/>
         <source>Gun On/Off</source>
         <extracomment>Label over input field</extracomment>
         <translation>Pištola Vključena/Izključena</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="642"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="646"/>
         <source>Tool On/Off</source>
         <extracomment>Label over input field</extracomment>
         <translation>Orodje vključeno/izključeno</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="660"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="664"/>
         <source>Input</source>
         <extracomment>Dropdown menu item. Speed mode: input</extracomment>
         <translation>Vhod</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="665"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="669"/>
         <source>Cutting</source>
         <extracomment>Dropdown menu item. Speed mode: cutting</extracomment>
         <translation>Rezanje</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="670"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="674"/>
         <source>Rapid</source>
         <extracomment>Dropdown menu item. Speed mode: rapid</extracomment>
         <translation>Hitro</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="699"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="703"/>
         <source>rpm</source>
         <extracomment>Unit: revolutions per minute</extracomment>
         <translation>obr/min</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="724"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="728"/>
         <source>V</source>
         <extracomment>Input field prefix. Denotes velocity</extracomment>
         <translation>V</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="731"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="735"/>
         <source>Motion type: </source>
         <extracomment>Droptown menu text</extracomment>
         <translation>Vrsta gibanja: </translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="752"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="756"/>
         <source>Linear</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation>Linearno</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="756"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="760"/>
         <source>Joint</source>
         <extracomment>Droptown menu text, motion type for target</extracomment>
         <translation>Sklep</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="306"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="754"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="310"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="758"/>
         <source>Arc midpoint</source>
         <extracomment>Tooltip text
 ----------
@@ -9954,14 +10296,14 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Sredina loka</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="244"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="248"/>
         <source>Undefined</source>
         <extracomment>Placeholder text for missing name</extracomment>
         <translation>Nedefinirano</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="301"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="739"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="305"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="743"/>
         <source>Rotary lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -9969,8 +10311,8 @@ Droptown menu text, motion type for target</extracomment>
         <translation>Rotacijska dvigovna točka</translation>
     </message>
     <message>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="298"/>
-        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="735"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="302"/>
+        <location filename="../../Sidebar/Assets/TargetDelegate.qml" line="739"/>
         <source>Linear lift point</source>
         <extracomment>Tooltip text
 ----------
@@ -10034,6 +10376,165 @@ Droptown menu text, motion type for target</extracomment>
         <source>Motion Type</source>
         <extracomment>Dropdown menu selecting motion type for a target (linear or arc)</extracomment>
         <translation type="vanished">Vrsta gibanja</translation>
+    </message>
+</context>
+<context>
+    <name>TargetList</name>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="309"/>
+        <source>Add a new path</source>
+        <extracomment>Button: Add new path</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="318"/>
+        <source>The path list is empty
+
+Right click to see available options for populating the path
+
+or
+
+Drag and drop a file anywhere in this window to open the import path dialog</source>
+        <extracomment>Placeholder text for empty path</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="359"/>
+        <source>Target list navigation</source>
+        <extracomment>Info card title</extracomment>
+        <translation type="unfinished">Navigacija ciljnega seznama</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="362"/>
+        <source>Hide navigation info</source>
+        <extracomment>Info card tooltip when the card is expanded</extracomment>
+        <translation type="unfinished">Skrij navigacijske informacije</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="364"/>
+        <source>Show navigation info</source>
+        <extracomment>Info card tooltip when the card is collapsed</extracomment>
+        <translation type="unfinished">Prikaži navigacijske informacije</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="368"/>
+        <source>Selection</source>
+        <extracomment>Info card action</extracomment>
+        <translation type="unfinished">Izbor</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="371"/>
+        <source>Left click</source>
+        <extracomment>Info card operation: Selection</extracomment>
+        <translation type="unfinished">Levi klik</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="373"/>
+        <source>Up/down arrow keys</source>
+        <extracomment>Info card operation: Selection</extracomment>
+        <translation type="unfinished">Puščične tipke gor/dol</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="375"/>
+        <source>Modifiers:</source>
+        <extracomment>Info card operation: Selection sub category</extracomment>
+        <translation type="unfinished">Modifikatorji:</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="379"/>
+        <source>%1 - Select range</source>
+        <extracomment>Info card detail: Modifiers - %1 = shift</extracomment>
+        <translation type="unfinished">%1 - Izberi obseg</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="381"/>
+        <source>%1 - Select additional (mouse only)</source>
+        <extracomment>Info card detail: Modifiers - %1 = ctrl</extracomment>
+        <translation type="unfinished">%1 - Izberi dodatne (samo miška)</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="383"/>
+        <source>%1 + %2 - Select additional range</source>
+        <extracomment>Info card detail: Modifiers - %1 = shift, %2 = ctrl</extracomment>
+        <translation type="unfinished">%1 + %2 - Izberi dodatno območje</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="388"/>
+        <source>Open context menu</source>
+        <extracomment>Info card action</extracomment>
+        <translation type="unfinished">Odpri kontekstni meni</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="390"/>
+        <source>Right click</source>
+        <extracomment>Info card operation: Open context menu</extracomment>
+        <translation type="unfinished">Desni klik</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="392"/>
+        <source>Content of the context menu will depend on what element is clicked</source>
+        <extracomment>Info card detail: Right click</extracomment>
+        <translation type="unfinished">Vsebina kontekstnega menija bo odvisna od tega, kateri element je kliknjen</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="396"/>
+        <source>Expand/collapse</source>
+        <extracomment>Info card action</extracomment>
+        <translation type="unfinished">Razširi/Zloži</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="399"/>
+        <source>Double click</source>
+        <extracomment>Info card operation: Expand/collapse</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="401"/>
+        <source>Right arrow key (expand)</source>
+        <extracomment>Info card operation: Expand/collapse</extracomment>
+        <translation type="unfinished">Desna puščična tipka (razširi)</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="403"/>
+        <source>Left arrow key (collapse)</source>
+        <extracomment>Info card operation: Expand/collapse</extracomment>
+        <translation type="unfinished">Leva puščična tipka (strni)</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="408"/>
+        <source>Copy selected</source>
+        <extracomment>Info card action</extracomment>
+        <translation type="unfinished">Kopiraj izbrano</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="413"/>
+        <source>Paste copied</source>
+        <extracomment>Info card action</extracomment>
+        <translation type="unfinished">Prilepi kopirano</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="416"/>
+        <source>Pastes after the selected element</source>
+        <extracomment>Info card detail: Paste copied</extracomment>
+        <translation type="unfinished">Prilepi za izbranim elementom</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="420"/>
+        <source>Delete selected</source>
+        <extracomment>Info card action</extracomment>
+        <translation type="unfinished">Izbriši izbrane</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="425"/>
+        <source>Undo last action</source>
+        <extracomment>Info card action</extracomment>
+        <translation type="unfinished">Razveljavi zadnje dejanje</translation>
+    </message>
+    <message>
+        <location filename="../../Sidebar/Assets/TargetList.qml" line="430"/>
+        <source>Redo last action</source>
+        <extracomment>Info card action</extracomment>
+        <translation type="unfinished">Ponovi zadnje dejanje</translation>
     </message>
 </context>
 <context>
@@ -11567,8 +12068,8 @@ Error message. %1 = name</extracomment>
 <context>
     <name>UtilitiesInterface</name>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="350"/>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="441"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="353"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="444"/>
         <source>Fixed Angle</source>
         <extracomment>Dropdown menu item: Select tool roll mode
 ----------
@@ -11586,7 +12087,7 @@ Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation type="vanished">Dinamični kot 2</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="359"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="362"/>
         <source>No Change</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Brez sprememb</translation>
@@ -11629,115 +12130,121 @@ Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Valjar</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="114"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="111"/>
+        <source>Extruder</source>
+        <extracomment>Collapsible list section. Tool category</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="117"/>
         <source>Unknown (%1)</source>
         <extracomment>Collapsible list section. %1 = number</extracomment>
         <translation>Neznano (%1)</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="353"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="356"/>
         <source>Dynamic Angle</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Dinamičen kot</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="356"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="359"/>
         <source>Fixed Angle + Deviation</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Fiksni kot + Odstopanje</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="362"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="365"/>
         <source>Roller Mode</source>
         <extracomment>Dropdown menu item: Select tool roll mode</extracomment>
         <translation>Način valjarja</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="378"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="381"/>
         <source>RZ2 is equal to the tool roll angle with corrections to account for singularities</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>RZ2 je enako kotu vrtenja orodja s popravki za upoštevanje singularitet</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="381"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="384"/>
         <source>RZ2 is set to the tool roll angle for the first target. For all other targets, it is dynamically adjusted by increasing and decreasing in 1-degree steps up to the maximum deviation from the starting tool roll angle</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>RZ2 je nastavljen na kot vrtenja orodja za prvi cilj. Za vse druge cilje se dinamično prilagaja s povečevanjem in zmanjševanjem v korakih po 1 stopinji do največje odstopanja od začetnega kota vrtenja orodja</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="388"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="391"/>
         <source>RZ2 follows the fixed angle but is also dynamically adjusted by increasing and decreasing in 1-degree steps up to the maximum deviation from the starting tool roll angle</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>RZ2 sledi fiksnemu kotu, vendar se tudi dinamično prilagaja z večanjem in zmanjševanjem v korakih po 1 stopinji do največjega odstopanja od začetnega kota vrtenja orodja</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="394"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="397"/>
         <source>RZ2 is unchanged</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>RZ2 je nespremenjen</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="397"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="400"/>
         <source>RZ2 is calculated such that the roller direction is along the path</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>RZ2 se izračuna tako, da je smer valja vzdolž poti</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="411"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="414"/>
         <source>Fixed Position</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Fiksna pozicija</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="414"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="417"/>
         <source>Dynamic Position</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Dinamična pozicija</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="417"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="420"/>
         <source>Positive Only</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Samo pozitivno</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="420"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="423"/>
         <source>Negative Only</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Samo negativno</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="423"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="426"/>
         <source>Batch Mode</source>
         <extracomment>Dropdown menu item. Select linear track mode when solving path</extracomment>
         <translation>Serijski način</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="444"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="447"/>
         <source>Rotation Compensation</source>
         <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Kompenzacija rotacije</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="447"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="450"/>
         <source>Position Compensation</source>
         <extracomment>Dropdown menu item: Select operating mode for rotary table</extracomment>
         <translation>Kompenzacija položaja</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="465"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="468"/>
         <source>Rotary table angle is fixed</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>Kot rotacijske mize je fiksiran</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="468"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="471"/>
         <source>Rotary table angle is dynamically computed to compensate for rotational changes between the targets</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>Kot rotacijske mize se dinamično izračuna, da kompenzira rotacijske spremembe med cilji</translation>
     </message>
     <message>
-        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="471"/>
+        <location filename="../../../backend/utilities/src/qmlutilities.cpp" line="474"/>
         <source>Rotary table angle is dynamically computed to compensate for positional changes between the targets</source>
         <extracomment>Tool tip text for dropdown menu item</extracomment>
         <translation>Kot rotacijske mize se dinamično izračuna, da kompenzira položajne spremembe med cilji</translation>
